@@ -1,0 +1,32 @@
+<context>
+# Overview
+Builds a travel-planning-optimized set of documents outlining US National Park Service (NPS) cancellation stamp options and execution of cancellation stamp items (i.e. if a stamp is a trail, hike the trail)
+
+# Core Features
+
+## List of NPS Sites with cancellation stamps
+A comprehensive list of NPS cancellation stamp sites, activities at and around those sites, timing data about each activity, and more.
+
+
+</context>
+<PRD>
+# Rules
+* Ensure that no sites are missed.  The Inputs directory contains the groups, and each group contains a list of sites.
+
+# Sites
+For each site in the specified group (locate groups in the Inputs directory)
+## Site information
+* The site physical address
+* The site operational hours
+* The physical addresss of all locations at which one can acquire the cancellation stamp.  This may or may not include the site itself.  For each of these locations, list hours of operation.  Present these options as markdown checkboxes.
+
+## Cancellation Stamp Information
+Any relevant information about cancellation stamps at this location beyond hours of operation.  Must one contact the site ahead of time?  Are there restrictions to getting there?  Are there any other notes from around the internet that specify challenges?
+
+## Site Activities
+* Gather information about key activities (most popular and titular activities for the site).  Place these in a subheading called "Key Activities"  Present these as checkboxes.
+* Gather timing data from around the internet for each of the key activities.  Find multiple sources, if possible, for the timing data.  Cite where the timing data came from.  If timing is wildly dispirate for an activity, make note of this, cite your sources, and link the various sources.  If the timing data is approximately consistent, note that and use the median value.  Cite all sources.
+* Find additional, oft-overlooked activities at the site.  Find timing data for these, as you would for the key activities.  Place these in a Hidden Gem subheading.  Present these as checkboxes.
+* Find additional activities and experiences *near* the site, list them in a subheader under the site, distinct from the primary activities.  Find timing data for these activities, if feasible.  Place these in an Also Nearby subheading.  Present these as checkboxes.  Cite your sources.
+
+</PRD>

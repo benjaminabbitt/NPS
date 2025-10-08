@@ -6,15 +6,15 @@
 **Location:** 1914 4th Ave North Suite 440, Birmingham, AL 35203
 
 **Primary Activities:**
-- **Self-guided Civil Rights District tour** - 1-2 hours walking tour through 4 city blocks
-- **Birmingham Civil Rights Institute visit** - 2-3 hours for permanent exhibitions
-- **Historic site exploration** - 30-45 minutes each at individual locations
+- **Self-guided Civil Rights District tour** - 1-2 hours walking tour through 4 city blocks [Source: NPS Birmingham Civil Rights National Monument Plan Your Visit page, accessed October 7, 2025]
+- **Birmingham Civil Rights Institute visit** - 2-3 hours for permanent exhibitions [Source: NPS Birmingham Civil Rights Institute page, accessed October 7, 2025]
+- **Historic site exploration** - 30-45 minutes each at individual locations including 16th Street Baptist Church, Historic Bethel Baptist Church, and A.G. Gaston Motel [Source: NPS Birmingham Civil Rights National Monument Plan Your Visit page, accessed October 7, 2025]
 
 **Hidden Gems:**
-- **Colored Masonic Temple** - Often overlooked historic site (20-30 minutes)
-- **Kelly Ingram Park sculptures** - Interactive civil rights memorials (30-45 minutes)
+- **Colored Masonic Temple** - 8-story Renaissance-Revival building (1630 4th Avenue North), designed by Black architects Robert Robinson Taylor and Louis H. Persley in 1922, significant as state-of-the-art facility designed and financed by people of color during segregation (20-30 minutes) [Source: Civil Rights Trail and Encyclopedia of Alabama, accessed October 7, 2025]
+- **Kelly Ingram Park sculptures** - 4-acre "Place of Revolution and Reconciliation" featuring interactive civil rights memorials including James Drake installations depicting water cannons and police dogs, Four Spirits Memorial by Elizabeth MacQueen honoring the four girls killed in 16th Street Baptist Church bombing (30-45 minutes) [Source: US Civil Rights Trail and Wikipedia Kelly Ingram Park page, accessed October 7, 2025]
 
-**Stamp Collection:** Available at Birmingham Civil Rights Institute ticket booth (1510 5th Ave N). No unusual restrictions, standard NPS procedures.
+**Stamp Collection:** Available at Birmingham Civil Rights Institute gift store and possibly at 16th Street Baptist Church, St. Paul United Methodist Church, Historic Bethel Baptist Church, and Kelly Ingram Park. A.G. Gaston Motel visitor center (1914 4th Ave North Suite 440) open Thursday-Saturday 10am-4pm. [Source: NPS Birmingham Civil Rights National Monument Operating Hours page and NPS Passport Stamp page, accessed October 7, 2025] **Note:** Park is still developing visitor services; hours subject to change.
 
 ---
 
@@ -22,100 +22,100 @@
 **Location:** Downtown Anniston at former Greyhound Bus Depot (1031 Gurnee Avenue)
 
 **Primary Activities:**
-- **Greyhound Bus Depot Site tour** - 30-45 minutes viewing murals and educational panels
-- **Anniston Civil Rights Trail** - 2-3 hours following 9 stops throughout Anniston
-- **Bus Burning Site visit** - 20-30 minutes at firebombing location
+- **Greyhound Bus Depot Site tour** - 30-45 minutes viewing period-correct Greyhound bus mural and educational panels at 1031 Gurnee Avenue, open Tuesday-Thursday 10am-4pm [Source: NPS Freedom Riders National Monument Basic Information page, accessed October 7, 2025]
+- **Anniston Civil Rights Trail** - 2-3 hours following 9 stops throughout Anniston including both the Greyhound depot and Trailways station sites [Source: Park Ranger John Freedom Riders National Monument page and NPS materials, accessed October 7, 2025]
+- **Bus Burning Site visit** - 20-30 minutes at firebombing location along Old Birmingham Highway/State Route 202 where Freedom Riders bus was attacked, tires slashed, and firebombed by mob in May 1961 [Source: NPS Greyhound Bus Burning Site page, accessed October 7, 2025]
 
 **Hidden Gems:**
-- **Trailways Station mural** - Second attack site with additional educational content (15-20 minutes)
-- **Digital interpretive kiosk** - Available 24/7 with additional information
+- **Trailways Station site** - Second attack location where young white men boarded bus and beat Freedom Riders, forcing them into segregated seats on May 14, 1961 (15-20 minutes) [Source: Park Ranger John Freedom Riders National Monument page, accessed October 7, 2025]
+- **Digital interpretive kiosk** - Available 24/7 in Chamber of Commerce vestibule with interactive exhibits, brochures, and Junior Ranger books [Source: NPS Freedom Riders National Monument Basic Information page, accessed October 7, 2025]
 
-**Stamp Collection:** **SPECIAL - 24/7 access** at Calhoun County Chamber of Commerce foyer (1330 Quintard Ave). Digital kiosk and stamps available around the clock.
+**Stamp Collection:** **SPECIAL - 24/7 access** at Calhoun County Chamber of Commerce visitor vestibule (1330 Quintard Ave, Anniston, AL 36201). Digital kiosk, NPS passport stamps, brochures, and Junior Ranger books available around the clock in foyer. Chamber staff available Monday-Thursday 8am-5pm, Friday 8am-4pm for questions. [Source: NPS Freedom Riders National Monument Basic Information and Operating Hours pages, accessed October 7, 2025] No entrance fee required.
 
 ---
 
-### Horseshoe Bend National Military Park -
+### Horseshoe Bend National Military Park
 **Location:** 11288 Horseshoe Bend Rd, Daviston, AL 36256
 
 **Primary Activities:**
-- **Visitor Center and Museum tour** - 30-45 minutes exploring Creek War exhibits
-- **Auto tour road** - 45 minutes to 1 hour driving battlefield with stops
-- **Nature Trail hike** - 2.8-mile trail through battlefield (1.5-2 hours)
+- **Visitor Center and Museum tour** - 30-45 minutes exploring newly renovated Creek War exhibits about the Muscogee (Creek) people, including 23-minute park film about events leading to the Creek War [Source: NPS Horseshoe Bend National Military Park Operating Hours and Indoor Activities pages, accessed October 7, 2025]
+- **Auto tour road** - 45 minutes to 1 hour self-guided driving tour of battlefield with multiple interpretive stops [Source: NPS Horseshoe Bend National Military Park Plan Your Visit page, accessed October 7, 2025]
+- **Nature Trail hike** - 2.8-mile trail through battlefield (1.5-2 hours) [Note: Currently closed due to tornado damage as of October 2025] [Source: NPS Horseshoe Bend National Military Park Operating Hours page, accessed October 7, 2025]
 
 **Hidden Gems:**
-- **Cotton Patch Hill overlook** - Where General Andrew Jackson's army first arrived (15-20 minutes)
-- **March living history event** - Annual commemoration with reconstructed camps
-- **August historian symposium** - Free annual event with Alabama historians
+- **Cotton Patch Hill overlook** - Where General Andrew Jackson's army first arrived at battlefield site, offering vivid views of the historic position (15-20 minutes) [Source: NPS Muster on the Tallapoosa and Symposium news release, accessed October 7, 2025]
+- **March living history event** - Annual Battle of Horseshoe Bend anniversary commemoration (March 27, 1814) featuring reconstructed Creek, Cherokee, and military camps behind Visitor Center [Source: NPS Muster on the Tallapoosa and Symposium news release, accessed October 7, 2025]
+- **August historian symposium** - Free annual symposium featuring Alabama historians with park-connected themes varying each year [Source: NPS Muster on the Tallapoosa and Symposium news release, accessed October 7, 2025]
 
-**Stamp Collection:** Available at Visitor Center. Park open 8:00am-5:00pm, Visitor Center 9:00am-4:30pm. No entrance fee.
+**Stamp Collection:** Available at Visitor Center. Visitor Center open Monday-Sunday 9am-4:30pm Central Time. Tour Road open Monday-Sunday 8am-5pm Central Time. Closed Thanksgiving, Christmas, and New Year's Day. [Source: NPS Horseshoe Bend National Military Park Operating Hours page, accessed October 7, 2025] No entrance fee. Boat ramp open dawn to dusk.
 
 ---
 
-### Little River Canyon National Preserve -
+### Little River Canyon National Preserve
 **Location:** 4322 Little River Trail NE Ste 100, Fort Payne, AL 35967
 
 **Primary Activities:**
-- **Scenic Canyon Rim Drive** - 2-3 hours driving 23-mile Little River Canyon Rim Parkway
-- **Little River Falls viewing** - 30-45 minutes at boardwalk viewing Alabama's highest waterfall
-- **Canyon mouth activities** - 2-4 hours for swimming, picnicking, and 1-mile river hike
+- **Scenic Canyon Rim Drive** - 2-3 hours driving Little River Canyon Rim Parkway (Highway 176), an 11-mile scenic route with 8-9 named overlooks along the canyon [Source: NPS Little River Canyon Scenic Drive page and Southern Outings guide, accessed October 7, 2025]
+- **Little River Falls viewing** - 30-45 minutes at boardwalk viewing one of Alabama's highest waterfalls [Source: NPS Little River Canyon Plan Your Visit page, accessed October 7, 2025]
+- **Canyon mouth activities** - 2-4 hours for swimming, picnicking, rappelling/rock climbing, fishing, and kayaking [Source: NPS Little River Canyon Plan Your Visit page, accessed October 7, 2025]
 
 **Hidden Gems:**
-- **Wolf Creek overlook** - Less crowded canyon viewpoint (20-30 minutes)
-- **Grace's High Falls** - Seasonal waterfall best during spring runoff (15-20 minutes)
-- **Backcountry area** - 8,000 acres for mountain biking and kayaking (half to full day)
+- **Wolf Creek overlook** - One of the top viewpoints with Little River approximately 400 feet below, less crowded than main overlooks (20-30 minutes) [Source: NPS Wolf Creek Overlook page and Southern Outings guide, accessed October 7, 2025]
+- **Grace's High Falls** - Alabama's tallest above-ground waterfall at 133 feet, seasonal waterfall best during wetter months and spring runoff, located shortly after Wolf Creek Overlook (15-20 minutes) [Source: NPS Grace's High Falls Overlook page and Waterfall Record, accessed October 7, 2025]
+- **Backcountry area** - 8,000 acres for mountain biking and hunting (half to full day) [Source: NPS Little River Canyon Plan Your Visit page, accessed October 7, 2025]
 
-**Stamp Collection:** Available at Jacksonville State University Little River Canyon Center. Hours: Tuesday-Sunday 10:00 AM-4:00 PM, closed Mondays. No fee for stamp (separate from Canyon Mouth Park fee).
+**Stamp Collection:** Available at Jacksonville State University Little River Canyon Center (4322 Little River Trail NE, Fort Payne, AL 35967; GPS alternate: 472 AL Hwy 35, Fort Payne). Hours: Tuesday-Sunday 10:00 AM-4:00 PM Central Time, closed Mondays. Facility features Grand Hall, HD movie theater, gift shop operated by JSU Field School, natural history library, exhibits, and NPS staff at front desk. [Source: NPS Jacksonville State University Little River Canyon Center page, accessed October 7, 2025] Phone: 256-845-9605 ext. 201. No fee for stamp (separate from any Canyon Mouth Park fees).
 
 ---
 
-### Russell Cave National Monument -
+### Russell Cave National Monument
 **Location:** 3729 County Road 98, Bridgeport, AL 35740
 
 **Primary Activities:**
-- **Visitor Center museum tour** - 45 minutes to 1 hour viewing 12,000 years of prehistoric artifacts
-- **Cave shelter boardwalk walk** - 20-30 minutes on elevated boardwalk (300 yards from visitor center)
-- **Nature trail hike** - 1.2-mile trail through surrounding forest (45 minutes to 1 hour)
+- **Visitor Center museum tour** - 45 minutes to 1 hour viewing 12,000 years of prehistoric artifacts at Gilbert Hovey Grosvenor Visitor Center, learning about prehistoric people who occupied the cave shelter [Source: NPS Russell Cave National Monument Plan Your Visit page, accessed October 7, 2025]
+- **Cave shelter boardwalk walk** - 20-30 minutes on elevated wooden boardwalk to view cave entrance (approximately 300 yards from visitor center); cave interior not accessible [Source: NPS Russell Cave National Monument Plan Your Visit page and Park Ranger John, accessed October 7, 2025]
+- **Nature trail hike** - 1.2-mile (1.9-km) dirt Backcountry Trail through surrounding forest featuring plants used by Native Americans for food, tools, and daily necessities (45 minutes to 1 hour); also 0.6-mile paved Nature Trail [Source: Park Ranger John Russell Cave National Monument page, accessed October 7, 2025]
 
 **Hidden Gems:**
-- **Birds of Prey program** - Special ranger-led demonstrations (timing varies)
-- **Weaponry demonstrations** - Ranger demonstrations of pre-contact tools (30-45 minutes when available)
-- **North Alabama Birding Trail Site 44** - Over 115 bird species
+- **Birds of Prey program** - Special ranger-led demonstrations (timing varies); over 115 bird species identified at site, located on North Alabama Birding Trail [Source: Park Ranger John Russell Cave National Monument page and National Park Foundation, accessed October 7, 2025]
+- **Weaponry demonstrations** - Weekend ranger demonstrations of prehistoric skills including flintknapping to produce arrowheads, atlatl (spear throwing), fire-starting, and bow and arrow use (30-45 minutes when available) [Source: Park Ranger John Russell Cave National Monument page, accessed October 7, 2025]
+- **North Alabama Birding Trail Site 44** - Over 115 bird species recorded by researchers [Source: Park Ranger John Russell Cave National Monument page, accessed October 7, 2025]
 
-**Stamp Collection:** Available at Gilbert Hovey Grosvenor Visitor Center. Daily 8:00am-4:30pm. **Important:** Cave interior touring NOT permitted - exterior viewing only.
+**Stamp Collection:** Available at Gilbert Hovey Grosvenor Visitor Center with Passport Stickers and Annual Stamp Sets. Park open 8:00am-4:30pm Central Time daily; Visitor Center open 8:30am-4:00pm daily. [Source: NPS Russell Cave National Monument Operating Hours page, accessed October 7, 2025] Closed Thanksgiving Day, Christmas Day (December 25), and New Year's Day (January 1). Free admission, no entrance fees. **Important restriction:** Cave interior touring NOT permitted - exterior viewing only from boardwalk.
 
 ---
 
-### Tuskegee Airmen National Historic Site -
+### Tuskegee Airmen National Historic Site
 **Location:** 1616 Chappie James Ave, Tuskegee, AL 36083 (Moton Field)
 
 **Primary Activities:**
-- **Hangar museum tour** - 1-1.5 hours exploring restored Hangar 1 with aircraft displays
-- **Orientation film screening** - 20-30 minutes park documentary
-- **Guided ranger tours** - 45 minutes to 1 hour for groups of 10+ (advance booking)
+- **Hangar museum tour** - 1-1.5 hours exploring restored Hangar 1 (one of five original 1940s structures) with aircraft displays including restored PT-17 Stearman biplane and J3 Piper Cub, interactive exhibits about training of first African American military pilots [Source: NPS Tuskegee Airmen NHS Hangar 1 page and When In Your State Alabama, accessed October 7, 2025]
+- **Orientation film screening** - 20-30 minutes park documentary shown in Hangar 2 [Source: TripAdvisor Tuskegee Airmen reviews, accessed October 7, 2025]
+- **Moton Field grounds exploration** - Self-guided tour of historic airfield including original hangars and control tower visitors can climb [Source: Perceptive Travel Moton Field article, accessed October 7, 2025]
 
 **Hidden Gems:**
-- **Oral history collection access** - 2005 project with hundreds of interviews (special arrangement)
-- **Historic aircraft viewing** - PT-17 Stearman biplane when available
-- **Junior Ranger program** - Hands-on activities for children
+- **Oral history collection access** - Interactive old-style telephones throughout museum where visitors dial numbers to hear actual Tuskegee Airmen recount their personal experiences; recordings of Airmen's firsthand stories (plan extra time beyond basic 1.5-hour visit) [Source: NPS Tuskegee Airmen NHS Hangar 1 page and Perceptive Travel, accessed October 7, 2025]
+- **Historic aircraft viewing** - PT-17 Stearman biplane on display; "Red Tails" first trained with "striped tails" in Army's PT-17 Stearman bi-plane [Source: NPS Tuskegee Airmen NHS Hangar 1 page and Perceptive Travel, accessed October 7, 2025]
+- **Junior Ranger program** - Hands-on activities for children to earn Junior Ranger badge by learning about Tuskegee Airmen [Source: NPS Tuskegee Airmen NHS Hangar 1 page, accessed October 7, 2025]
 
-**Stamp Collection:** Available at Hangar #2 at Moton Field. Monday-Saturday 9:00am-4:30pm, closed Sundays. Free admission.
+**Stamp Collection:** Available at Hangar 1 where visitors can pick up park brochure, Junior Ranger booklet, and NPS passport stamps. Open Monday-Saturday 9:00am-4:30pm Central Time, closed Sundays. [Source: NPS Tuskegee Airmen NHS Operating Hours page, accessed October 7, 2025] Site grounds open sunrise to sunset daily. Closed New Year's Day, Thanksgiving Day, and Christmas Day. Free admission. Phone: (334) 727-1247.
 
 ---
 
-### Tuskegee Institute National Historic Site -
-**Location:** Campus Road, Tuskegee, AL 36088 (on Tuskegee University campus)
+### Tuskegee Institute National Historic Site
+**Location:** 1212 West Montgomery Road, Tuskegee Institute, AL 36088 (on Tuskegee University campus)
 
 **Primary Activities:**
-- **The Oaks house tour** - 45 minutes to 1 hour guided tour of Booker T. Washington's home (by appointment)
-- **George Washington Carver Museum** - 1-1.5 hours exploring Carver's laboratory and innovations
-- **Historic Campus District walking tour** - 1-2 hours self-guided through 50-acre historic area
+- **The Oaks house tour** - 45 minutes to 1 hour ranger-guided tour of Booker T. Washington's home, offered Tuesday-Thursday at 9:30am, 10:30am, 1:30pm, 2:30pm, and 3:30pm [Source: NPS Tuskegee Institute NHS Operating Hours page, accessed October 7, 2025]
+- **George Washington Carver Museum** - 1-1.5 hours exploring Carver's final laboratory (building constructed 1915 as campus laundry using student-made bricks, later became Carver's lab before 1938 museum conversion), exhibits featuring his geological and mycological specimens, agricultural demonstrations showing 300+ peanut products, and personal artifacts [Source: NPS George Washington Carver Museum page and Encyclopedia of Alabama, accessed October 7, 2025]
+- **Historic Campus District walking tour** - 1-2 hours self-guided walk through campus where original buildings constructed by students from bricks made in Institute brickyard still stand, designed by Robert R. Taylor (first African-American MIT graduate) [Source: NPS Tuskegee Institute NHS and "One Brick at a Time" article, accessed October 7, 2025]
 
 **Hidden Gems:**
-- **Carver's actual laboratory** - Preserved workspace where peanut innovations developed
-- **Historic brick buildings** - Built by students as part of Washington's educational philosophy
-- **University campus integration** - Active campus where historic and modern education continue
+- **Carver's actual laboratory** - Preserved workspace within museum building where George Washington Carver developed innovations including 300+ products from peanuts, contributing to economic improvement of rural South [Source: NPS George Washington Carver Museum page and Encyclopedia of Alabama, accessed October 7, 2025]
+- **Historic brick buildings** - Student-built structures using bricks made on campus as part of Booker T. Washington's educational philosophy emphasizing practical skills; "New Laundry" (now museum) built with student-made bricks [Source: Encyclopedia of Alabama and NPS "One Brick at a Time" article, accessed October 7, 2025]
+- **University campus integration** - Active Tuskegee University campus where historic preservation and modern education continue; visitors welcome to tour campus on their own or via Tuskegee University-guided tours [Source: NPS Tuskegee Institute NHS Plan Your Visit page, accessed October 7, 2025]
 
-**Stamp Collection:** Available at George Washington Carver Museum. **Special requirement:** Tours and museum access require advance coordination with park staff. Contact through Tuskegee Airmen NHS at (334) 727-1247.
+**Stamp Collection:** Available at George Washington Carver Museum ranger-staffed information desk, which serves as park visitor center. Museum open Monday-Saturday 9:00am-4:30pm. [Source: NPS Tuskegee Institute NHS Operating Hours page, accessed October 7, 2025] Closed Sundays, Thanksgiving Day, Christmas Day, and New Year's Day. Visitors must obtain visitor pass from Tuskegee University Police Department; parking available in Kellogg Center parking deck. [Source: NPS George Washington Carver Museum page, accessed October 7, 2025] Phone: (334) 727-3200. Free admission. Rangers provide NPS goodies including peanut pin, rubber bracelets, and trading cards with passport stamps.
 
 ---
 
