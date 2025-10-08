@@ -2,138 +2,143 @@
   "master": {
     "tasks": [
       {
-        "id": 1,
+        "id": "1",
         "title": "Research and document Group 1 NPS sites basic information",
         "description": "Complete comprehensive research for all 46 NPS sites in Group 1 (Alabama, Alaska, American Samoa, Arizona) including physical addresses, operational hours, and cancellation stamp locations",
         "details": "Use WebFetch and WebSearch tools to gather site information from official NPS websites. For each site: 1) Find physical address and site operational hours, 2) Identify all locations where cancellation stamps can be acquired (may include visitor centers, ranger stations, partner locations), 3) Document hours of operation for each stamp location, 4) Present stamp locations as markdown checkboxes. Cross-reference with existing Group 1.md report to identify any missing sites or incomplete information.",
         "testStrategy": "Verify all 46 sites from Group 1 input list are documented with complete address and hours information. Cross-check against official NPS website data for accuracy.",
         "priority": "high",
         "dependencies": [],
-        "status": "pending",
-        "subtasks": []
+        "status": "in-progress",
+        "subtasks": [],
+        "updatedAt": "2025-10-08T12:02:48.743Z"
       },
       {
-        "id": 2,
+        "id": "2",
         "title": "Research cancellation stamp restrictions and requirements for Group 1",
         "description": "Document special requirements, restrictions, and challenges for obtaining cancellation stamps at Group 1 sites",
         "details": "Research each site for: 1) Advance contact requirements, 2) Access restrictions (seasonal closures, permit requirements, etc.), 3) Special procedures or challenges noted in online resources, forums, and NPS documentation, 4) Any unique stamp acquisition notes from park visitor experiences. Compile comprehensive notes with citations for each site's stamp-specific information.",
         "testStrategy": "Validate that stamp information is current by checking recent visitor reports and official NPS communications. Ensure all special requirements are clearly documented.",
         "priority": "high",
         "dependencies": [
-          1
+          "1"
         ],
         "status": "pending",
         "subtasks": []
       },
       {
-        "id": 3,
+        "id": "3",
         "title": "Research and document key activities for Group 1 sites",
         "description": "Identify and document the most popular and titular activities for each Group 1 site with timing data from multiple sources",
         "details": "For each site: 1) Identify 2-3 key/most popular activities, 2) Research timing data from multiple sources (NPS websites, travel guides, visitor reviews, hiking websites), 3) If timing data varies significantly, note discrepancies and cite all sources with links, 4) If timing is consistent, use median value and cite sources, 5) Present activities as markdown checkboxes under 'Key Activities' subheading, 6) Include detailed citations for all timing sources.",
         "testStrategy": "Ensure each site has 2-3 documented key activities with timing data from at least 2 different sources. Verify citations are working links to reputable sources.",
         "priority": "medium",
         "dependencies": [
-          1
+          "1"
         ],
         "status": "pending",
         "subtasks": []
       },
       {
-        "id": 4,
+        "id": "4",
         "title": "Research and document hidden gem activities for Group 1 sites",
         "description": "Identify overlooked or lesser-known activities at each Group 1 site with comprehensive timing data",
         "details": "Research beyond typical tourist information to find: 1) Lesser-known trails, viewpoints, or experiences at each site, 2) Activities mentioned in detailed travel blogs, local guides, or park volunteer recommendations, 3) Seasonal or special activities that aren't prominently featured, 4) Document timing data with multiple source citations, 5) Present as markdown checkboxes under 'Hidden Gems' subheading with full source citations.",
         "testStrategy": "Validate hidden gems are legitimate activities within or directly related to each site. Ensure timing data is supported by credible sources and citations are functional.",
         "priority": "medium",
         "dependencies": [
-          3
+          "3"
         ],
         "status": "pending",
         "subtasks": []
       },
       {
-        "id": 5,
+        "id": "5",
         "title": "Research nearby activities and attractions for Group 1 sites",
         "description": "Document activities and experiences near each Group 1 site that complement the main park visit",
         "details": "For each site, research: 1) Nearby attractions within reasonable driving distance (typically within 30-60 minutes), 2) Complementary activities that enhance the park experience, 3) Local restaurants, lodging, or other visitor services of note, 4) Timing data for these nearby activities when feasible, 5) Present as markdown checkboxes under 'Also Nearby' subheading, 6) Include citations for all recommendations and timing data.",
         "testStrategy": "Ensure nearby activities are genuinely useful for park visitors and within reasonable proximity. Verify timing data accuracy and source credibility.",
         "priority": "low",
         "dependencies": [
-          4
+          "4"
         ],
         "status": "pending",
         "subtasks": []
       },
       {
-        "id": 6,
+        "id": "6",
         "title": "Research and document Group 2 NPS sites basic information",
         "description": "Complete comprehensive research for all NPS sites in Group 2 including physical addresses, operational hours, and cancellation stamp locations",
         "details": "Use WebFetch and WebSearch tools to gather site information from official NPS websites. Follow same methodology as Group 1: 1) Find physical address and site operational hours, 2) Identify all stamp acquisition locations, 3) Document hours for each location, 4) Present as markdown checkboxes. Check existing Group 2.md report for completion status.",
         "testStrategy": "Verify all sites from Group 2 input list are documented with complete information. Cross-check against official NPS data for accuracy.",
         "priority": "high",
         "dependencies": [
-          2
+          "2"
         ],
         "status": "pending",
         "subtasks": []
       },
       {
-        "id": 7,
+        "id": "7",
         "title": "Complete research documentation for Groups 3-8 NPS sites",
         "description": "Systematically complete comprehensive research for all remaining NPS site groups (3, 4, 5, 6, 7, 8) following established methodology",
         "details": "Apply the same research methodology used for Groups 1-2 to all remaining groups: 1) Basic site information (addresses, hours, stamp locations), 2) Stamp restrictions and requirements, 3) Key activities with timing data, 4) Hidden gem activities, 5) Nearby attractions. Process each group sequentially to ensure comprehensive coverage without missing sites.",
         "testStrategy": "Verify each group has complete documentation matching the format and depth established in Groups 1-2. Ensure no sites are missed from any input group files.",
         "priority": "medium",
         "dependencies": [
-          6
+          "6"
         ],
         "status": "pending",
         "subtasks": []
       },
       {
-        "id": 8,
+        "id": "8",
         "title": "Standardize formatting and citation style across all group reports",
         "description": "Ensure consistent formatting, structure, and citation methodology across all completed group research reports",
         "details": "Review all completed group reports to: 1) Standardize markdown formatting and structure, 2) Ensure consistent citation format with working links, 3) Verify all required sections are present (site info, stamp info, key activities, hidden gems, nearby activities), 4) Standardize checkbox formatting, 5) Ensure timing data presentation is consistent, 6) Validate all external links are functional.",
         "testStrategy": "Conduct systematic review of all reports using established checklist. Verify formatting consistency and link functionality across all documents.",
         "priority": "medium",
         "dependencies": [
-          7
+          "7"
         ],
         "status": "pending",
         "subtasks": []
       },
       {
-        "id": 9,
+        "id": "9",
         "title": "Create comprehensive cross-reference and verification system",
         "description": "Develop system to verify completeness and accuracy of all site documentation against original input lists",
         "details": "Create verification process to: 1) Cross-reference all completed reports against original input group files, 2) Ensure no sites were missed or duplicated, 3) Verify all required information categories are complete for each site, 4) Create summary statistics (total sites processed, completion status), 5) Identify any gaps or inconsistencies requiring additional research.",
         "testStrategy": "Generate comprehensive audit report showing 100% completion of all sites from input files. Verify all required data categories are present for each site.",
         "priority": "medium",
         "dependencies": [
-          8
+          "8"
         ],
         "status": "pending",
         "subtasks": []
       },
       {
-        "id": 10,
+        "id": "10",
         "title": "Final quality assurance and documentation review",
         "description": "Conduct final comprehensive review of all research documentation for accuracy, completeness, and travel planning utility",
         "details": "Perform final review to: 1) Verify all timing data is reasonable and well-sourced, 2) Ensure cancellation stamp information is current and accurate, 3) Confirm all activities are appropriate and achievable, 4) Validate that documentation serves the travel planning optimization goal, 5) Check that all citations are properly formatted and accessible, 6) Ensure reports provide actionable information for NPS cancellation stamp collectors.",
         "testStrategy": "Review completed documentation against original PRD requirements. Verify the final product effectively supports travel planning for NPS cancellation stamp collection with comprehensive, accurate, and well-cited information.",
         "priority": "high",
         "dependencies": [
-          9
+          "9"
         ],
         "status": "pending",
         "subtasks": []
       }
     ],
     "metadata": {
-      "created": "2025-10-08T12:00:05.572Z",
-      "updated": "2025-10-08T12:00:05.572Z",
-      "description": "Tasks for master context"
+      "version": "1.0.0",
+      "lastModified": "2025-10-08T12:02:48.744Z",
+      "taskCount": 10,
+      "completedCount": 0,
+      "tags": [
+        "master"
+      ]
     }
   }
 }
