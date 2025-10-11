@@ -18,6 +18,17 @@
 				"AZURE_OPENAI_API_KEY": "YOUR_AZURE_KEY_HERE",
 				"OLLAMA_API_KEY": "YOUR_OLLAMA_API_KEY_HERE"
 			}
+		},
+		"milvus": {
+			"command": "uv",
+			"args": [
+				"--directory",
+				"/home/developer/local/mcp-server-milvus/src/mcp_server_milvus",
+				"run",
+				"server.py",
+				"--milvus-uri",
+				"http://milvus-standalone:19530"
+			]
 		}
 	}
 }
