@@ -1,14 +1,15 @@
-claude:
-TOP := {{trim (run "git" "rev-parse" "--show-toplevel")}}
-    claude --dangerously-skip-permissions
+TOP := `git rev-parse --show-toplevel`
+set shell := ["wsl.exe", "bash", "-c"]
 
+claude:
+    claude --dangerously-skip-permissions
 
 # mcp-tasks
 mcp-tasks-setup:
     npx mcp-tasks setup tasks.md {{TOP}}
 
-add-task-now:
-    npx mcp-tasks add "$1" "To Do" 0
+add-task-now TODO_TEXT:
+    npx mcp-tasks add "{{TODO_TEXT}}" "To Do" 0
 
-add-task:
-    npx mcp-tasks add "$1" "To Do"
+add-task TODO_TEXT:
+    npx mcp-tasks add "{{TODO_TEXT}}" "To Do"
