@@ -74,6 +74,7 @@ RUN apt-get update && apt-get install -y \
     fzf \
     man-db \
     python3 \
+    python3-pip \
     pipx \
     screen \
     && rm -rf /var/lib/apt/lists/*
