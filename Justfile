@@ -13,3 +13,4 @@ add-task-now TODO_TEXT:
 
 add-task TODO_TEXT:
     npx mcp-tasks add "{{TODO_TEXT}}" "To Do"
+

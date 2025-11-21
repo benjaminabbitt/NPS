@@ -248,8 +248,14 @@ For each item in the World's Largest report, perform research about how long it 
 For each item in the Amusement Park list, perform research about how long it will take, operating hours, operating seasons, and address. Fit these into trips. These *do* all need to be visited.
 
 For each park, build a user-data.md.  Within user data, for each coaster, have three ridden checkboxes -- one for Honor, one for Ben, one for Amber.  For each coaster, have a freeform notes entry.
+For each park, do research to find the optimal time to visit that park and get a complete experience, riding all the coasters and doing anything else that makes that park distinctive.
+
 
 # Tools and Support
+
+## MCP-Tasks
+- tasks list is stored at tasks.md
+- Use this for tasks.  Keep your internal tasks list synchronized with this mcp server.  !Important
 
 ## Chroma Vector Database
 - Use chroma mcp to store all research and check there first before searching for new content
