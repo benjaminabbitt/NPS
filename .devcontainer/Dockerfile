@@ -105,6 +105,7 @@ RUN curl -fsSL https://deb.nodesource.com/setup_20.x -o nodesource_setup.sh && \
 
 # Install mcp-tasks
 RUN npm install -g mcp-tasks
+RUN npm install -g chromadb @chroma-core/default-embed
 
 ## Ensure default node user has access to /usr/local/share
 RUN mkdir -p /usr/local/share/npm-global && \
@@ -180,10 +181,6 @@ ENV IS_SANDBOX=1
 #RUN chmod +x /usr/local/bin/init-firewall.sh && \
 #    echo "developer ALL=(root) NOPASSWD: /usr/local/bin/init-firewall.sh" > /etc/sudoers.d/node-firewall && \
 #    chmod 0440 /etc/sudoers.d/node-firewall
-
-# Install Milvus for claude
-RUN mkdir -p /home/developer/local/
-RUN cd /home/developer/local && git clone https://github.com/zilliztech/mcp-server-milvus.git
 
 # Set working directory
 RUN chown developer:developer /workspace

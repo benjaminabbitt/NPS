@@ -1,0 +1,20 @@
+[project]
+name = "nps-research-router"
+version = "1.0.0"
+description = "Comprehensive NPS site research and exhaustive route optimization"
+requires-python = ">=3.13"
+dependencies = [
+    "httpx>=0.28.1",
+    "beautifulsoup4>=4.12.3",
+    "markdownify>=0.14.1",
+    "chromadb>=0.6.4",
+    "numpy>=2.2.2",
+    "ortools>=9.12",
+]
+
+[build-system]
+requires = ["hatchling"]
+build-backend = "hatchling.build"
+
+[tool.uv]
+dev-dependencies = []

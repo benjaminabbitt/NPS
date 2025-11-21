@@ -1,0 +1,13 @@
+# Roger Williams N MEM
+
+## Cancellation Stamp Locations:
+
+- [ ] Roger Williams N MEM Visitor Center (282 North Main Street, Providence, Rhode Island, 02903; Closed)
+
+## Key Activities:
+
+- [ ] Visitor Center Experience (1-2 hours) - Explore exhibits and learn about Roger Williams N MEM; 282 North Main Street, Providence, Rhode Island, 02903; Closed [[Source](https://www.nps.gov/rwn)]
+
+## Hidden Gems:
+
+## Also Nearby:

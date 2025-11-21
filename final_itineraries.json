@@ -1,0 +1,410 @@
+{
+  "total_sites_covered": 47,
+  "total_itineraries": 5,
+  "itineraries": [
+    {
+      "name": "Alabama NPS Tour",
+      "cluster_id": 1,
+      "days": 2,
+      "start_location": "St. Louis, MO",
+      "stats": {
+        "total_distance_miles": 1030.1,
+        "total_drive_hours": 18.7,
+        "total_visit_hours": 8.0,
+        "total_trip_hours": 26.7,
+        "site_count": 4
+      },
+      "sites": [
+        {
+          "name": "Birmingham Civil Rights NM",
+          "city": "Birmingham",
+          "state": "Alabama",
+          "lat": 33.5153921,
+          "lon": -86.8144977
+        },
+        {
+          "name": "Tuskegee Institute NHS",
+          "city": "Tuskegee",
+          "state": "Alabama",
+          "lat": 32.4288729,
+          "lon": -85.7084448
+        },
+        {
+          "name": "Tuskegee Airmen NHS",
+          "city": "Tuskegee",
+          "state": "Alabama",
+          "lat": 32.4579178,
+          "lon": -85.6849644
+        },
+        {
+          "name": "Freedom Riders NM",
+          "city": "Anniston",
+          "state": "Alabama",
+          "lat": 33.6581699,
+          "lon": -85.83128
+        }
+      ]
+    },
+    {
+      "name": "Alaska NPS Tour",
+      "cluster_id": 2,
+      "days": 7,
+      "start_location": "St. Louis, MO",
+      "stats": {
+        "total_distance_miles": 8493.6,
+        "total_drive_hours": 154.4,
+        "total_visit_hours": 24.0,
+        "total_trip_hours": 178.4,
+        "site_count": 12
+      },
+      "sites": [
+        {
+          "name": "Sitka NHP",
+          "city": "Sitka",
+          "state": "Alaska",
+          "lat": 57.0520273,
+          "lon": -135.331966
+        },
+        {
+          "name": "Glacier Bay NP & PRES",
+          "city": "Gustavus",
+          "state": "Alaska",
+          "lat": 58.451265,
+          "lon": -135.8299977
+        },
+        {
+          "name": "Aniakchak NM & PRES",
+          "city": "King Salmon",
+          "state": "Alaska",
+          "lat": 58.6826737,
+          "lon": -156.6682423
+        },
+        {
+          "name": "Aleutian World War II NHA",
+          "city": "Unalaska",
+          "state": "Alaska",
+          "lat": 53.8845151,
+          "lon": -166.5545882
+        },
+        {
+          "name": "Bering Land Bridge N PRES",
+          "city": "Nome",
+          "state": "Alaska",
+          "lat": 64.4980814,
+          "lon": -165.4101566
+        },
+        {
+          "name": "Noatak N PRES",
+          "city": "Kotzebue",
+          "state": "Alaska",
+          "lat": 66.8969703,
+          "lon": -162.5930442
+        },
+        {
+          "name": "Kobuk Valley NP",
+          "city": "Kotzebue",
+          "state": "Alaska",
+          "lat": 66.8969703,
+          "lon": -162.5930442
+        },
+        {
+          "name": "Inupiat Heritage Center",
+          "city": "Barrow",
+          "state": "Alaska",
+          "lat": 71.2982129,
+          "lon": -156.7539881
+        },
+        {
+          "name": "Yukon-Charley Rivers N PRES",
+          "city": "Fairbanks",
+          "state": "Alaska",
+          "lat": 64.8485916,
+          "lon": -147.8360817
+        },
+        {
+          "name": "Gates of the Arctic NP & PRES",
+          "city": "Fairbanks",
+          "state": "Alaska",
+          "lat": 64.845898,
+          "lon": -147.7119211
+        },
+        {
+          "name": "Wrangell-St. Elias NP & PRES",
+          "city": "Copper Center",
+          "state": "Alaska",
+          "lat": 61.836564,
+          "lon": -145.2257613
+        },
+        {
+          "name": "Klondike Gold Rush NHP",
+          "city": "Skagway",
+          "state": "Alaska",
+          "lat": 59.4534662,
+          "lon": -135.31849
+        }
+      ]
+    },
+    {
+      "name": "Arizona NPS Tour",
+      "cluster_id": 3,
+      "days": 6,
+      "start_location": "St. Louis, MO",
+      "stats": {
+        "total_distance_miles": 3140.8,
+        "total_drive_hours": 57.1,
+        "total_visit_hours": 22.0,
+        "total_trip_hours": 79.1,
+        "site_count": 11
+      },
+      "sites": [
+        {
+          "name": "GC - Parashant National Monument",
+          "city": "Littlefield",
+          "state": "Arizona",
+          "lat": 36.8871992,
+          "lon": -113.9296876
+        },
+        {
+          "name": "Grand Canyon NP",
+          "city": "Grand Canyon",
+          "state": "Arizona",
+          "lat": 36.0557614,
+          "lon": -112.1292908
+        },
+        {
+          "name": "Walnut Canyon NM",
+          "city": "Flagstaff",
+          "state": "Arizona",
+          "lat": 35.2027331,
+          "lon": -111.5147395
+        },
+        {
+          "name": "Tuzigoot NM",
+          "city": "Clarkdale",
+          "state": "Arizona",
+          "lat": 34.771077,
+          "lon": -112.0253378
+        },
+        {
+          "name": "Montezuma Castle NM",
+          "city": "Camp Verde",
+          "state": "Arizona",
+          "lat": 34.6143878,
+          "lon": -111.845751
+        },
+        {
+          "name": "Tonto NM",
+          "city": "Roosevelt",
+          "state": "Arizona",
+          "lat": 33.6646232,
+          "lon": -111.1262476
+        },
+        {
+          "name": "Hohokam Pima NM",
+          "city": "Chandler",
+          "state": "Arizona",
+          "lat": 33.3062031,
+          "lon": -111.841185
+        },
+        {
+          "name": "Casa Grande Ruins NM",
+          "city": "Coolidge",
+          "state": "Arizona",
+          "lat": 32.9946864,
+          "lon": -111.5366618
+        },
+        {
+          "name": "Organ Pipe Cactus NM",
+          "city": "Ajo",
+          "state": "Arizona",
+          "lat": 31.9548142,
+          "lon": -112.8011351
+        },
+        {
+          "name": "Saguaro NP",
+          "city": "Tucson",
+          "state": "Arizona",
+          "lat": 32.1802177,
+          "lon": -110.7362598
+        },
+        {
+          "name": "Fort Bowie NHS",
+          "city": "Bowie",
+          "state": "Arizona",
+          "lat": 32.3265073,
+          "lon": -109.4841684
+        }
+      ]
+    },
+    {
+      "name": "Arkansas NPS Tour",
+      "cluster_id": 4,
+      "days": 2,
+      "start_location": "St. Louis, MO",
+      "stats": {
+        "total_distance_miles": 859.1,
+        "total_drive_hours": 15.6,
+        "total_visit_hours": 8.0,
+        "total_trip_hours": 23.6,
+        "site_count": 4
+      },
+      "sites": [
+        {
+          "name": "Hot Springs NP",
+          "city": "",
+          "state": "Arkansas",
+          "lat": 35.2048883,
+          "lon": -92.4479108
+        },
+        {
+          "name": "Little Rock Central High School NHS",
+          "city": "Little Rock",
+          "state": "Arkansas",
+          "lat": 34.7381346,
+          "lon": -92.2973826
+        },
+        {
+          "name": "William J. Clinton Birthplace Home NHS",
+          "city": "Hope",
+          "state": "Arkansas",
+          "lat": 33.6672765,
+          "lon": -93.5965169
+        },
+        {
+          "name": "Fort Smith NHS",
+          "city": "Fort Smith",
+          "state": "Arkansas",
+          "lat": 35.388505,
+          "lon": -94.4310733
+        }
+      ]
+    },
+    {
+      "name": "California NPS Tour",
+      "cluster_id": 5,
+      "days": 7,
+      "start_location": "St. Louis, MO",
+      "stats": {
+        "total_distance_miles": 4035.9,
+        "total_drive_hours": 73.4,
+        "total_visit_hours": 32.0,
+        "total_trip_hours": 105.4,
+        "site_count": 16
+      },
+      "sites": [
+        {
+          "name": "Joshua Tree NP",
+          "city": "Twentynine Palms",
+          "state": "California",
+          "lat": 34.1286883,
+          "lon": -116.0376251
+        },
+        {
+          "name": "Castle Mountains NM",
+          "city": "Barstow",
+          "state": "California",
+          "lat": 34.8713498,
+          "lon": -117.0202737
+        },
+        {
+          "name": "Cabrillo NM",
+          "city": "San Diego",
+          "state": "California",
+          "lat": 32.6922209,
+          "lon": -117.2451694
+        },
+        {
+          "name": "Santa Monica Mountains NRA",
+          "city": "Calabasas",
+          "state": "California",
+          "lat": 34.1351612,
+          "lon": -118.6447676
+        },
+        {
+          "name": "Channel Islands NP",
+          "city": "Ventura",
+          "state": "California",
+          "lat": 34.2484654,
+          "lon": -119.266556
+        },
+        {
+          "name": "C\u00e9sar E. Ch\u00e1vez National Monument",
+          "city": "Keene",
+          "state": "California",
+          "lat": 35.2239761,
+          "lon": -118.5596125
+        },
+        {
+          "name": "San Francisco Maritime NHP",
+          "city": "San Francisco",
+          "state": "California",
+          "lat": 37.8077271,
+          "lon": -122.4208756
+        },
+        {
+          "name": "Golden Gate NRA",
+          "city": "San Francisco",
+          "state": "California",
+          "lat": 37.8041734,
+          "lon": -122.428734
+        },
+        {
+          "name": "Presidio of San Francisco",
+          "city": "San Francisco",
+          "state": "California",
+          "lat": 37.8019747,
+          "lon": -122.4568312
+        },
+        {
+          "name": "Fort Point NHS",
+          "city": "San Francisco",
+          "state": "California",
+          "lat": 37.8090089,
+          "lon": -122.4743923
+        },
+        {
+          "name": "Point Reyes NS",
+          "city": "Point Reyes Station",
+          "state": "California",
+          "lat": 38.0411184,
+          "lon": -122.8003358
+        },
+        {
+          "name": "John Muir NHS",
+          "city": "Martinez",
+          "state": "California",
+          "lat": 37.9912921,
+          "lon": -122.1313223
+        },
+        {
+          "name": "Port Chicago Naval Magazine N MEM",
+          "city": "Martinez",
+          "state": "California",
+          "lat": 37.9912921,
+          "lon": -122.1313223
+        },
+        {
+          "name": "Eugene O\u2019Neill NHS",
+          "city": "Danville",
+          "state": "California",
+          "lat": 37.8254254,
+          "lon": -122.0221967
+        },
+        {
+          "name": "Manzanar NHS",
+          "city": "Independence",
+          "state": "California",
+          "lat": 36.7920681,
+          "lon": -118.1926066
+        },
+        {
+          "name": "Death Valley NP",
+          "city": "Death Valley",
+          "state": "California",
+          "lat": 36.4587364,
+          "lon": -116.8713913
+        }
+      ]
+    }
+  ]
+}
