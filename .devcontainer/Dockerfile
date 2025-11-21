@@ -98,10 +98,13 @@ RUN curl -sSL -o /usr/local/bin/buf "https://github.com/bufbuild/buf/releases/do
     && chmod +x /usr/local/bin/buf
 
 # Configure Node.js
-RUN curl -fsSL https://deb.nodesource.com/setup_23.x -o nodesource_setup.sh && \
+RUN curl -fsSL https://deb.nodesource.com/setup_20.x -o nodesource_setup.sh && \
     bash nodesource_setup.sh && \
     apt-get install -y --no-install-recommends nodejs && \
     rm nodesource_setup.sh
+
+# Install mcp-tasks
+RUN npm install -g mcp-tasks
 
 ## Ensure default node user has access to /usr/local/share
 RUN mkdir -p /usr/local/share/npm-global && \

@@ -1,5 +1,5 @@
 TOP := `git rev-parse --show-toplevel`
-set shell := ["wsl.exe", "bash", "-c"]
+
 
 claude:
     claude --dangerously-skip-permissions
