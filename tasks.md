@@ -2,20 +2,10 @@
 
 ## In Progress
 
-- [ ] Research and complete Allegheny Portage Railroad NHS
+- [ ] Research and complete Appalachian NST
 
 ## To Do
 
-- [ ] Research and complete Amache NHS
-- [ ] Research and complete American Veterans Disabled for Life Memorial
-- [ ] Research and complete Amistad NRA
-- [ ] Research and complete Anacostia Park
-- [ ] Research and complete Andersonville NHS
-- [ ] Research and complete Andrew Johnson NHS
-- [ ] Research and complete Aniakchak NM _ PRES
-- [ ] Research and complete Antietam NB
-- [ ] Research and complete Apostle Islands NL
-- [ ] Research and complete Appalachian NST
 - [ ] Research and complete Appomattox Court House NHP
 - [ ] Research and complete Arches NP
 - [ ] Research and complete Arkansas Post N MEM
@@ -559,5 +549,15 @@
 - [x] Research and complete African American Civil War MEM
 - [x] Research and complete Alagnak WR
 - [x] Research and complete Aleutian World War II NHA
+- [x] Research and complete Apostle Islands NL
+- [x] Research and complete Andersonville NHS
+- [x] Research and complete Antietam NB
+- [x] Research and complete Allegheny Portage Railroad NHS
+- [x] Research and complete Andrew Johnson NHS
+- [x] Research and complete Aniakchak NM _ PRES
+- [x] Research and complete Amache NHS
+- [x] Research and complete American Veterans Disabled for Life Memorial
+- [x] Research and complete Anacostia Park
+- [x] Research and complete Amistad NRA
 
 ## Backlog

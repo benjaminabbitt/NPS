@@ -1,7 +1,34 @@
 # Amistad NRA
 
+[View Full Research Report](Amistad%20NRA.md)
+
 - [ ] Visited
 
-## Activities
+## Cancellation Stamps
 
-No activities found. See [Amistad NRA.md](Amistad NRA.md) for details.
+- [ ] Amistad NRA Visitor Center (10477 Highway 90 West, Del Rio, TX 78840)
+
+## Key Activities
+
+- [ ] Visitor Center Experience (30-60 minutes)
+- [ ] Boating and Water Sports (4-8 hours)
+- [ ] Fishing (4-8+ hours)
+- [ ] Kayaking/Canoeing Short Trails (3 hours)
+- [ ] Hiking Sunrise Trail (1-2 hours)
+- [ ] Scuba Diving (4-6 hours)
+
+## Hidden Gems
+
+- [ ] Rock Art Viewing at Panther Cave (4-6 hours)
+- [ ] Kayaking Devils River Multi-Day Trip (overnight)
+- [ ] Governors Landing Overlook (30-60 minutes)
+
+## Also Nearby
+
+- [ ] Seminole Canyon State Park - Fate Bell Shelter Rock Art Tour (90 minutes, 45 minutes away)
+- [ ] Whitehead Memorial Museum (1-2 hours, 10 minutes away)
+- [ ] Val Verde Winery (20-30 minutes, 10 minutes away)
+- [ ] Devils River State Natural Area (full day, 65 miles away)
+
+## Review / Personal Notes
+

@@ -1,7 +1,28 @@
 # Aniakchak NM _ PRES
 
+[View Full Research Report](Aniakchak%20NM%20_%20PRES.md)
+
 - [ ] Visited
 
-## Activities
+## Cancellation Stamps
 
-No activities found. See [Aniakchak NM _ PRES.md](Aniakchak NM _ PRES.md) for details.
+- [ ] King Salmon Visitor Center (1 King Salmon Airport Rd, King Salmon, AK 99613)
+
+## Key Activities
+
+- [ ] Aniakchak River Rafting (3-4 days)
+- [ ] Caldera Floor Hiking & Backpacking (3-12 days)
+- [ ] King Salmon Visitor Center (1-2 hours)
+
+## Hidden Gems
+
+- [ ] Surprise Lake Thermal Springs (1-2 hours exploration)
+- [ ] Vent Mountain Ascent (3-5 hours)
+
+## Also Nearby
+
+- [ ] Katmai National Park - Brooks Camp Bear Viewing (4-7 hours on-ground, full day trip; 30 air miles)
+- [ ] Katmai National Park - Valley of 10,000 Smokes Tour (7 hours; 30 air miles)
+- [ ] Naknek River King Salmon Fishing (half to full day; King Salmon, AK)
+
+## Review / Personal Notes
