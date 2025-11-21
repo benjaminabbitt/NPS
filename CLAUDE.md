@@ -113,7 +113,7 @@ Note key activities, time for those activities, and cancellation stamp restricti
 
 Perform these instructions for all sites.  Do not select a subset.  This must be comprehensive.
 
-Include the top (by ratings and sentiment analysis, exclude AI-generated commentary from sentiment analysis) 2-3 activities and any well recommended hidden gems unearthed from your comprehensive research.  Each activity needs timing data (time to complete)
+Include the top activities (by ratings and sentiment analysis, exclude AI-generated commentary from sentiment analysis), no more than 20, and any well recommended hidden gems unearthed from your comprehensive research.  Each activity needs timing data (time to complete)
 
 For all source citations, use markdown and generate a link
 
