@@ -1,34 +1,31 @@
 {
 	"mcpServers": {
-		"task-master-ai": {
-			"type": "stdio",
-			"command": "npx",
+		"chroma": {
+			"command": "uvx",
 			"args": [
-				"-y",
-				"task-master-ai"
-			],
-			"env": {
-				"ANTHROPIC_API_KEY": "YOUR_ANTHROPIC_API_KEY_HERE",
-				"PERPLEXITY_API_KEY": "YOUR_PERPLEXITY_API_KEY_HERE",
-				"OPENAI_API_KEY": "YOUR_OPENAI_KEY_HERE",
-				"GOOGLE_API_KEY": "YOUR_GOOGLE_KEY_HERE",
-				"XAI_API_KEY": "YOUR_XAI_KEY_HERE",
-				"OPENROUTER_API_KEY": "YOUR_OPENROUTER_KEY_HERE",
-				"MISTRAL_API_KEY": "YOUR_MISTRAL_KEY_HERE",
-				"AZURE_OPENAI_API_KEY": "YOUR_AZURE_KEY_HERE",
-				"OLLAMA_API_KEY": "YOUR_OLLAMA_API_KEY_HERE"
-			}
-		},
-		"milvus": {
-			"command": "uv",
-			"args": [
-				"--directory",
-				"/home/developer/local/mcp-server-milvus/src/mcp_server_milvus",
-				"run",
-				"server.py",
-				"--milvus-uri",
-				"http://milvus-standalone:19530"
+				"chroma-mcp",
+				"--client-type",
+				"persistent",
+				"--data-dir",
+				"chroma.db"
 			]
+		},
+		"mcp-tasks": {
+			"command": "npx",
+			"args": ["-y", "mcp-tasks"],
+			"env": {
+				"STATUS_WIP": "In Progress",
+				"STATUS_TODO": "To Do",
+				"STATUS_DONE": "Done",
+				"STATUS_REMINDERS": "Reminders",
+				"STATUS_NOTES": "Notes",
+				"STATUSES": "In Progress,To Do,Done,Backlog,Reminders,Notes",
+				"AUTO_WIP": "true",
+				"PREFIX_TOOLS": "true",
+				"KEEP_DELETED": "true",
+				"TRANSPORT": "stdio",
+				"INSTRUCTIONS": "Use mcp-tasks tools when the user mentions new or updated tasks"
+			}
 		}
 	}
 }
