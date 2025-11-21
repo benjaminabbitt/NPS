@@ -2,20 +2,10 @@
 
 ## In Progress
 
-- [ ] Research and complete Abraham Lincoln Birthplace NHP
+- [ ] Research and complete Allegheny Portage Railroad NHS
 
 ## To Do
 
-- [ ] Research and complete Acadia NP
-- [ ] Research and complete Adams NHP
-- [ ] Research and complete African American Civil War MEM
-- [ ] Research and complete African Burial Ground NM
-- [ ] Research and complete Agate Fossil Beds NM
-- [ ] Research and complete Alagnak WR
-- [ ] Research and complete Alcatraz Island
-- [ ] Research and complete Aleutian World War II NHA
-- [ ] Research and complete Alibates Flint Quarries NM
-- [ ] Research and complete Allegheny Portage Railroad NHS
 - [ ] Research and complete Amache NHS
 - [ ] Research and complete American Veterans Disabled for Life Memorial
 - [ ] Research and complete Amistad NRA
@@ -559,5 +549,15 @@
 
 ## Done
 
+- [x] Research and complete Abraham Lincoln Birthplace NHP
+- [x] Research and complete Acadia NP
+- [x] Research and complete Alcatraz Island
+- [x] Research and complete Adams NHP
+- [x] Research and complete African Burial Ground NM
+- [x] Research and complete Agate Fossil Beds NM
+- [x] Research and complete Alibates Flint Quarries NM
+- [x] Research and complete African American Civil War MEM
+- [x] Research and complete Alagnak WR
+- [x] Research and complete Aleutian World War II NHA
 
 ## Backlog
