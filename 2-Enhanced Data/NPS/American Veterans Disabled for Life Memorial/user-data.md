@@ -6,24 +6,26 @@
 
 ## Cancellation Stamps
 
-- [ ] Dwight D. Eisenhower Memorial Bookstore (540 Independence Ave SW)
-- [ ] Washington Monument Lodge (15th Street NW)
+- [x] Dwight D. Eisenhower Memorial Bookstore (540 Independence Ave SW) [db2bf5]
+- [ ] Washington Monument Lodge (15th Street NW) [e26e18]
 
 ## Key Activities
 
-- [ ] Memorial Self-Guided Tour (20-30 minutes)
-- [ ] Memorial Grove Walk (10-15 minutes)
+- [ ] Memorial Self-Guided Tour (20-30 minutes) [7d222b]
+- [ ] Memorial Grove Walk (10-15 minutes) [9267ed]
 
 ## Hidden Gems
 
-- [ ] Fountain Safety System Observation (5 minutes)
-- [ ] Bartholdi Fountain Connection (10-15 minutes)
+- [ ] Fountain Safety System Observation (5 minutes) [11a853]
+- [ ] Bartholdi Fountain Connection (10-15 minutes) [c02daa]
 
 ## Also Nearby
 
-- [ ] United States Botanic Garden (2 hours, across the street)
-- [ ] U.S. Capitol Visitor Center Tours (1 hour, walking distance)
-- [ ] Library of Congress (1.5-2 hours, 5 minutes walk)
-- [ ] National Museum of the American Indian (2-3 hours, on National Mall)
+- [ ] United States Botanic Garden (2 hours, across the street) [145938]
+- [ ] U.S. Capitol Visitor Center Tours (1 hour, walking distance) [da4798]
+- [ ] Library of Congress (1.5-2 hours, 5 minutes walk) [ceb740]
+- [ ] National Museum of the American Indian (2-3 hours, on National Mall) [d3faff]
+
+
 
 ## Review / Personal Notes

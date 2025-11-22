@@ -1,7 +1,7 @@
 {
 	"mcpServers": {
 		"chroma": {
-			"command": "uvx",
+			"command": "/home/developer/.local/bin/uvx",
 			"args": [
 				"chroma-mcp",
 				"--client-type",

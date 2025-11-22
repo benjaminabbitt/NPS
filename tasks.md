@@ -2,30 +2,6 @@
 
 ## In Progress
 
-- [ ] Research and complete Appalachian NST
-
-## To Do
-
-- [ ] Research and complete Appomattox Court House NHP
-- [ ] Research and complete Arches NP
-- [ ] Research and complete Arkansas Post N MEM
-- [ ] Research and complete Arlington House_ Robert E_ Lee MEM
-- [ ] Research and complete Assateague Island NS
-- [ ] Research and complete Aztec Ruins NM
-- [ ] Research and complete Badlands NP
-- [ ] Research and complete Baltimore-Washington PKWY
-- [ ] Research and complete Bandelier NM
-- [ ] Research and complete Belmont-Paul Women_s Equality NM
-- [ ] Research and complete Bent_s Old Fort NHS
-- [ ] Research and complete Bering Land Bridge N PRES
-- [ ] Research and complete Big Bend NP
-- [ ] Research and complete Big Cypress N PRES
-- [ ] Research and complete Big Hole NB
-- [ ] Research and complete Big South Fork NRRA
-- [ ] Research and complete Big Thicket N PRES
-- [ ] Research and complete Bighorn Canyon NRA
-- [ ] Research and complete Birmingham Civil Rights NM
-- [ ] Research and complete Biscayne NP
 - [ ] Research and complete Black Canyon of the Gunnison NP
 - [ ] Research and complete Blackstone River Valley NHP
 - [ ] Research and complete Blackwell School NHS
@@ -35,6 +11,10 @@
 - [ ] Research and complete Boston African American NHS
 - [ ] Research and complete Boston Harbor Islands NRA
 - [ ] Research and complete Boston NHP
+
+## To Do
+
+- [ ] Research and complete Biscayne NP
 - [ ] Research and complete Brown v_ Board of Education NHS
 - [ ] Research and complete Bryce Canyon NP
 - [ ] Research and complete Buffalo NR
@@ -559,5 +539,65 @@
 - [x] Research and complete American Veterans Disabled for Life Memorial
 - [x] Research and complete Anacostia Park
 - [x] Research and complete Amistad NRA
+- [x] Add geocode coordinates to all addresses in Abraham Lincoln Birthplace NHP
+- [x] Add geocode coordinates to all addresses in Acadia NP
+- [x] Add geocode coordinates to all addresses in Alcatraz Island
+- [x] Add geocode coordinates to all addresses in Adams NHP
+- [x] Add geocode coordinates to all addresses in African Burial Ground NM
+- [x] Add geocode coordinates to all addresses in Agate Fossil Beds NM
+- [x] Add geocode coordinates to all addresses in Alibates Flint Quarries NM
+- [x] Add geocode coordinates to all addresses in African American Civil War MEM
+- [x] Add geocode coordinates to all addresses in Alagnak WR
+- [x] Add geocode coordinates to all addresses in Aleutian World War II NHA
+- [x] Add geocode coordinates to all addresses in Apostle Islands NL
+- [x] Add geocode coordinates to all addresses in Andersonville NHS
+- [x] Add geocode coordinates to all addresses in Antietam NB
+- [x] Add geocode coordinates to all addresses in Allegheny Portage Railroad NHS
+- [x] Add geocode coordinates to all addresses in Andrew Johnson NHS
+- [x] Add geocode coordinates to all addresses in Aniakchak NM _ PRES
+- [x] Add geocode coordinates to all addresses in Amache NHS
+- [x] Add geocode coordinates to all addresses in American Veterans Disabled for Life Memorial
+- [x] Add geocode coordinates to all addresses in Anacostia Park
+- [x] Add geocode coordinates to all addresses in Amistad NRA
+- [x] Verify CSV data preserved for Abraham Lincoln Birthplace NHP
+- [x] Verify CSV data preserved for Acadia NP
+- [x] Verify CSV data preserved for Alcatraz Island
+- [x] Verify CSV data preserved for Adams NHP
+- [x] Verify CSV data preserved for African Burial Ground NM
+- [x] Verify CSV data preserved for Agate Fossil Beds NM
+- [x] Verify CSV data preserved for Alibates Flint Quarries NM
+- [x] Verify CSV data preserved for African American Civil War MEM
+- [x] Verify CSV data preserved for Alagnak WR
+- [x] Verify CSV data preserved for Aleutian World War II NHA
+- [x] Verify CSV data preserved for Apostle Islands NL
+- [x] Verify CSV data preserved for Andersonville NHS
+- [x] Verify CSV data preserved for Antietam NB
+- [x] Verify CSV data preserved for Allegheny Portage Railroad NHS
+- [x] Verify CSV data preserved for Andrew Johnson NHS
+- [x] Verify CSV data preserved for Aniakchak NM _ PRES
+- [x] Verify CSV data preserved for Amache NHS
+- [x] Verify CSV data preserved for American Veterans Disabled for Life Memorial
+- [x] Verify CSV data preserved for Anacostia Park
+- [x] Verify CSV data preserved for Amistad NRA
+- [x] Research and complete Arches NP
+- [x] Research and complete Badlands NP
+- [x] Research and complete Appomattox Court House NHP
+- [x] Research and complete Arkansas Post N MEM
+- [x] Research and complete Assateague Island NS
+- [x] Research and complete Aztec Ruins NM
+- [x] Research and complete Baltimore-Washington PKWY
+- [x] Research and complete Bandelier NM
+- [x] Research and complete Arlington House_ Robert E_ Lee MEM
+- [x] Research and complete Belmont-Paul Women_s Equality NM
+- [x] Research and complete Appalachian NST
+- [x] Research and complete Bent_s Old Fort NHS
+- [x] Research and complete Bering Land Bridge N PRES
+- [x] Research and complete Big Bend NP
+- [x] Research and complete Big Cypress N PRES
+- [x] Research and complete Big Hole NB
+- [x] Research and complete Big South Fork NRRA
+- [x] Research and complete Big Thicket N PRES
+- [x] Research and complete Bighorn Canyon NRA
+- [x] Research and complete Birmingham Civil Rights NM
 
 ## Backlog

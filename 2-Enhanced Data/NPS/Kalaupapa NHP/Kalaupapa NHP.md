@@ -11,3 +11,14 @@
 ## Hidden Gems:
 
 ## Also Nearby:
+
+
+## Amber's Data
+
+*This section preserves the original data from the source spreadsheet.*
+
+**Main Address:** 7 Puahi Street, Kalaupapa, Hawaii 96742
+
+**Visitor Center (from source):**
+- **Name:** Kalaupapa National Historical Park Visitor Center [2683ca]
+- **Address:** 7 Bishop Rd [fa0882]

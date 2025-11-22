@@ -1,0 +1,160 @@
+{
+  "algorithm": "or-tools_guided_local_search",
+  "description": "Routes 20 NPS sites using OR-Tools optimization",
+  "stats": {
+    "total_distance_miles": 11321.2,
+    "total_drive_hours": 205.8,
+    "total_visit_hours": 40.0,
+    "total_trip_hours": 245.8,
+    "site_count": 20
+  },
+  "route": [
+    {
+      "order": 1,
+      "name": "Abraham Lincoln Birthplace NHP",
+      "lat": 37.5357,
+      "lon": -85.7433,
+      "visit_duration_hours": 2.0
+    },
+    {
+      "order": 2,
+      "name": "Allegheny Portage Railroad NHS",
+      "lat": 40.4519,
+      "lon": -78.6103,
+      "visit_duration_hours": 2.0
+    },
+    {
+      "order": 3,
+      "name": "Antietam NB",
+      "lat": 39.4592,
+      "lon": -77.7412,
+      "visit_duration_hours": 2.0
+    },
+    {
+      "order": 4,
+      "name": "American Veterans Disabled for Life Memorial",
+      "lat": 38.8898,
+      "lon": -77.0329,
+      "visit_duration_hours": 2.0
+    },
+    {
+      "order": 5,
+      "name": "African American Civil War MEM",
+      "lat": 38.8921,
+      "lon": -77.0241,
+      "visit_duration_hours": 2.0
+    },
+    {
+      "order": 6,
+      "name": "Anacostia Park",
+      "lat": 38.8634,
+      "lon": -76.9852,
+      "visit_duration_hours": 2.0
+    },
+    {
+      "order": 7,
+      "name": "African Burial Ground NM",
+      "lat": 40.7145,
+      "lon": -74.0048,
+      "visit_duration_hours": 2.0
+    },
+    {
+      "order": 8,
+      "name": "Adams NHP",
+      "lat": 42.2529,
+      "lon": -71.0023,
+      "visit_duration_hours": 2.0
+    },
+    {
+      "order": 9,
+      "name": "Acadia NP",
+      "lat": 44.3386,
+      "lon": -68.2733,
+      "visit_duration_hours": 2.0
+    },
+    {
+      "order": 10,
+      "name": "Apostle Islands NL",
+      "lat": 46.813,
+      "lon": -90.8205,
+      "visit_duration_hours": 2.0
+    },
+    {
+      "order": 11,
+      "name": "Alagnak WR",
+      "lat": 59.0725,
+      "lon": -156.8493,
+      "visit_duration_hours": 2.0
+    },
+    {
+      "order": 12,
+      "name": "Aniakchak NM _ PRES",
+      "lat": 58.6827,
+      "lon": -156.6682,
+      "visit_duration_hours": 2.0
+    },
+    {
+      "order": 13,
+      "name": "Aleutian World War II NHA",
+      "lat": 53.8845,
+      "lon": -166.5546,
+      "visit_duration_hours": 2.0
+    },
+    {
+      "order": 14,
+      "name": "Alcatraz Island",
+      "lat": 37.8267,
+      "lon": -122.423,
+      "visit_duration_hours": 2.0
+    },
+    {
+      "order": 15,
+      "name": "Agate Fossil Beds NM",
+      "lat": 42.4187,
+      "lon": -103.7272,
+      "visit_duration_hours": 2.0
+    },
+    {
+      "order": 16,
+      "name": "Amache NHS",
+      "lat": 38.0625,
+      "lon": -102.3087,
+      "visit_duration_hours": 2.0
+    },
+    {
+      "order": 17,
+      "name": "Alibates Flint Quarries NM",
+      "lat": 35.5665,
+      "lon": -101.6772,
+      "visit_duration_hours": 2.0
+    },
+    {
+      "order": 18,
+      "name": "Amistad NRA",
+      "lat": 29.466,
+      "lon": -100.9884,
+      "visit_duration_hours": 2.0
+    },
+    {
+      "order": 19,
+      "name": "Andersonville NHS",
+      "lat": 32.2037,
+      "lon": -84.1331,
+      "visit_duration_hours": 2.0
+    },
+    {
+      "order": 20,
+      "name": "Andrew Johnson NHS",
+      "lat": 36.1629,
+      "lon": -82.8295,
+      "visit_duration_hours": 2.0
+    },
+    {
+      "order": 21,
+      "name": "Abraham Lincoln Birthplace NHP",
+      "lat": 37.5357,
+      "lon": -85.7433,
+      "visit_duration_hours": 2.0
+    }
+  ]
+}

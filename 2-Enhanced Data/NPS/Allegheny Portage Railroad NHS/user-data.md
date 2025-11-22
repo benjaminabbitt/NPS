@@ -6,26 +6,28 @@
 
 ## Cancellation Stamps
 
-- [ ] Summit Level Visitor Center (110 Federal Park Road, Gallitzin, PA 16641)
+- [x] Summit Level Visitor Center (110 Federal Park Road, Gallitzin, PA 16641) [c3f61c]
 
 ## Key Activities
 
-- [ ] Summit Level Visitor Center (30-45 minutes)
-- [ ] Lemon House Historic Tavern (30 minutes)
-- [ ] Engine House 6 Exhibit Shelter (20-30 minutes)
-- [ ] Summit Level Hiking Trails (varies)
+- [x] Summit Level Visitor Center (30-45 minutes) [c3f61c]
+- [ ] Lemon House Historic Tavern (30 minutes) [05e668]
+- [ ] Engine House 6 Exhibit Shelter (20-30 minutes) [1efba5]
+- [ ] Summit Level Hiking Trails (varies) [a02b0c]
 
 ## Hidden Gems
 
-- [ ] Staple Bend Tunnel Trail (1.5-2 hours)
-- [ ] Skew Arch Bridge (10-15 minutes)
-- [ ] Heritage Hikes with Rangers (varies)
+- [ ] Staple Bend Tunnel Trail (1.5-2 hours) [fb2f87]
+- [ ] Skew Arch Bridge (10-15 minutes) [2f74ba]
+- [ ] Heritage Hikes with Rangers (varies) [a2f636]
 
 ## Also Nearby
 
-- [ ] Horseshoe Curve National Historic Landmark (1-1.5 hours, 12 miles west)
-- [ ] Gallitzin Tunnels Park & Museum (30-45 minutes, 3 miles)
-- [ ] Railroaders Memorial Museum (2 hours, 12 miles west in Altoona)
+- [ ] Horseshoe Curve National Historic Landmark (1-1.5 hours, 12 miles west) [6c4a79]
+- [ ] Gallitzin Tunnels Park & Museum (30-45 minutes, 3 miles) [27ae66]
+- [ ] Railroaders Memorial Museum (2 hours, 12 miles west in Altoona) [9570dc]
+
+
 
 ## Review / Personal Notes
 

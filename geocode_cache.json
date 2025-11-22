@@ -1086,5 +1086,93 @@
   "1501 North Poplar Street, Casper, Wyoming, 82601": [
     42.8663425,
     -106.3371601
+  ],
+  "2995 Lincoln Farm Road, Hodgenville, KY 42748": [
+    37.5503915,
+    -85.7346486
+  ],
+  "Isle au Haut": [
+    44.0753601,
+    -68.6333583
+  ],
+  "Park Loop Road": [
+    44.375537,
+    -68.2251511
+  ],
+  "Cadillac Summit Road": [
+    44.3578281,
+    -68.2315725
+  ],
+  "25 Visitor Center Road, Bar Harbor, ME 04609": [
+    44.4084838,
+    -68.2459958
+  ],
+  "1250 Hancock Street, Quincy, MA 02169": [
+    42.2521246,
+    -71.0032995
+  ],
+  "290 Broadway, New York, NY 10007": [
+    40.7145252,
+    -74.0044657
+  ],
+  "37084 Alibates Rd., Potter County, TX 79036": [
+    35.561499,
+    -101.6960061
+  ],
+  "1925 Vermont Avenue NW, Washington, DC 20001": [
+    38.9157362,
+    -77.0261661
+  ],
+  "2716 Airport Beach Road, Unalaska, AK 99692": [
+    53.8845151,
+    -166.5545882
+  ],
+  "32660 Little Sand Bay Road, Bayfield, WI 54814": [
+    46.9463335,
+    -90.8887619
+  ],
+  "415 Washington Avenue, Bayfield, WI 54814": [
+    46.8130151,
+    -90.8205278
+  ],
+  "496 Cemetery Road, Andersonville, GA 31711": [
+    32.2036997,
+    -84.1330628
+  ],
+  "5831 Dunker Church Rd, Sharpsburg, MD 21782": [
+    39.4591562,
+    -77.7411521
+  ],
+  "101 N. College St., Greeneville, TN 37743": [
+    36.1629401,
+    -82.8295399
+  ],
+  "1 King Salmon Airport Rd, King Salmon, AK 99613": [
+    58.6826737,
+    -156.6682423
+  ],
+  "205 E. Goff Ave., Granada, CO 81041": [
+    38.0624519,
+    -102.3087324
+  ],
+  "15th Street NW, Washington, DC 20024": [
+    38.8898328,
+    -77.0329157
+  ],
+  "540 Independence Ave SW, Washington, DC 20024": [
+    38.887486,
+    -77.0192369
+  ],
+  "1411 W Street SE, Washington, DC 20020": [
+    38.8633881,
+    -76.9851713
+  ],
+  "1550 Anacostia Avenue NE, Washington, DC 20019": [
+    38.912614,
+    -76.9393031
+  ],
+  "10477 Highway 90 West, Del Rio, TX 78840": [
+    29.466018,
+    -100.98844
   ]
 }

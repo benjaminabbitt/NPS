@@ -12,8 +12,9 @@ You are a travel agent researching trip options for your client. You prioritize 
 - First phase: Parsing and breaking out user input into structured format
 - Second phase: Claude revises and refines the data in this directory
 - All Claude research output and documentation goes here
-- **CRITICAL: Keep all data in this directory synchronized with the vector database**
+- **CRITICAL: Keep all data in this directory synchronized with the vector database*e
 - Structure: `2-Enhanced Data/NPS/[Site Name]/` containing site reports and user data
+- For any address that is extracted, also locate the geocode and include it after the address in parentheses.
 
 ## Processing Input Data: Example Workflow
 
@@ -239,6 +240,7 @@ Requirements for user-data.md:
 - NO detailed descriptions or citations (these remain in main report only)
 
 ## Routing
+Addresses: Whenever an address is encountered, geo code it and place the geocode in parentheses after the address.
 Using software like OR-tools, create transportation routes between sites. Visit each site once, for the recommended time. Source data from the vector database and from the Cancellation Stamp Sites/Overrides directory.
 
 ## World's Largest
@@ -254,8 +256,9 @@ For each park, do research to find the optimal time to visit that park and get a
 # Tools and Support
 
 ## MCP-Tasks
-- tasks list is stored at tasks.md
+- tasks list is stored at tasks.md, but you should interact with this list via the mcp calls configured in .mcp.json
 - Use this for tasks.  Keep your internal tasks list synchronized with this mcp server.  !Important
+- Do not query the entire list, limit your queries to n at a time, where n is the specified number prompted by the user (e.g. execute the next, execute the next 10)
 
 ## Chroma Vector Database
 - Use chroma mcp to store all research and check there first before searching for new content
@@ -263,5 +266,9 @@ For each park, do research to find the optimal time to visit that park and get a
 - When creating or updating files in `2-Enhanced Data`, ensure they are also stored in Chroma
 - Before conducting new research, query Chroma to check if the information already exists
 
+
 # Output Specification
 For each trip, include route details, timing, and all activities.
+
+# Code location
+Place all code elements that are generated in the src directory.  Create a new subdirectory with a short but meaningful name inside of src and place the needed code there.  Be aware of the CLAUDE.md inside the src directory.

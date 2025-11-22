@@ -11,3 +11,23 @@
 ## Hidden Gems:
 
 ## Also Nearby:
+
+
+## Amber's Data
+
+*This section preserves the original data from the source spreadsheet.*
+
+**Main Address:** 2120 W Daisy L Gatson Bates Dr, Little Rock, Arkansas 72202
+
+**Operating Hours (from source):**
+- **Sunday:** Closed [ff436f]
+- **Monday:** Closed [942cba]
+- **Tuesday:** 10:00 AM–4:00 PM [3fa55c]
+- **Wednesday:** 10:00 AM–4:00 PM [56d1cd]
+- **Thursday:** 10:00 AM–4:00 PM [ccffe9]
+- **Friday:** 10:00 AM–4:00 PM [d1ffbd]
+- **Saturday:** 10:00 AM–4:30 PM [23c4af]
+
+**Visitor Center (from source):**
+- **Name:** Little Rock Central High School National Historic Site Visitor Center [2683ca]
+- **Address:** 2120 W Daisy L Gatson Bates Dr [fa0882]

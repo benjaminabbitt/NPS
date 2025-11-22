@@ -1,0 +1,160 @@
+{
+  "algorithm": "nearest_neighbor_heuristic",
+  "description": "Routes 10 NPS sites to minimize total travel distance",
+  "start_location": "Abraham Lincoln Birthplace NHP (Hodgenville, KY)",
+  "stats": {
+    "total_distance_miles": 10948.9,
+    "total_drive_hours": 199.1,
+    "total_visit_hours": 20.0,
+    "total_trip_hours": 219.1,
+    "site_count": 10
+  },
+  "route": [
+    {
+      "order": 1,
+      "name": "Abraham Lincoln Birthplace NHP",
+      "city": "Hodgenville",
+      "state": "KY",
+      "lat": 37.5357,
+      "lon": -85.7433,
+      "visit_duration_hours": 2.0
+    },
+    {
+      "order": 2,
+      "name": "African American Civil War MEM",
+      "city": "Washington",
+      "state": "DC",
+      "lat": 38.8921,
+      "lon": -77.0241,
+      "visit_duration_hours": 2.0
+    },
+    {
+      "order": 3,
+      "name": "African Burial Ground NM",
+      "city": "New York",
+      "state": "NY",
+      "lat": 40.7145,
+      "lon": -74.0048,
+      "visit_duration_hours": 2.0
+    },
+    {
+      "order": 4,
+      "name": "Adams NHP",
+      "city": "Quincy",
+      "state": "MA",
+      "lat": 42.2529,
+      "lon": -71.0023,
+      "visit_duration_hours": 2.0
+    },
+    {
+      "order": 5,
+      "name": "Acadia NP",
+      "city": "Bar Harbor",
+      "state": "ME",
+      "lat": 44.3386,
+      "lon": -68.2733,
+      "visit_duration_hours": 2.0
+    },
+    {
+      "order": 6,
+      "name": "Agate Fossil Beds NM",
+      "city": "Harrison",
+      "state": "NE",
+      "lat": 42.4187,
+      "lon": -103.7272,
+      "visit_duration_hours": 2.0
+    },
+    {
+      "order": 7,
+      "name": "Alibates Flint Quarries NM",
+      "city": "Fritch",
+      "state": "TX",
+      "lat": 35.5665,
+      "lon": -101.6772,
+      "visit_duration_hours": 2.0
+    },
+    {
+      "order": 8,
+      "name": "Alcatraz Island",
+      "city": "San Francisco",
+      "state": "CA",
+      "lat": 37.8267,
+      "lon": -122.423,
+      "visit_duration_hours": 2.0
+    },
+    {
+      "order": 9,
+      "name": "Alagnak WR",
+      "city": "King Salmon",
+      "state": "AK",
+      "lat": 59.0725,
+      "lon": -156.8493,
+      "visit_duration_hours": 2.0
+    },
+    {
+      "order": 10,
+      "name": "Aleutian World War II NHA",
+      "city": "Unalaska",
+      "state": "AK",
+      "lat": 53.8845,
+      "lon": -166.5546,
+      "visit_duration_hours": 2.0
+    }
+  ],
+  "segments": [
+    {
+      "from": "Abraham Lincoln Birthplace NHP (Hodgenville, KY)",
+      "to": "African American Civil War MEM (Washington, DC)",
+      "distance_miles": 482.4,
+      "drive_hours": 8.8
+    },
+    {
+      "from": "African American Civil War MEM (Washington, DC)",
+      "to": "African Burial Ground NM (New York, NY)",
+      "distance_miles": 203.8,
+      "drive_hours": 3.7
+    },
+    {
+      "from": "African Burial Ground NM (New York, NY)",
+      "to": "Adams NHP (Quincy, MA)",
+      "distance_miles": 188.3,
+      "drive_hours": 3.4
+    },
+    {
+      "from": "Adams NHP (Quincy, MA)",
+      "to": "Acadia NP (Bar Harbor, ME)",
+      "distance_miles": 199.0,
+      "drive_hours": 3.6
+    },
+    {
+      "from": "Acadia NP (Bar Harbor, ME)",
+      "to": "Agate Fossil Beds NM (Harrison, NE)",
+      "distance_miles": 1771.6,
+      "drive_hours": 32.2
+    },
+    {
+      "from": "Agate Fossil Beds NM (Harrison, NE)",
+      "to": "Alibates Flint Quarries NM (Fritch, TX)",
+      "distance_miles": 486.1,
+      "drive_hours": 8.8
+    },
+    {
+      "from": "Alibates Flint Quarries NM (Fritch, TX)",
+      "to": "Alcatraz Island (San Francisco, CA)",
+      "distance_miles": 1157.5,
+      "drive_hours": 21.0
+    },
+    {
+      "from": "Alcatraz Island (San Francisco, CA)",
+      "to": "Alagnak WR (King Salmon, AK)",
+      "distance_miles": 2112.9,
+      "drive_hours": 38.4
+    },
+    {
+      "from": "Alagnak WR (King Salmon, AK)",
+      "to": "Aleutian World War II NHA (Unalaska, AK)",
+      "distance_miles": 514.5,
+      "drive_hours": 9.4
+    }
+  ]
+}

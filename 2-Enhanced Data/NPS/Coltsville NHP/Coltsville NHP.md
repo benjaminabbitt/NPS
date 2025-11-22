@@ -11,3 +11,11 @@
 ## Hidden Gems:
 
 ## Also Nearby:
+
+
+## Amber's Data
+
+*This section preserves the original data from the source spreadsheet.*
+
+**Main Address:** 120 Huyshope Ave, Hartford, Connecticut 06106
+

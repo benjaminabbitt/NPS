@@ -1,7 +1,34 @@
 # Birmingham Civil Rights NM
 
+[View Full Research Report](Birmingham%20Civil%20Rights%20NM.md)
+
 - [ ] Visited
 
-## Activities
+## Cancellation Stamps
 
-No activities found. See [Birmingham Civil Rights NM.md](Birmingham Civil Rights NM.md) for details.
+- [ ] A.G. Gaston Motel (1510 5th Ave N, Birmingham, AL 35203)
+- [ ] Birmingham Civil Rights Institute (512 16th Street N, Birmingham, AL 35203)
+
+## Key Activities
+
+- [ ] Tour the A.G. Gaston Motel (45-60 minutes)
+- [ ] Visit Birmingham Civil Rights Institute (1.5-2 hours minimum, up to 4 hours)
+- [ ] Tour 16th Street Baptist Church (1 hour)
+- [ ] Walk Kelly Ingram Park (30-45 minutes)
+- [ ] Walk the Fourth Avenue Historic District (30-45 minutes)
+
+## Hidden Gems
+
+- [ ] Visit Historic Bethel Baptist Church (30-45 minutes)
+- [ ] Explore Dynamite Hill Trail (30 minutes)
+- [ ] See Beth-El Synagogue Site (10-15 minutes)
+- [ ] Discover Historical Trail Markers (varies)
+
+## Also Nearby
+
+- [ ] Sloss Furnaces National Historic Landmark (1-2 hours, 1.5 miles east)
+- [ ] Vulcan Park and Museum (1-1.5 hours, 3 miles south)
+- [ ] Railroad Park (1-2 hours, 0.5 miles south)
+
+## Review / Personal Notes
+

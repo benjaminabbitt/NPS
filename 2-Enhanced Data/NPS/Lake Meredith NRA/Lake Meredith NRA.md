@@ -11,3 +11,23 @@
 ## Hidden Gems:
 
 ## Also Nearby:
+
+
+## Amber's Data
+
+*This section preserves the original data from the source spreadsheet.*
+
+**Main Address:** 419 E Broadway St, Fritch, Texas 79036
+
+**Operating Hours (from source):**
+- **Sunday:** Closed [ff436f]
+- **Monday:** 9:00 AM-4:00 PM [942cba]
+- **Tuesday:** 9:00 AM-4:00 PM [3fa55c]
+- **Wednesday:** 9:00 AM-4:00 PM [56d1cd]
+- **Thursday:** 9:00 AM-4:00 PM [ccffe9]
+- **Friday:** 9:00 AM-4:00 PM [d1ffbd]
+- **Saturday:** Closed [23c4af]
+
+**Visitor Center (from source):**
+- **Name:** Lake Meredith National Recreation Area Headquarters [2683ca]
+- **Address:** 419 E Broadway St [fa0882]
