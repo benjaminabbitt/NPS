@@ -29,5 +29,14 @@
 
 
 
+
+## Amber's Data (from spreadsheet)
+
+**Visitor Center:** Summit Level Visitor Center
+
+**Address:** Tunnelhill St, Duncansville, Pennsylvania 16635
+
+**Hours:** Hours not available
+
 ## Review / Personal Notes
 

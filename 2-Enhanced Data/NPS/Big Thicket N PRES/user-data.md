@@ -6,7 +6,7 @@
 
 ## Cancellation Stamps
 
-- [ ] Big Thicket Visitor Center (6044 FM 420, Kountze, TX 77625)
+- [x] Big Thicket Visitor Center (6044 FM 420, Kountze, TX 77625) (30.4583319, -94.3873783)
 
 ## Key Activities
 
@@ -39,5 +39,14 @@
 - [ ] Beaumont Botanical Gardens (30 minutes, Beaumont)
 - [ ] Spindletop-Gladys City Boomtown Museum (1-2 hours, Beaumont)
 - [ ] Edison Museum (30-45 minutes, Beaumont)
+
+
+## Amber's Data (from spreadsheet)
+
+**Visitor Center:** Big Thicket Visitor Center
+
+**Address:** 6102 FM 420, Kountze, Texas 77625
+
+**Hours:** Hours not available
 
 ## Review / Personal Notes

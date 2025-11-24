@@ -6,7 +6,7 @@
 
 ## Cancellation Stamps
 
-- [ ] Panther Junction Visitor Center (1 Panther Junction, Big Bend National Park, TX 79834)
+- [x] Panther Junction Visitor Center (1 Panther Junction, Big Bend National Park, TX 79834) (29.3279609, -103.206057)
 - [ ] Chisos Basin Visitor Center (142 Chisos Basin Rd, Big Bend National Park, TX 79834)
 - [ ] Castolon Visitor Center (600 Ross Maxwell Scenic Dr, Big Bend National Park, TX 79834)
 - [ ] Persimmon Gap Visitor Center (Main Park Rd, Alpine, TX 79830)
@@ -49,5 +49,14 @@
 - [ ] Marfa, TX (2-4 hours, 2 hours away)
 - [ ] Prada Marfa (15-30 minutes, 35 miles west of Marfa)
 - [ ] Marathon, TX (1-2 hours, 45 minutes to north entrance)
+
+
+## Amber's Data (from spreadsheet)
+
+**Visitor Center:** Panther Junction Visitor Center
+
+**Address:** 1 Alsate Dr, Big Bend National Park, Texas 79834
+
+**Hours:** Hours not available
 
 ## Review / Personal Notes

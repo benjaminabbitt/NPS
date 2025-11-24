@@ -1,33 +1,47 @@
 # Catoctin Mountain Park
 
-## Cancellation Stamp Locations:
+## Cancellation Stamp Locations
 
-- [ ] Catoctin Mountain Park Visitor Center (14707 Park Central Road, Thurmont, Maryland, 21788; 9:00 AM-4:30 PM)
+- **Visitor Center** - 6602 Foxville Road, Thurmont, MD 21788 (39.6217, -77.4062); Daily 9 AM - 4:30 PM, closed Thanksgiving, Christmas, and New Year's Day; 301-663-9388
 
-## Key Activities:
+**Note:** Call to confirm current stamp locations before visiting. [Visitor Center Information](https://www.nps.gov/cato/planyourvisit/visitorcenter.htm), [Operating Hours](https://www.nps.gov/cato/planyourvisit/hours.htm)
 
-- [ ] Visitor Center Experience (1-2 hours) - Explore exhibits and learn about Catoctin Mountain Park; 14707 Park Central Road, Thurmont, Maryland, 21788; 9:00 AM-4:30 PM [[Source](https://www.nps.gov/cmp)]
+## Key Activities
 
-## Hidden Gems:
+- **Cunningham Falls Hike (2.6 miles, 1-2 hours)** - Maryland's largest waterfall at 78 feet tall is the park's most popular attraction, accessible via the Falls Nature Trail from the Visitor Center in a moderately challenging hike with ups and downs; 6602 Foxville Road, Thurmont, MD 21788 (39.6217, -77.4062); Park open year-round, Visitor Center hours 9 AM - 4:30 PM daily; 301-663-9388 [Source: [Hiking - NPS](https://www.nps.gov/cato/planyourvisit/hiking.htm), [Falls Nature Trail](https://liveandlethike.com/2019/04/06/falls-nature-trail-catoctin-mountain-park-md/), [Cunningham Falls](https://www.alltrails.com/trail/us/maryland/cunningham-falls-nature-trail)]
 
-## Also Nearby:
+- **Wolf Rock and Chimney Rock Loop (3.9-4 miles, 2-3.5 hours)** - The most strenuous trail in the park, climbing almost 900 feet with steep, narrow, and sometimes slippery sections to reach two outstanding rock formations and vistas at Chimney Rock (1,419 ft elevation) and Wolf Rock (1,401 ft elevation); accessed from Park Central Road; Park open year-round [Source: [Wolf Rock Loop](https://epicbend.com/wolf-rock-chimney-rock-loop-hike/), [Chimney Rock Trail](https://npplan.com/parks-by-state/maryland-national-parks/catoctin-mountain-park-park-at-a-glance/catoctin-mountain-park-hiking-trails/catoctin-mountain-park-chimney-rock-wolf-rock-loop-hike/), [NPS Chimney Rock](https://www.nps.gov/thingstodo/catoctin-chimney-rock.htm)]
 
+- **Blue Blazes Whiskey Still Trail (0.6 miles roundtrip, 30 minutes)** - An easy interpretive trail following Blue Blazes creek with educational signs about stream ecology and whiskey production during Prohibition, concluding at an actual whiskey still from that era; accessed from gravel parking lot across from Visitor Center; Park open year-round [Source: [Blue Blazes Trail - NPS](https://www.nps.gov/thingstodo/blue-blazes-whiskey-still-trail.htm), [AllTrails](https://www.alltrails.com/trail/us/maryland/blue-blazes-whiskey-still-trail), [National Parks Traveler](https://www.nationalparkstraveler.org/2010/09/marylands-catoctin-mountain-park-whiskey-still-gets-you-close-and-personal-moonshine-history6890)]
 
-## Amber's Data
+- **Thurmont Vista Trail (0.9 miles, 28-60 minutes)** - A moderately challenging out-and-back trail with 206 feet elevation gain to a vista at 1,502 feet elevation offering views to the east of Frederick Valley and Thurmont; trailhead at second parking area marked "Charcoal Trail / Thurmont Vista" on Park Central Road; Park open year-round, best March-November [Source: [Thurmont Vista - AllTrails](https://www.alltrails.com/trail/us/maryland/catoctin-mountain-park-thurmont-vista), [NPPlan](https://npplan.com/parks-by-state/maryland-national-parks/catoctin-mountain-park-park-at-a-glance/catoctin-mountain-park-hiking-trails/catoctin-mountain-park-thurmont-vista-loop-hike/), [Hiking Project](https://www.hikingproject.com/trail/7021641/thurmont-vista-trail)]
 
-*This section preserves the original data from the source spreadsheet.*
+- **Blue Ridge Summit Vista Trail (0.7 miles, 30-60 minutes)** - The most accessible high vista point in the park at 1,520 feet elevation, featuring a short, gradual climb from Hog Rock Parking Area with views of Harbaugh Valley and surrounding mountains; Hog Rock Parking Area, Park Central Road; Park open year-round [Source: [Blue Ridge Vista - AllTrails](https://www.alltrails.com/trail/us/maryland/blue-ridge-summit-vista), [Hiking Project](https://www.hikingproject.com/trail/7021640/blue-ridge-summit-trail), [NPS Scenic Vistas](https://www.nps.gov/cato/planyourvisit/scenic-vistas.htm)]
 
-**Main Address:** 14707 Park Central Road, Thurmont, Maryland 21788
+- **Hog Rock Nature Trail (1 mile, 30-60 minutes)** - An easy educational nature trail with labeled posts and brochure guide identifying trees and natural features, relatively mild and gradual uphill climb with smoother trail surface than typical park trails; Hog Rock Parking Area, Park Central Road; Park open year-round [Source: [NPPlan Hog Rock](https://npplan.com/parks-by-state/maryland-national-parks/catoctin-mountain-park-park-at-a-glance/catoctin-mountain-park-hiking-trails/catoctin-mountain-park-hog-rock-nature-trail/), [NPS Hiking](https://www.nps.gov/cato/planyourvisit/hiking.htm)]
 
-**Operating Hours (from source):**
-- **Sunday:** 9:00 AM-4:30 PM [ff436f]
-- **Monday:** 9:00 AM-4:30 PM [942cba]
-- **Tuesday:** 9:00 AM-4:30 PM [3fa55c]
-- **Wednesday:** 9:00 AM-4:30 PM [56d1cd]
-- **Thursday:** 9:00 AM-4:30 PM [ccffe9]
-- **Friday:** 9:00 AM-4:30 PM [d1ffbd]
-- **Saturday:** 9:00 AM-4:30 PM [23c4af]
+- **Fly Fishing in Big Hunting Creek (2-4 hours)** - Catch-and-release fly fishing for brook, brown, and rainbow trout in a designated fly fishing only area with strict regulations requiring artificial flies or streamers on single hooks, conventional fly fishing tackle only, no spinning reels; Big Hunting Creek within park boundaries; Open year-round; Maryland fishing license and trout stamp required for ages 16+ [Source: [NPS Fishing](https://www.nps.gov/cato/planyourvisit/fly-fishing.htm), [Maryland Regulations](https://www.eregulations.com/maryland/fishing/special-management-areas-trout), [MD DNR Big Hunting Creek](https://dnr.maryland.gov/fisheries/pages/hotspots/bighunting.aspx)]
 
-**Visitor Center (from source):**
-- **Name:** Catoctin Mountain Park Visitor Center [2683ca]
-- **Address:** 14707 Park Central Road [fa0882]
+- **Camping at Owens Creek Campground (overnight)** - Primitive tent camping in wooded setting with 48 single campsites (limit 5 people per site), no hook-ups or dump station, connecting directly to Deerfield Nature Trail (1.5 mile loop); Owens Creek Campground accessible via Park Central Road; Reservations required online or by phone [Source: [NPS Campgrounds](https://www.nps.gov/cato/planyourvisit/campgrounds.htm), [Recreation.gov](https://www.recreation.gov/camping/campgrounds/247762), [Owens Creek - NPS](https://www.nps.gov/cato/planyourvisit/owens-creek-campground.htm)]
+
+## Hidden Gems
+
+- **Charcoal Trail (0.5 miles, 20-30 minutes)** - A short loop trail passing through areas where charcoal was once made for the historic iron industry, with wayside exhibits explaining the park's charcoal and sawmill industry heritage; accessible from Park Central Road; Park open year-round [Source: [NPPlan Charcoal Trail](https://npplan.com/parks-by-state/maryland-national-parks/catoctin-mountain-park-park-at-a-glance/catoctin-mountain-park-hiking-trails/catoctin-mountain-park-charcoal-trail/), [NPS East Hiking Trails](https://www.nps.gov/cato/planyourvisit/east-hiking-trails.htm)]
+
+- **Deerfield Nature Trail (1.5 miles, 45-90 minutes)** - A short, gentle trail on the west side of the park with informational signage about surrounding nature plus historical farm ruins; parking off Foxville Deerfield Road; Park open year-round [Source: [NPS Hiking](https://www.nps.gov/cato/planyourvisit/hiking.htm), [Roaming Monk](https://roamingmonk.com/best-family-hikes-at-catoctin-mountain-park/)]
+
+- **Catoctin Iron Furnace** - Remnants of an iron furnace constructed in 1774 that provided ammunition for the American Revolution and operated until 1903, located within adjacent Cunningham Falls State Park; Catoctin Furnace Road; Open during park hours [Source: [Thurmont Attractions](https://www.thurmont.com/2176/Attractions), [Cunningham Falls State Park](https://dnr.maryland.gov/publiclands/pages/western/cunningham.aspx)]
+
+## Also Nearby
+
+- **Catoctin Wildlife Preserve and Zoo (2-3 hours)** - Interactive wildlife preserve featuring over 50 acres with exotic animals and safari rides (tickets sold on-site, first-come first-served), located 3.4 miles from park; 13019 Catoctin Furnace Road, Thurmont, MD 21788 (39.62, -77.41); Daily 10 AM - 4 PM (last admission 3 PM), seasonal variations apply; Adults $22.50, Children (3-12) $16.50, Seniors/Military $21.50; 301-271-4922 [Source: [Catoctin Wildlife Preserve](https://catoctinwildlifepreserve.com/), [Admission & Hours](https://catoctinwildlifepreserve.com/pricing/), [Yelp](https://www.yelp.com/biz/catoctin-wildlife-preserve-thurmont)]
+
+- **National Museum of Civil War Medicine (1.5-2 hours)** - Premier center for studying medical, surgical, and nursing practices during the American Civil War, located in downtown Frederick approximately 20 minutes from park; 48 E Patrick Street, Frederick, MD 21701 (39.414, -77.410); Monday-Saturday 10 AM - 5 PM, Sunday 11 AM - 5 PM, closed major holidays, last admission 4:15 PM; Adults $9.50; 301-695-1864 [Source: [Civil War Medicine Museum](https://www.civilwarmed.org/), [Visit Frederick](https://www.visitfrederick.org/listing/national-museum-of-civil-war-medicine/750/), [Yelp](https://www.yelp.com/biz/national-museum-of-civil-war-medicine-frederick)]
+
+- **Gettysburg National Military Park (2-5 hours minimum)** - Famous Civil War battlefield site just 30 minutes from Catoctin Mountain Park, featuring museum, cyclorama, film "A New Birth of Freedom," virtual reality experiences, and battlefield tours with licensed guides; 1195 Baltimore Pike, Gettysburg, PA 17325; Visitor Center open Thursday-Monday 9 AM - 4 PM (closed Tuesday-Wednesday); Film, Museum & Cyclorama package available; 717-334-1124 [Source: [NPS Gettysburg Hours](https://www.nps.gov/gett/planyourvisit/hours.htm), [Visitor Center](https://www.gettysburgfoundation.org/exhibits-tours-events/museum-visitor-center), [Time Recommendations](https://www.tripadvisor.com/FAQ_Answers-g60798-d1856920-t2084284-How_much_time_should_one_allow_to_visit_this.html)]
+
+- **Springfield Manor Winery Distillery Brewery (2-3 hours)** - Maryland's first combined winery-distillery-brewery on a historic 130-acre estate, offering tastings, tours, and live music on weekends; 11836 Auburn Road, Thurmont, MD 21788 (39.62, -77.55); Friday 5 PM - 9 PM, Saturday 12 PM - 6 PM, Sunday 12 PM - 6 PM (closed Monday-Thursday); Live music 2-5 PM weekends; 301-271-0099 [Source: [Springfield Manor](https://www.springfieldmanor.com/), [Yelp](https://www.yelp.com/biz/springfield-manor-winery-distillery-brewery-thurmont-3), [Visit Frederick](https://www.visitfrederick.org/listing/springfield-manor-winery-distillery-brewery/299/)]
+
+---
+
+**Total Recommended Time:** 6-8 hours for a comprehensive day visit including major hikes (Cunningham Falls, Wolf Rock/Chimney Rock loop), historic sites (Blue Blazes Whiskey Still), and at least one vista overlook, or plan a 2-day weekend with overnight camping to experience all 25 miles of trails at a leisurely pace [Source: [TripAdvisor Reviews](https://www.tripadvisor.com/Attraction_Review-g60764-d143095-Reviews-Catoctin_Mountain_Park-Thurmont_Maryland.html), [NPS 2-Day Itinerary](https://home.nps.gov/articles/000/plan-like-a-park-ranger-2-day-itinerary-catoctin-mountain-park.htm)]

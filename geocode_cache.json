@@ -1174,5 +1174,981 @@
   "10477 Highway 90 West, Del Rio, TX 78840": [
     29.466018,
     -100.98844
+  ],
+  "1510 5th Avenue N, Birmingham, Alabama 35203": [
+    33.5153921,
+    -86.8144977
+  ],
+  "1031 Gurnee Ave, Anniston, Alabama 36201": [
+    33.6581699,
+    -85.83128
+  ],
+  "1 King Salmon Airport Rd, King Salmon, Alaska 99613": [
+    58.6826737,
+    -156.6682423
+  ],
+  "2716 Airport Beach Rd, Unalaska, Alaska 99692": [
+    53.8845151,
+    -166.5545882
+  ],
+  "214 Front St., Nome, Alaska 99762": [
+    64.4980814,
+    -165.4101566
+  ],
+  "5421 North Star Street, Barrow, Alaska 99723": [
+    71.2982129,
+    -156.7539881
+  ],
+  "171 3rd Ave, Kotzebue, Alaska 99752": [
+    66.8969703,
+    -162.5930442
+  ],
+  "501 Lincoln St, Sitka, Alaska 99835": [
+    57.0514305,
+    -135.3312227
+  ],
+  "101 Dunkel St, Fairbanks, Alaska 99701": [
+    64.845898,
+    -147.7119211
+  ],
+  "1100 W Ruins Dr, Coolidge, Arizona 85128": [
+    32.9946864,
+    -111.5366618
+  ],
+  "3500 S Apache Pass Rd, Bowie, Arizona 85605": [
+    32.3265073,
+    -109.4841684
+  ],
+  "S Entrance Rd, Grand Canyon Village, Arizona 86023": [
+    36.0557614,
+    -112.1292908
+  ],
+  "2800 Montezuma Castle Rd, Camp Verde, Arizona 86322": [
+    34.6143878,
+    -111.845751
+  ],
+  "10 Organ Pipe Dr, Ajo, Arizona 85321": [
+    31.9548142,
+    -112.8011351
+  ],
+  "1 Park Rd, Petrified Forest National Park, Arizona 86028": [
+    35.0658636,
+    -109.7814829
+  ],
+  "3693 S Old Spanish Trail, Tucson, Arizona 85730": [
+    32.1802177,
+    -110.7362598
+  ],
+  "26260 AZ-188, Roosevelt, Arizona 85545": [
+    33.6646232,
+    -111.1262476
+  ],
+  "25 Tuzigoot Rd, Clarkdale, Arizona 86324": [
+    34.771077,
+    -112.0253378
+  ],
+  "3 Walnut Canyon Road, Flagstaff, Arizona 86004": [
+    35.2027331,
+    -111.5147395
+  ],
+  "301 Parker Ave, Fort Smith, Arkansas 72901": [
+    35.388505,
+    -94.4310733
+  ],
+  "2120 W Daisy L Gatson Bates Dr, Little Rock, Arkansas 72202": [
+    34.7381346,
+    -92.2973826
+  ],
+  "1800 Cabrillo Memorial Dr, San Diego, California 92106": [
+    32.6922209,
+    -117.2451694
+  ],
+  "2 Black Canyon Road, Essex, California 92332": [
+    35.0464427,
+    -115.3935286
+  ],
+  "1901 Spinnaker Drive, Ventura, California 93001": [
+    34.2484654,
+    -119.266556
+  ],
+  "Airport Rd, DEATH VALLEY, California 92328": [
+    35.2865526,
+    -116.0808486
+  ],
+  "201 Marine Dr, San Francisco, California 94129": [
+    37.8090089,
+    -122.4743923
+  ],
+  "Golden Gate Bridge Plaza, San Francisco, California 94129": [
+    37.8071685,
+    -122.475654
+  ],
+  "4202 Alhambra Ave, Martinez, California 94553": [
+    37.9912921,
+    -122.1313223
+  ],
+  "6533 Freedom Wy, Twentynine Palms, California 92277": [
+    34.134827,
+    -116.0568095
+  ],
+  "83918 CA-180, Grant Grove Village, California 93633": [
+    36.7399215,
+    -118.9632552
+  ],
+  "21820 Lassen Peak Hwy, Mineral, California 96063": [
+    40.4377802,
+    -121.5338321
+  ],
+  "5001 Highway 395, Independence, California 93526": [
+    36.7920681,
+    -118.1926066
+  ],
+  "1 Bear Valley Road, Point Reyes Station, California 94956": [
+    38.0411184,
+    -122.8003358
+  ],
+  "210 Lincoln Blvd, San Francisco, California 94129": [
+    37.8019747,
+    -122.4568312
+  ],
+  "499 Jefferson St, San Francisco, California 94109": [
+    37.8075021,
+    -122.420543
+  ],
+  "26876 Mulholland Highway, Calabasas, California 91302": [
+    34.1351612,
+    -118.6447676
+  ],
+  "205 E Goff Ave, Granada, Colorado 81041": [
+    38.0624519,
+    -102.3087324
+  ],
+  "102 Elk Creek, Gunnison, Colorado 81230": [
+    38.4666356,
+    -107.1656373
+  ],
+  "4545 US-40, Dinosaur, Colorado 81610": [
+    40.2436171,
+    -108.972499
+  ],
+  "1000 US-36, Estes Park, Colorado 80517": [
+    40.375336,
+    -105.5059
+  ],
+  "735 Nod Hill Rd, Wilton, Connecticut 06897": [
+    41.2577549,
+    -73.4569284
+  ],
+  "10 Market St, New Castle, Delaware 19720": [
+    39.6598681,
+    -75.56338
+  ],
+  "33000 Tamiami Trail East, Ochopee, Florida 34141": [
+    25.8988938,
+    -81.2883856
+  ],
+  "9700 SW 328th St, Homestead, Florida 33033": [
+    25.4643962,
+    -80.3347359
+  ],
+  "7611 S. Atlantic Ave, New Smyrna Beach, Florida 32169": [
+    28.9272225,
+    -80.8243973
+  ],
+  "11 S Castillo Dr, St. Augustine, Florida 32084": [
+    29.8993771,
+    -81.3143815
+  ],
+  "12751 Fort Caroline Rd, Jacksonville, Florida 32225": [
+    30.3848466,
+    -81.4959844
+  ],
+  "8635 A1A S, St. Augustine, Florida 32080": [
+    29.8611867,
+    -81.2780349
+  ],
+  "3500 Park Rd, Ocean Springs, Mississippi 39564": [
+    30.3988806,
+    -88.7865166
+  ],
+  "1978 Island Ford Pkwy, Sandy Springs, Georgia 30350": [
+    33.9872732,
+    -84.324584
+  ],
+  "6515 Frederica Rd., St. Simons Island, Georgia 31522": [
+    31.1600988,
+    -81.3884377
+  ],
+  "300 North Bond Street, Plains, Georgia 31780": [
+    32.0365845,
+    -84.3925601
+  ],
+  "1207 Emery Hwy, Macon, Georgia 31217": [
+    32.837227,
+    -83.6018436
+  ],
+  "7 Bishop Rd, Kalaupapa, Hawaii 96742": [
+    21.1886423,
+    -156.9824482
+  ],
+  "3035 Elba-Almo Road, Almo, Idaho 83312": [
+    42.0913683,
+    -113.632527
+  ],
+  "1428 Hunt Rd, Jerome, Idaho 83338": [
+    42.6790604,
+    -114.2436604
+  ],
+  "39063 US-95, Lapwai, Idaho 83540": [
+    46.447474,
+    -116.8227749
+  ],
+  "158 N Court St, Sumner, Mississippi 38957": [
+    33.9711973,
+    -90.3697739
+  ],
+  "610 E 111th St, Chicago, Illinois 60628": [
+    41.6928561,
+    -87.6096053
+  ],
+  "413 S 8th St, Springfield, Illinois 62701": [
+    39.7973527,
+    -89.6448765
+  ],
+  "425 S 2nd St, Vincennes, Indiana 47591": [
+    38.6775722,
+    -87.5360877
+  ],
+  "104 Parkside Dr, West Branch, Iowa 52358": [
+    41.6707487,
+    -91.3454687
+  ],
+  "1767 KS-156, Larned, Kansas 67550": [
+    38.1881528,
+    -99.1018604
+  ],
+  "199 Old Fort Blvd, Fort Scott, Kansas 66701": [
+    37.8436759,
+    -94.7065998
+  ],
+  "2995 Lincoln Farm Road, Hodgenville, Kentucky 42748": [
+    37.5503915,
+    -85.7346486
+  ],
+  "4386 LA-494, Natchez, Louisiana 71456": [
+    31.6655406,
+    -93.0024144
+  ],
+  "419 Decatur St, New Orleans, Louisiana 70130": [
+    29.9548546,
+    -90.0647995
+  ],
+  "25 Visitor Center Road, Bar Harbor, Maine 04609": [
+    44.4084838,
+    -68.2459958
+  ],
+  "478 River Road, Newcastle, Maine 4553": [
+    44.0052552,
+    -69.5564193
+  ],
+  "84 St Croix Dr, Calais, Maine 4619": [
+    45.1239264,
+    -67.1483159
+  ],
+  "5831 Dunker Church Rd., Sharpsburg, Maryland 21782": [
+    39.4591562,
+    -77.7411521
+  ],
+  "5801 Oxford Road, Glen Echo, Maryland 20812": [
+    38.967745,
+    -77.140882
+  ],
+  "13551 Fort Washington Rd, Fort Washington, Maryland 20744": [
+    38.7126138,
+    -77.0331588
+  ],
+  "7300 MacArthur Boulevard, Glen Echo, Maryland 20812": [
+    38.9669058,
+    -77.1394511
+  ],
+  "6565 Greenbelt Road, Greenbelt, Maryland 20770": [
+    38.9949557,
+    -76.8924853
+  ],
+  "535 Hampton Lane, Towson, Maryland 21286": [
+    39.4163298,
+    -76.5876824
+  ],
+  "4068 Golden Hill Road, Church Creek, Maryland 21622": [
+    38.5000678,
+    -76.1502973
+  ],
+  "5201 Urbana Pike, Frederick, Maryland 21704": [
+    39.377972,
+    -77.397741
+  ],
+  "1550 Anacostia Ave. NE, Washington DC, DC 20019": [
+    38.912614,
+    -76.9393031
+  ],
+  "6655 Rose Hill Road, Port Tobacco, Maryland 20677": [
+    38.5302228,
+    -77.0360484
+  ],
+  "1250 Hancock St, Quincy, Massachusetts 02169": [
+    42.2517569,
+    -71.0033967
+  ],
+  "50 Hopedale Street, Hopedale, Massachusetts 01747": [
+    42.1301475,
+    -71.5411508
+  ],
+  "1 Faneuil Hall Sq, Boston, Massachusetts 02109": [
+    42.3600335,
+    -71.0562341
+  ],
+  "151 W Atlantic Avenue, Boston, Massachusetts 02110": [
+    42.3557612,
+    -71.0508834
+  ],
+  "50 Nauset Road, Eastham, Massachusetts 02642": [
+    41.8382325,
+    -69.9723193
+  ],
+  "99 Warren Street, Brookline, Massachusetts 02445": [
+    42.3253679,
+    -71.1323087
+  ],
+  "246 Market St., Lowell, Massachusetts 01852": [
+    42.6442901,
+    -71.3121475
+  ],
+  "210 North Great Road, Lincoln, Massachusetts 01773": [
+    42.4490425,
+    -71.2769212
+  ],
+  "33 William St, New Bedford, Massachusetts 02740": [
+    41.6357316,
+    -70.9237988
+  ],
+  "2 New Liberty St, Salem, Massachusetts 01970": [
+    42.5226304,
+    -70.8919882
+  ],
+  "244 Central St, Saugus, Massachusetts 01906": [
+    42.4685934,
+    -71.0088876
+  ],
+  "800 E. Lakeshore Drive, Houghton, Michigan 49931": [
+    47.1229405,
+    -88.5637537
+  ],
+  "98 5th St, Calumet, Michigan 49913": [
+    47.2440788,
+    -88.4523448
+  ],
+  "1505 Sand Point Rd, Munising, Michigan 49862": [
+    46.4237239,
+    -86.6238153
+  ],
+  "333 N Dixie Hwy, Monroe, Michigan 48162": [
+    41.9159374,
+    -83.3782184
+  ],
+  "9922 W Front St, Empire, Michigan 49630": [
+    44.8111976,
+    -86.0547162
+  ],
+  "170 Mile Creek Rd, Grand Portage, Minnesota 55605": [
+    47.9609724,
+    -89.6857677
+  ],
+  "120 W Kellogg Blvd, St Paul, Minnesota 55102": [
+    44.9470685,
+    -93.1042897
+  ],
+  "36 Reservation Ave, Pipestone, Minnesota 56164": [
+    44.0095584,
+    -96.3210255
+  ],
+  "219 N Delaware St, Independence, Missouri 64050": [
+    39.0937292,
+    -94.4233448
+  ],
+  "8523 NE-4, Beatrice, Nebraska 68310": [
+    40.2658382,
+    -96.7332497
+  ],
+  "190276 Old Oregon Trail, Gering, Nebraska 69341": [
+    41.8286261,
+    -103.7074807
+  ],
+  "5500 NV-488, Baker, Nevada 89311": [
+    39.015325,
+    -114.152583
+  ],
+  "8660 N Decatur Blvd, Las Vegas, Nevada 89085": [
+    36.3166581,
+    -115.207274
+  ],
+  "139 St Gaudens Rd, Cornish, New Hampshire 03745": [
+    43.500658,
+    -72.3656917
+  ],
+  "175-10 Cross Bay Blvd, Broad Channel, New York 11693": [
+    40.598113,
+    -73.8207508
+  ],
+  "30 Washington Place, Morristown, New Jersey 07960": [
+    40.7973298,
+    -74.4671071
+  ],
+  "72 McBride Avenue Extension, Paterson, New Jersey 07501": [
+    40.9148026,
+    -74.1809754
+  ],
+  "211 Main Street, West Orange, New Jersey 07052": [
+    40.7851176,
+    -74.2333435
+  ],
+  "725 Ruins Rd, Aztec, New Mexico 87410": [
+    36.8345857,
+    -108.0002137
+  ],
+  "15 Entrance Rd, Los Alamos, New Mexico 87544": [
+    35.79499,
+    -106.2761014
+  ],
+  "44 Volcano Road, Capulin, New Mexico 88414": [
+    36.7787156,
+    -103.9803504
+  ],
+  "727 Carlsbad Caverns Highway, Carlsbad, New Mexico 88220": [
+    32.175424,
+    -104.4445002
+  ],
+  "1900 E Santa Fe Ave, Grants, New Mexico 87020": [
+    35.1186484,
+    -107.828853
+  ],
+  "NM-53, Ramah, New Mexico 87321": [
+    35.120638,
+    -108.484254
+  ],
+  "2000 Logston Blvd, Richland, Washington 99354": [
+    46.3186488,
+    -119.3002167
+  ],
+  "Western Trail NW, Albuquerque, New Mexico 87120": [
+    35.1344849,
+    -106.7106283
+  ],
+  "105 South Ripley Avenue, Mountainair, New Mexico 87036": [
+    34.5177349,
+    -106.241929
+  ],
+  "19955 US-70, Alamogordo, New Mexico 88310": [
+    32.779621,
+    -106.1722449
+  ],
+  "290 Broadway, New York, New York 10007": [
+    40.7145252,
+    -74.0044657
+  ],
+  "Battery Park, New York, New York 10004": [
+    40.702856,
+    -74.0172629
+  ],
+  "Ellis Island National Museum of Immigration, New York, New York 10004": [
+    40.6991311,
+    -74.0395482
+  ],
+  "15 Pine Street, New York, New York 10005": [
+    40.7075171,
+    -74.0100604
+  ],
+  "100 North James St., Rome, New York 13440": [
+    43.210051,
+    -75.457926
+  ],
+  "414 West 141st Street, New York, New York 10031": [
+    40.8213589,
+    -73.9473012
+  ],
+  "47 Parker Street, Auburn, New York 13021": [
+    42.923399,
+    -76.5758105
+  ],
+  "103 Orchard Street, New York, New York 10002": [
+    40.7187837,
+    -73.9900266
+  ],
+  "1013 Old Post Road, Kinderhook, New York 12106": [
+    42.3698216,
+    -73.7040339
+  ],
+  "20 Sagamore Hill Rd, Oyster Bay, New York 11771": [
+    40.8859117,
+    -73.4960288
+  ],
+  "Liberty Island, New York, New York 10004": [
+    40.6898508,
+    -74.0476674
+  ],
+  "51 Christopher St, New York, New York 10014": [
+    40.7339151,
+    -74.0020726
+  ],
+  "28 East 20th Street, New York, New York 10003": [
+    40.7386402,
+    -73.9890373
+  ],
+  "641 Delaware Avenue, Buffalo, New York 14202": [
+    42.9015679,
+    -78.8726259
+  ],
+  "218 Spring Street, Catskill, New York 12414": [
+    42.225766,
+    -73.8615472
+  ],
+  "1 Vanderbilt Park Rd, Hyde Park, New York 12538": [
+    41.7939221,
+    -73.9378168
+  ],
+  "1800 Island Road, Harkers Island, North Carolina 28531": [
+    34.6976882,
+    -76.5735718
+  ],
+  "81 Carl Sandburg Lane, Flat Rock, North Carolina 28731": [
+    35.2727825,
+    -82.4528575
+  ],
+  "2332 New Garden Road, Greensboro, North Carolina 27410": [
+    36.1315112,
+    -79.8474318
+  ],
+  "40 Patriots Hall Dr., Currie, North Carolina 28435": [
+    34.4578949,
+    -78.1096233
+  ],
+  "1000 North Croatan Highway, Kill Devil Hills, North Carolina 27948": [
+    36.02064,
+    -75.6677117
+  ],
+  "6947 Riverview Rd, Peninsula, Ohio 44264": [
+    41.2625954,
+    -81.560308
+  ],
+  "22 S Williams St, Dayton, Ohio 45402": [
+    39.7553856,
+    -84.2119654
+  ],
+  "205 Market Avenue South, Canton, Ohio 44702": [
+    40.7975362,
+    -81.3748608
+  ],
+  "2038 Auburn Avenue, Cincinnati, Ohio 45219": [
+    39.119899,
+    -84.508528
+  ],
+  "1504 Perimeter Rd, Sulphur, Oklahoma 73086": [
+    34.4937367,
+    -96.9789694
+  ],
+  "620 N. Harvey Ave., Oklahoma City, Oklahoma 73102": [
+    35.4737199,
+    -97.5172885
+  ],
+  "32651 OR-19, Kimberly, Oregon 97848": [
+    44.5529761,
+    -119.6461435
+  ],
+  "1978 River Road, Bushkill, Pennsylvania 18324": [
+    41.0706397,
+    -75.0170041
+  ],
+  "532 N. 7th Street, Philadelphia, Pennsylvania 19123": [
+    39.9618313,
+    -75.1498587
+  ],
+  "6424 Lincoln Highway, Stoystown, Pennsylvania 15563": [
+    40.0985388,
+    -78.9520453
+  ],
+  "223 New Geneva Road, Point Marion, Pennsylvania 15474": [
+    39.7807755,
+    -79.9200728
+  ],
+  "916 S. Swanson Street, Philadelphia, Pennsylvania 19147": [
+    39.9356801,
+    -75.1432756
+  ],
+  "599 Market St, Philadelphia, Pennsylvania 19106": [
+    39.9514534,
+    -75.1499193
+  ],
+  "350 Cliff Street, Scranton, Pennsylvania 18503": [
+    41.4089919,
+    -75.6738549
+  ],
+  "282 North Main Street, Providence, Rhode Island 02903": [
+    41.8316898,
+    -71.4105407
+  ],
+  "50-52 Spring St, Newport, Rhode Island 02840": [
+    41.4740544,
+    -71.3104743
+  ],
+  "1254 Long Point Road, Mount Pleasant, South Carolina 29464": [
+    32.8467455,
+    -79.8278953
+  ],
+  "4001 Chesnee Hwy, Gaffney, South Carolina 29341": [
+    35.1037677,
+    -81.6911511
+  ],
+  "1103 Hwy 248, Ninety Six, South Carolina 29666": [
+    34.1678411,
+    -82.0256516
+  ],
+  "706 Craven Street, Beaufort, South Carolina 29902": [
+    32.432537,
+    -80.6700904
+  ],
+  "101 N. College Street, Greeneville, Tennessee 37743": [
+    36.1629401,
+    -82.8295399
+  ],
+  "120 Fort Donelson Park Road, Dover, Tennessee 37058": [
+    36.4831363,
+    -87.8625811
+  ],
+  "3501 Old Nashville Hwy, Murfreesboro, Tennessee 37129": [
+    35.881861,
+    -86.434846
+  ],
+  "10477 US-90, Del Rio, Texas 78840": [
+    29.466018,
+    -100.98844
+  ],
+  "800 S San Marcial St, El Paso, Texas 79905": [
+    31.7679289,
+    -106.4538777
+  ],
+  "419 E Broadway St, Fritch, Texas 79036": [
+    35.6432673,
+    -101.5862787
+  ],
+  "20420 Park Rd 22, Corpus Christi, Texas 78418": [
+    27.4243667,
+    -97.2990078
+  ],
+  "7200 Paredes Line Road, Brownsville, Texas 78526": [
+    26.0049965,
+    -97.4817606
+  ],
+  "6701 San Jose Drive, San Antonio, Texas 78214": [
+    29.3603458,
+    -98.4788872
+  ],
+  "Highway 63, Bryce, Utah 84764": [
+    37.685072,
+    -112.1535205
+  ],
+  "1025 E Alpine Dr, Alpine, Utah 84004": [
+    40.4507397,
+    -111.7580279
+  ],
+  "1 Zion Park Blvd, Springdale, Utah 84767": [
+    37.2001074,
+    -112.9869151
+  ],
+  "54 Elm St, Woodstock, Vermont 05091": [
+    43.6311669,
+    -72.517908
+  ],
+  "121 West Basin Dr SW, Washington, DC, DC 20004": [
+    38.8818503,
+    -77.0339422
+  ],
+  "540 Independence Ave SW, Washington DC, DC 20024": [
+    38.887486,
+    -77.0192369
+  ],
+  "2 Lincoln Circle NW, Washington, DC, DC 20002": [
+    38.8901227,
+    -77.0495511
+  ],
+  "1850 West Basin Dr SW, Washington DC, DC 20242": [
+    38.8818503,
+    -77.0339422
+  ],
+  "1550 Anacostia Ave NE, Washington, DC, DC 20019": [
+    38.912614,
+    -76.9393031
+  ],
+  "511 10th St NW, Washington, DC, DC 20004": [
+    38.896678,
+    -77.0258178
+  ],
+  "5200 Glover Rd NW, Washington DC, DC 20015": [
+    38.9600035,
+    -77.0516825
+  ],
+  "2 15th Street NW, Washington DC, DC 20024": [
+    38.8894754,
+    -77.0352426
+  ],
+  "1501 E Evergreen Blvd., Vancouver, Washington 98661": [
+    45.6262017,
+    -122.6566331
+  ],
+  "3002 Mount Angeles Road, Port Angeles, Washington 98362": [
+    48.0982206,
+    -123.4247649
+  ],
+  "328 Whitman Mission Rd, Walla Walla, Washington 99362": [
+    46.0414711,
+    -118.4644921
+  ],
+  "719 South King Street, Seattle, Washington 98104": [
+    47.5982461,
+    -122.3228705
+  ],
+  "32660 Little Sand Bay Rd, Bayfield, Wisconsin 54814": [
+    46.9463335,
+    -90.8887619
+  ],
+  "8075 Old Sauk Pass Road, Cross Plains, Wisconsin 53528": [
+    43.0817879,
+    -89.6118533
+  ],
+  "799 Washington Street, Harpers Ferry, WV 25425": [
+    39.3255014,
+    -77.7405433
+  ],
+  "214 Front Street, Nome, AK 99762": [
+    64.4980814,
+    -165.4101566
+  ],
+  "1 Panther Junction, Big Bend National Park, TX 79834": [
+    29.3279609,
+    -103.206057
+  ],
+  "52105 Tamiami Trail E, Ochopee, FL 34141": [
+    25.857417,
+    -81.0335752
+  ],
+  "33100 Tamiami Trail E, Ochopee, FL 34141": [
+    25.900584,
+    -81.3222993
+  ],
+  "6044 FM 420, Kountze, TX 77625": [
+    30.4583319,
+    -94.3873783
+  ],
+  "Rte 210, Fort Smith, MT": [
+    45.315144,
+    -107.9515947
+  ],
+  "1510 5th Ave N, Birmingham, AL 35203": [
+    33.5153921,
+    -86.8144977
+  ],
+  "512 16th Street N, Birmingham, AL 35203": [
+    33.5171528,
+    -86.8149288
+  ],
+  "1515 SE Monroe Street, Topeka, KS 66612": [
+    39.0379549,
+    -95.6764888
+  ],
+  "Highway 63, Bryce, UT 84764": [
+    37.685072,
+    -112.1535205
+  ],
+  "Buffalo Point, AR": [
+    36.1645233,
+    -92.4405975
+  ],
+  "1800 Cabrillo Memorial Dr, San Diego, CA 92106": [
+    32.6922209,
+    -117.2451694
+  ],
+  "7611 S. Atlantic Ave, New Smyrna Beach, FL 32169": [
+    28.9272225,
+    -80.8243973
+  ],
+  "Indian Route 7, Chinle, AZ 86503": [
+    36.1594495,
+    -109.5755639
+  ],
+  "The Maze District": [
+    8.4781957,
+    -13.2585849
+  ],
+  "50 Nauset Road, Eastham, MA 02642": [
+    41.8382325,
+    -69.9723193
+  ],
+  "171 Race Point Road, Provincetown, MA": [
+    42.0740454,
+    -70.205273
+  ],
+  "46375 Lighthouse Road, Buxton, NC 27920": [
+    35.2647914,
+    -75.5250228
+  ],
+  "583 Atlantic Avenue, Fort Story, Virginia Beach, VA 23459": [
+    36.9258008,
+    -76.0081243
+  ],
+  "171 3rd Avenue, Kotzebue, AK 99752": [
+    66.8969703,
+    -162.5930442
+  ],
+  "701 Front Street, Beaufort, NC": [
+    34.7151735,
+    -76.6620471
+  ],
+  "1411 W St SE, Washington, DC 20020": [
+    38.8633881,
+    -76.9851713
+  ],
+  "1550 Anacostia Ave NE, Washington, DC 20019": [
+    38.912614,
+    -76.9393031
+  ],
+  "1318 Vermont Avenue NW, Washington, DC 20005": [
+    38.9081762,
+    -77.0308617
+  ],
+  "81 Carl Sandburg Lane, Flat Rock, NC 28731": [
+    35.2727825,
+    -82.4528575
+  ],
+  "3225 National Parks Highway, Carlsbad, NM 88220": [
+    32.3849636,
+    -104.2227676
+  ],
+  "1100 W. Ruins Drive, Coolidge, AZ 85128": [
+    32.9946864,
+    -111.5366618
+  ],
+  "Battery Park, New York, NY 10004": [
+    40.702856,
+    -74.0172629
+  ],
+  "2701 Barstow Road, Barstow, CA 92311": [
+    34.8713498,
+    -117.0202737
+  ],
+  "6602 Foxville Road, Thurmont, MD 21788": [
+    39.6268151,
+    -77.4397771
+  ],
+  "7712 Main Street, Middletown, VA 22645": [
+    39.0310273,
+    -78.2749771
+  ],
+  "8437 Valley Pike, Middletown, VA 22645": [
+    39.0166057,
+    -78.2971507
+  ],
+  "33229 Old Valley Pike, Strasburg, VA 22657": [
+    39.0007266,
+    -78.3491203
+  ],
+  "800 South San Marcial Street, El Paso, TX 79905": [
+    31.7679289,
+    -106.4538777
+  ],
+  "330 Meadow Creek Rd": [
+    35.7032968,
+    -79.4250803
+  ],
+  "1000 Colonial Parkway": [
+    34.439407,
+    -103.194174
+  ],
+  "30 Ingalls Rd": [
+    -37.8879493,
+    144.5924777
+  ],
+  "864 Chicken Creek Rd": [
+    35.1813118,
+    -87.0878382
+  ],
+  "162 Visitor Center Rd": [
+    34.2939248,
+    -94.1798525
+  ],
+  "1730 Popes Creek Rd": [
+    37.5524796,
+    -85.1697211
+  ],
+  "700 George Washington Memorial Parkway": [
+    38.961154,
+    -77.1463994
+  ],
+  "1 Teton Park Rd": [
+    43.8441363,
+    -110.6108042
+  ],
+  "9200 Old Dominion Dr": [
+    38.9937464,
+    -77.2555114
+  ],
+  "1368 Colonial Parkway": [
+    37.223011,
+    -76.784161
+  ],
+  "6511 Sudley Rd": [
+    38.8130594,
+    -77.5216448
+  ],
+  "1501 North Poplar Street": [
+    42.8663425,
+    -106.3371601
+  ],
+  "5001 Siege Road": [
+    37.2418507,
+    -77.3580172
+  ],
+  "18170 Park Entrance Road": [
+    40.3869075,
+    -105.6101747
+  ],
+  "3215 E. Broad Street": [
+    37.5268267,
+    -77.4121995
+  ],
+  "17065 Skyline Drive": [
+    44.2828717,
+    -105.5374053
+  ],
+  "1616 Chappie James Ave": [
+    31.3272563,
+    -92.5325568
+  ],
+  "1212 W Montgomery Rd": [
+    32.4288729,
+    -85.7084448
+  ],
+  "Grand Loop Rd": [
+    44.9626801,
+    -110.7045459
+  ],
+  "2332 Margaret W Alexander Dr, Jackson, Mississippi 39213": [
+    32.340878,
+    -90.212145
+  ],
+  "122 Melrose Ave, Natchez, Mississippi 39120": [
+    31.5470831,
+    -91.3855572
+  ],
+  "8586 Beach Rd, Chincoteague,  23336": [
+    37.9185315,
+    -75.3512123
   ]
 }

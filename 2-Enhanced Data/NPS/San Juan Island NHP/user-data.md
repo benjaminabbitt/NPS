@@ -5,3 +5,13 @@
 ## Activities
 
 No activities found. See [San Juan Island NHP.md](San Juan Island NHP.md) for details.
+
+
+## Amber's Data (from spreadsheet)
+
+**Visitor Center:** American Camp Visitor Center
+
+**Address:** 4668 Cattle Point Rd., Friday Harbor, Washington 98250
+
+**Hours:** Hours not available
+

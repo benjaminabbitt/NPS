@@ -34,4 +34,13 @@
 
 
 
+
+## Amber's Data (from spreadsheet)
+
+**Visitor Center:** Visitor Center at Abraham Lincoln Birthplace
+
+**Address:** 2995 Lincoln Farm Road, Hodgenville, Kentucky 42748 (37.5503915, -85.7346486)
+
+**Hours:** Hours not available
+
 ## Review / Personal Notes

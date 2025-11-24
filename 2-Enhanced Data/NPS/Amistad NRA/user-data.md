@@ -32,5 +32,14 @@
 
 
 
+
+## Amber's Data (from spreadsheet)
+
+**Visitor Center:** Amistad National Recreation Area Visitor Center
+
+**Address:** 10477 US-90, Del Rio, Texas 78840 (29.466018, -100.98844)
+
+**Hours:** Hours not available
+
 ## Review / Personal Notes
 

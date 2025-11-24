@@ -5,3 +5,13 @@
 ## Activities
 
 No activities found. See [Florissant Fossil Beds NM.md](Florissant Fossil Beds NM.md) for details.
+
+
+## Amber's Data (from spreadsheet)
+
+**Visitor Center:** Florissant Fossil Beds Visitor Center
+
+**Address:** 15807 Co Rd 1, Florissant, Colorado 80816
+
+**Hours:** Hours not available
+

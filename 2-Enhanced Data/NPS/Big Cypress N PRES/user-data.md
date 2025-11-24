@@ -6,8 +6,8 @@
 
 ## Cancellation Stamps
 
-- [ ] Oasis Visitor Center (52105 Tamiami Trail E, Ochopee, FL 34141)
-- [ ] Big Cypress Swamp Welcome Center/Nathaniel P. Reed Visitor Center (33100 Tamiami Trail E, Ochopee, FL 34141)
+- [ ] Oasis Visitor Center (52105 Tamiami Trail E, Ochopee, FL 34141) (25.857417, -81.0335752)
+- [x] Big Cypress Swamp Welcome Center/Nathaniel P. Reed Visitor Center (33100 Tamiami Trail E, Ochopee, FL 34141) (25.900584, -81.3222993)
 
 ## Key Activities
 
@@ -40,6 +40,15 @@
 - [ ] Skunk Ape Research Headquarters (20-30 minutes, 15 miles south of I-75)
 - [ ] Everglades National Park - Shark Valley (2-3 hours, 20 miles east/25 minutes)
 - [ ] Everglades City and Ten Thousand Islands (1-2 hours for boat tour, 35-45 minutes west)
+
+
+## Amber's Data (from spreadsheet)
+
+**Visitor Center:** Nathaniel P. Reed Visitor Center
+
+**Address:** 33000 Tamiami Trail East, Ochopee, Florida 34141 (25.8988938, -81.2883856)
+
+**Hours:** Hours not available
 
 ## Review / Personal Notes
 

@@ -39,4 +39,13 @@
 
 
 
+
+## Amber's Data (from spreadsheet)
+
+**Visitor Center:** Hulls Cove Visitor Center
+
+**Address:** 25 Visitor Center Road, Bar Harbor, Maine 04609 (44.4084838, -68.2459958)
+
+**Hours:** Hours not available
+
 ## Review / Personal Notes

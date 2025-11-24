@@ -5,3 +5,13 @@
 ## Activities
 
 No activities found. See [Fort Stanwix NM.md](Fort Stanwix NM.md) for details.
+
+
+## Amber's Data (from spreadsheet)
+
+**Visitor Center:** Historic Fort Gregg Barracks
+
+**Address:** 100 North James St., Rome, New York 13440 (43.210051, -75.457926)
+
+**Hours:** Hours not available
+

@@ -6,7 +6,7 @@
 
 ## Cancellation Stamps
 
-- [ ] Bering Land Bridge Heritage Center (214 Front Street, Nome, AK 99762)
+- [x] Bering Land Bridge Heritage Center (214 Front Street, Nome, AK 99762) (64.4980814, -165.4101566)
 
 ## Key Activities
 
@@ -33,6 +33,15 @@
 - [ ] Iditarod Trail Sled Dog Race Finish Line (varies, March event)
 - [ ] Nome Road System Wildlife Viewing (half day to full day)
 - [ ] Anvil City Square and Gold Pan Monument (30 minutes)
+
+
+## Amber's Data (from spreadsheet)
+
+**Visitor Center:** Bering Land Bridge Heritage Center
+
+**Address:** 214 Front St., Nome, Alaska 99762 (64.4980814, -165.4101566)
+
+**Hours:** Hours not available
 
 ## Review / Personal Notes
 

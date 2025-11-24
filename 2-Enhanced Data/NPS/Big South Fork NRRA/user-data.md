@@ -6,7 +6,7 @@
 
 ## Cancellation Stamps
 
-- [ ] Bandy Creek Visitor Center (4564 Leatherwood Road, Oneida, TN 37841)
+- [x] Bandy Creek Visitor Center (4564 Leatherwood Road, Oneida, TN 37841)
 - [ ] Blue Heron Interpretive Center (End of Blue Heron Road, off Route 742, McCreary County, KY)
 
 ## Key Activities
@@ -40,6 +40,15 @@
 - [ ] Big South Fork Scenic Railway (3-3.5 hours, 20-30 minutes away)
 - [ ] Historic Rugby (2-3 hours, directly adjacent)
 - [ ] Pickett CCC Memorial State Park (3-5 hours, adjacent)
+
+
+## Amber's Data (from spreadsheet)
+
+**Visitor Center:** Bandy Creek Visitor Center
+
+**Address:** 151 Stable Rd, Oneida, Tennessee 37841
+
+**Hours:** Hours not available
 
 ## Review / Personal Notes
 

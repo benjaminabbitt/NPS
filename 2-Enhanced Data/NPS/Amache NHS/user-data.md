@@ -27,5 +27,14 @@
 
 
 
+
+## Amber's Data (from spreadsheet)
+
+**Visitor Center:** Amache Museum
+
+**Address:** 205 E Goff Ave, Granada, Colorado 81041 (38.0624519, -102.3087324)
+
+**Hours:** Hours not available
+
 ## Review / Personal Notes
 

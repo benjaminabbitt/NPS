@@ -1,7 +1,39 @@
 # Cape Lookout NS
 
+[View Full Research Report](Cape%20Lookout%20NS.md)
+
 - [ ] Visited
 
-## Activities
+## Cancellation Stamps
 
-No activities found. See [Cape Lookout NS.md](Cape Lookout NS.md) for details.
+- [x] Harkers Island Visitor Center (131 Charles Street, Harkers Island, NC 28531)
+- [ ] Light Station Visitor Center (Great Island, South Core Banks)
+- [ ] Beaufort Visitor Information Center (701 Front Street, Beaufort, NC) (34.7151735, -76.6620471)
+
+## Key Activities
+
+- [ ] Take Ferry to Islands (30-60 minutes one-way)
+- [ ] View Shackleford Banks Wild Horses (1-2 hours)
+- [ ] Shell Hunt at "The Point" (2-3 hours)
+- [ ] Climb Cape Lookout Lighthouse (30-45 minutes)
+
+## Hidden Gems
+
+- [ ] Fish and Bird Year-Round (2-8 hours)
+- [ ] Camp on Remote Islands (overnight)
+
+## Also Nearby
+
+- [ ] Beaufort Historic District (30 minutes)
+- [ ] Morehead City (30 minutes)
+
+
+## Amber's Data (from spreadsheet)
+
+**Visitor Center:** Harkers Island Visitor Center
+
+**Address:** 1800 Island Road, Harkers Island, North Carolina 28531 (34.6976882, -76.5735718)
+
+**Hours:** Hours not available
+
+## Review / Personal Notes

@@ -1,33 +1,31 @@
-# Cape Krusenstern NM
+# Cape Krusenstern NM (National Monument)
 
-## Cancellation Stamp Locations:
+## Cancellation Stamp Locations
 
-- [ ] Cape Krusenstern NM Visitor Center (171 Third Ave, Kotzebue, Alaska, 99752; 9:00 AM–5:30 PM)
+- **Northwest Arctic Heritage Center** (171 3rd Avenue, Kotzebue, AK 99752 (66.8983, -162.5966); Summer Hours March 16-November 14: Monday-Friday 8:00 AM - 5:00 PM, Winter Hours November 15-March 15: Monday-Friday 10:30 AM - 4:30 PM, closed Saturday and Sunday; 907-442-3890) [Source: [Northwest Arctic Heritage Center](https://www.nps.gov/cakr/planyourvisit/northwest-arctic-heritage-center.htm), [NPS Hours](https://www.nps.gov/cakr/planyourvisit/hours.htm)]
 
-## Key Activities:
+**Note:** Cape Krusenstern has no designated entrance gates, roads, trails, campgrounds, services, or lodging facilities. Northwest Arctic Heritage Center in Kotzebue serves as main visitor contact point for information and passport stamps for Cape Krusenstern, Kobuk Valley, and Noatak. [Source: [NPS Basic Information](https://www.nps.gov/cakr/planyourvisit/basicinfo.htm)]
 
-- [ ] Visitor Center Experience (1-2 hours) - Explore exhibits and learn about Cape Krusenstern NM; 171 Third Ave, Kotzebue, Alaska, 99752; 9:00 AM–5:30 PM [[Source](https://www.nps.gov/ckn)]
+## Key Activities
 
-## Hidden Gems:
+- **Backcountry Hiking and Exploration** (varies, multi-day) - Trek through remote wilderness along monument's ridgelines and mountains; experienced Arctic camping and survival skills required; no public facilities, campgrounds, or trails; prepare for harsh conditions, high winds, rain, and near-freezing temperatures even in summer [Source: [Travel Alaska](https://www.travelalaska.com/destinations/parks-public-lands/cape-krusenstern-national-monument), [ALASKA.ORG](https://www.alaska.org/destination/cape-krusenstern-national-monument)]
 
-## Also Nearby:
+- **Kayaking Coastal Waters and Lagoons** (varies, multi-day) - Paddle along coast and through lagoons of this remote monument; suitable for experienced kayakers comfortable with Arctic conditions; no facilities or support services available [Source: [NPS Things to Do](https://www.nps.gov/cakr/planyourvisit/things2do.htm)]
 
+- **Wildlife and Birding** (varies) - View caribou, grizzly bears, wolves, red foxes, lynx, wolverines on land; watch for walrus, polar bears, seals, and whales offshore; observe large numbers of migratory birds from around the world during nesting season and fall staging [Source: [Travel Alaska](https://www.travelalaska.com/destinations/parks-public-lands/cape-krusenstern-national-monument)]
 
-## Amber's Data
+- **Archaeological Discovery** (varies) - Learn about 9,000 years of human habitation through 114 beach ridges that chronicle Arctic coastal peoples' adaptation to changing environment; visit Northwest Arctic Heritage Center for exhibits [Source: [ALASKA.ORG](https://www.alaska.org/destination/cape-krusenstern-national-monument)]
 
-*This section preserves the original data from the source spreadsheet.*
+## Hidden Gems
 
-**Main Address:** 171 Third Ave, Kotzebue, Alaska 99752
+- **Midnight Sun Photography** (June-July) - Experience nearly a month of continuous daylight from early June through early July when sun doesn't set; capture unique lighting conditions for photography in remote Arctic landscape [Source: [Tour Travel World](https://www.tourtravelworld.com/usa/alaska/cape-krusenstern-national-monument.htm)]
 
-**Operating Hours (from source):**
-- **Sunday:** Closed [ff436f]
-- **Monday:** 9:00 AM–5:30 PM [942cba]
-- **Tuesday:** 9:00 AM–5:30 PM [3fa55c]
-- **Wednesday:** 9:00 AM–5:30 PM [56d1cd]
-- **Thursday:** 9:00 AM–5:30 PM [ccffe9]
-- **Friday:** 9:00 AM–5:30 PM [d1ffbd]
-- **Saturday:** Closed [23c4af]
+## Also Nearby
 
-**Visitor Center (from source):**
-- **Name:** Northwest Arctic Heritage Center [2683ca]
-- **Address:** 171 Third Ave [fa0882]
+- **LaVonne's Fish Camp** (half-day to full-day, 6 miles south of Kotzebue) - Experience authentic Iñupiat subsistence lifestyle with Native hosts; participate in catching, preparing, and drying fish; enjoy birdwatching, hiking, and beach combing along the coast; accessible by local arrangement [Source: [Travel Alaska Cultural Tours](https://www.travelalaska.com/explore-alaska/articles/alaska-native-cultural-tours-experiences), [Alaska.org](https://www.alaska.org/destination/kotzebue/day-tours)]
+
+- **Iñupiat Heritage Cultural Tours in Kotzebue** (2-4 hours) - Join local cultural immersion tours featuring Native dancing demonstrations, traditional crafts at Sulianich Art Center (Third Avenue), and educational programs; visit during odd-numbered years for July 4th Trade Fair with tribal dances and traditional games [Source: [Travel Alaska Kotzebue](https://www.travelalaska.com/destinations/cities-towns/kotzebue), [Visit USA Alaska Native](https://www.visittheusa.com/experience/history-and-heritage-great-land-alaska-native-cultural-tours-and-experiences)]
+
+---
+
+**Total Recommended Time:** Multi-day expedition only; not a casual tourist destination; requires experienced backcountry skills, Arctic survival knowledge, and air taxi access from Kotzebue (no road access); best visited in summer June-August, though winter visits possible for experienced Arctic campers. Passport stamp can be obtained at Northwest Arctic Heritage Center in 15-30 minutes. [Source: [Travel Alaska](https://www.travelalaska.com/destinations/parks-public-lands/cape-krusenstern-national-monument), [Tour Travel World](https://www.tourtravelworld.com/usa/alaska/cape-krusenstern-national-monument.htm)]

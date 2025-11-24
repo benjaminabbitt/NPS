@@ -1,0 +1,741 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -90.4068,
+            38.5831
+          ],
+          [
+            -86.434846,
+            35.881861
+          ],
+          [
+            -86.2820081,
+            35.7730076
+          ],
+          [
+            -86.2820081,
+            35.7730076
+          ],
+          [
+            -86.2820081,
+            35.7730076
+          ],
+          [
+            -84.324584,
+            33.9872732
+          ],
+          [
+            -84.3734662,
+            33.7563822
+          ],
+          [
+            -83.6018436,
+            32.837227
+          ],
+          [
+            -82.0256516,
+            34.1678411
+          ],
+          [
+            -82.4528575,
+            35.2727825
+          ],
+          [
+            -81.6911511,
+            35.1037677
+          ],
+          [
+            -79.8474318,
+            36.1315112
+          ],
+          [
+            -79.4250803,
+            35.7032968
+          ],
+          [
+            -77.383166,
+            37.2187215
+          ],
+          [
+            -76.784161,
+            37.223011
+          ],
+          [
+            -77.4121995,
+            37.5268267
+          ],
+          [
+            -77.0360484,
+            38.5302228
+          ],
+          [
+            -76.1502973,
+            38.5000678
+          ],
+          [
+            -75.3512123,
+            37.9185315
+          ],
+          [
+            -75.6677117,
+            36.02064
+          ],
+          [
+            -76.5735718,
+            34.6976882
+          ],
+          [
+            -78.1096233,
+            34.4578949
+          ],
+          [
+            -79.8278953,
+            32.8467455
+          ],
+          [
+            -80.6700904,
+            32.432537
+          ],
+          [
+            -81.3884377,
+            31.1600988
+          ],
+          [
+            -81.4959844,
+            30.3848466
+          ],
+          [
+            -81.4959844,
+            30.3848466
+          ],
+          [
+            -81.3143815,
+            29.8993771
+          ],
+          [
+            -81.2780349,
+            29.8611867
+          ],
+          [
+            -80.8243973,
+            28.9272225
+          ],
+          [
+            -84.3925601,
+            32.0365845
+          ],
+          [
+            -85.7084448,
+            32.4288729
+          ],
+          [
+            -85.6849644,
+            32.4579178
+          ],
+          [
+            -85.83128,
+            33.6581699
+          ],
+          [
+            -86.8144977,
+            33.5153921
+          ],
+          [
+            -87.0878382,
+            35.1813118
+          ],
+          [
+            -87.8625811,
+            36.4831363
+          ],
+          [
+            -90.4068,
+            38.5831
+          ]
+        ]
+      },
+      "properties": {
+        "trip_number": 6,
+        "total_sites": 37,
+        "total_distance_miles": 2948.7,
+        "total_days": 12.84
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.4068,
+          38.5831
+        ]
+      },
+      "properties": {
+        "name": "Kirkwood, MO",
+        "arrival_day": 1,
+        "arrival_time": "06:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.434846,
+          35.881861
+        ]
+      },
+      "properties": {
+        "name": "Stones River NB, Murfreesboro, Tennessee",
+        "arrival_day": 1,
+        "arrival_time": "13:13"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.2820081,
+          35.7730076
+        ]
+      },
+      "properties": {
+        "name": "Great Smoky Mountains NP, Gatlinburg, Tennessee",
+        "arrival_day": 1,
+        "arrival_time": "15:25"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.2820081,
+          35.7730076
+        ]
+      },
+      "properties": {
+        "name": "Big South Fork NRRA, Oneida, Tennessee",
+        "arrival_day": 2,
+        "arrival_time": "17:25"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.2820081,
+          35.7730076
+        ]
+      },
+      "properties": {
+        "name": "Obed WSR, Wartburg, Tennessee",
+        "arrival_day": 2,
+        "arrival_time": "19:25"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.324584,
+          33.9872732
+        ]
+      },
+      "properties": {
+        "name": "Chattahoochee River NRA, Sandy Springs, Georgia",
+        "arrival_day": 2,
+        "arrival_time": "00:26"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.3734662,
+          33.7563822
+        ]
+      },
+      "properties": {
+        "name": "Martin Luther King, Jr NHP, Atlanta, Georgia",
+        "arrival_day": 3,
+        "arrival_time": "02:43"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.6018436,
+          32.837227
+        ]
+      },
+      "properties": {
+        "name": "Ocmulgee NHP, Macon, Georgia",
+        "arrival_day": 3,
+        "arrival_time": "06:07"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.0256516,
+          34.1678411
+        ]
+      },
+      "properties": {
+        "name": "Ninety Six NHS, Ninety Six, South Carolina",
+        "arrival_day": 3,
+        "arrival_time": "10:27"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.4528575,
+          35.2727825
+        ]
+      },
+      "properties": {
+        "name": "Carl Sandburg Home NHS, Flat Rock, North Carolina",
+        "arrival_day": 4,
+        "arrival_time": "13:54"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.6911511,
+          35.1037677
+        ]
+      },
+      "properties": {
+        "name": "Cowpens NB, Gaffney, South Carolina",
+        "arrival_day": 4,
+        "arrival_time": "16:42"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.8474318,
+          36.1315112
+        ]
+      },
+      "properties": {
+        "name": "Guilford Courthouse NMP, Greensboro, North Carolina",
+        "arrival_day": 5,
+        "arrival_time": "20:58"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.4250803,
+          35.7032968
+        ]
+      },
+      "properties": {
+        "name": "Bluestone NSR, Meadow Bridge, 25976",
+        "arrival_day": 5,
+        "arrival_time": "23:39"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.383166,
+          37.2187215
+        ]
+      },
+      "properties": {
+        "name": "Petersburg NB, Petersburg, 23803",
+        "arrival_day": 5,
+        "arrival_time": "04:27"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.784161,
+          37.223011
+        ]
+      },
+      "properties": {
+        "name": "Historic Jamestowne, Jamestown, 23081",
+        "arrival_day": 6,
+        "arrival_time": "07:02"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.4121995,
+          37.5268267
+        ]
+      },
+      "properties": {
+        "name": "Richmond NBP, Richmond, 23223",
+        "arrival_day": 6,
+        "arrival_time": "09:46"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.0360484,
+          38.5302228
+        ]
+      },
+      "properties": {
+        "name": "Thomas Stone NHS, Port Tobacco, Maryland",
+        "arrival_day": 6,
+        "arrival_time": "13:04"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.1502973,
+          38.5000678
+        ]
+      },
+      "properties": {
+        "name": "Harriet Tubman Underground Railroad NHP, Church Creek, Maryland",
+        "arrival_day": 7,
+        "arrival_time": "15:56"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.3512123,
+          37.9185315
+        ]
+      },
+      "properties": {
+        "name": "Assateague Island NS, Chincoteague, 23336",
+        "arrival_day": 7,
+        "arrival_time": "19:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.6677117,
+          36.02064
+        ]
+      },
+      "properties": {
+        "name": "Wright Brothers N MEM, Kill Devil Hills, North Carolina",
+        "arrival_day": 7,
+        "arrival_time": "23:24"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.5735718,
+          34.6976882
+        ]
+      },
+      "properties": {
+        "name": "Cape Lookout NS, Harkers Island, North Carolina",
+        "arrival_day": 8,
+        "arrival_time": "03:18"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.1096233,
+          34.4578949
+        ]
+      },
+      "properties": {
+        "name": "Moores Creek NB, Currie, North Carolina",
+        "arrival_day": 8,
+        "arrival_time": "06:55"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.8278953,
+          32.8467455
+        ]
+      },
+      "properties": {
+        "name": "Charles Pinckney NHS, Mount Pleasant, South Carolina",
+        "arrival_day": 9,
+        "arrival_time": "11:37"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.6700904,
+          32.432537
+        ]
+      },
+      "properties": {
+        "name": "Reconstruction Era NHP, Beaufort, South Carolina",
+        "arrival_day": 9,
+        "arrival_time": "14:38"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.3884377,
+          31.1600988
+        ]
+      },
+      "properties": {
+        "name": "Fort Frederica NM, St. Simons Island, Georgia",
+        "arrival_day": 9,
+        "arrival_time": "18:24"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.4959844,
+          30.3848466
+        ]
+      },
+      "properties": {
+        "name": "Timucuan Ecological and Historic PRES, Jacksonville, Florida",
+        "arrival_day": 10,
+        "arrival_time": "21:22"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.4959844,
+          30.3848466
+        ]
+      },
+      "properties": {
+        "name": "Fort Caroline N MEM, Jacksonville, Florida",
+        "arrival_day": 10,
+        "arrival_time": "23:22"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.3143815,
+          29.8993771
+        ]
+      },
+      "properties": {
+        "name": "Castillo de San Marcos NM, St. Augustine, Florida",
+        "arrival_day": 10,
+        "arrival_time": "02:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.2780349,
+          29.8611867
+        ]
+      },
+      "properties": {
+        "name": "Fort Matanzas NM, St. Augustine, Florida",
+        "arrival_day": 10,
+        "arrival_time": "04:03"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.8243973,
+          28.9272225
+        ]
+      },
+      "properties": {
+        "name": "Canaveral NS, New Smyrna Beach, Florida",
+        "arrival_day": 11,
+        "arrival_time": "07:19"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.3925601,
+          32.0365845
+        ]
+      },
+      "properties": {
+        "name": "Jimmy Carter NHP, Plains, Georgia",
+        "arrival_day": 11,
+        "arrival_time": "14:48"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.7084448,
+          32.4288729
+        ]
+      },
+      "properties": {
+        "name": "Tuskegee Institute NHS, Tuskegee, 36088",
+        "arrival_day": 12,
+        "arrival_time": "18:16"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.6849644,
+          32.4579178
+        ]
+      },
+      "properties": {
+        "name": "Tuskegee Airmen NHS, Tuskegee, 36083",
+        "arrival_day": 12,
+        "arrival_time": "20:18"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.83128,
+          33.6581699
+        ]
+      },
+      "properties": {
+        "name": "Freedom Riders NM, Anniston, Alabama",
+        "arrival_day": 12,
+        "arrival_time": "23:48"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.8144977,
+          33.5153921
+        ]
+      },
+      "properties": {
+        "name": "Birmingham Civil Rights NM, Birmingham, Alabama",
+        "arrival_day": 13,
+        "arrival_time": "02:50"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.0878382,
+          35.1813118
+        ]
+      },
+      "properties": {
+        "name": "Fossil Butte NM, Kemmerer, 83101",
+        "arrival_day": 13,
+        "arrival_time": "06:56"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.8625811,
+          36.4831363
+        ]
+      },
+      "properties": {
+        "name": "Fort Donelson NB, Dover, Tennessee",
+        "arrival_day": 13,
+        "arrival_time": "10:44"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.4068,
+          38.5831
+        ]
+      },
+      "properties": {
+        "name": "Kirkwood, MO",
+        "arrival_day": 13,
+        "arrival_time": "14:23"
+      }
+    }
+  ]
+}

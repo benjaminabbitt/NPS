@@ -5,3 +5,13 @@
 ## Activities
 
 No activities found. See [William Howard Taft NHS.md](William Howard Taft NHS.md) for details.
+
+
+## Amber's Data (from spreadsheet)
+
+**Visitor Center:** Taft Education Center
+
+**Address:** 2038 Auburn Avenue, Cincinnati, Ohio 45219 (39.119899, -84.508528)
+
+**Hours:** Hours not available
+

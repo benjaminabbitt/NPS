@@ -5,3 +5,13 @@
 ## Activities
 
 No activities found. See [Oklahoma City N MEM.md](Oklahoma City N MEM.md) for details.
+
+
+## Amber's Data (from spreadsheet)
+
+**Visitor Center:** Visitor Center
+
+**Address:** 620 N. Harvey Ave., Oklahoma City, Oklahoma 73102 (35.4737199, -97.5172885)
+
+**Hours:** Hours not available
+

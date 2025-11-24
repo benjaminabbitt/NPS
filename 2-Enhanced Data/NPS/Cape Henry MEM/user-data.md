@@ -1,7 +1,26 @@
 # Cape Henry MEM
 
+[View Full Research Report](Cape%20Henry%20MEM.md)
+
 - [ ] Visited
 
-## Activities
+## Cancellation Stamps
 
-No activities found. See [Cape Henry MEM.md](Cape Henry MEM.md) for details.
+- [ ] Old Cape Henry Lighthouse (583 Atlantic Avenue, Fort Story, Virginia Beach, VA 23459) (36.9258008, -76.0081243)
+
+## Key Activities
+
+- [ ] View Cape Henry Memorial Cross (15-30 minutes)
+- [ ] Climb Old Cape Henry Lighthouse (30-45 minutes)
+- [ ] Visit St. Theresa Chapel (15-20 minutes)
+
+## Hidden Gems
+
+- [ ] Explore First Landing Chapel (15-20 minutes)
+
+## Also Nearby
+
+- [ ] First Landing State Park (15 minutes, adjacent)
+- [ ] Virginia Beach Oceanfront (20 minutes)
+
+## Review / Personal Notes

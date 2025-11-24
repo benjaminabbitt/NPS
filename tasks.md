@@ -14,26 +14,6 @@
 
 ## To Do
 
-- [ ] Research and complete Biscayne NP
-- [ ] Research and complete Brown v_ Board of Education NHS
-- [ ] Research and complete Bryce Canyon NP
-- [ ] Research and complete Buffalo NR
-- [ ] Research and complete Cabrillo NM
-- [ ] Research and complete Camp Nelson NM
-- [ ] Research and complete Canaveral NS
-- [ ] Research and complete Cane River Creole NHP
-- [ ] Research and complete Canyon de Chelly NM
-- [ ] Research and complete Canyonlands NP
-- [ ] Research and complete Cape Cod NS
-- [ ] Research and complete Cape Hatteras NS
-- [ ] Research and complete Cape Henry MEM
-- [ ] Research and complete Cape Krusenstern NM
-- [ ] Research and complete Cape Lookout NS
-- [ ] Research and complete Capitol Hill Parks
-- [ ] Research and complete Capitol Reef NP
-- [ ] Research and complete Capulin Volcano NM
-- [ ] Research and complete Carl Sandburg Home NHS
-- [ ] Research and complete Carlsbad Caverns NP
 - [ ] Research and complete Carter G_ Woodson Home NHS
 - [ ] Research and complete Casa Grande Ruins NM
 - [ ] Research and complete Castillo de San Marcos NM
@@ -599,5 +579,25 @@
 - [x] Research and complete Big Thicket N PRES
 - [x] Research and complete Bighorn Canyon NRA
 - [x] Research and complete Birmingham Civil Rights NM
+- [x] Research and complete Biscayne NP
+- [x] Research and complete Brown v_ Board of Education NHS
+- [x] Research and complete Bryce Canyon NP
+- [x] Research and complete Buffalo NR
+- [x] Research and complete Cabrillo NM
+- [x] Research and complete Camp Nelson NM
+- [x] Research and complete Canaveral NS
+- [x] Research and complete Cane River Creole NHP
+- [x] Research and complete Canyon de Chelly NM
+- [x] Research and complete Canyonlands NP
+- [x] Research and complete Cape Cod NS
+- [x] Research and complete Cape Hatteras NS
+- [x] Research and complete Cape Henry MEM
+- [x] Research and complete Cape Lookout NS
+- [x] Research and complete Capitol Reef NP
+- [x] Research and complete Carlsbad Caverns NP
+- [x] Research and complete Cape Krusenstern NM
+- [x] Research and complete Capulin Volcano NM
+- [x] Research and complete Carl Sandburg Home NHS
+- [x] Research and complete Capitol Hill Parks
 
 ## Backlog

@@ -7,7 +7,7 @@
 ## Cancellation Stamps
 
 - [ ] Cal S. Taggart Bighorn Canyon Visitor Center (20 US Hwy 14A, Lovell, WY 82431)
-- [ ] Yellowtail Dam Visitor Center (Rte 210, Fort Smith, MT)
+- [x] Yellowtail Dam Visitor Center (Rte 210, Fort Smith, MT) (45.315144, -107.9515947)
 
 ## Key Activities
 
@@ -38,5 +38,14 @@
 - [ ] Porcupine Falls (1-2 hours, 35 miles east)
 - [ ] Little Bighorn Battlefield National Monument (2-4 hours, 58 miles northeast)
 - [ ] Cody, Wyoming (1 full day, 46 miles west)
+
+
+## Amber's Data (from spreadsheet)
+
+**Visitor Center:** Yellowtail Dam Visitor Center
+
+**Address:** 2222 Access Rd, Fort Smith, Montana 59050
+
+**Hours:** Hours not available
 
 ## Review / Personal Notes

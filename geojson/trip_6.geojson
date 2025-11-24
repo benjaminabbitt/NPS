@@ -1,0 +1,152 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -90.4068,
+            38.5831
+          ],
+          [
+            -87.5360877,
+            38.6775722
+          ],
+          [
+            -85.7346486,
+            37.5503915
+          ],
+          [
+            -85.1697211,
+            37.5524796
+          ],
+          [
+            -84.508528,
+            39.119899
+          ],
+          [
+            -83.3782184,
+            41.9159374
+          ],
+          [
+            -90.4068,
+            38.5831
+          ]
+        ]
+      },
+      "properties": {
+        "trip_number": 6,
+        "total_sites": 5,
+        "total_distance_miles": 1063.5,
+        "total_days": 3
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.4068,
+          38.5831
+        ]
+      },
+      "properties": {
+        "name": "Kirkwood, MO",
+        "arrival_day": 1,
+        "arrival_time": "06:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.5360877,
+          38.6775722
+        ]
+      },
+      "properties": {
+        "name": "George Rogers Clark NHP, Vincennes, Indiana",
+        "arrival_day": 1,
+        "arrival_time": "10:49"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.7346486,
+          37.5503915
+        ]
+      },
+      "properties": {
+        "name": "Abraham Lincoln Birthplace NHP, Hodgenville, Kentucky",
+        "arrival_day": 1,
+        "arrival_time": "15:05"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.1697211,
+          37.5524796
+        ]
+      },
+      "properties": {
+        "name": "George Washington Birthplace NM, Colonial Beach, 22443",
+        "arrival_day": 1,
+        "arrival_time": "17:38"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.508528,
+          39.119899
+        ]
+      },
+      "properties": {
+        "name": "William Howard Taft NHS, Cincinnati, Ohio",
+        "arrival_day": 2,
+        "arrival_time": "06:42"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.3782184,
+          41.9159374
+        ]
+      },
+      "properties": {
+        "name": "River Raisin NBP, Monroe, Michigan",
+        "arrival_day": 2,
+        "arrival_time": "14:21"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.4068,
+          38.5831
+        ]
+      },
+      "properties": {
+        "name": "Kirkwood, MO",
+        "arrival_day": 1,
+        "arrival_time": "06:00"
+      }
+    }
+  ]
+}

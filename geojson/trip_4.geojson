@@ -1,0 +1,190 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -90.4068,
+            38.5831
+          ],
+          [
+            -92.4479108,
+            35.2048883
+          ],
+          [
+            -92.4479108,
+            35.2048883
+          ],
+          [
+            -92.4479108,
+            35.2048883
+          ],
+          [
+            -92.2973826,
+            34.7381346
+          ],
+          [
+            -94.1798525,
+            34.2939248
+          ],
+          [
+            -94.4310733,
+            35.388505
+          ],
+          [
+            -94.7065998,
+            37.8436759
+          ],
+          [
+            -90.4068,
+            38.5831
+          ]
+        ]
+      },
+      "properties": {
+        "trip_number": 4,
+        "total_sites": 7,
+        "total_distance_miles": 890.3,
+        "total_days": 3
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.4068,
+          38.5831
+        ]
+      },
+      "properties": {
+        "name": "Kirkwood, MO",
+        "arrival_day": 1,
+        "arrival_time": "06:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -92.4479108,
+          35.2048883
+        ]
+      },
+      "properties": {
+        "name": "Pea Ridge NMP, Garfield, Arkansas",
+        "arrival_day": 1,
+        "arrival_time": "12:42"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -92.4479108,
+          35.2048883
+        ]
+      },
+      "properties": {
+        "name": "Arkansas Post N MEM, Gillett, Arkansas",
+        "arrival_day": 1,
+        "arrival_time": "14:42"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -92.4479108,
+          35.2048883
+        ]
+      },
+      "properties": {
+        "name": "Buffalo NR, St. Joe, Arkansas",
+        "arrival_day": 1,
+        "arrival_time": "16:42"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -92.2973826,
+          34.7381346
+        ]
+      },
+      "properties": {
+        "name": "Little Rock Central High School NHS, Little Rock, Arkansas",
+        "arrival_day": 1,
+        "arrival_time": "19:18"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -94.1798525,
+          34.2939248
+        ]
+      },
+      "properties": {
+        "name": "Gauley River NRA, Lansing, 25862",
+        "arrival_day": 2,
+        "arrival_time": "08:19"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -94.4310733,
+          35.388505
+        ]
+      },
+      "properties": {
+        "name": "Fort Smith NHS, Fort Smith, Arkansas",
+        "arrival_day": 2,
+        "arrival_time": "11:42"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -94.7065998,
+          37.8436759
+        ]
+      },
+      "properties": {
+        "name": "Fort Scott NHS, Fort Scott, Kansas",
+        "arrival_day": 2,
+        "arrival_time": "16:47"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.4068,
+          38.5831
+        ]
+      },
+      "properties": {
+        "name": "Kirkwood, MO",
+        "arrival_day": 1,
+        "arrival_time": "06:00"
+      }
+    }
+  ]
+}

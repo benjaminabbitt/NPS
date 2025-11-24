@@ -6,8 +6,8 @@
 
 ## Cancellation Stamps
 
-- [ ] A.G. Gaston Motel (1510 5th Ave N, Birmingham, AL 35203)
-- [ ] Birmingham Civil Rights Institute (512 16th Street N, Birmingham, AL 35203)
+- [x] A.G. Gaston Motel (1510 5th Ave N, Birmingham, AL 35203) (33.5153921, -86.8144977)
+- [ ] Birmingham Civil Rights Institute (512 16th Street N, Birmingham, AL 35203) (33.5171528, -86.8149288)
 
 ## Key Activities
 
@@ -29,6 +29,15 @@
 - [ ] Sloss Furnaces National Historic Landmark (1-2 hours, 1.5 miles east)
 - [ ] Vulcan Park and Museum (1-1.5 hours, 3 miles south)
 - [ ] Railroad Park (1-2 hours, 0.5 miles south)
+
+
+## Amber's Data (from spreadsheet)
+
+**Visitor Center:** A.G. Gaston Motel
+
+**Address:** 1510 5th Avenue N, Birmingham, Alabama 35203 (33.5153921, -86.8144977)
+
+**Hours:** Hours not available
 
 ## Review / Personal Notes
 

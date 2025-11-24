@@ -6,7 +6,7 @@
 
 ## Cancellation Stamps
 
-- [x] Visitor Center (101 N. College St., Greeneville, TN 37743)
+- [x] Visitor Center (101 N. College St., Greeneville, TN 37743) (36.1629401, -82.8295399)
 
 ## Key Activities
 
@@ -29,6 +29,15 @@
 - [ ] Historic Jonesborough (2-4 hours, 35-45 min drive) [67bbce]
 
 
+
+
+## Amber's Data (from spreadsheet)
+
+**Visitor Center:** Andrew Johnson NHS
+
+**Address:** 101 N. College Street, Greeneville, Tennessee 37743 (36.1629401, -82.8295399)
+
+**Hours:** Hours not available
 
 ## Review / Personal Notes
 

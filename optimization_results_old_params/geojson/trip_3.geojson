@@ -1,0 +1,684 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -90.4068,
+            38.5831
+          ],
+          [
+            -94.4233448,
+            39.0937292
+          ],
+          [
+            -96.7332497,
+            40.2658382
+          ],
+          [
+            -99.1018604,
+            38.1881528
+          ],
+          [
+            -102.3087324,
+            38.0624519
+          ],
+          [
+            -103.4293894,
+            38.0405317
+          ],
+          [
+            -103.9803504,
+            36.7787156
+          ],
+          [
+            -105.5059,
+            40.375336
+          ],
+          [
+            -105.6101747,
+            40.3869075
+          ],
+          [
+            -103.7074807,
+            41.8286261
+          ],
+          [
+            -105.5374053,
+            44.2828717
+          ],
+          [
+            -106.3371601,
+            42.8663425
+          ],
+          [
+            -107.568534,
+            43.1700264
+          ],
+          [
+            -110.7045459,
+            44.9626801
+          ],
+          [
+            -110.6108042,
+            43.8441363
+          ],
+          [
+            -110.6108042,
+            43.8441363
+          ],
+          [
+            -111.7580279,
+            40.4507397
+          ],
+          [
+            -108.972499,
+            40.2436171
+          ],
+          [
+            -107.1656373,
+            38.4666356
+          ],
+          [
+            -108.0002137,
+            36.8345857
+          ],
+          [
+            -106.2761014,
+            35.79499
+          ],
+          [
+            -106.7106283,
+            35.1344849
+          ],
+          [
+            -106.241929,
+            34.5177349
+          ],
+          [
+            -107.828853,
+            35.1186484
+          ],
+          [
+            -108.484254,
+            35.120638
+          ],
+          [
+            -109.7814829,
+            35.0658636
+          ],
+          [
+            -109.4841684,
+            32.3265073
+          ],
+          [
+            -106.4538777,
+            31.7679289
+          ],
+          [
+            -106.1722449,
+            32.779621
+          ],
+          [
+            -104.4445002,
+            32.175424
+          ],
+          [
+            -103.194174,
+            34.439407
+          ],
+          [
+            -101.5862787,
+            35.6432673
+          ],
+          [
+            -97.5172885,
+            35.4737199
+          ],
+          [
+            -94.7065998,
+            37.8436759
+          ],
+          [
+            -90.4068,
+            38.5831
+          ]
+        ]
+      },
+      "properties": {
+        "trip_number": 3,
+        "total_sites": 34,
+        "total_distance_miles": 4366.8,
+        "total_days": 12.41
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.4068,
+          38.5831
+        ]
+      },
+      "properties": {
+        "name": "Kirkwood, MO",
+        "arrival_day": 1,
+        "arrival_time": "06:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -94.4233448,
+          39.0937292
+        ]
+      },
+      "properties": {
+        "name": "Harry S Truman NHS, Independence, Missouri",
+        "arrival_day": 1,
+        "arrival_time": "11:58"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -96.7332497,
+          40.2658382
+        ]
+      },
+      "properties": {
+        "name": "Homestead NHP, Beatrice, Nebraska",
+        "arrival_day": 1,
+        "arrival_time": "16:38"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -99.1018604,
+          38.1881528
+        ]
+      },
+      "properties": {
+        "name": "Fort Larned NHS, Larned, Kansas",
+        "arrival_day": 2,
+        "arrival_time": "22:06"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -102.3087324,
+          38.0624519
+        ]
+      },
+      "properties": {
+        "name": "Amache NHS, Granada, Colorado",
+        "arrival_day": 2,
+        "arrival_time": "03:16"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -103.4293894,
+          38.0405317
+        ]
+      },
+      "properties": {
+        "name": "Bent's Old Fort NHS, La Junta, Colorado",
+        "arrival_day": 3,
+        "arrival_time": "06:22"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -103.9803504,
+          36.7787156
+        ]
+      },
+      "properties": {
+        "name": "Capulin Volcano NM, Capulin, New Mexico",
+        "arrival_day": 3,
+        "arrival_time": "10:02"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -105.5059,
+          40.375336
+        ]
+      },
+      "properties": {
+        "name": "Rocky Mountain NP, Estes Park, Colorado",
+        "arrival_day": 3,
+        "arrival_time": "16:47"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -105.6101747,
+          40.3869075
+        ]
+      },
+      "properties": {
+        "name": "Prince William Forest Park, Triangle, 22172",
+        "arrival_day": 4,
+        "arrival_time": "18:53"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -103.7074807,
+          41.8286261
+        ]
+      },
+      "properties": {
+        "name": "Scotts Bluff NM, Gering, Nebraska",
+        "arrival_day": 4,
+        "arrival_time": "23:26"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -105.5374053,
+          44.2828717
+        ]
+      },
+      "properties": {
+        "name": "Shenandoah NP, Front Royal, 22630",
+        "arrival_day": 4,
+        "arrival_time": "04:56"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -106.3371601,
+          42.8663425
+        ]
+      },
+      "properties": {
+        "name": "Mormon Pioneer NHT, Casper, 82601",
+        "arrival_day": 5,
+        "arrival_time": "08:51"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -107.568534,
+          43.1700264
+        ]
+      },
+      "properties": {
+        "name": "Fort Laramie NHS, Fort Laramie, Wyoming",
+        "arrival_day": 5,
+        "arrival_time": "12:02"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -110.7045459,
+          44.9626801
+        ]
+      },
+      "properties": {
+        "name": "Yellowstone NP, Mammoth, 82190",
+        "arrival_day": 5,
+        "arrival_time": "17:39"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -110.6108042,
+          43.8441363
+        ]
+      },
+      "properties": {
+        "name": "John D Rockefeller, Jr Memorial Parkway, Moose, 83012",
+        "arrival_day": 6,
+        "arrival_time": "21:03"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -110.6108042,
+          43.8441363
+        ]
+      },
+      "properties": {
+        "name": "Grand Teton NP, Moose, 83012",
+        "arrival_day": 6,
+        "arrival_time": "23:03"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.7580279,
+          40.4507397
+        ]
+      },
+      "properties": {
+        "name": "Timpanogos Cave NM, Alpine, Utah",
+        "arrival_day": 6,
+        "arrival_time": "05:26"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -108.972499,
+          40.2436171
+        ]
+      },
+      "properties": {
+        "name": "Dinosaur NM, Dinosaur, Colorado",
+        "arrival_day": 7,
+        "arrival_time": "10:06"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -107.1656373,
+          38.4666356
+        ]
+      },
+      "properties": {
+        "name": "Curecanti NRA, Gunnison, Colorado",
+        "arrival_day": 7,
+        "arrival_time": "14:56"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -108.0002137,
+          36.8345857
+        ]
+      },
+      "properties": {
+        "name": "Aztec Ruins NM, Aztec, New Mexico",
+        "arrival_day": 8,
+        "arrival_time": "19:08"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -106.2761014,
+          35.79499
+        ]
+      },
+      "properties": {
+        "name": "Bandelier NM, Los Alamos, New Mexico",
+        "arrival_day": 8,
+        "arrival_time": "23:18"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -106.7106283,
+          35.1344849
+        ]
+      },
+      "properties": {
+        "name": "Petroglyph NM, Albuquerque, New Mexico",
+        "arrival_day": 8,
+        "arrival_time": "02:14"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -106.241929,
+          34.5177349
+        ]
+      },
+      "properties": {
+        "name": "Salinas Pueblo Missions NM, Mountainair, New Mexico",
+        "arrival_day": 8,
+        "arrival_time": "05:08"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -107.828853,
+          35.1186484
+        ]
+      },
+      "properties": {
+        "name": "El Malpais NM, Grants, New Mexico",
+        "arrival_day": 9,
+        "arrival_time": "08:56"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -108.484254,
+          35.120638
+        ]
+      },
+      "properties": {
+        "name": "El Morro NM, Ramah, New Mexico",
+        "arrival_day": 9,
+        "arrival_time": "11:36"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -109.7814829,
+          35.0658636
+        ]
+      },
+      "properties": {
+        "name": "Petrified Forest NP, Petrified Forest National Park, Arizona",
+        "arrival_day": 9,
+        "arrival_time": "14:56"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -109.4841684,
+          32.3265073
+        ]
+      },
+      "properties": {
+        "name": "Fort Bowie NHS, Bowie, Arizona",
+        "arrival_day": 10,
+        "arrival_time": "20:23"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -106.4538777,
+          31.7679289
+        ]
+      },
+      "properties": {
+        "name": "Chamizal N MEM, El Paso, Texas",
+        "arrival_day": 10,
+        "arrival_time": "01:41"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -106.1722449,
+          32.779621
+        ]
+      },
+      "properties": {
+        "name": "White Sands NP, Alamogordo, New Mexico",
+        "arrival_day": 10,
+        "arrival_time": "04:59"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -104.4445002,
+          32.175424
+        ]
+      },
+      "properties": {
+        "name": "Carlsbad Caverns NP, Carlsbad, New Mexico",
+        "arrival_day": 11,
+        "arrival_time": "08:57"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -103.194174,
+          34.439407
+        ]
+      },
+      "properties": {
+        "name": "Colonial NHP, Yorktown, 23690",
+        "arrival_day": 11,
+        "arrival_time": "14:04"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -101.5862787,
+          35.6432673
+        ]
+      },
+      "properties": {
+        "name": "Lake Meredith NRA, Fritch, Texas",
+        "arrival_day": 12,
+        "arrival_time": "18:18"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.5172885,
+          35.4737199
+        ]
+      },
+      "properties": {
+        "name": "Oklahoma City N MEM, Oklahoma City, Oklahoma",
+        "arrival_day": 12,
+        "arrival_time": "00:27"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -94.7065998,
+          37.8436759
+        ]
+      },
+      "properties": {
+        "name": "Fort Scott NHS, Fort Scott, Kansas",
+        "arrival_day": 13,
+        "arrival_time": "06:33"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.4068,
+          38.5831
+        ]
+      },
+      "properties": {
+        "name": "Kirkwood, MO",
+        "arrival_day": 13,
+        "arrival_time": "10:53"
+      }
+    }
+  ]
+}
