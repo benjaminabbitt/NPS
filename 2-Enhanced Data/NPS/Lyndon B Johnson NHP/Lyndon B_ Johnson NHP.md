@@ -2,7 +2,7 @@
 
 ## Cancellation Stamp Locations:
 
-- [ ] Lyndon B. Johnson NHP Visitor Center (100 Ladybird Lane, Johnson City, Texas, 78636 (30.274855, -98.4090504); 9:00 AM-5:00 PM)
+- [ ] Lyndon B. Johnson NHP Visitor Center (100 Ladybird Lane, Johnson City, Texas, 78636; 9:00 AM-5:00 PM)
 
 ## Key Activities:
 

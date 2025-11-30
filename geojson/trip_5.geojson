@@ -1,0 +1,171 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -90.4068,
+            38.5831
+          ],
+          [
+            -87.0878382,
+            35.1813118
+          ],
+          [
+            -86.8144977,
+            33.5153921
+          ],
+          [
+            -85.83128,
+            33.6581699
+          ],
+          [
+            -85.6849644,
+            32.4579178
+          ],
+          [
+            -84.3734662,
+            33.7563822
+          ],
+          [
+            -84.324584,
+            33.9872732
+          ],
+          [
+            -90.4068,
+            38.5831
+          ]
+        ]
+      },
+      "properties": {
+        "trip_number": 5,
+        "total_sites": 6,
+        "total_distance_miles": 1152.9,
+        "total_days": 3
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.4068,
+          38.5831
+        ]
+      },
+      "properties": {
+        "name": "Kirkwood, MO",
+        "arrival_day": 1,
+        "arrival_time": "06:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.0878382,
+          35.1813118
+        ]
+      },
+      "properties": {
+        "name": "Fossil Butte NM, Kemmerer, 83101",
+        "arrival_day": 1,
+        "arrival_time": "13:25"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.8144977,
+          33.5153921
+        ]
+      },
+      "properties": {
+        "name": "Birmingham Civil Rights NM, Birmingham, Alabama",
+        "arrival_day": 1,
+        "arrival_time": "17:31"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.83128,
+          33.6581699
+        ]
+      },
+      "properties": {
+        "name": "Freedom Riders NM, Anniston, Alabama",
+        "arrival_day": 1,
+        "arrival_time": "20:33"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.6849644,
+          32.4579178
+        ]
+      },
+      "properties": {
+        "name": "Tuskegee Airmen NHS, Tuskegee, 36083",
+        "arrival_day": 2,
+        "arrival_time": "16:44"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.3734662,
+          33.7563822
+        ]
+      },
+      "properties": {
+        "name": "Martin Luther King, Jr NHP, Atlanta, Georgia",
+        "arrival_day": 2,
+        "arrival_time": "10:04"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.324584,
+          33.9872732
+        ]
+      },
+      "properties": {
+        "name": "Chattahoochee River NRA, Sandy Springs, Georgia",
+        "arrival_day": 2,
+        "arrival_time": "12:21"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.4068,
+          38.5831
+        ]
+      },
+      "properties": {
+        "name": "Kirkwood, MO",
+        "arrival_day": 1,
+        "arrival_time": "06:00"
+      }
+    }
+  ]
+}

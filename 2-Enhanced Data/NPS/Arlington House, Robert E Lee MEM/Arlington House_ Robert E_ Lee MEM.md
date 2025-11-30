@@ -3,7 +3,7 @@
 ## Cancellation Stamp Locations
 
 - **Arlington House** (Located within Arlington National Cemetery, accessed through cemetery entrance, Arlington, VA 22211 (38.8821953, -77.0734759); September-May: 9:30 AM-4:30 PM, June-August: 9:00 AM-4:30 PM, closed Thanksgiving, Christmas, and New Year's Day; 703-235-1530)
-- **George Washington Memorial Parkway Headquarters** (700 George Washington Memorial Parkway, McLean, VA 22101 (38.961154, -77.1463994); All 31 parkway-related stamps available weekdays 8:00 AM-4:15 PM)
+- **George Washington Memorial Parkway Headquarters** (700 George Washington Memorial Parkway, McLean, VA 22101; All 31 parkway-related stamps available weekdays 8:00 AM-4:15 PM)
 
 **Note:** Arlington House is located within Arlington National Cemetery. Access is through the Arlington National Cemetery Visitor Center Security Access Point. Visitors cannot drive directly to Arlington House. Call 703-235-1530 to confirm current stamp locations before visiting. [Source: [NPS Basic Information](https://www.nps.gov/arho/planyourvisit/basicinfo.htm), [NPS Contact](https://www.nps.gov/arho/contacts.htm), [NPS GWMP Passport Stamps](https://www.nps.gov/gwmp/planyourvisit/passport_stamps.htm)]
 

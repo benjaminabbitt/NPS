@@ -6,7 +6,7 @@
 
 ## Cancellation Stamps
 
-- [ ] Monroe Elementary School / Visitor Center (1515 SE Monroe Street, Topeka, KS 66612 (39.0379549, -95.6764888)) (39.0379549, -95.6764888)
+- [ ] Monroe Elementary School / Visitor Center (1515 SE Monroe Street, Topeka, KS 66612) (39.0379549, -95.6764888)
 
 ## Key Activities
 

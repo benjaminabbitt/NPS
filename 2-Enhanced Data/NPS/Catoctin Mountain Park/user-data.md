@@ -6,7 +6,7 @@
 
 ## Cancellation Stamps
 
-- [x] Visitor Center (6602 Foxville Road, Thurmont, MD 21788 (39.6268151, -77.4397771)) (39.6268151, -77.4397771)
+- [x] Visitor Center (6602 Foxville Road, Thurmont, MD 21788) (39.6268151, -77.4397771)
 
 ## Key Activities
 
@@ -32,5 +32,13 @@
 - [ ] Gettysburg National Military Park (2-5 hours, 30 minutes away)
 - [ ] Springfield Manor Winery Distillery Brewery (2-3 hours, nearby Thurmont)
 
+
+## Amber's Data (from spreadsheet)
+
+**Visitor Center:** Catoctin Mountain Park Visitor Center
+
+**Address:** 14707 Park Central Road, Thurmont, Maryland 21788
+
+**Hours:** Hours not available
 
 ## Review / Personal Notes

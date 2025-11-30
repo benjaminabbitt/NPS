@@ -6,51 +6,40 @@
 
 ## Cancellation Stamps
 
-- [x] Amistad NRA Visitor Center (10477 Highway 90 West, Del Rio, TX 78840 (29.466018, -100.98844))
+- [x] Amistad NRA Visitor Center (10477 Highway 90 West, Del Rio, TX 78840) [bd6a55]
 
 ## Key Activities
 
-- [ ] Visitor Center Experience (30-60 minutes)
-- [ ] Boating and Water Sports (4-8 hours)
-- [ ] Fishing (4-8+ hours)
-- [ ] Kayaking/Canoeing Short Trails (3 hours)
-- [ ] Hiking Sunrise Trail (1-2 hours)
-- [ ] Scuba Diving (4-6 hours)
+- [ ] Visitor Center Experience (30-60 minutes) [4d56c2]
+- [ ] Boating and Water Sports (4-8 hours) [e5934a]
+- [ ] Fishing (4-8+ hours) [79cea8]
+- [ ] Kayaking/Canoeing Short Trails (3 hours) [f88d53]
+- [ ] Hiking Sunrise Trail (1-2 hours) [ebeb36]
+- [ ] Scuba Diving (4-6 hours) [4276e3]
 
 ## Hidden Gems
 
-- [ ] Rock Art Viewing at Panther Cave (4-6 hours)
-- [ ] Kayaking Devils River Multi-Day Trip (overnight)
-- [ ] Governors Landing Overlook (30-60 minutes)
+- [ ] Rock Art Viewing at Panther Cave (4-6 hours) [6b6f5f]
+- [ ] Kayaking Devils River Multi-Day Trip (overnight) [0b5276]
+- [ ] Governors Landing Overlook (30-60 minutes) [b21bcb]
 
 ## Also Nearby
 
-- [ ] Seminole Canyon State Park - Fate Bell Shelter Rock Art Tour (90 minutes, 45 minutes away)
-- [ ] Whitehead Memorial Museum (1-2 hours, 10 minutes away)
-- [ ] Val Verde Winery (20-30 minutes, 10 minutes away)
-- [ ] Devils River State Natural Area (full day, 65 miles away)
-
+- [ ] Seminole Canyon State Park - Fate Bell Shelter Rock Art Tour (90 minutes, 45 minutes away) [1196fe]
+- [ ] Whitehead Memorial Museum (1-2 hours, 10 minutes away) [25b0b8]
+- [ ] Val Verde Winery (20-30 minutes, 10 minutes away) [f59c9c]
+- [ ] Devils River State Natural Area (full day, 65 miles away) [448f34]
 
 
 
 
 ## Amber's Data (from spreadsheet)
 
-*This section preserves the original data from the source spreadsheet.*
+**Visitor Center:** Amistad National Recreation Area Visitor Center
 
-**Main Address:** 10477 Highway 90 West, Del Rio, Texas 78840 (29.466018, -100.98844)
+**Address:** 10477 US-90, Del Rio, Texas 78840 (29.466018, -100.98844)
 
-**Operating Hours (from source):**
-- **Sunday:** 8:00 AM-4:30 PM
-- **Monday:** 8:00 AM-4:30 PM
-- **Tuesday:** 8:00 AM-4:30 PM
-- **Wednesday:** 8:00 AM-4:30 PM
-- **Thursday:** 8:00 AM-4:30 PM
-- **Friday:** 8:00 AM-4:30 PM
-- **Saturday:** 8:00 AM-4:30 PM
-
-**Visitor Center (from source):**
-- **Name:** Amistad National Recreation Area Visitor Center
-- **Address:** 10477 US-90, Del Rio, Texas 78840 (29.466018, -100.98844)
+**Hours:** Hours not available
 
 ## Review / Personal Notes
+

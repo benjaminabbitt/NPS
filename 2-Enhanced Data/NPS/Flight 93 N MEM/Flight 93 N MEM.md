@@ -1,51 +1,33 @@
-# Flight 93 N MEM (National Memorial)
+# Flight 93 N MEM
 
-## Cancellation Stamp Locations
+## Cancellation Stamp Locations:
 
-- **Flight 93 Visitor Center** (6424 Lincoln Highway, Stoystown, PA 15563 (40.0590243, -78.8950617); Daily 9:00 AM-5:00 PM; 814-893-6322) [Source: [NPS Basic Information](https://www.nps.gov/flni/planyourvisit/basicinfo.htm), [NPS Contact](https://www.nps.gov/flni/contacts.htm), [Google Maps](https://www.google.com/maps/place/Flight+93+National+Memorial/@40.0590243,-78.8972504,17z/data=!3m1!4b1!4m6!3m5!1s0x89cae261ad1adf41:0xdc7977c4441d82a!8m2!3d40.0590243!4d-78.8950617!16zL20vMDd4bHc2)]
+- [ ] Flight 93 N MEM Visitor Center (6424 Lincoln Highway, Stoystown, Pennsylvania, 15563; 9:00 AM-5:00 PM)
 
-**Note:** Call (814) 893-6322 to confirm current stamp locations before visiting. Closed Thanksgiving, Christmas, and New Year's Day.
+## Key Activities:
 
-## Key Activities
+- [ ] Visitor Center Experience (1-2 hours) - Explore exhibits and learn about Flight 93 N MEM; 6424 Lincoln Highway, Stoystown, Pennsylvania, 15563; 9:00 AM-5:00 PM [[Source](https://www.nps.gov/f9n)]
 
-- **Visitor Center Complex and Exhibits** (45-60 minutes) - Self-guided permanent exhibition focusing on Flight 93's story within the context of September 11, 2001, featuring artifacts, multimedia, and interactive displays that recount the passengers and crew members' actions and the subsequent investigation; 6424 Lincoln Highway, Stoystown, PA 15563 (40.0590243, -78.8950617); Daily 9:00 AM-5:00 PM [Source: [NPS Visitor Center](https://www.nps.gov/flni/planyourvisit/vc.htm), [NPS Hours](https://www.nps.gov/flni/planyourvisit/hours.htm)]
+## Hidden Gems:
 
-- **Tower of Voices** (15-20 minutes) - Gateway monument standing 93 feet tall with 40 wind-activated chimes (5-10 feet each, unique pitch) representing the eternal voices of the 40 passengers and crew; surrounded by white pines in concentric pattern creating soundwave illusion; Route 30/Lincoln Highway entrance; Sunrise-Sunset [Source: [NPS Tower of Voices](https://www.nps.gov/flni/planyourvisit/tower-of-voices.htm), [Laurel Highlands](https://www.golaurelhighlands.com/things-to-do/history/flight-93-memorial/), [PA B&B Blog](https://www.painns.com/blog/history-stoystown-2150)]
+## Also Nearby:
 
-- **Wall of Names and Memorial Plaza** (30-45 minutes) - White marble wall positioned on the flight path with forty panels engraved with each hero's name; includes Ceremonial Gate with view down flight path to impact site marked by 17.5-ton native sandstone boulder; one mile from Visitor Center; Daily Sunrise-Sunset [Source: [Laurel Highlands](https://www.golaurelhighlands.com/things-to-do/history/flight-93-memorial/), [NPS Memorial Plaza](https://www.nps.gov/flni/planyourvisit/plaza.htm), [Wikipedia](https://en.wikipedia.org/wiki/Flight_93_National_Memorial)]
 
-- **Sacred Ground and Impact Site Viewing** (15-30 minutes) - View the 40-acre Field of Honor crash site from Memorial Plaza platform; visible gap in eastern hemlock grove marks where 80 damaged trees were removed as lasting "scar" of impact; 17.5-ton sandstone boulder placed in 2011 indicates edge of impact site; Memorial Plaza; Daily Sunrise-Sunset [Source: [PA Bucket List](https://pabucketlist.com/exploring-the-flight-93-national-memorial-in-somerset-county/), [NPPlan](https://npplan.com/parks-by-state/pennsylvania-national-parks/flight-93-national-memorial-park-at-a-glance/flight-93-national-memorial-visitor-center/)]
+## Amber's Data
 
-- **The Allée Walking Trail** (60-90 minutes round trip) - 2.4-mile curving compact cinder path through reclaimed landscape from Visitor Center to Memorial Plaza; crosses wetlands via Wetlands Bridge; features 40 Memorial Groves of 40 native Pennsylvania hardwoods (Red Oak, White Oak, Black Oak, Scarlet Oak, Chestnut Oak, Swamp White Oak, Red Maple, Sugar Maple) radiating along landform, one grove for each passenger and crew member; concrete walls have hemlock tree bark texture imprint; time stamps of other September 11 planes engraved in walkway; Visitor Center to Memorial Plaza; Daily Sunrise-Sunset [Source: [NPS Trails](https://www.nps.gov/flni/planyourvisit/trails.htm), [AllTrails](https://www.alltrails.com/trail/us/pennsylvania/flight-93-national-monument), [PA Bucket List](https://pabucketlist.com/exploring-the-flight-93-national-memorial-in-somerset-county/)]
+*This section preserves the original data from the source spreadsheet.*
 
-- **Western Overlook Trail** (20-30 minutes round trip) - 0.7-mile trail from Wall of Names to Learning Center; historically significant midpoint marks spot where family members first viewed crash site; provides contemplative approach to memorial grounds; Wall of Names to Learning Center; Daily Sunrise-Sunset [Source: [NPS Trails](https://www.nps.gov/flni/planyourvisit/trails.htm), [NPPlan Western Overlook](https://npplan.com/parks-by-state/pennsylvania-national-parks/flight-93-national-memorial-park-at-a-glance/flight-93-national-memorial-walking-trails/flight-93-national-memorial-western-overlook-trail/), [PA Bucket List](https://pabucketlist.com/exploring-the-flight-93-national-memorial-in-somerset-county/)]
+**Main Address:** 6424 Lincoln Highway, Stoystown, Pennsylvania 15563
 
-- **Flight Path Walkway and Overlook** (10-15 minutes) - Trace the final path of Flight 93 from elevated walkway; provides perspective on the flight's trajectory and impact location; connects Visitor Center Complex to overlook points; Daily Sunrise-Sunset [Source: [NPPlan Visitor Center](https://npplan.com/parks-by-state/pennsylvania-national-parks/flight-93-national-memorial-park-at-a-glance/flight-93-national-memorial-visitor-center/)]
+**Operating Hours (from source):**
+- **Sunday:** 9:00 AM-5:00 PM [ff436f]
+- **Monday:** 9:00 AM-5:00 PM [942cba]
+- **Tuesday:** 9:00 AM-5:00 PM [3fa55c]
+- **Wednesday:** 9:00 AM-5:00 PM [56d1cd]
+- **Thursday:** 9:00 AM-5:00 PM [ccffe9]
+- **Friday:** 9:00 AM-5:00 PM [d1ffbd]
+- **Saturday:** 9:00 AM-5:00 PM [23c4af]
 
-## Hidden Gems
-
-- **Trail of Remembrance** (30-40 minutes round trip) - Half-mile loop trail accessing one of the original temporary memorial sites where visitors left tributes; accessible from Allée or Memorial Plaza parking lot; reveals land reclamation transformation of former strip mine into thriving ecosystem with native trees and wildflowers; Memorial Plaza parking lot or Allée access; Daily Sunrise-Sunset [Source: [NPS Trails](https://www.nps.gov/flni/planyourvisit/trails.htm), [PA Bucket List](https://pabucketlist.com/exploring-the-flight-93-national-memorial-in-somerset-county/)]
-
-- **Learning Center "Through Their Eyes" Exhibit** (15-20 minutes) - Stand-alone building displaying temporary exhibition of tributes left by children including Legos, small toy firetrucks, and stuffed animals placed near temporary memorial after 2001 attacks; not open daily to public, available during scheduled lectures, classes, and seminars; next to Visitor Center parking lot; Check memorial calendar for program schedule [Source: [Friends of Flight 93](https://www.flight93friends.org/plan-your-visit/overview), [NPPlan Visitor Center](https://npplan.com/parks-by-state/pennsylvania-national-parks/flight-93-national-memorial-park-at-a-glance/flight-93-national-memorial-visitor-center/)]
-
-- **Ranger-Led Programs at Memorial Plaza** (30-45 minutes) - Interpretive programming offered by Park Rangers and volunteers; daily programs from Memorial Day weekend through Labor Day weekend; provides deeper context and answers to visitor questions about the events of September 11, 2001; Memorial Plaza; Memorial Day through Labor Day, check memorial calendar [Source: [NPS Plan Your Visit](https://www.nps.gov/flni/planyourvisit/index.htm), [Friends of Flight 93](https://www.flight93friends.org/plan-your-visit/overview)]
-
-- **Memorial Design Details and Symbolism** (ongoing during visit) - Discover subtle profound details: concrete walls with hemlock bark texture (honoring hemlock grove surrounding crash site), time stamps of other three September 11 planes engraved in walkway, 93-foot tower height representing Flight 93, C-shaped tower design amplifying wind chime sounds, white pines arranged as soundwave pattern radiating from Tower of Voices; Throughout memorial grounds; Daily Sunrise-Sunset [Source: [PA Bucket List](https://pabucketlist.com/exploring-the-flight-93-national-memorial-in-somerset-county/), [PA B&B Blog](https://www.painns.com/blog/history-stoystown-2150)]
-
-## Also Nearby
-
-- **Somerset Historical Center** (1-2 hours, 15 miles northeast) - 150-acre rural history museum preserving southwestern Pennsylvania life from first farmers to present; outdoor exhibits include 1770s Settler's Cabin, 1830s Farmstead with circa 1795 Farmhouse, 1859 Walter's Mills Covered Bridge, 1860s Maple Sugar Camp, 1890s Cider Press, recreated 1890s country store, and agricultural equipment displays; hosts Maple Syrup Festival and Mountain Craft Days (first weekend after Labor Day with 125 craftspersons, 13,000+ visitors); visitor center with exhibits and Genealogical Research Library; 10649 Somerset Pike, Somerset, PA 15501; Wed-Sat 10:00 AM-4:00 PM (outdoor tours Apr 1-Oct 31, last tour 3:30 PM); 814-445-6077 [Source: [Somerset Historical Center](https://www.somersethistoricalcenter.org/), [PA.gov Somerset Historical](https://www.pa.gov/agencies/phmc/historic-sites-and-museums/rural-farm-and-village-history-trail/somerset-historical), [PA Bucket List Somerset](https://pabucketlist.com/exploring-the-somerset-historical-center/)]
-
-- **Quecreek Mine Rescue Site** (30-45 minutes, 10 miles north near Somerset) - Pennsylvania State Historical Site commemorating 2002 miracle rescue of nine miners trapped 240 feet underground; outdoor memorial park features 7-foot cast bronze coal miner statue, actual rescue capsule, broken drill bit, rescue shaft access, memorial trees, and tunnel height display box; Education Center auditorium with live presentation of rescue story; Near Somerset, PA; Site: Daily 8:00 AM-8:00 PM, Education Center: Apr 1-Nov 1 Tue-Sat 11:00 AM-6:00 PM; 814-442-2359 [Source: [Quecreek Foundation](https://quecreekrescue.org/), [TripAdvisor Quecreek](https://www.tripadvisor.com/Attraction_Review-g53711-d1534398-Reviews-Quecreek_Mine_Rescue_Site-Somerset_Pennsylvania.html), [Uncovering PA](https://uncoveringpa.com/quecreek-mine-rescue-site)]
-
-- **Fallingwater** (1.5-2 hours tour, 40 miles southeast/1 hour drive) - Frank Lloyd Wright's iconic masterpiece and National Historic Landmark built partly over waterfall on Bear Run; UNESCO World Heritage Site with original furnishings and artwork intact; one-hour Guided Architectural tour includes main floor, terraces, and guest house; advanced reservations required; designated "best all-time work of American architecture" by American Institute of Architects; 1491 Mill Run Road, Mill Run, PA 15464 (39.9382383, -79.4473901); Open daily except Wednesdays 10:00 AM-3:30 PM mid-March through Thanksgiving, Saturdays and Sundays in December, week between Christmas and New Year's; 724-329-8501 [Source: [Fallingwater](https://fallingwater.org/), [Visit Pittsburgh Fallingwater](https://www.visitpittsburgh.com/directory/frank-lloyd-wrights-fallingwater/), [Distance Calculator](https://www.distancebetweencities.net/shanksville_pa_and_fallingwater_mill-run_pa/)]
-
-- **Kentuck Knob** (1-1.5 hours tour, ~30 miles southeast) - Frank Lloyd Wright Usonian-style house (completed 1956) constructed of native stone, tidewater cypress, and copper; National Historic Landmark overlooking Youghiogheny River gorge; designed for I. N. Hagan (ice cream firm owner); 7 miles from Fallingwater; visitor center completed 2003; all visitors require tour ticket or grounds pass; 723 Kentuck Rd, Chalk Hill, PA 15421; Mar 15-Nov 2 daily 9:00 AM-4:00 PM (Wed 12:00 PM-4:00 PM), Nov 3-30 daily 10:00 AM-3:00 PM (Wed 12:00 PM-3:00 PM), December Sat-Sun 10:00 AM-3:00 PM plus Dec 26-30 daily; 724-329-1901 [Source: [Kentuck Knob](https://kentuckknob.com/), [Wikipedia Kentuck Knob](https://en.wikipedia.org/wiki/Kentuck_Knob), [Frank Lloyd Wright Foundation](https://franklloydwright.org/site/kentuck-knob/)]
-
-- **Patriot Park / Field of Heroes Flag Display** (15-20 minutes, 0.5 miles west) - Future site of permanent memorial honoring military personnel who died serving in Global War on Terrorism; temporary Flag Display currently in place; located just west of Flight 93 N MEM entrance along Route 30; Half mile west of Flight 93 N MEM entrance on Route 30; Daily [Source: [NPS Nearby Attractions](https://www.nps.gov/flni/planyourvisit/nearbyattractions.htm)]
-
-- **Flight 93 Memorial Chapel** (10-15 minutes, 5 miles southwest) - Independent memorial chapel honoring Flight 93 passengers and crew; corner of Stutzmantown Road and Coleman Station Road, Stonycreek Township; Check locally for hours [Source: [TripAdvisor Chapel](https://www.tripadvisor.com/Attraction_Review-g15138367-d3194073-Reviews-Flight_93_Memorial_Chapel-Stonycreek_Township_Pennsylvania.html), [NPS Nearby Attractions](https://www.nps.gov/flni/planyourvisit/nearbyattractions.htm)]
-
----
-
-**Total Recommended Time:** 2.5-3 hours for comprehensive visit (45-60 minutes Visitor Center exhibits, 15-20 minutes Tower of Voices, 30-45 minutes Wall of Names and Memorial Plaza, 15-30 minutes Sacred Ground viewing, plus walking between locations and reflection time). Add 1-2 hours for Allée or Western Overlook Trail walking. [Source: [NPS Basic Information](https://www.nps.gov/flni/planyourvisit/basicinfo.htm), [TripAdvisor Flight 93](https://www.tripadvisor.com/Attraction_Review-g53770-d491537-Reviews-Flight_93_National_Memorial-Stoystown_Pennsylvania.html), [TSA and Tacos](https://tsaandtacos.com/flight-93-national-memorial-shanksville/)]
+**Visitor Center (from source):**
+- **Name:** Flight 93 Visitor Center [2683ca]
+- **Address:** 6424 Lincoln Highway [fa0882]

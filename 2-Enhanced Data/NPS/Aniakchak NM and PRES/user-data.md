@@ -6,45 +6,25 @@
 
 ## Cancellation Stamps
 
-- [x] King Salmon Visitor Center (1 King Salmon Airport Rd, King Salmon, AK 99613 (58.6826737, -156.6682423))
+- [x] King Salmon Visitor Center (1 King Salmon Airport Rd, King Salmon, AK 99613) [8b1749]
 
 ## Key Activities
 
-- [ ] Aniakchak River Rafting (3-4 days)
-- [ ] Caldera Floor Hiking & Backpacking (3-12 days)
-- [x] King Salmon Visitor Center (1-2 hours)
+- [ ] Aniakchak River Rafting (3-4 days) [8edb31]
+- [ ] Caldera Floor Hiking & Backpacking (3-12 days) [ca2981]
+- [x] King Salmon Visitor Center (1-2 hours) [8b1749]
 
 ## Hidden Gems
 
-- [ ] Surprise Lake Thermal Springs (1-2 hours exploration)
-- [ ] Vent Mountain Ascent (3-5 hours)
+- [ ] Surprise Lake Thermal Springs (1-2 hours exploration) [181df4]
+- [ ] Vent Mountain Ascent (3-5 hours) [7360bf]
 
 ## Also Nearby
 
-- [ ] Katmai National Park - Brooks Camp Bear Viewing (4-7 hours on-ground, full day trip; 30 air miles)
-- [ ] Katmai National Park - Valley of 10,000 Smokes Tour (7 hours; 30 air miles)
-- [ ] Naknek River King Salmon Fishing (half to full day; King Salmon, AK)
+- [ ] Katmai National Park - Brooks Camp Bear Viewing (4-7 hours on-ground, full day trip; 30 air miles) [218d7a]
+- [ ] Katmai National Park - Valley of 10,000 Smokes Tour (7 hours; 30 air miles) [02753f]
+- [ ] Naknek River King Salmon Fishing (half to full day; King Salmon, AK) [1a4710]
 
 
-
-
-## Amber's Data (from spreadsheet)
-
-*This section preserves the original data from the source spreadsheet.*
-
-**Main Address:** King Salmon Airport Rd, King Salmon, Alaska 99613
-
-**Operating Hours (from source):**
-- **Sunday:** 9:00 AM–5:00 PM
-- **Monday:** 9:00 AM–5:00 PM
-- **Tuesday:** 9:00 AM–5:00 PM
-- **Wednesday:** 9:00 AM–5:00 PM
-- **Thursday:** 9:00 AM–5:00 PM
-- **Friday:** 9:00 AM–5:00 PM
-- **Saturday:** 9:00 AM–5:00 PM
-
-**Visitor Center (from source):**
-- **Name:** King Salmon Visitor Center
-- **Address:** 1 King Salmon Airport Rd, King Salmon, Alaska 99613 (58.6826737, -156.6682423)
 
 ## Review / Personal Notes

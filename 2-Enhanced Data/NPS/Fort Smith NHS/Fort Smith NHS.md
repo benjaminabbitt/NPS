@@ -1,45 +1,33 @@
-# Fort Smith NHS (National Historic Site)
+# Fort Smith NHS
 
-## Cancellation Stamp Locations
+## Cancellation Stamp Locations:
 
-- **Fort Smith National Historic Site Visitor Center** (301 Parker Ave, Fort Smith, AR 72901 (35.3880, -94.4265); Daily 9:00 AM - 5:00 PM, closed Christmas and New Year's Day; contact via NPS website) - National Park Service passport cancellation stamps available at visitor center in former barracks/courthouse/jail buildings; passport stickers and annual stamp sets also available. [Source: [NPS Fort Smith](https://www.nps.gov/fosm/index.htm), [NPS Plan Visit](https://www.nps.gov/fosm/planyourvisit/index.htm), [Arkansas.com](https://www.arkansas.com/fort-smith/landmarks/fort-smith-national-historic-site)]
+- [ ] Fort Smith NHS Visitor Center (301 Parker Ave, Fort Smith, Arkansas, 72901; 9:00 AM–5:00 PM)
 
-**Note:** Confirm hours before visiting. FREE to explore grounds, gallows, and commissary; fee for inside access to jail, courtroom, and exhibits.
+## Key Activities:
 
-## Key Activities
+- [ ] Visitor Center Experience (1-2 hours) - Explore exhibits and learn about Fort Smith NHS; 301 Parker Ave, Fort Smith, Arkansas, 72901; 9:00 AM–5:00 PM [[Source](https://www.nps.gov/fsn)]
 
-- **Judge Parker's Courtroom Tour** (30-45 minutes) - Visit restored courtroom of legendary "Hanging Judge" Isaac C. Parker complete with his original desk; listen to recreated conversations from actual trials; see where Parker sentenced 160 people to death from 1875-1896 with 79 actually hanged; small but powerful space; inside visitor center building; Daily 9:00 AM - 5:00 PM; admission fee [Source: [National Parks Traveler](https://www.nationalparkstraveler.org/2016/10/where-judge-parker-ruled-visit-fort-smith-nhs), [Tie Dye Travels](https://www.tiedyetravels.com/2016/03/fort-smith-natl-historic-site.html), [Legends of America](https://www.legendsofamerica.com/ar-isaacparker/)]
+## Hidden Gems:
 
-- **"Hell on the Border" Basement Jail** (20-30 minutes) - Descend into notorious basement jail beneath courtroom called "most miserable prison, probably, in the whole country" by U.S. Attorney General Augustus Garland; experience cramped, dark conditions where prisoners awaited trial or execution; powerful historical experience; inside visitor center; Daily 9:00 AM - 5:00 PM; admission fee [Source: [TripAdvisor](https://www.tripadvisor.com/ShowUserReviews-g60816-d298398-r237834498-Fort_Smith_National_Historic_Site-Fort_Smith_Arkansas.html), [National Parks Traveler](https://www.nationalparkstraveler.org/2016/10/where-judge-parker-ruled-visit-fort-smith-nhs)]
+## Also Nearby:
 
-- **Reconstructed Gallows** (15-20 minutes) - View 1982 replica of infamous gallows where 86 men were hanged including six at one time in 1896; see impressive killing machine with hanging beam accommodating eight people simultaneously; interpretive signs explain execution procedures; fort grounds; accessible during park hours; FREE [Source: [Roadside America](https://www.roadsideamerica.com/story/21204), [National Parks Traveler](https://www.nationalparkstraveler.org/2016/10/where-judge-parker-ruled-visit-fort-smith-nhs), [Tie Dye Travels](https://www.tiedyetravels.com/2016/03/fort-smith-natl-historic-site.html)]
 
-- **Visitor Center Exhibits and Film** (30-45 minutes) - Watch orientation video and explore exhibits interpreting two forts (1817-1871), Trail of Tears, Judge Isaac Parker's tenure, federal courts' effects on justice in Indian Territory, and life on western frontier; comprehensive historical overview; visitor center; Daily 9:00 AM - 5:00 PM; admission fee for exhibits [Source: [NPS Things to Do](https://www.nps.gov/fosm/planyourvisit/things2do.htm), [Arkansas Home NPS](https://home.nps.gov/articles/ftsmith.htm), [National Parks Traveler](https://www.nationalparkstraveler.org/2016/10/where-judge-parker-ruled-visit-fort-smith-nhs)]
+## Amber's Data
 
-- **Fort Grounds Walking Tour** (30-60 minutes) - Walk grounds viewing first fort site, Trail of Tears Overlook on Arkansas River, Commissary building, reconstructed gallows, and foundations; interpretive signs throughout; experience where military posts kept peace in Indian Territory; fort grounds; accessible during daylight; FREE [Source: [NPS Places to Go](https://www.nps.gov/fosm/planyourvisit/placestogo.htm), [Arkansas.com](https://www.arkansas.com/fort-smith/landmarks/fort-smith-national-historic-site), [Wikipedia](https://en.wikipedia.org/wiki/Fort_Smith_National_Historic_Site)]
+*This section preserves the original data from the source spreadsheet.*
 
-- **Trail of Tears Overlook** (15-20 minutes) - Stand at Arkansas River overlook where thousands of Cherokee and other tribes passed through Fort Smith during forced removal 1838-1839; somber historical site with interpretive information; fort grounds; accessible during daylight; FREE [Source: [NPS Places to Go](https://www.nps.gov/fosm/planyourvisit/placestogo.htm), [Park Ranger John](https://www.parkrangerjohn.com/fort-smith-national-historic-site/)]
+**Main Address:** 301 Parker Ave, Fort Smith, Arkansas 72901
 
-## Hidden Gems
+**Operating Hours (from source):**
+- **Sunday:** 9:00 AM–5:00 PM [ff436f]
+- **Monday:** 9:00 AM–5:00 PM [942cba]
+- **Tuesday:** 9:00 AM–5:00 PM [3fa55c]
+- **Wednesday:** 9:00 AM–5:00 PM [56d1cd]
+- **Thursday:** 9:00 AM–5:00 PM [ccffe9]
+- **Friday:** 9:00 AM–5:00 PM [d1ffbd]
+- **Saturday:** 9:00 AM–5:00 PM [23c4af]
 
-- **Commissary Building Exploration** (15-20 minutes) - Visit historic commissary building storing supplies for fort and federal court operations; often overlooked but important support structure; fort grounds; accessible during park hours; FREE [Source: [Tie Dye Travels](https://www.tiedyetravels.com/2016/03/fort-smith-natl-historic-site.html), [NPS Places to Go](https://www.nps.gov/fosm/planyourvisit/placestogo.htm)]
-
-- **Military History Focus** (included in visit) - Learn about Fort Smith's role protecting western expansion 1817-1871 through two military posts; discover how fort evolved from frontier outpost to important federal court jurisdiction; exhibits throughout site; visitor center and grounds; Daily 9:00 AM - 5:00 PM; included in admission [Source: [Encyclopedia Arkansas](https://encyclopediaofarkansas.net/entries/fort-smith-national-historic-site-4522/), [NPS Things to Do](https://www.nps.gov/fosm/planyourvisit/things2do.htm)]
-
-- **Federal Court Legacy** (integrated throughout) - Understand how Judge Parker's federal court brought law to lawless Indian Territory; learn about U.S. Marshals who risked lives serving warrants; see impact of federal justice system on region; exhibits and courtroom; Daily 9:00 AM - 5:00 PM; admission fee [Source: [Legends of America](https://www.legendsofamerica.com/ar-isaacparker/), [National Parks Traveler](https://www.nationalparkstraveler.org/2016/10/where-judge-parker-ruled-visit-fort-smith-nhs)]
-
-## Also Nearby
-
-- **Miss Laura's Social Club Visitor Center** (20-30 minutes, 0.3 miles) - Visit only former bordello on National Register of Historic Places, now serving as tourist information center in Belle Grove Historic District; restored baroque Victorian home (built 1900) with exhibits and vintage photos about "working girls" lives; fascinating glimpse into frontier history; 2 N B St, Fort Smith, AR 72901 (35.3920632, -94.4291798); hours vary; FREE [Source: [She Buys Travel](https://shebuystravel.com/things-to-do-in-fort-smith-arkansas/), [Arkansas Things to Do](https://www.arkansas.com/fort-smith/things-to-do), [PTCOA Top 10](https://www.ptcoa.com/10-activities-fort-smith-ar)]
-
-- **Fort Smith Trolley Museum** (1-2 hours, 0.5 miles) - Ride restored 1926 electric streetcar on half-mile run between Garrison Avenue and U.S. National Cemetery; view collection of five streetcars, four steam locomotives, three buses (one streetcar and four locomotives on National Register); 100 S 4th St, Fort Smith, AR 72901 (35.3859317, -94.4300609); hours vary seasonally; admission charged [Source: [Arkansas Things to Do](https://www.arkansas.com/fort-smith/things-to-do), [She Buys Travel](https://shebuystravel.com/things-to-do-in-fort-smith-arkansas/), [PTCOA Top 10](https://www.ptcoa.com/10-activities-fort-smith-ar)]
-
-- **Belle Grove Historic District** (1-2 hours, 0.3 miles) - Stroll beautifully preserved 22-block residential area showcasing architectural styles from 1840-1900s including John Rogers House, Clayton House, Darby House, Belle Grove School; oldest home dates to 1840; Fort Smith, AR; accessible during daylight; FREE [Source: [She Buys Travel](https://shebuystravel.com/things-to-do-in-fort-smith-arkansas/), [PTCOA Top 10](https://www.ptcoa.com/10-activities-fort-smith-ar)]
-
-- **U.S. Marshals Museum** (1.5-2 hours, 1 mile) - Explore comprehensive museum honoring U.S. Marshals Service history with interactive exhibits, historical artifacts, and stories of marshals who brought law to frontier; complements Fort Smith NHS experience; 789 Riverfront Dr, Fort Smith, AR 72901 (35.3985547, -94.4255449); hours vary; admission charged [Source: [Arkansas Things to Do](https://www.arkansas.com/fort-smith/things-to-do), [Touropia](https://www.touropia.com/things-to-do-in-fort-smith-arkansas/)]
-
-- **Bass Reeves Statue** (10-15 minutes, downtown) - Photograph impressive 25-foot statue honoring legendary African American U.S. Deputy Marshal Bass Reeves who arrested over 3,000 felons without being wounded; first African American deputy marshal west of Mississippi; downtown Fort Smith; always accessible; FREE [Source: [Arkansas Things to Do](https://www.arkansas.com/fort-smith/things-to-do), [She Buys Travel](https://shebuystravel.com/things-to-do-in-fort-smith-arkansas/)]
-
----
-
-**Total Recommended Time at Fort Smith NHS (National Historic Site):** Minimum 45 minutes-1 hour for exhibits, courtroom, and jail; 2 hours recommended for comprehensive experience including grounds, film, all buildings, and interpretive signs; combine with downtown historic attractions for half-day Fort Smith experience. [Source: [TripAdvisor](https://www.tripadvisor.com/ShowUserReviews-g60816-d298398-r237834498-Fort_Smith_National_Historic_Site-Fort_Smith_Arkansas.html), [National Parks Traveler](https://www.nationalparkstraveler.org/2016/10/where-judge-parker-ruled-visit-fort-smith-nhs)]
+**Visitor Center (from source):**
+- **Name:** Fort Smith NHS [2683ca]
+- **Address:** 301 Parker Ave [fa0882]

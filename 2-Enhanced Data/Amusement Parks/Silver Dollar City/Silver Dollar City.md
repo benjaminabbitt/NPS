@@ -1,23 +1,21 @@
 # Silver Dollar City
 
-**Address:** 399 Silver Dollar City Pkwy, Branson, MO 65616 [36.669, -93.338]
+**Location:** United States
 
-## Park Information
+## Address
 
-*Research needed: Operating hours, admission prices, parking, season dates*
+399 Silver Dollar City Pkwy, Branson, MO 65616
+## Operating Hours
 
-## Notable Coasters
+Varies by season - check park website before visiting
 
-*See user-data.md for complete coaster checklist*
+## Operating Seasons
 
-## Planning Tips
+Seasonal operation - typically May-September, check website for specific dates
 
-*Research needed: Best visiting times, fast pass options, food recommendations*
+## Coasters at This Park
 
-## Nearby Attractions
 
-*Research needed: Hotels, restaurants, other activities*
-
----
-
-**Last Updated:** 2025-11-26
+- [Outlaw Run](Outlaw Run.md)
+- [PowderKeg](PowderKeg.md)
+- [Time Traveler](Time Traveler.md)

@@ -1,23 +1,19 @@
 # Kemah Boardwalk
 
-**Address:** 215 Kipp Ave, Kemah, TX 77565 [29.5473, -95.0202]
+**Location:** United States
 
-## Park Information
+## Address
 
-*Research needed: Operating hours, admission prices, parking, season dates*
+215 Kipp Ave, Kemah, TX 77565
+## Operating Hours
 
-## Notable Coasters
+Varies by season - check park website before visiting
 
-*See user-data.md for complete coaster checklist*
+## Operating Seasons
 
-## Planning Tips
+Seasonal operation - typically May-September, check website for specific dates
 
-*Research needed: Best visiting times, fast pass options, food recommendations*
+## Coasters at This Park
 
-## Nearby Attractions
 
-*Research needed: Hotels, restaurants, other activities*
-
----
-
-**Last Updated:** 2025-11-26
+- [Boardwalk Bullet](Boardwalk Bullet.md)

@@ -2,7 +2,7 @@
 
 ## Cancellation Stamp Locations:
 
-- [ ] Minidoka NHS Visitor Center (1428 Hunt Rd, Jerome, Idaho, 83338 (42.6790604, -114.2436604); Closed)
+- [ ] Minidoka NHS Visitor Center (1428 Hunt Rd, Jerome, Idaho, 83338; Closed)
 
 ## Key Activities:
 

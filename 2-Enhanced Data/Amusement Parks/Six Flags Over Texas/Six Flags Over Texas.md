@@ -1,23 +1,20 @@
 # Six Flags Over Texas
 
-**Address:** 2201 Road to Six Flags, Arlington, TX 76011 [32.7551, -97.0702]
+**Location:** United States
 
-## Park Information
+## Address
 
-*Research needed: Operating hours, admission prices, parking, season dates*
+2201 E Road to Six Flags St, Arlington, TX 76010
+## Operating Hours
 
-## Notable Coasters
+Varies by season - check park website before visiting
 
-*See user-data.md for complete coaster checklist*
+## Operating Seasons
 
-## Planning Tips
+Typically April-October, with weekend operations in early/late season and Halloween events
 
-*Research needed: Best visiting times, fast pass options, food recommendations*
+## Coasters at This Park
 
-## Nearby Attractions
 
-*Research needed: Hotels, restaurants, other activities*
-
----
-
-**Last Updated:** 2025-11-26
+- Mr. Freeze
+- [New Texas Giant](New Texas Giant.md)

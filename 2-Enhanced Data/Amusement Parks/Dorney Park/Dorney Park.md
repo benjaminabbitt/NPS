@@ -1,23 +1,20 @@
 # Dorney Park
 
-**Address:** 4000 Dorney Park Rd, Allentown, PA 18104 [40.5798, -75.5308]
+**Location:** United States
 
-## Park Information
+## Address
 
-*Research needed: Operating hours, admission prices, parking, season dates*
+3830 Dorney Park Rd, Allentown, PA 18104
+## Operating Hours
 
-## Notable Coasters
+Varies by season - check park website before visiting
 
-*See user-data.md for complete coaster checklist*
+## Operating Seasons
 
-## Planning Tips
+Seasonal operation - typically May-September, check website for specific dates
 
-*Research needed: Best visiting times, fast pass options, food recommendations*
+## Coasters at This Park
 
-## Nearby Attractions
 
-*Research needed: Hotels, restaurants, other activities*
-
----
-
-**Last Updated:** 2025-11-26
+- [Steel Force](Steel Force.md)
+- [Talon](Talon.md)

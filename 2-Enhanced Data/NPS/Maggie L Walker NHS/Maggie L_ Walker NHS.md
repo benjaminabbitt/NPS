@@ -2,7 +2,7 @@
 
 ## Cancellation Stamp Locations:
 
-- [ ] Maggie L. Walker NHS Visitor Center (600 N. 2nd Street, Richmond, Virginia, 23219 (37.5478107, -77.4372545); Closed)
+- [ ] Maggie L. Walker NHS Visitor Center (600 N. 2nd Street, Richmond, Virginia, 23219; Closed)
 
 ## Key Activities:
 

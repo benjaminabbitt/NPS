@@ -1,23 +1,19 @@
 # Fun Spot America Atlanta
 
-**Address:** 1675 Highway 85 N, Fayetteville, GA 30214 [33.4957, -84.4277]
+**Location:** United States
 
-## Park Information
+## Address
 
-*Research needed: Operating hours, admission prices, parking, season dates*
+5551 Georgia 85, Fayetteville, GA 30214
+## Operating Hours
 
-## Notable Coasters
+Varies by season - check park website before visiting
 
-*See user-data.md for complete coaster checklist*
+## Operating Seasons
 
-## Planning Tips
+Seasonal operation - typically May-September, check website for specific dates
 
-*Research needed: Best visiting times, fast pass options, food recommendations*
+## Coasters at This Park
 
-## Nearby Attractions
 
-*Research needed: Hotels, restaurants, other activities*
-
----
-
-**Last Updated:** 2025-11-26
+- [ArieForce One](ArieForce One.md)

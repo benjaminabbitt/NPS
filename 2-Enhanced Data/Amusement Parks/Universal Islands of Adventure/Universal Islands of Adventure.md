@@ -1,23 +1,21 @@
 # Universal Islands of Adventure
 
-**Address:** 6000 Universal Blvd, Orlando, FL 32819 [28.472, -81.4697]
+**Location:** United States
 
-## Park Information
+## Address
 
-*Research needed: Operating hours, admission prices, parking, season dates*
+6000 Universal Blvd, Orlando, FL 32819
+## Operating Hours
 
-## Notable Coasters
+Varies by season - check park website before visiting
 
-*See user-data.md for complete coaster checklist*
+## Operating Seasons
 
-## Planning Tips
+Open year-round
 
-*Research needed: Best visiting times, fast pass options, food recommendations*
+## Coasters at This Park
 
-## Nearby Attractions
 
-*Research needed: Hotels, restaurants, other activities*
-
----
-
-**Last Updated:** 2025-11-26
+- Hagrid’s Magical Creatures Motorbike Adventure
+- [Incredible Hulk](Incredible Hulk.md)
+- [VelociCoaster](VelociCoaster.md)

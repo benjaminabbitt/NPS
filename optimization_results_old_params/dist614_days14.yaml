@@ -1,0 +1,1074 @@
+home_base:
+  name: Kirkwood, MO
+  lat: 38.5831
+  lon: -90.4068
+parameters:
+  visit_hours_per_site: 2.0
+  hours_per_day: 12
+  target_days_per_trip: 14
+  max_days_per_trip: 15
+  avg_speed_mph: 55
+trips:
+- trip_number: 1
+  route_details:
+  - site: Kirkwood, MO
+    site_name: Kirkwood, MO
+    city: ''
+    state: ''
+    lat: 38.5831
+    lon: -90.4068
+    address: ''
+    arrival_minutes: 0
+    arrival_hours: 0.0
+    day: 1
+    time_of_day: 06:00
+  - site: Fort Donelson NB, Dover, Tennessee
+    site_name: Fort Donelson NB
+    city: Dover
+    state: Tennessee
+    lat: 36.4831363
+    lon: -87.8625811
+    address: 120 Fort Donelson Park Road, Dover, Tennessee 37058
+    arrival_minutes: 339
+    arrival_hours: 5.65
+    day: 1
+    time_of_day: '11:39'
+    operating_hours:
+      opens: 08:30
+      closes: '16:00'
+      is_default: false
+    always_stamp_available: false
+  - site: Stones River NB, Murfreesboro, Tennessee
+    site_name: Stones River NB
+    city: Murfreesboro
+    state: Tennessee
+    lat: 35.881861
+    lon: -86.434846
+    address: 3501 Old Nashville Hwy, Murfreesboro, Tennessee 37129
+    arrival_minutes: 556
+    arrival_hours: 9.27
+    day: 1
+    time_of_day: '15:16'
+    operating_hours:
+      opens: 09:00
+      closes: '17:00'
+      is_default: false
+    always_stamp_available: false
+  - site: Great Smoky Mountains NP, Gatlinburg, Tennessee
+    site_name: Great Smoky Mountains NP
+    city: Gatlinburg
+    state: Tennessee
+    lat: 35.7730076
+    lon: -86.2820081
+    address: 1420 Fighting Creek Gap Rd, Gatlinburg, Tennessee 37738
+    arrival_minutes: 688
+    arrival_hours: 11.47
+    day: 1
+    time_of_day: '17:28'
+    operating_hours:
+      opens: 09:00
+      closes: '17:00'
+      is_default: false
+    always_stamp_available: false
+    time_constraint_warning: '[VIOLATION] Arrival at 17:28 is outside operating hours (09:00-17:00)'
+    invalid_visit: true
+  - site: Big South Fork NRRA, Oneida, Tennessee
+    site_name: Big South Fork NRRA
+    city: Oneida
+    state: Tennessee
+    lat: 35.7730076
+    lon: -86.2820081
+    address: 151 Stable Rd, Oneida, Tennessee 37841
+    arrival_minutes: 808
+    arrival_hours: 13.47
+    day: 2
+    time_of_day: '19:28'
+    operating_hours:
+      opens: 09:00
+      closes: '17:00'
+      is_default: false
+    always_stamp_available: false
+    time_constraint_warning: '[VIOLATION] Arrival at 19:28 is outside operating hours (09:00-17:00)'
+    invalid_visit: true
+  - site: Obed WSR, Wartburg, Tennessee
+    site_name: Obed WSR
+    city: Wartburg
+    state: Tennessee
+    lat: 35.7730076
+    lon: -86.2820081
+    address: 208 North Maiden Street, Wartburg, Tennessee 37887
+    arrival_minutes: 928
+    arrival_hours: 15.47
+    day: 2
+    time_of_day: '21:28'
+    operating_hours:
+      opens: 09:00
+      closes: '17:00'
+      is_default: false
+    always_stamp_available: false
+    time_constraint_warning: '[VIOLATION] Arrival at 21:28 is outside operating hours (09:00-17:00)'
+    invalid_visit: true
+  - site: Fossil Butte NM, Kemmerer, 83101
+    site_name: Fossil Butte NM
+    city: Kemmerer
+    state: '83101'
+    lat: 35.1813118
+    lon: -87.0878382
+    address: 864 Chicken Creek Rd, Kemmerer,  83101
+    arrival_minutes: 1114
+    arrival_hours: 18.57
+    day: 2
+    time_of_day: 00:34
+    operating_hours:
+      opens: 08:00
+      closes: '16:30'
+      is_default: false
+    always_stamp_available: false
+    time_constraint_warning: '[VIOLATION] Arrival at 00:34 is outside operating hours (08:00-16:30)'
+    invalid_visit: true
+  - site: Birmingham Civil Rights NM, Birmingham, Alabama
+    site_name: Birmingham Civil Rights NM
+    city: Birmingham
+    state: Alabama
+    lat: 33.5153921
+    lon: -86.8144977
+    address: 1510 5th Avenue N, Birmingham, Alabama 35203
+    arrival_minutes: 1360
+    arrival_hours: 22.67
+    day: 2
+    time_of_day: 04:40
+    operating_hours:
+      opens: 08:00
+      closes: '17:00'
+      is_default: true
+    always_stamp_available: false
+    time_constraint_warning: '[VIOLATION] Arrival at 04:40 is outside operating hours (08:00-17:00)'
+    invalid_visit: true
+  - site: Freedom Riders NM, Anniston, Alabama
+    site_name: Freedom Riders NM
+    city: Anniston
+    state: Alabama
+    lat: 33.6581699
+    lon: -85.83128
+    address: 1031 Gurnee Ave, Anniston, Alabama 36201
+    arrival_minutes: 1542
+    arrival_hours: 25.7
+    day: 3
+    time_of_day: 07:42
+    operating_hours:
+      opens: 08:00
+      closes: '17:00'
+      is_default: true
+    always_stamp_available: false
+    time_constraint_warning: '[VIOLATION] Arrival at 07:42 is outside operating hours (08:00-17:00)'
+    invalid_visit: true
+  - site: Tuskegee Airmen NHS, Tuskegee, 36083
+    site_name: Tuskegee Airmen NHS
+    city: Tuskegee
+    state: '36083'
+    lat: 32.4579178
+    lon: -85.6849644
+    address: 1616 Chappie James Ave, Tuskegee,  36083
+    arrival_minutes: 1752
+    arrival_hours: 29.2
+    day: 3
+    time_of_day: '11:12'
+    operating_hours:
+      opens: 08:00
+      closes: '17:00'
+      is_default: true
+    always_stamp_available: false
+  - site: Tuskegee Institute NHS, Tuskegee, 36088
+    site_name: Tuskegee Institute NHS
+    city: Tuskegee
+    state: '36088'
+    lat: 32.4288729
+    lon: -85.7084448
+    address: 1212 W Montgomery Rd, Tuskegee,  36088
+    arrival_minutes: 1874
+    arrival_hours: 31.23
+    day: 3
+    time_of_day: '13:14'
+    operating_hours:
+      opens: 08:00
+      closes: '17:00'
+      is_default: true
+    always_stamp_available: false
+  - site: Jimmy Carter NHP, Plains, Georgia
+    site_name: Jimmy Carter NHP
+    city: Plains
+    state: Georgia
+    lat: 32.0365845
+    lon: -84.3925601
+    address: 300 North Bond Street, Plains, Georgia 31780
+    arrival_minutes: 2082
+    arrival_hours: 34.7
+    day: 3
+    time_of_day: '16:42'
+    operating_hours:
+      opens: '10:00'
+      closes: '17:00'
+      is_default: false
+    always_stamp_available: false
+  - site: Ocmulgee NHP, Macon, Georgia
+    site_name: Ocmulgee NHP
+    city: Macon
+    state: Georgia
+    lat: 32.837227
+    lon: -83.6018436
+    address: 1207 Emery Hwy, Macon, Georgia 31217
+    arrival_minutes: 2280
+    arrival_hours: 38.0
+    day: 4
+    time_of_day: '20:00'
+    operating_hours:
+      opens: 09:00
+      closes: '17:00'
+      is_default: false
+    always_stamp_available: false
+    time_constraint_warning: '[VIOLATION] Arrival at 20:00 is outside operating hours (09:00-17:00)'
+    invalid_visit: true
+  - site: Martin Luther King, Jr NHP, Atlanta, Georgia
+    site_name: Martin Luther King, Jr NHP
+    city: Atlanta
+    state: Georgia
+    lat: 33.7563822
+    lon: -84.3734662
+    address: 450 Auburn Ave NE, Atlanta, Georgia 30312
+    arrival_minutes: 2484
+    arrival_hours: 41.4
+    day: 4
+    time_of_day: '23:24'
+    operating_hours:
+      opens: 09:00
+      closes: '17:00'
+      is_default: false
+    always_stamp_available: false
+    time_constraint_warning: '[VIOLATION] Arrival at 23:24 is outside operating hours (09:00-17:00)'
+    invalid_visit: true
+  - site: Chattahoochee River NRA, Sandy Springs, Georgia
+    site_name: Chattahoochee River NRA
+    city: Sandy Springs
+    state: Georgia
+    lat: 33.9872732
+    lon: -84.324584
+    address: 1978 Island Ford Pkwy, Sandy Springs, Georgia 30350
+    arrival_minutes: 2621
+    arrival_hours: 43.68
+    day: 4
+    time_of_day: 01:41
+    operating_hours:
+      opens: 09:00
+      closes: '17:00'
+      is_default: false
+    always_stamp_available: false
+    time_constraint_warning: '[VIOLATION] Arrival at 01:41 is outside operating hours (09:00-17:00)'
+    invalid_visit: true
+  - site: Ninety Six NHS, Ninety Six, South Carolina
+    site_name: Ninety Six NHS
+    city: Ninety Six
+    state: South Carolina
+    lat: 34.1678411
+    lon: -82.0256516
+    address: 1103 Hwy 248, Ninety Six, South Carolina 29666
+    arrival_minutes: 2885
+    arrival_hours: 48.08
+    day: 5
+    time_of_day: 06:05
+    operating_hours:
+      opens: 09:00
+      closes: '16:30'
+      is_default: false
+    always_stamp_available: false
+    time_constraint_warning: '[VIOLATION] Arrival at 06:05 is outside operating hours (09:00-16:30)'
+    invalid_visit: true
+  - site: Cowpens NB, Gaffney, South Carolina
+    site_name: Cowpens NB
+    city: Gaffney
+    state: South Carolina
+    lat: 35.1037677
+    lon: -81.6911511
+    address: 4001 Chesnee Hwy, Gaffney, South Carolina 29341
+    arrival_minutes: 3078
+    arrival_hours: 51.3
+    day: 5
+    time_of_day: 09:18
+    operating_hours:
+      opens: 09:00
+      closes: '17:00'
+      is_default: false
+    always_stamp_available: false
+  - site: Carl Sandburg Home NHS, Flat Rock, North Carolina
+    site_name: Carl Sandburg Home NHS
+    city: Flat Rock
+    state: North Carolina
+    lat: 35.2727825
+    lon: -82.4528575
+    address: 81 Carl Sandburg Lane, Flat Rock, North Carolina 28731
+    arrival_minutes: 3246
+    arrival_hours: 54.1
+    day: 5
+    time_of_day: '12:06'
+    operating_hours:
+      opens: '10:00'
+      closes: '16:00'
+      is_default: false
+    always_stamp_available: false
+  - site: Andrew Johnson NHS, Greeneville, Tennessee
+    site_name: Andrew Johnson NHS
+    city: Greeneville
+    state: Tennessee
+    lat: 36.1629401
+    lon: -82.8295399
+    address: 101 N. College Street, Greeneville, Tennessee 37743
+    arrival_minutes: 3436
+    arrival_hours: 57.27
+    day: 5
+    time_of_day: '15:16'
+    operating_hours:
+      opens: 09:00
+      closes: '16:00'
+      is_default: false
+    always_stamp_available: false
+  - site: Guilford Courthouse NMP, Greensboro, North Carolina
+    site_name: Guilford Courthouse NMP
+    city: Greensboro
+    state: North Carolina
+    lat: 36.1315112
+    lon: -79.8474318
+    address: 2332 New Garden Road, Greensboro, North Carolina 27410
+    arrival_minutes: 3737
+    arrival_hours: 62.28
+    day: 6
+    time_of_day: '20:17'
+    operating_hours:
+      opens: 09:00
+      closes: '17:00'
+      is_default: false
+    always_stamp_available: false
+    time_constraint_warning: '[VIOLATION] Arrival at 20:17 is outside operating hours (09:00-17:00)'
+    invalid_visit: true
+  - site: Friendship Hill NHS, Point Marion, Pennsylvania
+    site_name: Friendship Hill NHS
+    city: Point Marion
+    state: Pennsylvania
+    lat: 39.7807755
+    lon: -79.9200728
+    address: 223 New Geneva Road, Point Marion, Pennsylvania 15474
+    arrival_minutes: 4132
+    arrival_hours: 68.87
+    day: 6
+    time_of_day: 02:52
+    operating_hours:
+      opens: 09:00
+      closes: '17:00'
+      is_default: false
+    always_stamp_available: false
+    time_constraint_warning: '[VIOLATION] Arrival at 02:52 is outside operating hours (09:00-17:00)'
+    invalid_visit: true
+  - site: First Ladies NHS, Canton, Ohio
+    site_name: First Ladies NHS
+    city: Canton
+    state: Ohio
+    lat: 40.7975362
+    lon: -81.3748608
+    address: 205 Market Avenue South, Canton, Ohio 44702
+    arrival_minutes: 4365
+    arrival_hours: 72.75
+    day: 7
+    time_of_day: 06:45
+    operating_hours:
+      opens: 09:00
+      closes: '16:00'
+      is_default: false
+    always_stamp_available: false
+    time_constraint_warning: '[VIOLATION] Arrival at 06:45 is outside operating hours (09:00-16:00)'
+    invalid_visit: true
+  - site: Cuyahoga Valley NP, Peninsula, Ohio
+    site_name: Cuyahoga Valley NP
+    city: Peninsula
+    state: Ohio
+    lat: 41.2625954
+    lon: -81.560308
+    address: 6947 Riverview Rd, Peninsula, Ohio 44264
+    arrival_minutes: 4521
+    arrival_hours: 75.35
+    day: 7
+    time_of_day: 09:21
+    operating_hours:
+      opens: 09:30
+      closes: '17:00'
+      is_default: false
+    always_stamp_available: false
+    time_constraint_warning: '[VIOLATION] Arrival at 09:21 is outside operating hours (09:30-17:00)'
+    invalid_visit: true
+  - site: River Raisin NBP, Monroe, Michigan
+    site_name: River Raisin NBP
+    city: Monroe
+    state: Michigan
+    lat: 41.9159374
+    lon: -83.3782184
+    address: 333 N Dixie Hwy, Monroe, Michigan 48162
+    arrival_minutes: 4754
+    arrival_hours: 79.23
+    day: 7
+    time_of_day: '13:14'
+    operating_hours:
+      opens: '10:00'
+      closes: '17:00'
+      is_default: false
+    always_stamp_available: false
+  - site: Dayton Aviation Heritage NHP, Dayton, Ohio
+    site_name: Dayton Aviation Heritage NHP
+    city: Dayton
+    state: Ohio
+    lat: 39.7553856
+    lon: -84.2119654
+    address: 22 S Williams St, Dayton, Ohio 45402
+    arrival_minutes: 5043
+    arrival_hours: 84.05
+    day: 8
+    time_of_day: '18:03'
+    operating_hours:
+      opens: '10:00'
+      closes: '16:00'
+      is_default: false
+    always_stamp_available: false
+    time_constraint_warning: '[VIOLATION] Arrival at 18:03 is outside operating hours (10:00-16:00)'
+    invalid_visit: true
+  - site: William Howard Taft NHS, Cincinnati, Ohio
+    site_name: William Howard Taft NHS
+    city: Cincinnati
+    state: Ohio
+    lat: 39.119899
+    lon: -84.508528
+    address: 2038 Auburn Avenue, Cincinnati, Ohio 45219
+    arrival_minutes: 5213
+    arrival_hours: 86.88
+    day: 8
+    time_of_day: '20:53'
+    operating_hours:
+      opens: 09:00
+      closes: '16:00'
+      is_default: false
+    always_stamp_available: false
+    time_constraint_warning: '[VIOLATION] Arrival at 20:53 is outside operating hours (09:00-16:00)'
+    invalid_visit: true
+  - site: George Washington Birthplace NM, Colonial Beach, 22443
+    site_name: George Washington Birthplace NM
+    city: Colonial Beach
+    state: '22443'
+    lat: 37.5524796
+    lon: -85.1697211
+    address: 1730 Popes Creek Rd, Colonial Beach,  22443
+    arrival_minutes: 5457
+    arrival_hours: 90.95
+    day: 8
+    time_of_day: 00:57
+    operating_hours:
+      opens: 09:30
+      closes: '16:00'
+      is_default: false
+    always_stamp_available: false
+    time_constraint_warning: '[VIOLATION] Arrival at 00:57 is outside operating hours (09:30-16:00)'
+    invalid_visit: true
+  - site: Abraham Lincoln Birthplace NHP, Hodgenville, Kentucky
+    site_name: Abraham Lincoln Birthplace NHP
+    city: Hodgenville
+    state: Kentucky
+    lat: 37.5503915
+    lon: -85.7346486
+    address: 2995 Lincoln Farm Road, Hodgenville, Kentucky 42748
+    arrival_minutes: 5610
+    arrival_hours: 93.5
+    day: 8
+    time_of_day: 03:30
+    operating_hours:
+      opens: 09:00
+      closes: '17:00'
+      is_default: false
+    always_stamp_available: false
+    time_constraint_warning: '[VIOLATION] Arrival at 03:30 is outside operating hours (09:00-17:00)'
+    invalid_visit: true
+  - site: George Rogers Clark NHP, Vincennes, Indiana
+    site_name: George Rogers Clark NHP
+    city: Vincennes
+    state: Indiana
+    lat: 38.6775722
+    lon: -87.5360877
+    address: 425 S 2nd St, Vincennes, Indiana 47591
+    arrival_minutes: 5866
+    arrival_hours: 97.77
+    day: 9
+    time_of_day: 07:46
+    operating_hours:
+      opens: 09:00
+      closes: '17:00'
+      is_default: false
+    always_stamp_available: false
+    time_constraint_warning: '[VIOLATION] Arrival at 07:46 is outside operating hours (09:00-17:00)'
+    invalid_visit: true
+  - site: Kirkwood, MO
+    site_name: Kirkwood, MO
+    city: ''
+    state: ''
+    lat: 38.5831
+    lon: -90.4068
+    address: ''
+    arrival_minutes: 6035
+    arrival_hours: 100.58
+    day: 9
+    time_of_day: '10:35'
+  stats:
+    total_sites: 29
+    total_distance_miles: 2343.2
+    total_time_hours: 100.58
+    total_days: 8.38
+    within_target: true
+    within_max: true
+  map_links:
+    openstreetmap_route: https://www.openstreetmap.org/directions?engine=fossgis_osrm_car&route=38.5831,-90.4068;36.4831363,-87.8625811;35.881861,-86.434846;35.7730076,-86.2820081;35.7730076,-86.2820081;35.7730076,-86.2820081;35.1813118,-87.0878382;33.5153921,-86.8144977;33.6581699,-85.83128;32.4579178,-85.6849644;32.4288729,-85.7084448;32.0365845,-84.3925601;32.837227,-83.6018436;33.7563822,-84.3734662;33.9872732,-84.324584;34.1678411,-82.0256516;35.1037677,-81.6911511;35.2727825,-82.4528575;36.1629401,-82.8295399;36.1315112,-79.8474318;39.7807755,-79.9200728;40.7975362,-81.3748608;41.2625954,-81.560308;41.9159374,-83.3782184;39.7553856,-84.2119654;39.119899,-84.508528;37.5524796,-85.1697211;37.5503915,-85.7346486;38.6775722,-87.5360877;38.5831,-90.4068
+    google_maps_route: https://www.google.com/maps/dir/38.5831,-90.4068/36.4831363,-87.8625811/35.881861,-86.434846/35.7730076,-86.2820081/35.7730076,-86.2820081/35.7730076,-86.2820081/35.1813118,-87.0878382/33.5153921,-86.8144977/33.6581699,-85.83128/32.4579178,-85.6849644/32.4288729,-85.7084448/32.0365845,-84.3925601/32.837227,-83.6018436/33.7563822,-84.3734662/33.9872732,-84.324584/34.1678411,-82.0256516/35.1037677,-81.6911511/35.2727825,-82.4528575/36.1629401,-82.8295399/36.1315112,-79.8474318/39.7807755,-79.9200728/40.7975362,-81.3748608/41.2625954,-81.560308/41.9159374,-83.3782184/39.7553856,-84.2119654/39.119899,-84.508528/37.5524796,-85.1697211/37.5503915,-85.7346486/38.6775722,-87.5360877/38.5831,-90.4068
+- trip_number: 4
+  route_details:
+  - site: Kirkwood, MO
+    site_name: Kirkwood, MO
+    city: ''
+    state: ''
+    lat: 38.5831
+    lon: -90.4068
+    address: ''
+    arrival_minutes: 0
+    arrival_hours: 0.0
+    day: 1
+    time_of_day: 06:00
+  - site: Springfield 1908 Race Riot National Monument, Springfield, Illinois
+    site_name: Springfield 1908 Race Riot National Monument
+    city: Springfield
+    state: Illinois
+    lat: 39.7973527
+    lon: -89.6448765
+    address: 413 S 8th St, Springfield, Illinois 62701
+    arrival_minutes: 221
+    arrival_hours: 3.68
+    day: 1
+    time_of_day: 09:41
+    operating_hours:
+      opens: 09:00
+      closes: '17:00'
+      is_default: false
+    always_stamp_available: false
+  - site: Herbert Hoover NHS, West Branch, Iowa
+    site_name: Herbert Hoover NHS
+    city: West Branch
+    state: Iowa
+    lat: 41.6707487
+    lon: -91.3454687
+    address: 104 Parkside Dr, West Branch, Iowa 52358
+    arrival_minutes: 512
+    arrival_hours: 8.53
+    day: 1
+    time_of_day: '14:32'
+    operating_hours:
+      opens: 09:00
+      closes: '17:00'
+      is_default: false
+    always_stamp_available: false
+  - site: Ice Age National Scenic Trail, Cross Plains, Wisconsin
+    site_name: Ice Age National Scenic Trail
+    city: Cross Plains
+    state: Wisconsin
+    lat: 43.0817879
+    lon: -89.6118533
+    address: 8075 Old Sauk Pass Road, Cross Plains, Wisconsin 53528
+    arrival_minutes: 775
+    arrival_hours: 12.92
+    day: 2
+    time_of_day: '18:55'
+    operating_hours:
+      opens: 08:00
+      closes: '16:30'
+      is_default: false
+    always_stamp_available: false
+    time_constraint_warning: '[VIOLATION] Arrival at 18:55 is outside operating hours (08:00-16:30)'
+    invalid_visit: true
+  - site: Pullman NHP, Chicago, Illinois
+    site_name: Pullman NHP
+    city: Chicago
+    state: Illinois
+    lat: 41.6928561
+    lon: -87.6096053
+    address: 610 E 111th St, Chicago, Illinois 60628
+    arrival_minutes: 1047
+    arrival_hours: 17.45
+    day: 2
+    time_of_day: '23:27'
+    operating_hours:
+      opens: 08:00
+      closes: '17:00'
+      is_default: true
+    always_stamp_available: false
+    time_constraint_warning: '[VIOLATION] Arrival at 23:27 is outside operating hours (08:00-17:00)'
+    invalid_visit: true
+  - site: Sleeping Bear Dunes NL, Empire, Michigan
+    site_name: Sleeping Bear Dunes NL
+    city: Empire
+    state: Michigan
+    lat: 44.8111976
+    lon: -86.0547162
+    address: 9922 W Front St, Empire, Michigan 49630
+    arrival_minutes: 1417
+    arrival_hours: 23.62
+    day: 2
+    time_of_day: 05:37
+    operating_hours:
+      opens: 08:30
+      closes: '16:00'
+      is_default: false
+    always_stamp_available: false
+    time_constraint_warning: '[VIOLATION] Arrival at 05:37 is outside operating hours (08:30-16:00)'
+    invalid_visit: true
+  - site: Pictured Rocks NL, Munising, Michigan
+    site_name: Pictured Rocks NL
+    city: Munising
+    state: Michigan
+    lat: 46.4237239
+    lon: -86.6238153
+    address: 1505 Sand Point Rd, Munising, Michigan 49862
+    arrival_minutes: 1662
+    arrival_hours: 27.7
+    day: 3
+    time_of_day: 09:42
+    operating_hours:
+      opens: 09:00
+      closes: '17:00'
+      is_default: false
+    always_stamp_available: false
+  - site: Keweenaw NHP, Calumet, Michigan
+    site_name: Keweenaw NHP
+    city: Calumet
+    state: Michigan
+    lat: 47.2440788
+    lon: -88.4523448
+    address: 98 5th St, Calumet, Michigan 49913
+    arrival_minutes: 1894
+    arrival_hours: 31.57
+    day: 3
+    time_of_day: '13:34'
+    operating_hours:
+      opens: '12:00'
+      closes: '16:00'
+      is_default: false
+    always_stamp_available: false
+  - site: Isle Royale NP, Houghton, Michigan
+    site_name: Isle Royale NP
+    city: Houghton
+    state: Michigan
+    lat: 47.1229405
+    lon: -88.5637537
+    address: 800 E. Lakeshore Drive, Houghton, Michigan 49931
+    arrival_minutes: 2024
+    arrival_hours: 33.73
+    day: 3
+    time_of_day: '15:44'
+    operating_hours:
+      opens: 08:00
+      closes: '17:00'
+      is_default: true
+    always_stamp_available: false
+  - site: Apostle Islands NL, Bayfield, Wisconsin
+    site_name: Apostle Islands NL
+    city: Bayfield
+    state: Wisconsin
+    lat: 46.9463335
+    lon: -90.8887619
+    address: 32660 Little Sand Bay Rd, Bayfield, Wisconsin 54814
+    arrival_minutes: 2264
+    arrival_hours: 37.73
+    day: 4
+    time_of_day: '19:44'
+    operating_hours:
+      opens: 09:00
+      closes: '17:00'
+      is_default: false
+    always_stamp_available: false
+    time_constraint_warning: '[VIOLATION] Arrival at 19:44 is outside operating hours (09:00-17:00)'
+    invalid_visit: true
+  - site: Mississippi NRRA, St Paul, Minnesota
+    site_name: Mississippi NRRA
+    city: St Paul
+    state: Minnesota
+    lat: 44.9470685
+    lon: -93.1042897
+    address: 120 W Kellogg Blvd, St Paul, Minnesota 55102
+    arrival_minutes: 2574
+    arrival_hours: 42.9
+    day: 4
+    time_of_day: 00:54
+    operating_hours:
+      opens: 09:00
+      closes: '17:00'
+      is_default: false
+    always_stamp_available: false
+    time_constraint_warning: '[VIOLATION] Arrival at 00:54 is outside operating hours (09:00-17:00)'
+    invalid_visit: true
+  - site: Pipestone NM, Pipestone, Minnesota
+    site_name: Pipestone NM
+    city: Pipestone
+    state: Minnesota
+    lat: 44.0095584
+    lon: -96.3210255
+    address: 36 Reservation Ave, Pipestone, Minnesota 56164
+    arrival_minutes: 2880
+    arrival_hours: 48.0
+    day: 5
+    time_of_day: 06:00
+    operating_hours:
+      opens: 08:30
+      closes: '16:30'
+      is_default: false
+    always_stamp_available: false
+    time_constraint_warning: '[VIOLATION] Arrival at 06:00 is outside operating hours (08:30-16:30)'
+    invalid_visit: true
+  - site: Homestead NHP, Beatrice, Nebraska
+    site_name: Homestead NHP
+    city: Beatrice
+    state: Nebraska
+    lat: 40.2658382
+    lon: -96.7332497
+    address: 8523 NE-4, Beatrice, Nebraska 68310
+    arrival_minutes: 3283
+    arrival_hours: 54.72
+    day: 5
+    time_of_day: '12:43'
+    operating_hours:
+      opens: 09:00
+      closes: '17:00'
+      is_default: false
+    always_stamp_available: false
+  - site: Fort Larned NHS, Larned, Kansas
+    site_name: Fort Larned NHS
+    city: Larned
+    state: Kansas
+    lat: 38.1881528
+    lon: -99.1018604
+    address: 1767 KS-156, Larned, Kansas 67550
+    arrival_minutes: 3611
+    arrival_hours: 60.18
+    day: 6
+    time_of_day: '18:11'
+    operating_hours:
+      opens: 08:30
+      closes: '16:30'
+      is_default: false
+    always_stamp_available: false
+    time_constraint_warning: '[VIOLATION] Arrival at 18:11 is outside operating hours (08:30-16:30)'
+    invalid_visit: true
+  - site: Oklahoma City N MEM, Oklahoma City, Oklahoma
+    site_name: Oklahoma City N MEM
+    city: Oklahoma City
+    state: Oklahoma
+    lat: 35.4737199
+    lon: -97.5172885
+    address: 620 N. Harvey Ave., Oklahoma City, Oklahoma 73102
+    arrival_minutes: 3956
+    arrival_hours: 65.93
+    day: 6
+    time_of_day: '23:56'
+    operating_hours:
+      opens: 08:00
+      closes: '17:00'
+      is_default: true
+    always_stamp_available: false
+    time_constraint_warning: '[VIOLATION] Arrival at 23:56 is outside operating hours (08:00-17:00)'
+    invalid_visit: true
+  - site: Chickasaw NRA, Sulphur, Oklahoma
+    site_name: Chickasaw NRA
+    city: Sulphur
+    state: Oklahoma
+    lat: 34.4937367
+    lon: -96.9789694
+    address: 1504 Perimeter Rd, Sulphur, Oklahoma 73086
+    arrival_minutes: 4157
+    arrival_hours: 69.28
+    day: 6
+    time_of_day: 03:17
+    operating_hours:
+      opens: 09:00
+      closes: '16:30'
+      is_default: false
+    always_stamp_available: false
+    time_constraint_warning: '[VIOLATION] Arrival at 03:17 is outside operating hours (09:00-16:30)'
+    invalid_visit: true
+  - site: Gauley River NRA, Lansing, 25862
+    site_name: Gauley River NRA
+    city: Lansing
+    state: '25862'
+    lat: 34.2939248
+    lon: -94.1798525
+    address: 162 Visitor Center Rd, Lansing,  25862
+    arrival_minutes: 4451
+    arrival_hours: 74.18
+    day: 7
+    time_of_day: 08:11
+    operating_hours:
+      opens: 09:00
+      closes: '17:00'
+      is_default: false
+    always_stamp_available: false
+    time_constraint_warning: '[VIOLATION] Arrival at 08:11 is outside operating hours (09:00-17:00)'
+    invalid_visit: true
+  - site: Cane River Creole NHP, Natchez, Louisiana
+    site_name: Cane River Creole NHP
+    city: Natchez
+    state: Louisiana
+    lat: 31.6655406
+    lon: -93.0024144
+    address: 4386 LA-494, Natchez, Louisiana 71456
+    arrival_minutes: 4782
+    arrival_hours: 79.7
+    day: 7
+    time_of_day: '13:42'
+    operating_hours:
+      opens: 09:00
+      closes: '15:30'
+      is_default: false
+    always_stamp_available: false
+  - site: Natchez NHP, Natchez, Mississippi
+    site_name: Natchez NHP
+    city: Natchez
+    state: Mississippi
+    lat: 31.5470831
+    lon: -91.3855572
+    address: 122 Melrose Ave, Natchez, Mississippi 39120
+    arrival_minutes: 5006
+    arrival_hours: 83.43
+    day: 7
+    time_of_day: '17:26'
+    operating_hours:
+      opens: 08:30
+      closes: '17:00'
+      is_default: false
+    always_stamp_available: false
+    time_constraint_warning: '[VIOLATION] Arrival at 17:26 is outside operating hours (08:30-17:00)'
+    invalid_visit: true
+  - site: New Orleans Jazz NHP, New Orleans, Louisiana
+    site_name: New Orleans Jazz NHP
+    city: New Orleans
+    state: Louisiana
+    lat: 29.9548546
+    lon: -90.0647995
+    address: 419 Decatur St, New Orleans, Louisiana 70130
+    arrival_minutes: 5273
+    arrival_hours: 87.88
+    day: 8
+    time_of_day: '21:53'
+    operating_hours:
+      opens: 09:30
+      closes: '16:30'
+      is_default: false
+    always_stamp_available: false
+    time_constraint_warning: '[VIOLATION] Arrival at 21:53 is outside operating hours (09:30-16:30)'
+    invalid_visit: true
+  - site: Gulf Islands NS, Ocean Springs, Mississippi
+    site_name: Gulf Islands NS
+    city: Ocean Springs
+    state: Mississippi
+    lat: 30.3988806
+    lon: -88.7865166
+    address: 3500 Park Rd, Ocean Springs, Mississippi 39564
+    arrival_minutes: 5482
+    arrival_hours: 91.37
+    day: 8
+    time_of_day: 01:22
+    operating_hours:
+      opens: 09:00
+      closes: '16:00'
+      is_default: false
+    always_stamp_available: false
+    time_constraint_warning: '[VIOLATION] Arrival at 01:22 is outside operating hours (09:00-16:00)'
+    invalid_visit: true
+  - site: Medgar and Myrlie Evers Home NM, Jackson, Mississippi
+    site_name: Medgar and Myrlie Evers Home NM
+    city: Jackson
+    state: Mississippi
+    lat: 32.340878
+    lon: -90.212145
+    address: 2332 Margaret W Alexander Dr, Jackson, Mississippi 39213
+    arrival_minutes: 5774
+    arrival_hours: 96.23
+    day: 9
+    time_of_day: 06:14
+    operating_hours:
+      opens: 09:00
+      closes: '16:00'
+      is_default: false
+    always_stamp_available: false
+    time_constraint_warning: '[VIOLATION] Arrival at 06:14 is outside operating hours (09:00-16:00)'
+    invalid_visit: true
+  - site: Emmett Till and Mamie Till-Mobley NM, Sumner, Mississippi
+    site_name: Emmett Till and Mamie Till-Mobley NM
+    city: Sumner
+    state: Mississippi
+    lat: 33.9711973
+    lon: -90.3697739
+    address: 158 N Court St, Sumner, Mississippi 38957
+    arrival_minutes: 6017
+    arrival_hours: 100.28
+    day: 9
+    time_of_day: '10:17'
+    operating_hours:
+      opens: '12:00'
+      closes: '17:00'
+      is_default: false
+    always_stamp_available: false
+    time_constraint_warning: '[VIOLATION] Arrival at 10:17 is outside operating hours (12:00-17:00)'
+    invalid_visit: true
+  - site: Little Rock Central High School NHS, Little Rock, Arkansas
+    site_name: Little Rock Central High School NHS
+    city: Little Rock
+    state: Arkansas
+    lat: 34.7381346
+    lon: -92.2973826
+    address: 2120 W Daisy L Gatson Bates Dr, Little Rock, Arkansas 72202
+    arrival_minutes: 6270
+    arrival_hours: 104.5
+    day: 9
+    time_of_day: '14:30'
+    operating_hours:
+      opens: 08:00
+      closes: '17:00'
+      is_default: true
+    always_stamp_available: false
+  - site: Arkansas Post N MEM, Gillett, Arkansas
+    site_name: Arkansas Post N MEM
+    city: Gillett
+    state: Arkansas
+    lat: 35.2048883
+    lon: -92.4479108
+    address: 1741 Old Post Rd, Gillett, Arkansas 72055
+    arrival_minutes: 6426
+    arrival_hours: 107.1
+    day: 9
+    time_of_day: '17:06'
+    operating_hours:
+      opens: 08:00
+      closes: '17:00'
+      is_default: true
+    always_stamp_available: false
+    time_constraint_warning: '[VIOLATION] Arrival at 17:06 is outside operating hours (08:00-17:00)'
+    invalid_visit: true
+  - site: Pea Ridge NMP, Garfield, Arkansas
+    site_name: Pea Ridge NMP
+    city: Garfield
+    state: Arkansas
+    lat: 35.2048883
+    lon: -92.4479108
+    address: 15930 National Park Dr, Garfield, Arkansas 72732
+    arrival_minutes: 6546
+    arrival_hours: 109.1
+    day: 10
+    time_of_day: '19:06'
+    operating_hours:
+      opens: 08:00
+      closes: '17:00'
+      is_default: true
+    always_stamp_available: false
+    time_constraint_warning: '[VIOLATION] Arrival at 19:06 is outside operating hours (08:00-17:00)'
+    invalid_visit: true
+  - site: Buffalo NR, St. Joe, Arkansas
+    site_name: Buffalo NR
+    city: St. Joe
+    state: Arkansas
+    lat: 35.2048883
+    lon: -92.4479108
+    address: 170 Ranger Road, St. Joe, Arkansas 72675
+    arrival_minutes: 6666
+    arrival_hours: 111.1
+    day: 10
+    time_of_day: '21:06'
+    operating_hours:
+      opens: 08:00
+      closes: '17:00'
+      is_default: true
+    always_stamp_available: false
+    time_constraint_warning: '[VIOLATION] Arrival at 21:06 is outside operating hours (08:00-17:00)'
+    invalid_visit: true
+  - site: Fort Smith NHS, Fort Smith, Arkansas
+    site_name: Fort Smith NHS
+    city: Fort Smith
+    state: Arkansas
+    lat: 35.388505
+    lon: -94.4310733
+    address: 301 Parker Ave, Fort Smith, Arkansas 72901
+    arrival_minutes: 6908
+    arrival_hours: 115.13
+    day: 10
+    time_of_day: 01:08
+    operating_hours:
+      opens: 08:00
+      closes: '17:00'
+      is_default: true
+    always_stamp_available: false
+    time_constraint_warning: '[VIOLATION] Arrival at 01:08 is outside operating hours (08:00-17:00)'
+    invalid_visit: true
+  - site: Fort Scott NHS, Fort Scott, Kansas
+    site_name: Fort Scott NHS
+    city: Fort Scott
+    state: Kansas
+    lat: 37.8436759
+    lon: -94.7065998
+    address: 199 Old Fort Blvd, Fort Scott, Kansas 66701
+    arrival_minutes: 7213
+    arrival_hours: 120.22
+    day: 11
+    time_of_day: 06:13
+    operating_hours:
+      opens: 08:30
+      closes: '16:30'
+      is_default: false
+    always_stamp_available: false
+    time_constraint_warning: '[VIOLATION] Arrival at 06:13 is outside operating hours (08:30-16:30)'
+    invalid_visit: true
+  - site: Harry S Truman NHS, Independence, Missouri
+    site_name: Harry S Truman NHS
+    city: Independence
+    state: Missouri
+    lat: 39.0937292
+    lon: -94.4233448
+    address: 219 N Delaware St, Independence, Missouri 64050
+    arrival_minutes: 7428
+    arrival_hours: 123.8
+    day: 11
+    time_of_day: 09:48
+    operating_hours:
+      opens: 09:00
+      closes: '17:00'
+      is_default: false
+    always_stamp_available: false
+  - site: Kirkwood, MO
+    site_name: Kirkwood, MO
+    city: ''
+    state: ''
+    lat: 38.5831
+    lon: -90.4068
+    address: ''
+    arrival_minutes: 7666
+    arrival_hours: 127.77
+    day: 11
+    time_of_day: '13:46'
+  stats:
+    total_sites: 30
+    total_distance_miles: 3663.2
+    total_time_hours: 127.77
+    total_days: 10.65
+    within_target: true
+    within_max: true
+  map_links:
+    openstreetmap_route: https://www.openstreetmap.org/directions?engine=fossgis_osrm_car&route=38.5831,-90.4068;39.7973527,-89.6448765;41.6707487,-91.3454687;43.0817879,-89.6118533;41.6928561,-87.6096053;44.8111976,-86.0547162;46.4237239,-86.6238153;47.2440788,-88.4523448;47.1229405,-88.5637537;46.9463335,-90.8887619;44.9470685,-93.1042897;44.0095584,-96.3210255;40.2658382,-96.7332497;38.1881528,-99.1018604;35.4737199,-97.5172885;34.4937367,-96.9789694;34.2939248,-94.1798525;31.6655406,-93.0024144;31.5470831,-91.3855572;29.9548546,-90.0647995;30.3988806,-88.7865166;32.340878,-90.212145;33.9711973,-90.3697739;34.7381346,-92.2973826;35.2048883,-92.4479108;35.2048883,-92.4479108;35.2048883,-92.4479108;35.388505,-94.4310733;37.8436759,-94.7065998;39.0937292,-94.4233448;38.5831,-90.4068
+    google_maps_route: https://www.google.com/maps/dir/38.5831,-90.4068/39.7973527,-89.6448765/41.6707487,-91.3454687/43.0817879,-89.6118533/41.6928561,-87.6096053/44.8111976,-86.0547162/46.4237239,-86.6238153/47.2440788,-88.4523448/47.1229405,-88.5637537/46.9463335,-90.8887619/44.9470685,-93.1042897/44.0095584,-96.3210255/40.2658382,-96.7332497/38.1881528,-99.1018604/35.4737199,-97.5172885/34.4937367,-96.9789694/34.2939248,-94.1798525/31.6655406,-93.0024144/31.5470831,-91.3855572/29.9548546,-90.0647995/30.3988806,-88.7865166/32.340878,-90.212145/33.9711973,-90.3697739/34.7381346,-92.2973826/35.2048883,-92.4479108/35.2048883,-92.4479108/35.2048883,-92.4479108/35.388505,-94.4310733/37.8436759,-94.7065998/39.0937292,-94.4233448/38.5831,-90.4068
+summary:
+  total_trips: 2
+  total_sites: 59
+  total_distance_miles: 6006.4
+  total_days: 19.03

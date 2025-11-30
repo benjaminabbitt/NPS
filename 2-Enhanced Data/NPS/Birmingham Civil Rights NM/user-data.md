@@ -31,4 +31,13 @@
 - [ ] Railroad Park (1-2 hours, 0.5 miles south)
 
 
+## Amber's Data (from spreadsheet)
+
+**Visitor Center:** A.G. Gaston Motel
+
+**Address:** 1510 5th Avenue N, Birmingham, Alabama 35203 (33.5153921, -86.8144977)
+
+**Hours:** Hours not available
+
 ## Review / Personal Notes
+

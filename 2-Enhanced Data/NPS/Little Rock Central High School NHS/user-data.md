@@ -1,34 +1,17 @@
 # Little Rock Central High School NHS
 
-[View Full Research Report](Little%20Rock%20Central%20High%20School%20NHS.md)
-
 - [ ] Visited
 
-## Cancellation Stamps
+## Activities
 
-- [ ] Little Rock Central High School NHS Visitor Center (2120 W. Daisy L. Gatson Bates Drive, Little Rock, AR 72202 (34.7381346, -92.2973826))
+No activities found. See [Little Rock Central High School NHS.md](Little Rock Central High School NHS.md) for details.
 
-## Key Activities
 
-- [ ] Visitor Center Museum Exhibits (60 minutes)
-- [ ] Ranger-Led School Grounds Tour (1.5-2.5 hours) - **Reserve 48 hours in advance**
-- [ ] Elizabeth Eckford Bus Bench (15-20 minutes)
-- [ ] Commemorative Garden Exploration (15-20 minutes)
-- [ ] Junior Ranger Program (30-45 minutes)
-- [ ] Central High School Exterior Viewing (15-30 minutes)
+## Amber's Data (from spreadsheet)
 
-## Hidden Gems
+**Visitor Center:** Little Rock Central High School National Historic Site Visitor Center
 
-- [ ] Magnolia Mobil Gas Station (10-15 minutes)
-- [ ] Central High Architectural Details (included)
-- [ ] Interactive Accessibility Features (integrated throughout museum)
+**Address:** 2120 W Daisy L Gatson Bates Dr, Little Rock, Arkansas 72202 (34.7381346, -92.2973826)
 
-## Also Nearby
-
-- [ ] Arkansas State Capitol and Testament Statues (1-1.5 hours, 2 miles)
-- [ ] William J. Clinton Presidential Library and Museum (2-3 hours, 3 miles)
-- [ ] Paul Laurence Dunbar High School (20-30 minutes, 1.5 miles)
-- [ ] Historic Arkansas Museum (1.5-2 hours, 2.5 miles downtown)
-
-## Review / Personal Notes
+**Hours:** Hours not available
 

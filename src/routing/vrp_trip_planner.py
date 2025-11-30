@@ -7,9 +7,8 @@ Strategy:
 - Each vehicle = one trip from home base
 - Flexible trip lengths: 3-4 days, 1 week, 2 weeks
 - Configurable home base location
-- 2 hours per site (stamps + exploration), 18-hour daily window (6am-midnight)
-- Targets 1-2 sites per day average across the entire trip
-- Driving-only repositioning days are acceptable between site clusters
+- 4 hours per site (stamps + exploration), 10 hours per day (realistic pacing), 55 mph average speed
+- Targets ~2 sites per day for sustainable travel
 - Penalty for using extra vehicles (encourages fewer, fuller trips)
 - Includes OpenStreetMap and Google Maps route links
 
@@ -19,39 +18,24 @@ CRITICAL CONSTRAINT - Operating Hours:
 - Trips with violations at non-flagged sites are INVALID and require manual adjustment
 - Use parameter optimization (optimize_trip_parameters.py) to find valid configurations
 
-Day Structure:
-- Maximum operating hours per day: 18 hours (6am-midnight)
-- Target/preferred hours per day: 10-12 hours (soft limit for sustainable pacing)
-- End-of-day repositioning: Remaining daily time used to drive toward next day's sites
-- Zero-site days: Acceptable for long-distance repositioning between clusters
+KNOWN LIMITATION - Day Boundaries:
+- Current implementation uses continuous time dimension without explicit day breaks
+- Days are calculated post-hoc by dividing cumulative time by hours_per_day
+- Does NOT optimize for end-of-day positioning travel toward next day's sites
+- Future enhancement: Model days as discrete units with positioning travel at end of day
 """
 import json
 import yaml
+import math
 import argparse
 from pathlib import Path
 from typing import List, Dict, Tuple
 from dataclasses import dataclass
 from datetime import datetime, timedelta
-
-import structlog
 from ortools.constraint_solver import routing_enums_pb2
 from ortools.constraint_solver import pywrapcp
 from timezonefinder import TimezoneFinder
-
 from nps_data_loader import NPSDataLoader, NPSSite
-from geo_utils import haversine_distance, travel_time_minutes, EARTH_RADIUS_MILES
-from operating_hours import (
-    parse_operating_hours,
-    check_operating_hours_violation,
-    ParsedHours,
-    DEFAULT_OPENS_MINUTES,
-    DEFAULT_CLOSES_MINUTES,
-)
-from log_messages import LOG_MSG
-from error_messages import ERROR_MSG
-
-# Module logger
-logger = structlog.get_logger(__name__)
 
 # Initialize timezone finder (global, reused across all lookups)
 TZ_FINDER = TimezoneFinder()
@@ -127,37 +111,6 @@ DEFAULT_HOME_LON = -90.4068
 DEFAULT_HOME_NAME = "Kirkwood, MO"
 
 
-def calculate_default_max_distance(target_days: int) -> int:
-    """
-    Calculate default maximum distance based on trip duration.
-
-    Formula:
-    max_distance = target_days × 10 hours/day × 55 mph × 0.4
-
-    This assumes:
-    - 10 hours of driving per day (within 18-hour window, accounting for site visits)
-    - 55 mph average speed
-    - Factor of 0.4 for range (one-way distance from home = 40% of total driving capacity)
-    - Allows for driving-only repositioning days between site clusters
-
-    Args:
-        target_days: Number of days for the trip
-
-    Returns:
-        Maximum distance in miles
-
-    Examples:
-        3 days:  3 × 10 × 55 × 0.4 = 660 miles
-        7 days:  7 × 10 × 55 × 0.4 = 1,540 miles
-        14 days: 14 × 10 × 55 × 0.4 = 3,080 miles
-    """
-    DRIVING_HOURS_PER_DAY = 10  # Realistic driving within 18-hour window
-    AVG_SPEED_MPH = 55
-    RANGE_FACTOR = 0.4  # One-way range factor
-
-    return int(target_days * DRIVING_HOURS_PER_DAY * AVG_SPEED_MPH * RANGE_FACTOR)
-
-
 @dataclass
 class Site:
     """NPS Site"""
@@ -193,35 +146,14 @@ class VRPTripPlanner:
         sites: List[Site],
         home_base: Tuple[str, float, float],  # (name, lat, lon)
         visit_hours_per_site: float = 2.0,
-        hours_per_day: int = 18,  # Maximum: 06:00-00:00 operating window (18 hours)
+        hours_per_day: int = 15,  # Maximum: 06:00-21:00 operating window
         preferred_hours_per_day: int = 12,  # Preferred limit (soft, with penalties)
         target_trip_days: int = 3,
         max_trip_days: int = 4,
         avg_speed_mph: float = 55.0,
         prioritize_range: bool = True,  # Favor distant sites to maximize trips from home base
-        verbose: bool = False,
-        min_sites_per_day: float = 1.0,  # Minimum average sites per day across trip (allows 0-site days)
-        max_sites_per_day: float = 2.0,  # Target maximum sites per day average
-        num_trips_override: int = None   # Override the number of trips/vehicles (None = auto-calculate)
+        verbose: bool = False
     ):
-        # Input validation
-        if not sites:
-            raise ValueError(ERROR_MSG.EMPTY_SITES_LIST)
-        if not (0 < hours_per_day <= 24):
-            raise ValueError(ERROR_MSG.INVALID_HOURS_PER_DAY)
-        if avg_speed_mph <= 0:
-            raise ValueError(ERROR_MSG.INVALID_SPEED)
-        if visit_hours_per_site <= 0:
-            raise ValueError(ERROR_MSG.INVALID_VISIT_TIME)
-        if min_sites_per_day < 0:
-            raise ValueError(ERROR_MSG.INVALID_MIN_SITES)
-        if max_sites_per_day <= min_sites_per_day:
-            raise ValueError(ERROR_MSG.INVALID_MAX_SITES)
-        if target_trip_days <= 0:
-            raise ValueError(ERROR_MSG.INVALID_TARGET_DAYS)
-        if not isinstance(home_base, tuple) or len(home_base) != 3:
-            raise ValueError(ERROR_MSG.INVALID_HOME_BASE)
-
         # Add home base as depot (index 0)
         home_name, home_lat, home_lon = home_base
         self.home_base = Site(
@@ -239,8 +171,6 @@ class VRPTripPlanner:
         self.avg_speed_mph = avg_speed_mph
         self.prioritize_range = prioritize_range
         self.verbose = verbose
-        self.min_sites_per_day = min_sites_per_day
-        self.max_sites_per_day = max_sites_per_day
 
         # Trip start time preferences
         self.earliest_start_hour = 6  # Earliest tolerable start (6am)
@@ -248,63 +178,47 @@ class VRPTripPlanner:
         self.earliest_start_minutes = self.earliest_start_hour * 60  # 360 min
         self.preferred_start_minutes = self.preferred_start_hour * 60  # 540 min
 
-        # Calculate number of trips needed to cover all sites - ADAPTIVE STRATEGY
-        # Use 1.5 sites per day average (middle of 1-2 range)
-        # Allows for driving-only repositioning days between site clusters
-        SITES_PER_DAY = (min_sites_per_day + max_sites_per_day) / 2  # Default: 1.5
-        sites_per_trip = target_trip_days * SITES_PER_DAY
-
-        # Ensure minimum viable trip size (at least 2 sites per trip)
-        min_sites_per_trip = max(2, int(target_trip_days * min_sites_per_day))
-        sites_per_trip = max(min_sites_per_trip, sites_per_trip)
-
-        # Calculate trips needed, capped at 30 for solver performance
-        if num_trips_override is not None:
-            self.num_vehicles = max(1, min(30, num_trips_override))
-            logger.info(
-                "vrp_trip_override",
-                vehicles=self.num_vehicles,
-                requested=num_trips_override
-            )
+        # Calculate number of trips needed to cover all sites
+        # Each trip should be approximately target_trip_days long
+        # Estimate sites per trip based on available time:
+        # - target_trip_days * hours_per_day * preferred_utilization / visit_hours_per_site
+        # - Use 70% utilization to account for travel time (lower for short trips)
+        if target_trip_days <= 2:
+            preferred_utilization = 0.5  # More conservative for short trips
+            min_sites = 3  # Allow fewer sites for short trips
         else:
-            self.num_vehicles = max(1, min(30, int((len(sites) + sites_per_trip - 1) / sites_per_trip)))
+            preferred_utilization = 0.7  # Standard for longer trips
+            min_sites = 6
 
-        logger.info(
-            "vrp_configuration",
-            sites_count=len(sites),
-            vehicles=self.num_vehicles,
-            target_days=target_trip_days,
-            max_days=max_trip_days,
-            sites_per_day_min=self.min_sites_per_day,
-            sites_per_day_max=self.max_sites_per_day,
-            sites_per_trip=round(sites_per_trip, 1),
-            target_minutes=self.target_trip_minutes,
-            max_minutes=self.max_trip_minutes
-        )
+        estimated_sites_per_trip = int(target_trip_days * hours_per_day * preferred_utilization / visit_hours_per_site)
+        sites_per_trip = max(min_sites, estimated_sites_per_trip)
+        self.num_vehicles = max(1, min(30, (len(sites) + sites_per_trip - 1) // sites_per_trip))
+
+        print(f"Configuring VRP:")
+        print(f"  Sites: {len(sites)}")
+        print(f"  Vehicles (trips): {self.num_vehicles}")
+        print(f"  Target per trip: {target_trip_days} days ({self.target_trip_minutes//60}h)")
+        print(f"  Max per trip: {max_trip_days} days ({self.max_trip_minutes//60}h)")
 
         if self.verbose:
-            logger.debug(
-                "vrp_verbose_config",
-                visit_hours=visit_hours_per_site,
-                visit_minutes=self.visit_minutes_per_site,
-                hours_per_day_hard=hours_per_day,
-                hours_per_day_preferred=preferred_hours_per_day,
-                avg_speed_mph=avg_speed_mph
-            )
+            print(f"\nVerbose mode: Detailed site information")
+            print(f"  Visit time per site: {visit_hours_per_site} hours ({self.visit_minutes_per_site} min)")
+            print(f"  Hours per day: {hours_per_day} (hard max), {preferred_hours_per_day} (preferred)")
+            print(f"  Average speed: {avg_speed_mph} mph")
+            print(f"  Sites loaded (first 10):")
             for i, site in enumerate(sites[:10], 1):
-                dist_from_home = haversine_distance(
+                dist_from_home = self._haversine_distance(
                     home_lat, home_lon, site.lat, site.lon
                 )
-                logger.debug(
-                    "vrp_site_loaded",
-                    index=i,
-                    site_name=site.name,
-                    distance_from_home=round(dist_from_home, 1)
-                )
+                print(f"    {i}. {site.name:40s} - {dist_from_home:6.1f} mi from home")
 
     def _haversine_distance(self, lat1, lon1, lat2, lon2):
-        """Distance in miles. Delegates to geo_utils.haversine_distance."""
-        return haversine_distance(lat1, lon1, lat2, lon2)
+        """Distance in miles"""
+        R = 3959
+        lat1, lon1, lat2, lon2 = map(math.radians, [lat1, lon1, lat2, lon2])
+        dlat, dlon = lat2 - lat1, lon2 - lon1
+        a = math.sin(dlat/2)**2 + math.cos(lat1) * math.cos(lat2) * math.sin(dlon/2)**2
+        return R * 2 * math.asin(math.sqrt(a))
 
     def _calculate_optimal_start_hour(self, route_details):
         """
@@ -402,14 +316,9 @@ class VRPTripPlanner:
                     matrix[i][j] = drive_minutes + visit_minutes
         return matrix
 
-    def _check_site_fits_in_day(self, sites_in_day, new_site, start_location, day_budget_minutes, start_hour, check_operating_hours=False):
+    def _check_site_fits_in_day(self, sites_in_day, new_site, start_location, day_budget_minutes, start_hour):
         """
-        Check if adding new_site to sites_in_day fits within day budget.
-
-        Note: Operating hours constraints are NOT enforced during scheduling because
-        the VRP solver handles them with soft constraints. Sites may require multi-day
-        travel to reach, which this simple day-by-day check cannot properly model.
-        Operating hours violations are flagged post-hoc during output generation.
+        Check if adding new_site to sites_in_day fits within day budget and operating hours.
 
         Args:
             sites_in_day: List of site dicts already in the day
@@ -417,7 +326,6 @@ class VRPTripPlanner:
             start_location: (lat, lon) tuple of where the day starts
             day_budget_minutes: Total minutes available in the day
             start_hour: Hour when day starts (e.g., 6 or 9)
-            check_operating_hours: If True, also check operating hours (default False)
 
         Returns:
             (fits, arrival_time_minutes) - tuple of whether it fits and arrival time if it does
@@ -449,10 +357,8 @@ class VRPTripPlanner:
         if arrival_time + self.visit_minutes_per_site > day_budget_minutes:
             return False, arrival_time
 
-        # Operating hours check is optional and off by default
-        # The VRP solver handles these with soft constraints, and multi-day travel
-        # between distant sites makes simple day-by-day checking unreliable
-        if check_operating_hours and 'operating_hours' in new_site and new_site['operating_hours']:
+        # Check operating hours if site has them
+        if 'operating_hours' in new_site and new_site['operating_hours']:
             op_hours = new_site['operating_hours']
 
             # Skip if stamps always available
@@ -480,12 +386,9 @@ class VRPTripPlanner:
             else:
                 closes_minutes = 17 * 60
 
-            # Check if arrival is within operating hours AND visit can be completed before closing
+            # Check if arrival is within operating hours
             arrival_minutes_total = arrival_hour * 60 + arrival_minute
-            departure_minutes_total = arrival_minutes_total + self.visit_minutes_per_site
-
-            # Must arrive after opening and COMPLETE visit before closing
-            if arrival_minutes_total < opens_minutes or departure_minutes_total > closes_minutes:
+            if arrival_minutes_total < opens_minutes or arrival_minutes_total > closes_minutes:
                 return False, arrival_time
 
         return True, arrival_time
@@ -529,19 +432,20 @@ class VRPTripPlanner:
 
     def _resequence_trip_with_violations(self, trip):
         """
-        Assign day numbers to trip sites based on cumulative travel time.
+        Resequence trip sites to fit operating hours constraints.
 
         Strategy:
-        - Trust the VRP solver's site ordering (it has already optimized for distance/time)
-        - Calculate cumulative time from trip start
-        - Assign day numbers based on when daily budget is exceeded
-        - Allow multi-day travel between distant sites (repositioning days)
-        - Do NOT reject sites - all sites from VRP solution are kept
+        1. Take sites in VRP order
+        2. Try to fit each into current day
+        3. If doesn't fit, try reordering current day
+        4. If reordering works, use it
+        5. If not, move to next day
 
         Returns:
-            (processed_trip, rejected_sites) - rejected_sites is always empty
+            (resequenced_trip, rejected_sites)
         """
         route_details = trip['route_details']
+        rejected_sites = []
 
         # Extract non-depot sites
         sites_to_schedule = [stop for stop in route_details if stop.get('site_name') != self.home_base.name]
@@ -550,89 +454,88 @@ class VRPTripPlanner:
             return trip, []
 
         # Constants
-        DAILY_BUDGET_MINUTES = self.hours_per_day * 60  # 18 hours = 1080 minutes
+        DAILY_BUDGET_MINUTES = self.hours_per_day * 60
+        PREFERRED_START_HOUR = self.preferred_start_hour  # 9am
 
-        logger.info(
-            LOG_MSG.TRIP_PROCESSING_STARTED,
-            trip_number=trip['trip_number'],
-            sites_count=len(sites_to_schedule)
-        )
+        # Build days
+        days = []  # List of lists of sites
+        current_day_sites = []
+        start_location = (self.home_base.lat, self.home_base.lon)
 
-        # Process sites and assign day numbers based on cumulative time
-        current_day = 1
-        cumulative_day_time = 0
-        current_location = (self.home_base.lat, self.home_base.lon)
-        days = [[]]  # List of lists of sites, starting with day 1
+        print(f"\nResequencing Trip {trip['trip_number']}:")
 
         for i, site in enumerate(sites_to_schedule):
-            # Calculate travel time from current location
-            travel_dist = self._haversine_distance(
-                current_location[0], current_location[1],
-                site['lat'], site['lon']
+            # Try to fit site in current day
+            fits, arrival_time = self._check_site_fits_in_day(
+                current_day_sites, site, start_location, DAILY_BUDGET_MINUTES, PREFERRED_START_HOUR
             )
-            travel_time = (travel_dist / self.avg_speed_mph) * 60
-            visit_time = self.visit_minutes_per_site
-            total_time_needed = travel_time + visit_time
 
-            # Check if this fits in current day
-            if cumulative_day_time + total_time_needed <= DAILY_BUDGET_MINUTES:
-                # Fits in current day
-                cumulative_day_time += total_time_needed
-                days[-1].append(site)
-                site['day'] = current_day
+            if fits:
+                # Site fits, add it
+                current_day_sites.append(site)
+                print(f"  ✓ Site {i+1}/{len(sites_to_schedule)}: {site.get('site_name')} fits in day {len(days)+1}")
             else:
-                # Doesn't fit - need to handle repositioning and new day(s)
-                # Calculate how many days of travel are needed
-                remaining_today = DAILY_BUDGET_MINUTES - cumulative_day_time
-                remaining_travel = travel_time - remaining_today
+                # Doesn't fit - try reordering
+                print(f"  ✗ Site {i+1}/{len(sites_to_schedule)}: {site.get('site_name')} doesn't fit, trying reorder...")
 
-                # Use remaining time today for repositioning travel
-                if remaining_today > 0:
-                    # Mark end-of-day repositioning
-                    if days[-1]:
-                        days[-1][-1]['end_of_day_positioning'] = {
-                            'positioning_minutes': round(remaining_today, 1),
-                            'toward_site': site.get('site_name', 'Unknown')
-                        }
+                success, reordered = self._try_reorder_day(
+                    current_day_sites, site, start_location, DAILY_BUDGET_MINUTES, PREFERRED_START_HOUR
+                )
 
-                # Start new day(s) - may need multiple days for long travel
-                while remaining_travel > 0:
-                    current_day += 1
-                    days.append([])  # New day (may be empty repositioning day)
+                if success:
+                    # Reordering worked!
+                    current_day_sites = reordered
+                    print(f"    ✓ Reordering successful, site fits in day {len(days)+1}")
+                else:
+                    # Reordering failed - check if we can start a new day
+                    if len(days) + 1 >= self.max_trip_minutes / DAILY_BUDGET_MINUTES:
+                        # Trip is already at max days, reject this site
+                        print(f"    ✗ Cannot fit in trip (max days reached), rejecting site")
+                        rejected_sites.append({
+                            'name': site.get('site_name', 'Unknown'),
+                            'reason': 'Could not fit within trip day limits after reordering attempts',
+                            'lat': site.get('lat'),
+                            'lon': site.get('lon')
+                        })
+                        continue
 
-                    if remaining_travel <= DAILY_BUDGET_MINUTES - visit_time:
-                        # Can reach and visit site today
-                        cumulative_day_time = remaining_travel + visit_time
-                        remaining_travel = 0
-                        days[-1].append(site)
-                        site['day'] = current_day
+                    # Start new day
+                    days.append(current_day_sites)
+                    # Update start location to last site of previous day
+                    if current_day_sites:
+                        last_site = current_day_sites[-1]
+                        start_location = (last_site['lat'], last_site['lon'])
+
+                    # Check if site fits in new day
+                    fits_new_day, _ = self._check_site_fits_in_day(
+                        [], site, start_location, DAILY_BUDGET_MINUTES, PREFERRED_START_HOUR
+                    )
+
+                    if fits_new_day:
+                        current_day_sites = [site]
+                        print(f"    ✓ Started day {len(days)+1} with this site")
                     else:
-                        # Full day of driving, still won't reach site
-                        remaining_travel -= DAILY_BUDGET_MINUTES
-                        cumulative_day_time = DAILY_BUDGET_MINUTES  # Full driving day
+                        # Site doesn't even fit in a fresh day - reject it
+                        print(f"    ✗ Site doesn't fit even in fresh day, rejecting")
+                        rejected_sites.append({
+                            'name': site.get('site_name', 'Unknown'),
+                            'reason': 'Operating hours incompatible with trip schedule',
+                            'lat': site.get('lat'),
+                            'lon': site.get('lon'),
+                            'operating_hours': site.get('operating_hours', {})
+                        })
+                        current_day_sites = []
 
-            # Update current location
-            current_location = (site['lat'], site['lon'])
+        # Add last day if it has sites
+        if current_day_sites:
+            days.append(current_day_sites)
 
-        # Count total days including any repositioning days
-        total_days = current_day
-
-        # Count sites per day for reporting
-        sites_per_day = [len(d) for d in days]
-        repositioning_days = sites_per_day.count(0)
-        logger.info(
-            LOG_MSG.TRIP_GENERATED,
-            trip_number=trip['trip_number'],
-            total_days=total_days,
-            repositioning_days=repositioning_days,
-            sites_count=len(sites_to_schedule),
-            sites_per_day_avg=round(len(sites_to_schedule) / total_days, 1)
-        )
-
-        # Rebuild route_details preserving original order
-        new_route_details = [route_details[0]]  # Depot at start
-        for site in sites_to_schedule:
-            new_route_details.append(site)
+        # Now rebuild route_details with resequenced sites
+        # (keeping depot at start and end)
+        new_route_details = [route_details[0]]  # Depot
+        for day_sites in days:
+            new_route_details.extend(day_sites)
+        new_route_details.append(route_details[0])  # Return to depot
 
         # Recalculate stats
         total_distance = 0
@@ -649,159 +552,26 @@ class VRPTripPlanner:
             visit_time = self.visit_minutes_per_site if stop2.get('site_name') != self.home_base.name else 0
             total_time += travel_time + visit_time
 
-        processed_trip = {
+        resequenced_trip = {
             'trip_number': trip['trip_number'],
             'route_details': new_route_details,
             'stats': {
-                'total_sites': len(sites_to_schedule),
+                'total_sites': len(new_route_details) - 2,  # Exclude depot at start and end
                 'total_distance_miles': round(total_distance, 1),
                 'total_time_hours': round(total_time / 60, 2),
-                'total_days': total_days,
-                'repositioning_days': repositioning_days,
-                'sites_per_day_avg': round(len(sites_to_schedule) / total_days, 2),
-                'within_target': total_days <= (self.target_trip_minutes / (self.hours_per_day * 60)),
-                'within_max': total_days <= (self.max_trip_minutes / (self.hours_per_day * 60)),
-                'sites_rejected': 0
+                'total_days': len(days),
+                'within_target': total_time <= self.target_trip_minutes,
+                'within_max': total_time <= self.max_trip_minutes,
+                'sites_rejected': len(rejected_sites),
+                'resequenced': True
             }
         }
 
-        return processed_trip, []  # Never reject sites - trust VRP solver
+        return resequenced_trip, rejected_sites
 
     def solve(self):
-        """
-        Solve multi-vehicle VRP with iterative vehicle reduction.
-
-        Strategy:
-        1. Start with initial vehicle count (based on 1.5 sites/day average)
-        2. Run VRP solver
-        3. Check if trip average is below min_sites_per_day (across entire trip)
-        4. If yes, reduce vehicles by 1 and retry
-        5. Continue until all trips have ≥min_sites_per_day average
-
-        Note: Individual days can have zero sites (repositioning days) as long as
-        the trip average meets the minimum threshold.
-        """
-        MIN_SITES_PER_DAY = self.min_sites_per_day  # Minimum average across trip (default: 1.0)
-        TARGET_SITES_PER_DAY = self.max_sites_per_day  # Target average (default: 2.0)
-        MAX_ITERATIONS = 20  # Prevent infinite loops (reduce 1 at a time needs more iterations)
-
-        initial_vehicles = self.num_vehicles
-        iteration = 0
-
-        while iteration < MAX_ITERATIONS:
-            iteration += 1
-
-            if iteration > 1:
-                logger.info(
-                    LOG_MSG.VRP_REDUCING_VEHICLES,
-                    iteration=iteration,
-                    vehicles=self.num_vehicles
-                )
-
-            # Run VRP solver
-            trips = self._solve_internal()
-
-            if not trips:
-                logger.warning(
-                    LOG_MSG.VRP_NO_SOLUTION,
-                    vehicles=self.num_vehicles,
-                    iteration=iteration
-                )
-
-                # If this is the first iteration and solver failed, try with MORE vehicles
-                if iteration == 1:
-                    self.num_vehicles = int(initial_vehicles * 1.5)  # Increase by 50%
-                    logger.info(
-                        "vrp_increasing_vehicles",
-                        new_vehicles=self.num_vehicles,
-                        reason="first_attempt_failed"
-                    )
-                    continue
-
-                # If we've been reducing and now failed, back up one step
-                if self.num_vehicles < initial_vehicles:
-                    logger.info(
-                        "vrp_reverting_vehicles",
-                        new_vehicles=self.num_vehicles + 1,
-                        reason="backed_into_failure"
-                    )
-                    self.num_vehicles += 1
-                    trips = self._solve_internal()
-                    if trips:
-                        return trips
-
-                logger.error(LOG_MSG.VRP_NO_SOLUTION, final=True)
-                return None
-
-            # Check for underutilized trips (< 1 site per day on average)
-            underutilized_trips = []
-            total_sites = 0
-            total_days = 0
-            for trip in trips:
-                sites = trip['stats']['total_sites']
-                days = trip['stats']['total_days']
-                sites_per_day = sites / days if days > 0 else 0
-
-                total_sites += sites
-                total_days += days
-
-                if sites_per_day < MIN_SITES_PER_DAY:
-                    underutilized_trips.append((trip['trip_number'], sites, days, sites_per_day))
-
-            overall_spd = total_sites / total_days if total_days > 0 else 0
-
-            if not underutilized_trips:
-                # Success! All trips meet minimum threshold
-                logger.info(
-                    LOG_MSG.VRP_SOLVING_COMPLETED,
-                    iterations=iteration,
-                    initial_vehicles=initial_vehicles,
-                    final_vehicles=self.num_vehicles,
-                    total_sites=total_sites,
-                    total_trips=len(trips),
-                    sites_per_day_avg=round(overall_spd, 2),
-                    min_threshold=MIN_SITES_PER_DAY,
-                    target_threshold=TARGET_SITES_PER_DAY
-                )
-                return trips
-
-            # Report underutilized trips
-            logger.warning(
-                "vrp_underutilized_trips",
-                count=len(underutilized_trips),
-                threshold=MIN_SITES_PER_DAY,
-                trips=[
-                    {"trip": t[0], "sites": t[1], "days": t[2], "spd": round(t[3], 2)}
-                    for t in underutilized_trips[:5]
-                ]
-            )
-
-            if self.num_vehicles <= 1:
-                # Can't reduce further
-                logger.warning(
-                    "vrp_cannot_reduce_further",
-                    underutilized_count=len(underutilized_trips)
-                )
-                return trips
-
-            # Reduce vehicles by 1
-            self.num_vehicles -= 1
-            logger.debug(
-                "vrp_vehicle_reduction",
-                from_vehicles=self.num_vehicles + 1,
-                to_vehicles=self.num_vehicles
-            )
-
-        # Max iterations reached
-        logger.warning(
-            "vrp_max_iterations_reached",
-            max_iterations=MAX_ITERATIONS
-        )
-        return trips
-
-    def _solve_internal(self):
-        """Internal VRP solver - called by solve() wrapper"""
-        logger.info(LOG_MSG.VRP_SOLVING_STARTED, vehicles=self.num_vehicles)
+        """Solve multi-vehicle VRP"""
+        print(f"\nBuilding VRP model...")
 
         distance_matrix = self._create_distance_matrix()
         time_matrix = self._create_time_matrix(distance_matrix)
@@ -1014,81 +784,22 @@ class VRPTripPlanner:
 
             for trip in trips:
                 resequenced_trip, rejected_sites = self._resequence_trip_with_violations(trip)
-
-                # Add return home leg to resequenced trip
-                route_details = resequenced_trip['route_details']
-                if len(route_details) > 1:  # If there are sites beyond depot
-                    # Find last site visited (not depot)
-                    last_site_stop = None
-                    for stop in reversed(route_details):
-                        if stop.get('site') != self.home_base.name:
-                            last_site_stop = stop
-                            break
-
-                    if last_site_stop:
-                        # Calculate travel time from last site back to home
-                        distance_miles = haversine_distance(
-                            last_site_stop['lat'], last_site_stop['lon'],
-                            self.home_base.lat, self.home_base.lon
-                        )
-
-                        # Calculate travel time at average speed
-                        travel_hours = distance_miles / self.avg_speed_mph
-                        travel_minutes = travel_hours * 60
-
-                        # Calculate departure time from last site (arrival + visit time)
-                        last_site_arrival = last_site_stop['time_of_day']
-                        last_site_hour, last_site_minute = map(int, last_site_arrival.split(':'))
-                        departure_minutes = last_site_hour * 60 + last_site_minute + self.visit_minutes_per_site
-
-                        # Calculate arrival at home
-                        home_arrival_minutes = int(departure_minutes + travel_minutes)
-                        home_arrival_hour = (home_arrival_minutes // 60) % 24
-                        home_arrival_minute = home_arrival_minutes % 60
-
-                        # Get home base timezone
-                        home_tz = self.home_base.get_timezone()
-
-                        # Add return home stop
-                        return_home_stop = {
-                            'site': f'Return to {self.home_base.name}',
-                            'site_name': f'Return to {self.home_base.name}',  # Different from home_base.name to avoid filtering
-                            'city': self.home_base.city if hasattr(self.home_base, 'city') else '',
-                            'state': self.home_base.state if hasattr(self.home_base, 'state') else '',
-                            'lat': self.home_base.lat,
-                            'lon': self.home_base.lon,
-                            'address': self.home_base.address if hasattr(self.home_base, 'address') else '',
-                            'day': last_site_stop.get('day', 1),
-                            'time_of_day': f"{home_arrival_hour:02d}:{home_arrival_minute:02d}",
-                            'timezone': home_tz,
-                            'travel_from_previous': round(travel_minutes, 1),
-                            'travel_distance_miles': round(distance_miles, 1),
-                            'is_return_home': True
-                        }
-
-                        route_details.append(return_home_stop)
-
                 resequenced_trips.append(resequenced_trip)
                 all_rejected_sites.extend(rejected_sites)
 
             if all_rejected_sites:
-                logger.warning(
-                    "vrp_sites_rejected",
-                    count=len(all_rejected_sites),
-                    sites=[
-                        {"name": s['name'], "reason": s['reason']}
-                        for s in all_rejected_sites
-                    ]
-                )
+                print(f"\n✗ {len(all_rejected_sites)} site(s) could not be scheduled:")
+                for site in all_rejected_sites:
+                    print(f"  - {site['name']}: {site['reason']}")
             else:
-                logger.info("vrp_all_sites_scheduled")
+                print(f"\n✓ All sites successfully scheduled within operating hours")
 
             # Store rejected sites for reporting
             self.rejected_sites = all_rejected_sites
 
             return resequenced_trips
         else:
-            logger.warning(LOG_MSG.VRP_NO_SOLUTION)
+            print(f"✗ No solution found!")
             return None
 
     def _extract_solution(self, manager, routing, solution, time_dimension):
@@ -1320,48 +1031,6 @@ class VRPTripPlanner:
                         # Get when this day starts in cumulative minutes
                         day_start_minutes = day_start_cumulative.get(day_num, 0)
 
-                        # Validate and adjust start hour to ensure ALL sites fit within operating hours
-                        # Try different start hours to find one without violations
-                        # First collect constraints from all sites
-                        earliest_needed_start = self.earliest_start_hour
-                        latest_allowed_start = 21  # Latest reasonable start time
-
-                        for test_stop in day_stops:
-                            if test_stop.get('site') != self.home_base.name and 'operating_hours' in test_stop:
-                                if test_stop.get('always_stamp_available', False):
-                                    continue
-
-                                minutes_into_day = test_stop['arrival_minutes'] - day_start_minutes
-
-                                # Parse operating hours
-                                op_hours = test_stop['operating_hours']
-                                opens_str = op_hours.get('opens', '08:00')
-                                closes_str = op_hours.get('closes', '17:00')
-
-                                opens_minutes = int(opens_str.split(':')[0]) * 60 + int(opens_str.split(':')[1]) if ':' in opens_str else 8 * 60
-                                closes_minutes = int(closes_str.split(':')[0]) * 60 + int(closes_str.split(':')[1]) if ':' in closes_str else 17 * 60
-
-                                # Calculate required start hour for this site to open on time
-                                # start_hour * 60 + minutes_into_day = opens_minutes
-                                # start_hour = (opens_minutes - minutes_into_day) / 60
-                                required_start_for_opening = (opens_minutes - minutes_into_day) / 60.0
-
-                                # Calculate required start hour for this site to close on time
-                                # start_hour * 60 + minutes_into_day + visit = closes_minutes
-                                # start_hour = (closes_minutes - visit - minutes_into_day) / 60
-                                required_start_for_closing = (closes_minutes - self.visit_minutes_per_site - minutes_into_day) / 60.0
-
-                                # Update constraints
-                                if required_start_for_opening > earliest_needed_start:
-                                    earliest_needed_start = int(math.ceil(required_start_for_opening))
-                                if required_start_for_closing < latest_allowed_start:
-                                    latest_allowed_start = int(math.floor(required_start_for_closing))
-
-                        # If constraints are satisfiable, use the earliest feasible start
-                        if earliest_needed_start <= latest_allowed_start:
-                            optimal_start_hour = max(self.earliest_start_hour, earliest_needed_start)
-                        # else: keep the originally calculated optimal_start_hour (violations will be flagged)
-
                         if self.verbose:
                             print(f"\nVerbose: Adjusting Trip {vehicle_id + 1}, Day {day_num} start time")
                             print(f"  First site: {first_site_stop.get('site_name', 'Unknown')}")
@@ -1413,21 +1082,11 @@ class VRPTripPlanner:
                                     else:
                                         closes_minutes = 17 * 60  # Default 5pm
 
-                                    # Check if arrival is within operating hours AND visit can be completed before closing
-                                    departure_hour_minutes = arrival_hour_minutes + self.visit_minutes_per_site
-                                    if arrival_hour_minutes < opens_minutes or departure_hour_minutes > closes_minutes:
+                                    # Check if arrival is within operating hours
+                                    if arrival_hour_minutes < opens_minutes or arrival_hour_minutes > closes_minutes:
                                         always_available = stop.get('always_stamp_available', False)
                                         warning_type = "INFO" if always_available else "VIOLATION"
-
-                                        # Determine which constraint was violated
-                                        if arrival_hour_minutes < opens_minutes:
-                                            violation_msg = f"Arrival at {hour_of_day:02d}:{minute_of_hour:02d} {tz_name} is before opening time"
-                                        else:
-                                            departure_hour = departure_hour_minutes // 60
-                                            departure_minute = departure_hour_minutes % 60
-                                            violation_msg = f"Visit would end at {departure_hour:02d}:{departure_minute:02d} {tz_name}, after closing time"
-
-                                        stop['time_constraint_warning'] = f"[{warning_type}] {violation_msg} (hours: {opens_str}-{closes_str})"
+                                        stop['time_constraint_warning'] = f"[{warning_type}] Arrival at {hour_of_day:02d}:{minute_of_hour:02d} {tz_name} is outside operating hours ({opens_str}-{closes_str})"
                                         if not always_available:
                                             stop['invalid_visit'] = True
                                     else:
@@ -1435,34 +1094,11 @@ class VRPTripPlanner:
                                         stop.pop('time_constraint_warning', None)
                                         stop.pop('invalid_visit', None)
 
-                    # Remove sites with VIOLATION flags from route_details (not INFO flags for always_stamp_available)
-                    sites_with_violations = []
-                    cleaned_route_details = []
-                    for stop in route_details:
-                        if stop.get('invalid_visit', False) and not stop.get('always_stamp_available', False):
-                            # This site has an unacceptable violation - remove it
-                            if stop.get('site') != self.home_base.name:
-                                site_name = stop.get('site_name', 'Unknown')
-                                sites_with_violations.append(site_name)
-                                # LOG the removal so it's not silent
-                                logger.warning(
-                                    LOG_MSG.SITES_REMOVED_VIOLATIONS,
-                                    site_name=site_name,
-                                    trip_number=vehicle_id + 1,
-                                    violation=stop.get('time_constraint_warning', 'Unknown violation'),
-                                    operating_hours=stop.get('operating_hours'),
-                                    arrival_time=stop.get('time_of_day')
-                                )
-                        else:
-                            cleaned_route_details.append(stop)
-
-                    route_details = cleaned_route_details
-
                     trips.append({
                         'trip_number': vehicle_id + 1,
                         'route_details': route_details,
                         'stats': {
-                            'total_sites': len([s for s in route_details if not s.get('is_return_home') and s.get('site') != self.home_base.name]),
+                            'total_sites': len(route_details) - 1,
                             'total_distance_miles': round(total_distance / 1609.34, 1),
                             'total_time_hours': round(total_time / 60, 2),
                             'total_days': round(total_time / (self.hours_per_day * 60), 2),
@@ -1476,11 +1112,18 @@ class VRPTripPlanner:
 
 def load_nps_sites(home_base: Tuple[float, float], max_distance_miles: float = None):
     """Load NPS sites from ambers-data.md files, optionally filtered by distance"""
-    logger.info(LOG_MSG.SITES_LOADED, source="ambers-data.md")
+    print("Loading NPS sites from ambers-data.md files...")
 
     # Load all sites using NPSDataLoader
     loader = NPSDataLoader()
     all_sites = loader.load_all_sites()
+
+    def haversine(lat1, lon1, lat2, lon2):
+        R = 3959
+        lat1, lon1, lat2, lon2 = map(math.radians, [lat1, lon1, lat2, lon2])
+        dlat, dlon = lat2 - lat1, lon2 - lon1
+        a = math.sin(dlat/2)**2 + math.cos(lat1) * math.cos(lat2) * math.sin(dlon/2)**2
+        return R * 2 * math.asin(math.sqrt(a))
 
     sites = []
     home_lat, home_lon = home_base
@@ -1488,7 +1131,7 @@ def load_nps_sites(home_base: Tuple[float, float], max_distance_miles: float = N
     for nps_site in all_sites.values():
         # Filter by distance if specified
         if max_distance_miles:
-            dist = haversine_distance(home_lat, home_lon, nps_site.lat, nps_site.lon)
+            dist = haversine(home_lat, home_lon, nps_site.lat, nps_site.lon)
             if dist > max_distance_miles:
                 continue
 
@@ -1515,25 +1158,19 @@ def main():
     parser.add_argument('--target-days', type=int, default=3,
                         help='Target days per trip (any positive integer)')
     parser.add_argument('--max-days', type=int, help='Max days per trip (defaults to target+1)')
-    parser.add_argument('--max-distance', type=int, default=None,
-                        help='Maximum distance from home base in miles (default: auto-calculated from target-days, use 0 for all sites)')
+    parser.add_argument('--max-distance', type=int, default=500,
+                        help='Maximum distance from home base in miles (default: 500, use 0 for all sites)')
     parser.add_argument('--visit-hours', type=float, default=2.0,
                         help='Hours to spend at each site (default: 2.0)')
-    parser.add_argument('--hours-per-day', type=int, default=18,
-                        help='Maximum working hours per day, 06:00-00:00 (default: 18)')
+    parser.add_argument('--hours-per-day', type=int, default=15,
+                        help='Maximum working hours per day, 06:00-21:00 (default: 15)')
     parser.add_argument('--preferred-hours-per-day', type=int, default=12,
                         help='Preferred hours per day, exceeding this incurs penalties (default: 12)')
-    parser.add_argument('--min-sites-per-day', type=float, default=1.0,
-                        help='Minimum average sites per day across trip (default: 1.0, allows 0-site repositioning days)')
-    parser.add_argument('--max-sites-per-day', type=float, default=2.0,
-                        help='Target maximum sites per day average (default: 2.0)')
     parser.add_argument('--avg-speed', type=float, default=55.0,
                         help='Average driving speed in mph (default: 55)')
     parser.add_argument('--no-prioritize-range', action='store_true',
                         help='Disable range prioritization (default: range prioritization is enabled)')
-    parser.add_argument('--num-trips', type=int, default=None,
-                        help='Override the number of trips/vehicles (default: auto-calculated based on sites and target days)')
-    parser.add_argument('--output', default='results/trips/vrp_trip_itineraries.yaml', help='Output file (.json or .yaml)')
+    parser.add_argument('--output', default='vrp_trip_itineraries.yaml', help='Output file (.json or .yaml)')
     parser.add_argument('--verbose', action='store_true',
                         help='Enable verbose debug logging to understand VRP solver decisions')
 
@@ -1542,13 +1179,6 @@ def main():
     # Set max days if not specified
     max_days = args.max_days if args.max_days else args.target_days + 1
 
-    # Auto-calculate max distance if not specified
-    if args.max_distance is None:
-        args.max_distance = calculate_default_max_distance(args.target_days)
-        print(f"Auto-calculated max-distance: {args.max_distance} miles (for {args.target_days} days)")
-        print(f"Formula: {args.target_days} days × 8 hours/day × 55 mph ÷ 2 = {args.max_distance} miles")
-        print()
-
     print("="*70)
     print(f"VRP TRIP PLANNER FROM {args.home.upper()}")
     print("="*70)
@@ -1556,11 +1186,8 @@ def main():
     print(f"Trip length: {args.target_days} days (max {max_days})")
     print(f"Max distance: {args.max_distance} miles" if args.max_distance > 0 else "Max distance: unlimited")
     print(f"Time per site: {args.visit_hours} hours")
-    print(f"Maximum hours per day: {args.hours_per_day} hours (06:00-{6+args.hours_per_day:02d}:00)")
-    print(f"Preferred hours per day: {args.preferred_hours_per_day} hours (soft limit)")
-    print(f"Sites per day target: {args.min_sites_per_day}-{args.max_sites_per_day} (avg across trip)")
+    print(f"Working hours per day: {args.hours_per_day} hours (~{int(args.hours_per_day / args.visit_hours)} sites/day)")
     print(f"Average speed: {args.avg_speed} mph")
-    print(f"Note: Zero-site days allowed for repositioning between clusters")
     print()
 
     max_dist = args.max_distance if args.max_distance > 0 else None
@@ -1577,10 +1204,7 @@ def main():
         max_trip_days=max_days,
         avg_speed_mph=args.avg_speed,
         prioritize_range=not args.no_prioritize_range,
-        verbose=args.verbose,
-        min_sites_per_day=args.min_sites_per_day,
-        max_sites_per_day=args.max_sites_per_day,
-        num_trips_override=args.num_trips
+        verbose=args.verbose
     )
 
     trips = planner.solve()
@@ -1671,9 +1295,6 @@ def main():
         }
 
         output_file = Path(args.output)
-
-        # Ensure output directory exists
-        output_file.parent.mkdir(parents=True, exist_ok=True)
 
         # Determine format based on file extension
         if output_file.suffix.lower() in ['.yaml', '.yml']:

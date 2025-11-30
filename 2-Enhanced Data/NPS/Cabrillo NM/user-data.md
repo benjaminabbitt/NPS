@@ -6,7 +6,7 @@
 
 ## Cancellation Stamps
 
-- [ ] Cabrillo National Monument Visitor Center (1800 Cabrillo Memorial Dr, San Diego, CA 92106 (32.6922209, -117.2451694)) (32.6922209, -117.2451694)
+- [ ] Cabrillo National Monument Visitor Center (1800 Cabrillo Memorial Dr, San Diego, CA 92106) (32.6922209, -117.2451694)
 
 ## Key Activities
 
@@ -23,5 +23,13 @@
 
 - [ ] Point Loma area (15-30 minutes)
 
+
+## Amber's Data (from spreadsheet)
+
+**Visitor Center:** Cabrillo NM
+
+**Address:** 1800 Cabrillo Memorial Dr, San Diego, California 92106 (32.6922209, -117.2451694)
+
+**Hours:** Hours not available
 
 ## Review / Personal Notes

@@ -1,0 +1,57 @@
+# African American Civil War MEM (Memorial)
+
+## Cancellation Stamp Locations
+
+- **African American Civil War Memorial** (1925 Vermont Avenue NW, Washington, DC 20001 (38.9157362, -77.0261661); Memorial is outdoors and accessible 24 hours daily; 202-426-6841) [7aaeee]
+
+**Note:** The museum at this location is currently closed for renovation with reopening planned for late 2025. The outdoor memorial and Wall of Honor remain accessible at all times. Call 202-426-6841 or 202-667-2667 to confirm current stamp availability before visiting. [Source: [NPS](https://www.nps.gov/afam/planyourvisit/basicinfo.htm), [Museum](https://afroamcivilwar.org/visit-the-aacwm/)]
+
+## Key Activities
+
+- **View the Spirit of Freedom Statue and Memorial** (15-30 minutes) - Walk around the 9-foot bronze statue by Ed Hamilton featuring three African American infantrymen and one sailor, with the Spirit of Freedom figure above. The memorial includes curved panel walls inscribed with over 185,000 names of United States Colored Troops who served in the Civil War. The memorial is self-guided and accessible 24/7; Corner of Vermont Avenue, 10th Street, and U Street NW, Washington, DC 20001; Accessible 24 hours daily. [Source: [NPS](https://www.nps.gov/places/000/african-american-civil-war-memorial-the-spirit-of-freedom.htm), [Cherry Blossom Watch](https://cherryblossomwatch.com/exploredc/african-american-civil-war-memorial/)] [9a3b50]
+
+- **Visit the African American Civil War Museum** (1-2 hours) - Explore exhibits featuring photographs, documents, artifacts, uniforms, weapons, and personal letters from USCT soldiers. The museum uses technology and primary sources to honor the 209,145 US Colored Troops who served. Visitors can search the USCT database for ancestors and register as descendants. Note: Museum is currently closed for renovation, expected to reopen late 2025; 1925 Vermont Avenue NW, Washington, DC 20001; When open: 10:00 AM - 5:00 PM daily; Closed major holidays; 202-667-2667; Free admission with suggested donation. [Source: [Museum](https://afroamcivilwar.org/visit-the-aacwm/), [Washingtonian](https://www.washingtonian.com/2025/03/04/after-decades-the-full-african-american-civil-war-memorial-museum-is-finally-coming/), [TripAdvisor](https://www.tripadvisor.com/Attraction_Review-g28970-d535036-Reviews-African_American_Civil_War_Memorial_Museum-Washington_DC_District_of_Columbia.html)] [0f4c75]
+
+- **Research USCT Ancestors on the Wall of Honor** (30-60 minutes) - Search the Wall of Honor for names of specific USCT soldiers among the 209,145 names engraved on plaques. Use the online database or museum resources to locate ancestors by name, age, enlistment year, or unit; Corner of Vermont Avenue, 10th Street, and U Street NW, Washington, DC 20001; Accessible 24 hours daily; Online database available at museum website; 202-667-2667 for assistance. [Source: [Museum](https://afroamcivilwar.org/soldier/), [Museum Descendants Program](https://afroamcivilwar.org/civil-war-descendants-program/)] [58551d]
+
+## Hidden Gems
+
+- **Attend the Meridian Hill Park Sunday Drum Circle** (1-2 hours) - Experience a diverse community gathering every Sunday starting at 3:00 PM featuring drummers, tight-rope walkers, hula-hoopers, yogis, and jugglers. This weekly tradition is family-friendly and located just a few blocks north of the memorial; 16th Street & W Street NW, Washington, DC; Sundays at 3:00 PM; Open until 9:00 PM winter, midnight summer; Free. [Source: [NPS](https://www.nps.gov/places/meridian-hill-park.htm), [TripAdvisor](https://www.tripadvisor.com/Attraction_Review-g28970-d564547-Reviews-Meridian_Hill_Park-Washington_DC_District_of_Columbia.html)] [067ede]
+
+- **View the Thirteen-Basin Cascading Fountain at Meridian Hill Park** (15-30 minutes) - See the longest cascading fountain in the United States and the Joan of Arc statue, the only equestrian statue of a woman in Washington, DC. The park offers views of the city and is part of the National Park Service; 16th Street & W Street NW, Washington, DC; Open until 9:00 PM winter, midnight summer; Free. [Source: [DC Travel Mag](https://dctravelmag.com/meridian-hill-park/), [NPS](https://www.nps.gov/thingstodo/discover-meridian-hill-park.htm)] [cb1c0f]
+
+## Also Nearby
+
+- **Ben's Chili Bowl** (30-45 minutes for meal) - Visit one of DC's most historic restaurants, serving the community since 1958. Try Washington's signature dish, the Famous Chili Half-Smoke, a blend of pork and beef on a warm steamed bun with mustard, onions, and homemade spicy chili sauce. Located directly on U Street, one block from the memorial; 1213 U Street NW, Washington, DC 20009; Monday-Thursday 11:00 AM - 11:00 PM, Friday-Saturday 11:00 AM - 4:00 AM, Sunday 11:00 AM - 11:00 PM. [Source: [Ben's Chili Bowl](https://benschilibowl.com/), [Washington.org](https://washington.org/find-dc-listings/bens-chili-bowl)] [d0bd54]
+
+- **Lincoln Theatre** (2-3 hours for performance) - Attend a performance at this historic 1922 theater that influenced the Harlem Renaissance and continues to host national talent including concerts, comedy, and cultural events. Box office hours: Monday-Friday 11:30 AM - 6:00 PM, weekend hours vary by show; 1215 U Street NW, Washington, DC 20009; Located across the street from the memorial; 202-328-6000; Metro: U Street-Cardozo Station. [Source: [Lincoln Theatre](https://www.thelincolndc.com/faq-2/), [Washington.org](https://washington.org/find-dc-listings/lincoln-theatre)] [2d1eac]
+
+- **National Museum of African American History and Culture** (3-4 hours) - Explore the comprehensive Smithsonian museum covering African American history from slavery through civil rights. Free timed entry passes required and released daily at 8:15 AM EST. Approximately 2 miles from the memorial; 1400 Constitution Avenue NW, Washington, DC (14th Street and Constitution Avenue NW); Tuesday-Sunday 10:00 AM - 5:30 PM, Monday 12:00 PM - 5:30 PM (10:00 AM on federal holidays); Closed December 25; Free with timed entry pass. [Source: [NMAAHC](https://nmaahc.si.edu/visit/plan-your-visit), [Washington.org](https://washington.org/visit-dc/guide-to-smithsonian-national-museum-african-american-history-culture)] [f0f68a]
+
+- **Mary McLeod Bethune Council House National Historic Site** (45 minutes - 1 hour) - Tour the former home of educator and civil rights leader Mary McLeod Bethune, founder of the National Council of Negro Women. Free 30-minute guided tours include two floors with original furniture and photographs. Located near Logan Circle; 1318 Vermont Avenue NW, Washington, DC 20005; Open Thursday-Saturday for tours; Free admission. [Source: [NPS](https://www.nps.gov/mamc/), [TripAdvisor](https://www.tripadvisor.com/Attraction_Review-g28970-d279122-Reviews-Mary_McLeod_Bethune_Council_House-Washington_DC_District_of_Columbia.html)] [4fd08a]
+
+- **Howard Theatre** (2-3 hours for performance) - Experience live music, comedy, and cultural events at this historic 1910 theater that played a significant role in "Black Broadway" history. First come, first seated; arrive early for better seats. Located in the Shaw neighborhood near U Street; 620 T Street NW, Washington, DC 20001; Box office: Monday-Saturday 10:00 AM, evening venue hours 6:00 PM - 3:00 AM; 202-803-2899. [Source: [Yelp](https://www.yelp.com/biz/howard-theatre-washington), [Washington.org](https://washington.org/find-dc-listings/howard-theatre)] [c21e80]
+
+---
+
+**Total Recommended Time:** 1-2 hours for the memorial and outdoor areas (when museum is closed); 2-3 hours when museum reopens in late 2025. [Source: [Museum](https://afroamcivilwar.org/visit-the-aacwm/), [TripAdvisor](https://www.tripadvisor.com/Attraction_Review-g28970-d535036-Reviews-African_American_Civil_War_Memorial_Museum-Washington_DC_District_of_Columbia.html)]
+
+
+## Amber's Data
+
+*This section preserves the original data from the source spreadsheet.*
+
+**Main Address:** 1925 Vermont Avenue Northwest, Washington, DC 20001
+
+**Operating Hours (from source):**
+- **Sunday:** 10:00 AM-6:00 PM [ff436f]
+- **Monday:** 10:00 AM-6:00 PM [942cba]
+- **Tuesday:** 10:00 AM-6:00 PM [3fa55c]
+- **Wednesday:** 10:00 AM-6:00 PM [56d1cd]
+- **Thursday:** 10:00 AM-6:00 PM [ccffe9]
+- **Friday:** 10:00 AM-6:00 PM [d1ffbd]
+- **Saturday:** 10:00 AM-6:00 PM [23c4af]
+
+**Visitor Center (from source):**
+- **Name:** Martin Luther King, Jr. Memorial Bookstore [2683ca]
+- **Address:** 121 West Basin Dr SW, Washington, DC, DC 20004 [fa0882]

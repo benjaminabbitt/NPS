@@ -6,7 +6,7 @@
 
 ## Cancellation Stamps
 
-- [ ] Chamizal National Memorial Visitor Center (800 South San Marcial Street, El Paso, TX 79905 (31.7679289, -106.4538777)) (31.7679289, -106.4538777)
+- [ ] Chamizal National Memorial Visitor Center (800 South San Marcial Street, El Paso, TX 79905) (31.7679289, -106.4538777)
 
 ## Key Activities
 
@@ -27,6 +27,15 @@
 - [ ] Franklin Mountains State Park (varies, 10 miles north)
 - [ ] Scenic Drive Overlook (15-30 minutes, 5 miles northeast)
 - [ ] Hueco Tanks State Park & Historic Site (2-3 hours for guided tour, 32 miles northeast/50 minutes)
+
+
+## Amber's Data (from spreadsheet)
+
+**Visitor Center:** Chamizal National Memorial Cultural Center
+
+**Address:** 800 S San Marcial St, El Paso, Texas 79905 (31.7679289, -106.4538777)
+
+**Hours:** Hours not available
 
 ## Review / Personal Notes
 

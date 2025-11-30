@@ -23,10 +23,3 @@ node_modules/
 
 # OS specific
 .DS_Store
-
-# Generated results and outputs
-results/
-geojson/
-optimization_iterations/
-*.yaml
-!pyproject.toml

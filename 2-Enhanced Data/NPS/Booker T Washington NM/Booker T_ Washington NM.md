@@ -2,7 +2,7 @@
 
 ## Cancellation Stamp Locations:
 
-- [ ] Booker T. Washington NM Visitor Center (12130 Booker T. Washington Highway, Hardy, Virginia, 24101 (37.1194365, -79.7316794); Closed)
+- [ ] Booker T. Washington NM Visitor Center (12130 Booker T. Washington Highway, Hardy, Virginia, 24101; Closed)
 
 ## Key Activities:
 

@@ -6,47 +6,35 @@
 
 ## Cancellation Stamps
 
-- [x] Dwight D. Eisenhower Memorial Bookstore (540 Independence Ave SW (38.887486, -77.0192369))
-- [ ] Washington Monument Lodge (15th Street NW (-26.8951539, 26.6085184))
+- [x] Dwight D. Eisenhower Memorial Bookstore (540 Independence Ave SW) [db2bf5]
+- [ ] Washington Monument Lodge (15th Street NW) [e26e18]
 
 ## Key Activities
 
-- [ ] Memorial Self-Guided Tour (20-30 minutes)
-- [ ] Memorial Grove Walk (10-15 minutes)
+- [ ] Memorial Self-Guided Tour (20-30 minutes) [7d222b]
+- [ ] Memorial Grove Walk (10-15 minutes) [9267ed]
 
 ## Hidden Gems
 
-- [ ] Fountain Safety System Observation (5 minutes)
-- [ ] Bartholdi Fountain Connection (10-15 minutes)
+- [ ] Fountain Safety System Observation (5 minutes) [11a853]
+- [ ] Bartholdi Fountain Connection (10-15 minutes) [c02daa]
 
 ## Also Nearby
 
-- [ ] United States Botanic Garden (2 hours, across the street)
-- [ ] U.S. Capitol Visitor Center Tours (1 hour, walking distance)
-- [ ] Library of Congress (1.5-2 hours, 5 minutes walk)
-- [ ] National Museum of the American Indian (2-3 hours, on National Mall)
-
+- [ ] United States Botanic Garden (2 hours, across the street) [145938]
+- [ ] U.S. Capitol Visitor Center Tours (1 hour, walking distance) [da4798]
+- [ ] Library of Congress (1.5-2 hours, 5 minutes walk) [ceb740]
+- [ ] National Museum of the American Indian (2-3 hours, on National Mall) [d3faff]
 
 
 
 
 ## Amber's Data (from spreadsheet)
 
-*This section preserves the original data from the source spreadsheet.*
+**Visitor Center:** Dwight D. Eisenhower Memorial Bookstore
 
-**Main Address:** 150 Washington Avenue, SW, Washington, DC 20001
+**Address:** 540 Independence Ave SW, Washington DC, DC 20024 (38.887486, -77.0192369)
 
-**Operating Hours (from source):**
-- **Sunday:** 10:00 AM-5:00 PM
-- **Monday:** 10:00 AM-5:00 PM
-- **Tuesday:** 10:00 AM-5:00 PM
-- **Wednesday:** 10:00 AM-5:00 PM
-- **Thursday:** 10:00 AM-5:00 PM
-- **Friday:** 10:00 AM-5:00 PM
-- **Saturday:** 10:00 AM-5:00 PM
-
-**Visitor Center (from source):**
-- **Name:** Dwight D. Eisenhower Memorial Bookstore
-- **Address:** 540 Independence Ave SW, Washington DC, DC 20024
+**Hours:** Hours not available
 
 ## Review / Personal Notes

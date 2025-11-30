@@ -1,51 +1,33 @@
-# George Rogers Clark NHP (National Historical Park)
+# George Rogers Clark NHP
 
-## Cancellation Stamp Locations
+## Cancellation Stamp Locations:
 
-- **George Rogers Clark National Historical Park Visitor Center** - 401 S 2nd St, Vincennes, IN 47591 (38.6773, -87.5286); Open daily 9:00 AM - 5:00 PM (ET), closed on major federal holidays except Memorial Day, Juneteenth, Independence Day, and Labor Day; Phone: 812-882-1776 ext. 2
+- [ ] George Rogers Clark NHP Visitor Center (401 S 2nd St, Vincennes, Indiana, 47591; 9:00 AM-5:00 PM)
 
-**Note:** The memorial closes at 4:45 PM. Call 812-882-1776 ext. 2 to confirm current stamp locations before visiting. [Source: [NPS Operating Hours & Seasons](https://www.nps.gov/gero/planyourvisit/hours.htm), [NPS Visitor Centers](https://www.nps.gov/gero/planyourvisit/visitorcenters.htm)]
+## Key Activities:
 
-## Key Activities
+- [ ] Visitor Center Experience (1-2 hours) - Explore exhibits and learn about George Rogers Clark NHP; 401 S 2nd St, Vincennes, Indiana, 47591; 9:00 AM-5:00 PM [[Source](https://www.nps.gov/grc)]
 
-- **Park Film "Long Knives"** (30 minutes) - Watch this on-demand film about George Rogers Clark, his historic march to Vincennes, and the attack on Fort Sackville; George Rogers Clark National Historical Park Visitor Center, 401 S 2nd St, Vincennes, IN 47591 (38.6777222, -87.5354039); Daily 9:00 AM - 5:00 PM (ET); 812-882-1776 ext. 2 [Source: [NPS Ranger Programs](https://www.nps.gov/gero/planyourvisit/index.htm), [Park Ranger John](https://www.parkrangerjohn.com/george-rogers-clark-national-historical-park/)]
+## Hidden Gems:
 
-- **George Rogers Clark Memorial Tour** (30 minutes) - Explore the largest national monument outside Washington, D.C., featuring a massive circular rotunda with 16 Doric columns, a central statue of George Rogers Clark by Hermon MacNeil, and seven stunning 28-foot tall murals by Ezra Winter depicting Clark's victory over the British; 401 S 2nd St, Vincennes, IN 47591 (38.6777222, -87.5354039); Memorial opens when requested at Visitor Center, closes 15 minutes before Visitor Center (4:45 PM); 812-882-1776 ext. 2 [Source: [TripAdvisor Reviews](https://www.tripadvisor.com/Attraction_Review-g60828-d282306-Reviews-George_Rogers_Clark_National_Historical_Park-Vincennes_Indiana.html), [NPS Memorial](https://www.nps.gov/gero/learn/historyculture/memorial.htm), [NPS Ezra Winter](https://www.nps.gov/people/ezra-winter.htm)]
+## Also Nearby:
 
-- **Mural Audio Tour** (6 minutes) - Listen to the stories behind the seven murals with an audio recording that brings the artwork to life; Inside the George Rogers Clark Memorial, 401 S 2nd St, Vincennes, IN 47591 (38.6777222, -87.5354039); During memorial hours; 812-882-1776 ext. 2 [Source: [Vincennes University Virtual Tour](https://www.vinu.edu/news/travel-virtually-courtesy-of-vincennes-university-students.html)]
 
-- **Visitor Center Exhibits** (15-20 minutes) - Explore exhibits about Fort Sackville, Clark's life, and the Northwest Territory, along with the museum gift shop; 401 S 2nd St, Vincennes, IN 47591 (38.6777222, -87.5354039); Daily 9:00 AM - 5:00 PM (ET); 812-882-1776 ext. 2 [Source: [NPS Plan Your Visit](https://www.nps.gov/gero/planyourvisit/index.htm)]
+## Amber's Data
 
-- **Francis Vigo Statue Walk** (15 minutes) - Walk down to the Wabash River to view the 10-ton granite statue of Francis Vigo by sculptor John Angel, erected in 1936, honoring the Italian-American merchant who provided critical assistance to George Rogers Clark; Located on park grounds near the riverfront, 401 S 2nd St, Vincennes, IN 47591 (38.6777222, -87.5354039); Accessible during daylight hours; 812-882-1776 ext. 2 [Source: [TripAdvisor Reviews](https://www.tripadvisor.com/Attraction_Review-g60828-d282306-Reviews-George_Rogers_Clark_National_Historical_Park-Vincennes_Indiana.html), [NPS Francis Vigo](https://www.nps.gov/people/francis-vigo.htm), [DocTeach](https://www.docsteach.org/documents/document/francis-vigo-statue-vincennes-in)]
+*This section preserves the original data from the source spreadsheet.*
 
-- **Junior Ranger Program** (30-60 minutes) - Complete the Junior Ranger activity booklet while exploring the park, learning about the Revolutionary War in the West and earning a badge; Pick up booklet at Visitor Center, 401 S 2nd St, Vincennes, IN 47591 (38.6777222, -87.5354039); Daily 9:00 AM - 5:00 PM (ET); 812-882-1776 ext. 2 [Source: [Ranger Trek Junior Ranger Guide](https://rangertrek.us/ranger-treks-guide-to-the-george-rogers-clark-national-historical-park-junior-ranger-program/)]
+**Main Address:** 401 S 2nd St, Vincennes, Indiana 47591
 
-- **Living History Presentations** (15-20 minutes) - Experience live presentations by rangers or park volunteers in period dress of the 18th century, bringing history to life; George Rogers Clark National Historical Park, 401 S 2nd St, Vincennes, IN 47591 (38.6777222, -87.5354039); Check park website for schedule; 812-882-1776 ext. 2 [Source: [NPS Programs](https://www.nps.gov/gero/planyourvisit/index.htm)]
+**Operating Hours (from source):**
+- **Sunday:** 9:00 AM-5:00 PM [ff436f]
+- **Monday:** 9:00 AM-5:00 PM [942cba]
+- **Tuesday:** 9:00 AM-5:00 PM [3fa55c]
+- **Wednesday:** 9:00 AM-5:00 PM [56d1cd]
+- **Thursday:** 9:00 AM-5:00 PM [ccffe9]
+- **Friday:** 9:00 AM-5:00 PM [d1ffbd]
+- **Saturday:** 9:00 AM-5:00 PM [23c4af]
 
-## Hidden Gems
-
-- **DAR Memorial Marker** (10 minutes) - Visit the original 1905 Daughters of the American Revolution stone marker that marks what was believed to be the location of Fort Sackville, preserving the memory of Clark's important victory; Located on park grounds, 401 S 2nd St, Vincennes, IN 47591 (38.6777222, -87.5354039); Accessible during daylight hours; 812-882-1776 ext. 2 [Source: [Wikipedia George Rogers Clark NHP](https://en.wikipedia.org/wiki/George_Rogers_Clark_National_Historical_Park)]
-
-- **Lincoln Memorial Bridge Pylons** (15-20 minutes) - View the spectacular granite pylons featuring full-length reliefs of Native American chiefs Tecumseh and The Prophet by French artist Raoul Josset on this 1931 reinforced concrete deck arch bridge marking where Abraham Lincoln crossed the Wabash River to Illinois in 1830; US Route 50 Business over Wabash River, adjacent to George Rogers Clark Memorial; Accessible 24/7 [Source: [Visit Vincennes Lincoln Memorial Bridge](https://visitvincennes.org/attractions/lincoln-memorial-bridge/), [Historic Bridges](https://historicbridges.org/bridges/browser/?bridgebrowser=indiana%2Fvincennes%2F)]
-
-- **Virtual StoryMap Tour** (20-30 minutes) - Experience the park through 360-degree videography, GPS data, and historical information created by Vincennes University students, including panoramic views of the memorial's breathtaking murals; Access via devices available on-site or online at Visitor Center, 401 S 2nd St, Vincennes, IN 47591 (38.6777222, -87.5354039); Daily 9:00 AM - 5:00 PM (ET); 812-882-1776 ext. 2 [Source: [Vincennes University Virtual Tour](https://www.vinu.edu/news/travel-virtually-courtesy-of-vincennes-university-students.html)]
-
-- **Spirit of Vincennes Rendezvous** (varies, full day event) - Experience over 400 living history demonstrators camping at or near the park during Memorial Day weekend, with demonstrations and talks allowing visitors to step back to the Indiana frontier of the late 18th century; George Rogers Clark National Historical Park, 401 S 2nd St, Vincennes, IN 47591 (38.6777222, -87.5354039); Memorial Day weekend annually; 812-882-1776 ext. 2 [Source: [NPS National Park Getaway](https://www.nps.gov/articles/getaway-gero.htm/index.htm)]
-
-## Also Nearby
-
-- **Grouseland (William Henry Harrison Mansion)** (1 hour, 0.4 miles) - Tour this National Historic Landmark, the two-story red brick Federal-style home built 1802-1804 for William Henry Harrison, first governor of Indiana Territory, featuring impressive collections of art, furniture, and Harrison family memorabilia; 3 W Scott St, Vincennes, IN 47591 (38.6855877, -87.5258825); Tuesday - Saturday 12:00 PM - 4:00 PM (ET); Adults $5, Seniors $4, Children/Students $3; 812-882-2096 [Source: [Grouseland Official Site](https://grouseland.org/), [Visit Vincennes Grouseland](https://visitvincennes.org/attractions/grouseland-president-william-henry-harrison-mansion/)]
-
-- **Indiana Military Museum** (2-3 hours, 0.8 miles) - Explore one of the most comprehensive military collections in the Midwest, with indoor and outdoor exhibits of aircraft, vehicles, artillery, uniforms, and equipment spanning the Civil War through current military engagements; 715 S 6th St, Vincennes, IN 47591 (38.6737439, -87.5377668); March 1-Dec 30: Daily 10:00 AM - 4:00 PM (ET), Jan 1-Feb 28: Tuesday-Sunday 11:00 AM - 4:00 PM (ET); Adults $9, Veterans/Active Duty/Seniors $8, Children 5-17 $5, WWII/Korean War Veterans FREE; 812-882-1941 [Source: [Indiana Military Museum](https://www.indianamilitarymuseum.org/visit), [Visit Vincennes Military Museum](https://visitvincennes.org/attractions/indiana-military-museum/)]
-
-- **Red Skelton Museum of American Comedy** (1-1.5 hours, 2 miles) - Experience this state-of-the-art interactive museum honoring Vincennes' favorite son, comedian Red Skelton, with 3,500 square feet of exhibits highlighting his entertainment career, personal life, and creative skills; 20 Red Skelton Blvd, Vincennes, IN 47591; Summer (June-Aug): Monday-Saturday 10:00 AM - 5:00 PM, Sunday Noon - 5:00 PM; Winter: Tuesday-Saturday 10:00 AM - 5:00 PM, Sunday Noon - 5:00 PM (closed Mondays); Adults $12, Military/Seniors 60+ $11, Students K-College $6, Children under 5 FREE, First Sunday of month FREE; 812-888-4184 [Source: [Red Skelton Museum](https://www.redskeltonmuseum.org/), [Visit Vincennes Red Skelton](https://visitvincennes.org/historic/red-skelton-museum-of-american-comedy/)]
-
-- **Old Cathedral Basilica of St. Francis Xavier** (30-45 minutes, 0.1 miles) - Visit Indiana's oldest Catholic parish (established around 1734) and this beautiful Greek Revival-style basilica built in 1826, where four bishops are buried in the crypt and over 4,000 early citizens rest in the adjoining cemetery; 205 Church St, Vincennes, IN 47591 (38.6788995, -87.5342239); Mass times: Sunday 8:00 AM (Spanish), 5:30 PM (English); Tuesday 8:10 AM; Wednesday 6:00 PM; Thursday 8:00 AM (Spanish); Friday 12:00 PM; Open for tours, call ahead; 812-882-5638 [Source: [St. Francis Xavier Official Site](https://stfrancisxaviervincennes.com/), [Visit Vincennes Old Cathedral](https://visitvincennes.org/attractions/old-cathedral-basilica-of-st-francis-xavier/)]
-
-- **Wabash Riverwalk Trail** (1 hour, starts at 0.5 miles from memorial) - Enjoy this easy 3-mile out-and-back concrete trail along the scenic Wabash River, starting at historic Kimmell Park (a 1938 WPA project with limestone shelterhouse) and ending at George Rogers Clark Memorial; Trail starts at Kimmell Park, 2014 Oliphant Dr, Vincennes, IN 47591 (38.6945885, -87.5185764); Open year-round, accessible during daylight hours; Free [Source: [AllTrails Wabash Riverwalk](https://www.alltrails.com/trail/us/indiana/wabash-riverwalk-trail), [Kimmell Park Wikipedia](https://en.wikipedia.org/wiki/Kimmell_Park)]
-
-- **Ouabache Trails Park** (2-3 hours for hiking, 5 miles) - Explore hiking trails leading to the Wabash River in this Knox County park offering outdoor activities including wildlife viewing, fishing, and nature walks with monthly themed Second Sunday Nature Walks; 3500 N Lower Fort Knox Rd, Vincennes, IN 47591; Office hours Monday-Friday 8:00 AM - 4:00 PM (ET), trails open year-round; Free; 812-882-4316 [Source: [TripAdvisor Ouabache Trails](https://www.tripadvisor.com/Attraction_Review-g60828-d2226961-Reviews-Ouabache_Trails_Park-Vincennes_Indiana.html), [AllTrails Ouabache](https://www.alltrails.com/trail/us/indiana/ouabache-trails)]
-
----
-
-**Total Recommended Time:** 2 hours for a complete visit (30-minute film + 30-minute memorial tour + 15-20 minutes visitor center exhibits + 15 minutes Francis Vigo statue walk + additional time for grounds exploration). Visitors interested in a more leisurely experience with all programs and activities may wish to allocate 2-3 hours. [Source: [TripAdvisor Reviews](https://www.tripadvisor.com/Attraction_Review-g60828-d282306-Reviews-George_Rogers_Clark_National_Historical_Park-Vincennes_Indiana.html), [Park Ranger John](https://www.parkrangerjohn.com/george-rogers-clark-national-historical-park/)]
+**Visitor Center (from source):**
+- **Name:** George Rogers Clark National Historical Park Visitor Center [2683ca]
+- **Address:** 425 S 2nd St [fa0882]

@@ -14,109 +14,6 @@
 
 ## To Do
 
-# Geocoding Tasks
-
-## Amusement Parks - Geocode Addresses
-- [x] Geocode Adventureland Iowa
-- [x] Geocode Busch Gardens Tampa
-- [x] Geocode Busch Gardens Williamsburg
-- [x] Geocode California's Great America
-- [x] Geocode Carowinds
-- [x] Geocode Cedar Point
-- [x] Geocode Dollywood
-- [x] Geocode Dorney Park
-- [x] Geocode Fun Spot America Atlanta
-- [x] Geocode Hersheypark
-- [x] Geocode Holiday World
-- [x] Geocode Kemah Boardwalk
-- [x] Geocode Kennywood
-- [x] Geocode Kentucky Kingdom
-- [x] Geocode Kings Dominion
-- [x] Geocode Kings Island
-- [x] Geocode Knoebels
-- [x] Geocode Knott's Berry Farm
-- [x] Geocode Lagoon
-- [x] Geocode Lake Compounce
-- [x] Geocode Lost Island Theme Park
-- [x] Geocode Michigan's Adventure
-- [x] Geocode Mt. Olympus Water & Theme Park
-- [x] Geocode SeaWorld Orlando
-- [x] Geocode SeaWorld San Antonio
-- [x] Geocode Silver Dollar City
-- [x] Geocode Silverwood Theme Park
-- [x] Geocode Six Flags Darien Lake
-- [x] Geocode Six Flags Discovery Kingdom
-- [x] Geocode Six Flags Fiesta Texas
-- [x] Geocode Six Flags Great Adventure
-- [x] Geocode Six Flags Great America
-- [x] Geocode Six Flags Magic Mountain
-- [x] Geocode Six Flags New England
-- [x] Geocode Six Flags Over Georgia
-- [x] Geocode Six Flags Over Texas
-- [x] Geocode Six Flags St Louis
-- [x] Geocode Universal Epic Universe
-- [x] Geocode Universal Islands of Adventure
-- [x] Geocode Universal Studios Florida
-- [x] Geocode Valleyfair!
-- [x] Geocode Waldameer
-- [x] Geocode Walt Disney World - Disney's Animal Kingdom
-- [x] Geocode Walt Disney World - Epcot
-- [x] Geocode Walt Disney World - Magic Kingdom
-- [x] Geocode Worlds of Fun
-
-## World's Largest - Geocode Addresses (Priority Items)
-- [x] Geocode Gateway Arch, Missouri
-- [x] Geocode Washington Monument, DC
-- [x] Geocode Statue of Liberty, New York
-- [x] Geocode Mall of America, Minnesota
-- [x] Geocode Casey Illinois - Rocking Chair
-- [x] Geocode Casey Illinois - Mailbox
-- [x] Geocode Casey Illinois - Golf Tee
-- [x] Geocode Casey Illinois - Pitchfork
-- [x] Geocode Casey Illinois - Wind Chime
-- [x] Geocode Casey Illinois - Barber Pole
-- [x] Geocode Casey Illinois - Wooden Shoes
-- [x] Geocode Casey Illinois - Teeter-Totter
-- [x] Geocode Casey Illinois - Golf Club
-- [x] Geocode Casey Illinois - Truck Key
-- [x] Geocode Casey Illinois - Gavel (Marshall, IL)
-- [x] Geocode Cawker City Ball of Twine, Kansas
-- [x] Geocode Darwin Ball of Twine, Minnesota
-- [x] Geocode Catsup Bottle, Collinsville Illinois
-- [x] Geocode Salem Sue Holstein Cow, North Dakota
-- [x] Geocode Paul Bunyan & Babe, Bemidji Minnesota
-- [x] Geocode Cabazon Dinosaurs, California
-- [x] Geocode Lucy the Elephant, New Jersey
-- [x] Geocode Cowboy Boots, San Antonio Texas
-- [x] Geocode Baseball Bat, Louisville Kentucky
-- [x] Geocode Hockey Stick, Eveleth Minnesota
-- [x] Geocode Carhenge, Alliance Nebraska
-- [x] Geocode Enchanted Highway, Regent North Dakota
-- [x] Geocode Uniroyal Giant Tire, Michigan
-- [x] Geocode Randy's Donuts, Inglewood California
-- [x] Geocode Thermometer, Baker California
-
-## NPS Sites - Verify/Geocode Remaining Addresses
-- [ ] Verify geocoding for all NPS sites not yet processed
-- [x] Geocode NPS sites missing coordinates in 2-Enhanced Data
-
-# Dallas Area Sites (within 500 miles)
-- [x] Research and complete Chickasaw NRA
-- [x] Research and complete Fort Davis NHS
-- [x] Research and complete Fort Larned NHS
-- [x] Research and complete Fort Scott NHS
-- [x] Research and complete Fort Smith NHS
-- [x] Research and complete Gauley River NRA
-- [x] Research and complete George Washington Carver NM
-- [x] Research and complete Harry S Truman NHS
-- [x] Research and complete Lake Meredith NRA
-- [x] Research and complete Little Rock Central High School NHS
-- [x] Research and complete Oklahoma City N MEM
-- [x] Research and complete Padre Island NS
-- [x] Research and complete Pea Ridge NMP
-- [x] Research and complete San Antonio Missions NHP
-
-# All Other Sites
 - [ ] Research and complete Carter G_ Woodson Home NHS
 - [ ] Research and complete Casa Grande Ruins NM
 - [ ] Research and complete Castillo de San Marcos NM
@@ -133,6 +30,7 @@
 - [ ] Research and complete Chattahoochee River NRA
 - [ ] Research and complete Chesapeake _ Ohio Canal NHP
 - [ ] Research and complete Chickamauga _ Chattanooga NMP
+- [ ] Research and complete Chickasaw NRA
 - [ ] Research and complete Chiricahua NM
 - [ ] Research and complete City of Rocks N RES
 - [ ] Research and complete Civil War Defenses of Washington
@@ -149,7 +47,7 @@
 - [ ] Research and complete Cumberland Gap NHP
 - [ ] Research and complete Cumberland Island NS
 - [ ] Research and complete Curecanti NRA
-- [x] Research and complete Cuyahoga Valley NP
+- [ ] Research and complete Cuyahoga Valley NP
 - [ ] Research and complete César E_ Chávez National Monument
 - [ ] Research and complete Dayton Aviation Heritage NHP
 - [ ] Research and complete De Soto N MEM
@@ -181,11 +79,13 @@
 - [ ] Research and complete Ford_s Theatre NHS
 - [ ] Research and complete Fort Bowie NHS
 - [ ] Research and complete Fort Caroline N MEM
-- [x] Research and complete Fort Donelson NB
+- [ ] Research and complete Fort Davis NHS
+- [ ] Research and complete Fort Donelson NB
 - [ ] Research and complete Fort DuPont Park
 - [ ] Research and complete Fort Foote Park
 - [ ] Research and complete Fort Frederica NM
 - [ ] Research and complete Fort Laramie NHS
+- [ ] Research and complete Fort Larned NHS
 - [ ] Research and complete Fort Matanzas NM
 - [ ] Research and complete Fort McHenry NM _ HS
 - [ ] Research and complete Fort Monroe NM
@@ -193,6 +93,8 @@
 - [ ] Research and complete Fort Point NHS
 - [ ] Research and complete Fort Pulaski NM
 - [ ] Research and complete Fort Raleigh NHS
+- [ ] Research and complete Fort Scott NHS
+- [ ] Research and complete Fort Smith NHS
 - [ ] Research and complete Fort Stanwix NM
 - [ ] Research and complete Fort Sumter _ Fort Moultrie NHP
 - [ ] Research and complete Fort Union NM
@@ -209,11 +111,13 @@
 - [ ] Research and complete GC - Parashant National Monument
 - [ ] Research and complete Gates of the Arctic NP _ PRES
 - [ ] Research and complete Gateway NRA
+- [ ] Research and complete Gauley River NRA
 - [ ] Research and complete General Grant N MEM
 - [ ] Research and complete George Gordon Meade Memorial
 - [ ] Research and complete George Mason MEM
-- [x] Research and complete George Rogers Clark NHP
+- [ ] Research and complete George Rogers Clark NHP
 - [ ] Research and complete George Washington Birthplace NM
+- [ ] Research and complete George Washington Carver NM
 - [ ] Research and complete George Washington MEM PKWY
 - [ ] Research and complete Gettysburg NMP
 - [ ] Research and complete Gila Cliff Dwellings NM
@@ -246,8 +150,9 @@
 - [ ] Research and complete Harpers Ferry NHP
 - [ ] Research and complete Harriet Tubman National Historical Park
 - [ ] Research and complete Harriet Tubman Underground Railroad NHP
+- [ ] Research and complete Harry S Truman NHS
 - [ ] Research and complete Hawaii Volcanoes NP
-- [x] Research and complete Herbert Hoover NHS
+- [ ] Research and complete Herbert Hoover NHS
 - [ ] Research and complete Historic Jamestowne
 - [ ] Research and complete Hohokam Pima NM
 - [ ] Research and complete Home of Franklin D_ Roosevelt NHS
@@ -261,7 +166,7 @@
 - [ ] Research and complete Hubbell Trading Post NHS
 - [ ] Research and complete Ice Age National Scenic Trail
 - [ ] Research and complete Independence NHP
-- [x] Research and complete Indiana Dunes NP
+- [ ] Research and complete Indiana Dunes NP
 - [ ] Research and complete Inupiat Heritage Center
 - [ ] Research and complete Isle Royale NP
 - [ ] Research and complete James A_ Garfield NHS
@@ -292,16 +197,18 @@
 - [ ] Research and complete Lake Chelan NRA
 - [ ] Research and complete Lake Clark NP _ PRES
 - [ ] Research and complete Lake Mead NRA
+- [ ] Research and complete Lake Meredith NRA
 - [ ] Research and complete Lake Roosevelt NRA
 - [ ] Research and complete Lassen Volcanic NP
 - [ ] Research and complete Lava Beds NM
 - [ ] Research and complete Lewis _ Clark NHP
 - [ ] Research and complete Lewis _ Clark Nat_l _ State Historical Parks
 - [ ] Research and complete Lincoln Boyhood N MEM
-- [x] Research and complete Lincoln Home NHS
+- [ ] Research and complete Lincoln Home NHS
 - [ ] Research and complete Lincoln MEM
 - [ ] Research and complete Little Bighorn Battlefield
 - [ ] Research and complete Little River Canyon N PRES
+- [ ] Research and complete Little Rock Central High School NHS
 - [ ] Research and complete Longfellow House Washington_s Headquarters NHS
 - [ ] Research and complete Lowell NHP
 - [ ] Research and complete Lower East Side Tenement Museum NHS
@@ -309,7 +216,7 @@
 - [ ] Research and complete Lyndon B_ Johnson NHP
 - [ ] Research and complete Maggie L_ Walker NHS
 - [ ] Research and complete Maine Acadian Culture
-- [x] Research and complete Mammoth Cave NP
+- [ ] Research and complete Mammoth Cave NP
 - [ ] Research and complete Manassas NBP
 - [ ] Research and complete Manhattan Project NHP
 - [ ] Research and complete Manzanar NHS
@@ -347,12 +254,15 @@
 - [ ] Research and complete North Cascades NP
 - [ ] Research and complete Obed WSR
 - [ ] Research and complete Ocmulgee NHP
+- [ ] Research and complete Oklahoma City N MEM
 - [ ] Research and complete Olympic NP
 - [ ] Research and complete Oregon Caves NM _ PRES
 - [ ] Research and complete Organ Pipe Cactus NM
 - [ ] Research and complete Oxon Cover Park _ Oxon Hill Farm
+- [ ] Research and complete Padre Island NS
 - [ ] Research and complete Palo Alto Battlefield NHP
 - [ ] Research and complete Paterson Great Falls NHP
+- [ ] Research and complete Pea Ridge NMP
 - [ ] Research and complete Pearl Harbor N MEM
 - [ ] Research and complete Pecos NHP
 - [ ] Research and complete Pennsylvania Avenue NHS
@@ -394,6 +304,7 @@
 - [ ] Research and complete Saint-Gaudens NHS
 - [ ] Research and complete Salem Maritime NHP
 - [ ] Research and complete Salinas Pueblo Missions NM
+- [ ] Research and complete San Antonio Missions NHP
 - [ ] Research and complete San Francisco Maritime NHP
 - [ ] Research and complete San Juan Island NHP
 - [ ] Research and complete Sand Creek Massacre NHS
@@ -403,7 +314,7 @@
 - [ ] Research and complete Scotts Bluff NM
 - [ ] Research and complete Sequoia  NP
 - [ ] Research and complete Shenandoah NP
-- [x] Research and complete Shiloh NMP
+- [ ] Research and complete Shiloh NMP
 - [ ] Research and complete Signers of the Dec of Ind MEM
 - [ ] Research and complete Sitka NHP
 - [ ] Research and complete Sleeping Bear Dunes NL
@@ -412,7 +323,7 @@
 - [ ] Research and complete St_ Croix NSR
 - [ ] Research and complete Statue of Liberty NM
 - [ ] Research and complete Steamtown NHS
-- [x] Research and complete Stones River NB
+- [ ] Research and complete Stones River NB
 - [ ] Research and complete Stonewall NM
 - [ ] Research and complete Sunset Crater Volcano NM
 - [ ] Research and complete Tallgrass Prairie N PRES
@@ -588,10 +499,6 @@
 
 ## Done
 
-- [x] Research and complete Gateway Arch NP
-- [x] Research and complete Ozark NSR
-- [x] Research and complete Ste. Geneviève NHP
-- [x] Research and complete Wilson's Creek NB
 - [x] Research and complete Abraham Lincoln Birthplace NHP
 - [x] Research and complete Acadia NP
 - [x] Research and complete Alcatraz Island

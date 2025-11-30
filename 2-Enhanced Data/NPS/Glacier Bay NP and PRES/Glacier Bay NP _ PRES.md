@@ -2,7 +2,7 @@
 
 ## Cancellation Stamp Locations:
 
-- [ ] Glacier Bay NP & PRES Visitor Center (1 Park Road, Gustavus, Alaska, 99826 (58.451265, -135.8299977); 11:00 AM–5:30 PM)
+- [ ] Glacier Bay NP & PRES Visitor Center (1 Park Road, Gustavus, Alaska, 99826; 11:00 AM–5:30 PM)
 
 ## Key Activities:
 

@@ -1,23 +1,21 @@
 # Six Flags Great America
 
-**Address:** 1 Great America Pkwy, Gurnee, IL 60031 [42.3706, -87.9361]
+**Location:** United States
 
-## Park Information
+## Address
 
-*Research needed: Operating hours, admission prices, parking, season dates*
+1 Great America Pkwy, Gurnee, IL 60031
+## Operating Hours
 
-## Notable Coasters
+Varies by season - check park website before visiting
 
-*See user-data.md for complete coaster checklist*
+## Operating Seasons
 
-## Planning Tips
+Typically April-October, with weekend operations in early/late season and Halloween events
 
-*Research needed: Best visiting times, fast pass options, food recommendations*
+## Coasters at This Park
 
-## Nearby Attractions
 
-*Research needed: Hotels, restaurants, other activities*
-
----
-
-**Last Updated:** 2025-11-26
+- [Goliath](Goliath.md)
+- [Maxx Force](Maxx Force.md)
+- [Raging Bull](Raging Bull.md)

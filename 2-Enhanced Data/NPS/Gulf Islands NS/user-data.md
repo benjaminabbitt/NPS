@@ -9,20 +9,9 @@ No activities found. See [Gulf Islands NS.md](Gulf Islands NS.md) for details.
 
 ## Amber's Data (from spreadsheet)
 
-*This section preserves the original data from the source spreadsheet.*
+**Visitor Center:** William M. Colmer Visitor Center
 
-**Main Address:** 3500 Park Rd, Ocean Springs 39564
+**Address:** 3500 Park Rd, Ocean Springs, Mississippi 39564 (30.3988806, -88.7865166)
 
-**Operating Hours (from source):**
-- **Sunday:** 9:00 AM-4:00 PM
-- **Monday:** Closed
-- **Tuesday:** Closed
-- **Wednesday:** 9:00 AM-4:00 PM
-- **Thursday:** 9:00 AM-4:00 PM
-- **Friday:** 9:00 AM-4:00 PM
-- **Saturday:** 9:00 AM-4:00 PM
-
-**Visitor Center (from source):**
-- **Name:** William M. Colmer Visitor Center
-- **Address:** 3500 Park Rd
+**Hours:** Hours not available
 

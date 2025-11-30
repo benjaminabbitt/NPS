@@ -6,49 +6,38 @@
 
 ## Cancellation Stamps
 
-- [x] Visitor Center (101 N. College St., Greeneville, TN 37743 (36.1629401, -82.8295399)) (36.1629401, -82.8295399)
+- [x] Visitor Center (101 N. College St., Greeneville, TN 37743) (36.1629401, -82.8295399)
 
 ## Key Activities
 
-- [ ] Visitor Center & Museum Experience (30 minutes)
-- [ ] Andrew Johnson Homestead Guided Tour (45 minutes)
-- [ ] Early Johnson Home Visit (15 minutes)
-- [ ] Andrew Johnson National Cemetery (15-30 minutes)
+- [ ] Visitor Center & Museum Experience (30 minutes) [a124c7]
+- [ ] Andrew Johnson Homestead Guided Tour (45 minutes) [0dc5f5]
+- [ ] Early Johnson Home Visit (15 minutes) [e9086f]
+- [ ] Andrew Johnson National Cemetery (15-30 minutes) [6b4829]
 
 ## Hidden Gems
 
-- [ ] Cemetery Walking Tour (90 minutes)
-- [ ] Junior Ranger Program (30-60 minutes)
-- [ ] Cell Phone Audio Tours (variable)
+- [ ] Cemetery Walking Tour (90 minutes) [4a43d6]
+- [ ] Junior Ranger Program (30-60 minutes) [a30783]
+- [ ] Cell Phone Audio Tours (variable) [90e20a]
 
 ## Also Nearby
 
-- [ ] David Crockett Birthplace State Park (varies, 15-20 min drive, currently closed)
-- [ ] Greene County History Museum (1-3 hours)
-- [ ] City Garage Car Museum (1-2 hours)
-- [ ] Historic Jonesborough (2-4 hours, 35-45 min drive)
-
+- [ ] David Crockett Birthplace State Park (varies, 15-20 min drive, currently closed) [c718c4]
+- [ ] Greene County History Museum (1-3 hours) [3b2b9f]
+- [ ] City Garage Car Museum (1-2 hours) [08d09b]
+- [ ] Historic Jonesborough (2-4 hours, 35-45 min drive) [67bbce]
 
 
 
 
 ## Amber's Data (from spreadsheet)
 
-*This section preserves the original data from the source spreadsheet.*
+**Visitor Center:** Andrew Johnson NHS
 
-**Main Address:** 121 Monument Ave., Greeneville, Tennessee 37743 (36.1569581, -82.8369315)
+**Address:** 101 N. College Street, Greeneville, Tennessee 37743 (36.1629401, -82.8295399)
 
-**Operating Hours (from source):**
-- **Sunday:** 9:00 AM-4:00 PM
-- **Monday:** 9:00 AM-4:00 PM
-- **Tuesday:** 9:00 AM-4:00 PM
-- **Wednesday:** 9:00 AM-4:00 PM
-- **Thursday:** 9:00 AM-4:00 PM
-- **Friday:** 9:00 AM-4:00 PM
-- **Saturday:** 9:00 AM-4:00 PM
-
-**Visitor Center (from source):**
-- **Name:** Andrew Johnson NHS
-- **Address:** 101 N. College Street, Greeneville, Tennessee 37743 (36.1629401, -82.8295399)
+**Hours:** Hours not available
 
 ## Review / Personal Notes
+

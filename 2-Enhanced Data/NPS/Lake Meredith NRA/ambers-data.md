@@ -1,0 +1,7 @@
+# Amber's Data
+
+**Visitor Center:** Lake Meredith National Recreation Area Headquarters
+
+**Address:** 419 E Broadway St, Fritch, Texas 79036 (35.6432673, -101.5862787)
+
+**Hours:** 9:00 AM-4:00 PM (check website for specific days)

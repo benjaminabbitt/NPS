@@ -29,4 +29,13 @@
 - [ ] Fruit & Spice Park (2-3 hours, 20-25 minutes)
 
 
+## Amber's Data (from spreadsheet)
+
+**Visitor Center:** Dante Fascell Visitor Center
+
+**Address:** 9700 SW 328th St, Homestead, Florida 33033 (25.4643962, -80.3347359)
+
+**Hours:** Hours not available
+
 ## Review / Personal Notes
+

@@ -1,23 +1,23 @@
 # Busch Gardens Tampa
 
-**Address:** 10165 N McKinley Dr, Tampa, FL 33612 [28.0379, -82.4216]
+**Location:** United States
 
-## Park Information
+## Address
 
-*Research needed: Operating hours, admission prices, parking, season dates*
+10165 McKinley Dr, Tampa, FL 33612
+## Operating Hours
 
-## Notable Coasters
+Varies by season - check park website before visiting
 
-*See user-data.md for complete coaster checklist*
+## Operating Seasons
 
-## Planning Tips
+Seasonal operation - typically May-September, check website for specific dates
 
-*Research needed: Best visiting times, fast pass options, food recommendations*
+## Coasters at This Park
 
-## Nearby Attractions
 
-*Research needed: Hotels, restaurants, other activities*
-
----
-
-**Last Updated:** 2025-11-26
+- [Cheetah Hunt](Cheetah Hunt.md)
+- [Iron Gwazi](Iron Gwazi.md)
+- [Kumba](Kumba.md)
+- [Montu](Montu.md)
+- [SheiKra](SheiKra.md)

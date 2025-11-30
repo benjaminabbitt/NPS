@@ -6,47 +6,36 @@
 
 ## Cancellation Stamps
 
-- [x] Alibates Visitor Center (37084 Alibates Rd., Potter County, TX 79036 (35.561499, -101.6960061))
+- [x] Alibates Visitor Center (37084 Alibates Rd., Potter County, TX 79036) [98a432]
 
 ## Key Activities
 
-- [ ] Ranger-Guided Quarries Tour (2 hours)
-- [ ] Visitor Center Experience (30 minutes)
-- [ ] Mesquite Trail Self-Guided Hike (10 minutes)
+- [ ] Ranger-Guided Quarries Tour (2 hours) [c1fce6]
+- [ ] Visitor Center Experience (30 minutes) [4d56c2]
+- [ ] Mesquite Trail Self-Guided Hike (10 minutes) [5a6a32]
 
 ## Hidden Gems
 
-- [ ] Alibates Heritage Garden and Butterfly Garden (15 minutes)
-- [ ] Wildlife Viewing Along the Trail (included in tour time)
+- [ ] Alibates Heritage Garden and Butterfly Garden (15 minutes) [dbb227]
+- [ ] Wildlife Viewing Along the Trail (included in tour time) [72c01c]
 
 ## Also Nearby
 
-- [ ] Palo Duro Canyon State Park (half day to full day, 30 minutes from Fritch)
-- [ ] Cadillac Ranch (30 minutes, 15 miles east of Amarillo)
-- [ ] Panhandle-Plains Historical Museum (2-4 hours, 20 minutes south of Amarillo in Canyon)
-- [ ] Lake Meredith National Recreation Area (flexible, adjacent to Alibates)
-
+- [ ] Palo Duro Canyon State Park (half day to full day, 30 minutes from Fritch) [f4a005]
+- [ ] Cadillac Ranch (30 minutes, 15 miles east of Amarillo) [46d7f9]
+- [ ] Panhandle-Plains Historical Museum (2-4 hours, 20 minutes south of Amarillo in Canyon) [9ca4bc]
+- [ ] Lake Meredith National Recreation Area (flexible, adjacent to Alibates) [b32d89]
 
 
 
 
 ## Amber's Data (from spreadsheet)
 
-*This section preserves the original data from the source spreadsheet.*
+**Visitor Center:** Alibates Visitor Center
 
-**Main Address:** 37084 Alibates Rd., Potter County, Texas 79036 (35.561499, -101.6960061)
+**Address:** 37084 Alibates Rd, Fritch, Texas 79036
 
-**Operating Hours (from source):**
-- **Sunday:** 9:00 AM-4:00 PM
-- **Monday:** 9:00 AM-4:00 PM
-- **Tuesday:** 9:00 AM-4:00 PM
-- **Wednesday:** 9:00 AM-4:00 PM
-- **Thursday:** 9:00 AM-4:00 PM
-- **Friday:** 9:00 AM-4:00 PM
-- **Saturday:** 9:00 AM-4:00 PM
-
-**Visitor Center (from source):**
-- **Name:** Alibates Visitor Center
-- **Address:** 37084 Alibates Rd, Fritch, Texas 79036
+**Hours:** Hours not available
 
 ## Review / Personal Notes
+

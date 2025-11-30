@@ -9,20 +9,9 @@ No activities found. See [Constitution Gardens.md](Constitution Gardens.md) for 
 
 ## Amber's Data (from spreadsheet)
 
-*This section preserves the original data from the source spreadsheet.*
+**Visitor Center:** Lincoln Memorial Bookstore
 
-**Main Address:** 1850 Constitution Ave. NW, Washington, DC 20002
+**Address:** 2 Lincoln Circle NW, Washington, DC, DC 20002 (38.8901227, -77.0495511)
 
-**Operating Hours (from source):**
-- **Sunday:** 10:00 AM-6:00 PM
-- **Monday:** 10:00 AM-6:00 PM
-- **Tuesday:** 10:00 AM-6:00 PM
-- **Wednesday:** 10:00 AM-6:00 PM
-- **Thursday:** 10:00 AM-6:00 PM
-- **Friday:** 10:00 AM-6:00 PM
-- **Saturday:** 10:00 AM-6:00 PM
-
-**Visitor Center (from source):**
-- **Name:** Lincoln Memorial Bookstore
-- **Address:** 2 Lincoln Circle NW
+**Hours:** Hours not available
 

@@ -1,43 +1,33 @@
-# Lake Meredith NRA (National Recreation Area)
+# Lake Meredith NRA
 
-## Cancellation Stamp Locations
+## Cancellation Stamp Locations:
 
-- **Lake Meredith NRA Headquarters** (419 E. Broadway, Fritch, TX 79036 (35.6438, -101.5863); Memorial Day-Labor Day: Daily 8:00 AM - 4:30 PM; Rest of year: Monday-Friday 8:00 AM - 4:30 PM, closed weekends and major holidays; 806-857-3151) - National Park Service passport cancellation stamps available at park headquarters office; no traditional visitor center; **call ahead to confirm hours before visiting, especially on weekends outside summer season**; some visitors report finding office closed unexpectedly; FREE. [Source: [NPS Operating Hours](https://www.nps.gov/lamr/planyourvisit/hours.htm), [NPS Basic Info](https://www.nps.gov/lamr/planyourvisit/basicinfo.htm), [Recreation.gov](https://www.recreation.gov/camping/gateways/2801)]
+- [ ] Lake Meredith NRA Visitor Center (419 E Broadway St, Fritch, Texas, 79036; 9:00 AM-4:00 PM)
 
-**Note:** Park itself open 24/7 year-round for recreation activities. No entrance fees. Most campgrounds FREE. Call 806-857-3151 to confirm headquarters hours before visiting for stamp.
+## Key Activities:
 
-## Key Activities
+- [ ] Visitor Center Experience (1-2 hours) - Explore exhibits and learn about Lake Meredith NRA; 419 E Broadway St, Fritch, Texas, 79036; 9:00 AM-4:00 PM [[Source](https://www.nps.gov/lmn)]
 
-- **Boating and Water Sports** (2-6 hours) - Launch your boat from five open boat ramps to explore Lake Meredith; bring your own watercraft; enjoy water skiing, sailing, jet skiing on 16,500-acre reservoir; fishing from boat recommended; various access points around lake; year-round during daylight; FREE [Source: [America's Best History](https://americasbesthistory.com/abh-lakemeredith.html), [National Park Foundation](https://www.nationalparks.org/explore/parks/lake-meredith-national-recreation-area), [Boondocker's Bible](https://www.boondockersbible.com/nps/lake-meredith-national-recreation-area/)]
+## Hidden Gems:
 
-- **Walleye and Bass Fishing** (2-8 hours) - Fish for record-setting walleye (best April-June, 90% of annual harvest), smallmouth bass, yellow perch, and catfish; Lake Meredith holds Texas state records for walleye, yellow perch, and smallmouth bass; multiple boat ramps and shoreline fishing spots; excellent year-round fishing destination; various locations around lake; accessible 24/7; FREE fishing access, Texas fishing license required [Source: [Texas Parks Wildlife](https://tpwd.texas.gov/fishboat/fish/recreational/lakes/meredith/), [WNPA Lake Meredith](https://wnpa.org/discover_parks/lake-meredith/), [Outdoorsy](https://www.outdoorsy.com/guide/lake-meredith-national-recreation-area)]
+## Also Nearby:
 
-- **Swimming at Cedar Canyon and Spring Canyon** (1-3 hours) - Swim at Cedar Canyon popular for steady tide and current during day; also enjoy Spring Canyon swimming area; both scenic canyon settings on Lake Meredith; no designated beaches but accessible shoreline; summer months best; Cedar and Spring Canyon locations; daylight hours; FREE [Source: [America's Best History](https://americasbesthistory.com/abh-lakemeredith.html), [WNPA Lake Meredith](https://wnpa.org/discover_parks/lake-meredith/)]
 
-- **Camping at 11 Campgrounds** (overnight) - Camp at one of 11 different NPS campgrounds ranging from developed sites to primitive off-grid locations; most campgrounds FREE; no reservations needed (first-come, first-served); maximum 14 days in 30-day period; year-round camping; various locations throughout recreation area; accessible 24/7; mostly FREE [Source: [NPS Camping](https://www.nps.gov/lamr/planyourvisit/camping.htm), [National Park Foundation](https://www.nationalparks.org/explore/parks/lake-meredith-national-recreation-area), [Boondocker's Bible](https://www.boondockersbible.com/nps/lake-meredith-national-recreation-area/)]
+## Amber's Data
 
-- **Harbor Bay Trail Hiking** (1-2 hours) - Hike Harbor Bay Trail offering "vistas galore" of lake and canyons; scenic overlooks of Canadian River breaks; moderate difficulty; beautiful panhandle scenery; trail near lake; daylight hours recommended; FREE [Source: [WNPA Lake Meredith](https://wnpa.org/discover_parks/lake-meredith/), [Oh Ranger](http://www.ohranger.com/lake-meredith/sights-see)]
+*This section preserves the original data from the source spreadsheet.*
 
-- **McBride Canyon Exploration** (1-2 hours) - Explore McBride Canyon featuring rugged canyon terrain and geological formations; less-crowded area for hiking and exploration; typical Texas panhandle canyon landscape; McBride Canyon area; daylight hours; FREE [Source: [American Southwest](https://www.americansouthwest.net/texas/lake-meredith/nra.html), [Oh Ranger](http://www.ohranger.com/lake-meredith/sights-see)]
+**Main Address:** 419 E Broadway St, Fritch, Texas 79036
 
-- **Hunting** (half-day to full-day) - Hunt in designated areas of recreation area with proper Texas licenses and permits; seasonal hunting opportunities; check NPS regulations; various locations; seasonal; FREE access, licenses required [Source: [National Park Foundation](https://www.nationalparks.org/explore/parks/lake-meredith-national-recreation-area), [NPS Basic Info](https://www.nps.gov/lamr/planyourvisit/basicinfo.htm)]
+**Operating Hours (from source):**
+- **Sunday:** Closed [ff436f]
+- **Monday:** 9:00 AM-4:00 PM [942cba]
+- **Tuesday:** 9:00 AM-4:00 PM [3fa55c]
+- **Wednesday:** 9:00 AM-4:00 PM [56d1cd]
+- **Thursday:** 9:00 AM-4:00 PM [ccffe9]
+- **Friday:** 9:00 AM-4:00 PM [d1ffbd]
+- **Saturday:** Closed [23c4af]
 
-## Hidden Gems
-
-- **Alibates Flint Quarries National Monument** (2-3 hours including tour) - Visit only national monument in Texas featuring 13,000-year-old flint quarries; **ranger-guided tours ONLY** (typically 10 AM and 1 PM April-October, **reservations required**); modern visitor center with exhibits, flint samples, bookstore, 10-minute orientation film; Mesquite Trail 10-minute self-guided hike; Alibates Interpretive Garden; combined Junior Ranger program with Lake Meredith; call 806-857-3151 to reserve tour; Alibates Visitor Center location; tours April-October; FREE [Source: [NPS Alibates](https://www.nps.gov/alfl/planyourvisit/things2know.htm), [WNPA Lake Meredith](https://wnpa.org/explore-parks/lake-meredith), [Presidential Adventure Blog](https://theadventuringheidi.com/2023/03/01/presidential-adventure-23-day-2-alibates-flint-quarries-national-monument-lake-meredith-national-recreation-area-palo-duro-canyon-route-66/)]
-
-- **Canadian River History** (integrated throughout visit) - Discover 13,000+ years of human presence in area supported by Canadian River flowing into Lake Meredith; archaeological evidence throughout recreation area; interpretive information at Alibates; various locations; year-round; FREE [Source: [WNPA Lake Meredith](https://wnpa.org/explore-parks/lake-meredith), [Texas State Historical Association](https://www.tshaonline.org/handbook/entries/lake-meredith-national-recreation-area)]
-
-- **Off-Grid Primitive Camping** (overnight) - Find secluded primitive campsites away from developed areas; true off-grid experience in Texas panhandle; quiet stargazing opportunities; bring all supplies; various remote locations; year-round; FREE [Source: [Boondocker's Bible](https://www.boondockersbible.com/nps/lake-meredith-national-recreation-area/), [NPS Camping](https://www.nps.gov/lamr/planyourvisit/camping.htm)]
-
-## Also Nearby
-
-- **Palo Duro Canyon State Park** (half-day to full-day, 50 miles south) - Explore "Little Grand Canyon of Texas," second-largest canyon system in United States; spectacular hiking, horseback riding, camping; 800-foot-deep colorful canyon; 11450 Park Rd 5, Canyon, TX 79015; hours vary; admission charged [Source: [WNPA Lake Meredith](https://wnpa.org/explore-parks/lake-meredith), [Presidential Adventure Blog](https://theadventuringheidi.com/2023/03/01/presidential-adventure-23-day-2-alibates-flint-quarries-national-monument-lake-meredith-national-recreation-area-palo-duro-canyon-route-66/)]
-
-- **Historic Route 66 in Amarillo** (2-4 hours, 30 miles south) - Drive iconic Route 66 through Amarillo; visit Cadillac Ranch art installation, Big Texan Steak Ranch, historic downtown; classic Americana experience; Amarillo, TX; accessible 24/7; FREE to drive, attractions vary [Source: [Presidential Adventure Blog](https://theadventuringheidi.com/2023/03/01/presidential-adventure-23-day-2-alibates-flint-quarries-national-monument-lake-meredith-national-recreation-area-palo-duro-canyon-route-66/)]
-
-- **Amarillo** (various activities, 30 miles south) - Visit nearby city offering dining, shopping, museums, and services; gateway to Texas Panhandle attractions; Amarillo, TX; hours vary by venue; costs vary [Source: [America's Best History](https://americasbesthistory.com/abh-lakemeredith.html)]
-
----
-
-**Total Recommended Time at Lake Meredith NRA (National Recreation Area):** Minimum 2-3 hours for scenic drive, quick swim, and short hike; half-day to full day recommended for boating, fishing, and exploring canyons; overnight camping popular for extended stays (maximum 14 days in 30-day period). Peak walleye fishing April-June. Add 2-3 hours for Alibates Flint Quarries tour (reservations required). Texas Panhandle weather: hot and dry summers, windy year-round, wet and cold winters. [Source: [Texas Parks Wildlife](https://tpwd.texas.gov/fishboat/fish/recreational/lakes/meredith/), [NPS Camping](https://www.nps.gov/lamr/planyourvisit/camping.htm), [America's Best History](https://americasbesthistory.com/abh-lakemeredith.html)]
+**Visitor Center (from source):**
+- **Name:** Lake Meredith National Recreation Area Headquarters [2683ca]
+- **Address:** 419 E Broadway St [fa0882]

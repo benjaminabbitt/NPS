@@ -1,23 +1,23 @@
 # Kings Island
 
-**Address:** 6300 Kings Island Dr, Mason, OH 45040 [39.3451, -84.272]
+**Location:** United States
 
-## Park Information
+## Address
 
-*Research needed: Operating hours, admission prices, parking, season dates*
+6300 Kings Island Dr, Mason, OH 45040
+## Operating Hours
 
-## Notable Coasters
+Varies by season - check park website before visiting
 
-*See user-data.md for complete coaster checklist*
+## Operating Seasons
 
-## Planning Tips
+Seasonal operation - typically May-September, check website for specific dates
 
-*Research needed: Best visiting times, fast pass options, food recommendations*
+## Coasters at This Park
 
-## Nearby Attractions
 
-*Research needed: Hotels, restaurants, other activities*
-
----
-
-**Last Updated:** 2025-11-26
+- [Banshee](Banshee.md)
+- [Beast](Beast.md)
+- [Diamondback](Diamondback.md)
+- [Mystic Timbers](Mystic Timbers.md)
+- [Orion](Orion.md)

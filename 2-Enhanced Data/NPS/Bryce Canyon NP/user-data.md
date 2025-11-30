@@ -6,7 +6,7 @@
 
 ## Cancellation Stamps
 
-- [x] Bryce Canyon Visitor Center (Highway 63, Bryce, UT 84764 (37.685072, -112.1535205)) (37.685072, -112.1535205)
+- [x] Bryce Canyon Visitor Center (Highway 63, Bryce, UT 84764) (37.685072, -112.1535205)
 
 ## Key Activities
 
@@ -27,4 +27,13 @@
 - [ ] Red Canyon (1-2 hours, 15 minutes)
 
 
+## Amber's Data (from spreadsheet)
+
+**Visitor Center:** Visitor Center
+
+**Address:** Highway 63, Bryce, Utah 84764 (37.685072, -112.1535205)
+
+**Hours:** Hours not available
+
 ## Review / Personal Notes
+

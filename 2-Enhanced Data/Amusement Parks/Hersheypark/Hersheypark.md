@@ -1,23 +1,23 @@
 # Hersheypark
 
-**Address:** 100 W Hersheypark Dr, Hershey, PA 17033 [40.2888, -76.6548]
+**Location:** United States
 
-## Park Information
+## Address
 
-*Research needed: Operating hours, admission prices, parking, season dates*
+100 W Hersheypark Dr, Hershey, PA 17033
+## Operating Hours
 
-## Notable Coasters
+Varies by season - check park website before visiting
 
-*See user-data.md for complete coaster checklist*
+## Operating Seasons
 
-## Planning Tips
+Seasonal operation - typically May-September, check website for specific dates
 
-*Research needed: Best visiting times, fast pass options, food recommendations*
+## Coasters at This Park
 
-## Nearby Attractions
 
-*Research needed: Hotels, restaurants, other activities*
-
----
-
-**Last Updated:** 2025-11-26
+- [Candymonium](Candymonium.md)
+- [Fahrenheit](Fahrenheit.md)
+- [Skyrush](Skyrush.md)
+- [Storm Runner](Storm Runner.md)
+- Wildcat's Revenge

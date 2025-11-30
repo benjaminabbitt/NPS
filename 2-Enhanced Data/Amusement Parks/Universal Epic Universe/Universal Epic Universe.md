@@ -1,23 +1,19 @@
 # Universal Epic Universe
 
-**Address:** 1001 Epic Blvd, Orlando, FL 32819 [28.44, -81.45]
+**Location:** United States
 
-## Park Information
+## Address
 
-*Research needed: Operating hours, admission prices, parking, season dates*
+5775 Universal Blvd, Orlando, FL 32819
+## Operating Hours
 
-## Notable Coasters
+Varies by season - check park website before visiting
 
-*See user-data.md for complete coaster checklist*
+## Operating Seasons
 
-## Planning Tips
+Open year-round
 
-*Research needed: Best visiting times, fast pass options, food recommendations*
+## Coasters at This Park
 
-## Nearby Attractions
-
-*Research needed: Hotels, restaurants, other activities*
-
----
-
-**Last Updated:** 2025-11-26
+- Stardust Racers (Green)
+- Stardust Racers (Yellow)

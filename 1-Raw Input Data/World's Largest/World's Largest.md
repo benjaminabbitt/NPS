@@ -288,7 +288,7 @@ Trailhead: Devils Garden parking (18 miles from visitor center)
 
 **What Makes It World's Largest:** 630 feet tall and 630 feet wide at base
 
-**Address:** Gateway Arch National Park, St. Louis, MO 63102 [38.6247, -90.1848]
+**Address:** Gateway Arch National Park, St. Louis, MO 63102
 **GPS:** 38.6247° N, 90.1848° W
 
 **Hours:** Varies seasonally; typically 9am-6pm
@@ -308,7 +308,7 @@ Trailhead: Devils Garden parking (18 miles from visitor center)
 
 **What Makes It World's Largest:** 555 feet tall (554.5 feet precisely), 898 steps to 50 landings
 
-**Address:** 2 15th St NW, Washington, DC 20024 [38.8895, -77.0353]
+**Address:** 2 15th St NW, Washington, DC 20024
 
 **Hours:** 9am-5pm daily (extended summer hours to 10pm)
 
@@ -327,7 +327,7 @@ Trailhead: Devils Garden parking (18 miles from visitor center)
 
 **What Makes It World's Largest:** 151 feet (statue alone); 305 feet from ground to torch
 
-**Address:** Liberty Island, New York, NY 10004 [40.6892, -74.0445]
+**Address:** Liberty Island, New York, NY 10004
 
 **Hours:** Daily 9:30am-5pm (ferry dependent)
 
@@ -425,7 +425,7 @@ Trailhead: Devils Garden parking (18 miles from visitor center)
 
 **What Makes It World's Largest:** 5.6 million square feet; 520+ stores. Features Nickelodeon Universe (largest indoor theme park in U.S. - 24 rides), SEA LIFE Minnesota Aquarium, 50+ restaurants. 42 million annual visitors.
 
-**Address:** 60 East Broadway, Bloomington, MN 55425 [44.8542, -93.2422]
+**Address:** 60 East Broadway, Bloomington, MN 55425
 
 **Hours:** Mon-Sat 10am-9pm; Sun 11am-7pm (varies)
 
@@ -505,7 +505,7 @@ Trailhead: Devils Garden parking (18 miles from visitor center)
 
 **What Makes It World's Largest:** Community-built ball; 46 feet circumference, 27,017+ pounds, 8,507,430+ feet of twine (~1,600+ miles), 14.6 feet diameter
 
-**Address:** 804 Locust St, Cawker City, KS 67430 [39.5092, -98.4337]
+**Address:** South side of Wisconsin St./Hwy 24, half-block west of Lake Drive, Cawker City, KS
 
 **Hours:** Visible 24/7; call Linda Clover to add twine
 
@@ -526,7 +526,7 @@ Trailhead: Devils Garden parking (18 miles from visitor center)
 
 **What Makes It World's Largest:** 12 feet diameter, 40 feet circumference, 17,400 pounds - **created by ONE MAN only** (this is the distinction from Cawker City's community ball)
 
-**Address:** 1st St, Darwin, MN 55324 [45.0986, -94.4103]
+**Address:** Main Street, Darwin, MN 55324
 
 **Hours:** Visible 24/7 (enclosed in glass gazebo); Museum varies (typically summer daily)
 
@@ -611,7 +611,7 @@ Casey, Illinois (population ~2,750) is home to **12 Guinness World Records** and
 #### GUINNESS WORLD RECORDS IN CASEY:
 
 **1. WORLD'S LARGEST ROCKING CHAIR** ✓
-- Address: 110 E. Main St (NW corner E. Main & SE 2nd St.), Casey, IL 62420 [39.2996, -87.9910]
+- Address: 110 E. Main St (NW corner E. Main & SE 2nd St.)
 - Installed: October 20, 2015
 - Dimensions: 56 feet 1 inch tall, 32 feet 10 inches wide, 46,200 pounds
 - Features: Dove of peace on headrest, olive branches on armrests
@@ -619,7 +619,7 @@ Casey, Illinois (population ~2,750) is home to **12 Guinness World Records** and
 - **FREE, 24/7**
 
 **2. WORLD'S LARGEST MAILBOX** ✓
-- Address: 19 W. Main Street, Casey, IL 62420 [39.2993, -87.9918]
+- Address: 19 W. Main Street
 - Installed: October 20, 2015
 - Dimensions: 5,743.41 cubic feet, 32 feet high
 - Fully functional USPS mailbox - climb internal stairs to mail letters
@@ -627,40 +627,40 @@ Casey, Illinois (population ~2,750) is home to **12 Guinness World Records** and
 - **FREE, 24/7**
 
 **3. WORLD'S LARGEST GOLF TEE** ✓
-- Address: Casey Country Club, Casey, IL 62420 [39.2993, -87.9918]
+- Address: Casey Country Club
 - Installed: 2012-2013
 - Dimensions: 30 feet 9 inches tall, head diameter 6 feet 3 inches, 6,659 pounds
 - **FREE, 24/7**
 
 **4. WORLD'S LARGEST PITCHFORK** ✓
-- Address: 607 NE 13th Street (Richards Farm Restaurant), Casey, IL 62420 [39.2993, -87.9918]
+- Address: 607 NE 13th Street (Richards Farm Restaurant)
 - Installed: 2014-2015
 - Dimensions: 60-61 feet 2 inches long, 8 feet 4 inches wide, nearly 2,000 pounds
 - Length of bowling alley
 - **FREE, 24/7**
 
 **5. WORLD'S LARGEST WOODEN SHOES/CLOGS** ✓
-- Address: 20 W. General Robey Street (Wildflour Bakery), Casey, IL 62420 [39.2993, -87.9918]
+- Address: 20 W. General Robey Street (Wildflour Bakery)
 - Installed: October 20, 2015
 - Dimensions: Almost 5 feet tall, over 11 feet long, 2,500 pounds each
 - 15 people can stand in one shoe
 - **INDOORS - check bakery hours**
 
 **6. WORLD'S LARGEST WIND CHIME** ✓
-- Address: 109 E. Main St, Casey, IL 62420 [39.2996, -87.9910]
+- Address: 109 E. Main St
 - Installed: June 22, 2012 (first Casey record)
 - Dimensions: 54 feet long
 - Can pull rope to make chimes sway and sing
 - **FREE, 24/7**
 
 **7. WORLD'S LARGEST BARBER POLE** ✓
-- Address: 12 W. Main St (Tina's Barber Shop), Casey, IL 62420 [39.2993, -87.9918]
+- Address: 12 W. Main St (Tina's Barber Shop)
 - Installed: September 28, 2019
 - Actually spins!
 - **FREE, 24/7**
 
 **8. WORLD'S LARGEST TEETER-TOTTER** ✓
-- Address: 201 E. Main St, Casey, IL 62420 [39.2996, -87.9910]
+- Address: 201 E. Main St
 - Installed: September 28, 2019
 - Can ride Saturdays during tourism season
 - **FREE, 24/7**
@@ -672,18 +672,18 @@ Casey, Illinois (population ~2,750) is home to **12 Guinness World Records** and
 - **FREE, 24/7**
 
 **10. WORLD'S LARGEST GOLF CLUB/DRIVER** ✓
-- Address: 4 S. Central Ave (Visitor's Center), Casey, IL 62420 [39.2993, -87.9918]
+- Address: 4 S. Central Ave (Visitor's Center)
 - Installed: August 20, 2019
 - **FREE, 24/7**
 
 **11. WORLD'S LARGEST TRUCK KEY** ✓
-- Address: 23 W. Alabama Ave, Casey, IL 62420 [39.2993, -87.9918]
+- Address: 23 W. Alabama Ave
 - Installed: September 28, 2019
 - Dimensions: 28+ feet tall, 11+ feet wide
 - **FREE, 24/7**
 
 **12. WORLD'S LARGEST GAVEL** ✓
-- Address: 501 Archer Ave, Marshall, Illinois 62441 (20 miles east) [39.3921, -87.6892]
+- Address: 501 Archer Ave, Marshall, Illinois (20 miles east)
 - Installed: August 20, 2019
 - Dimensions: Nearly 17 feet long, 5 feet high
 - Located on courthouse steps
@@ -703,7 +703,7 @@ Casey, Illinois (population ~2,750) is home to **12 Guinness World Records** and
 
 **What Makes It World's Largest:** 170 feet tall total (70-foot bottle on 100-foot stand), holds 100,000 gallons water, could hold 640,000 bottles of catsup
 
-**Address:** 800 S. Morrison Avenue, Collinsville, IL 62234 [38.6629, -89.9822]
+**Address:** 800 S. Morrison Avenue, Collinsville, IL 62234
 
 **Hours:** 24/7 public viewing
 
@@ -958,7 +958,7 @@ Casey, Illinois (population ~2,750) is home to **12 Guinness World Records** and
 
 **What Makes It World's Largest:** 38 feet high, 50 feet long, 12,000 pounds (6 tons), hollow fiberglass, visible 5+ miles
 
-**Address:** 8th Ave N, New Salem, ND 58563 (School Hill) [46.8598, -101.4176]
+**Address:** N. 8th Avenue, New Salem, ND (School Hill)
 
 **Hours:** Daytime 6am-11pm daily (not visible at night)
 
@@ -1027,7 +1027,7 @@ Casey, Illinois (population ~2,750) is home to **12 Guinness World Records** and
 
 **What Makes It World's Largest:** World's Biggest Dinosaur Sculptures. "Dinny" (Apatosaurus): 150 feet long, 45 feet high, 50 tons. "Mr. Rex" (T. Rex): 65 feet tall.
 
-**Address:** 50770 Seminole Dr, Cabazon, CA 92230 [33.9187, -116.7704]
+**Address:** Cabazon, CA (I-10, Main Street exit, 13 miles west of Palm Springs)
 
 **Hours:** Open daily, hours vary (check cabazondinosaurs.com)
 
@@ -1050,7 +1050,7 @@ Casey, Illinois (population ~2,750) is home to **12 Guinness World Records** and
 
 **What Makes It World's Largest:** World's largest elephant-shaped structure and oldest roadside attraction. 65 feet tall, 60 feet long, 18 feet wide; 90 tons.
 
-**Address:** 9200 Atlantic Ave, Margate City, NJ 08402 [39.3209, -74.5116]
+**Address:** 9200 Atlantic Ave, Margate City, NJ 08402
 
 **Hours:** Tours year-round; seasonal schedules (typically closed January-March). Check website.
 
@@ -1071,7 +1071,7 @@ Casey, Illinois (population ~2,750) is home to **12 Guinness World Records** and
 
 **What Makes It World's Largest:** Historic Paul Bunyan statues. Paul: 18 feet tall, 7.5 tons. Babe: 10 feet tall, 23 feet nose to tail. Second-most-photographed sculptures in America in 1940s (per Kodak), topped only by Mt. Rushmore.
 
-**Address:** 300 Bemidji Ave N, Bemidji, MN 56601 [47.4735, -94.8803]
+**Address:** 3rd St. and Bemidji Ave. (Paul Bunyan Drive), Bemidji, MN
 On shore of Lake Bemidji near Tourist Information Center
 **GPS:** Approximately 47.4725° N, 94.8839° W
 
@@ -1162,7 +1162,7 @@ On shore of Lake Bemidji near Tourist Information Center
 
 **What Makes It World's Largest:** Guinness World Record. 35 feet tall, 33 feet long, 9 feet wide. Each boot can hold 300,000 gallons of beer. Person would need to be 200 feet tall to wear them.
 
-**Address:** North Star Mall, 7400 San Pedro Avenue (Loop 410), San Antonio, TX 78216 [29.5185, -98.4963]
+**Address:** North Star Mall, 7400 San Pedro Avenue (Loop 410), San Antonio, TX
 
 **Hours:** 24/7 visible from Loop 410, mall parking lot access during mall hours
 
@@ -1204,7 +1204,7 @@ On shore of Lake Bemidji near Tourist Information Center
 
 **What Makes It World's Largest:** 120 feet tall, 68,000 pounds. Exact-scale replica of Babe Ruth's 34-inch Louisville Slugger.
 
-**Address:** Louisville Slugger Museum & Factory, 800 West Main Street, Louisville, KY 40202 [38.2555, -85.7619]
+**Address:** Louisville Slugger Museum & Factory, 800 West Main Street, Louisville, KY 40202
 
 **Hours:** 24/7 outside; Museum Mon-Sat 9am-5pm, Sun 11am-5pm
 
@@ -1225,7 +1225,7 @@ On shore of Lake Bemidji near Tourist Information Center
 
 **What Makes It World's Largest:** Largest free-standing hockey stick. 110 feet long, 10,000 pounds. Giant rubber puck (700 lbs) nearby.
 
-**Address:** 801 Hat Trick Ave, Eveleth, MN 55734 [47.4641, -92.5405]
+**Address:** Grant Ave./Hwy 302 and Monroe St., Eveleth, MN
 
 **Hours:** 24/7; U.S. Hockey Hall of Fame: Mon-Sat 9 AM - 5 PM, Sun 10 AM - 3 PM (summer)
 
@@ -1311,7 +1311,7 @@ On shore of Lake Bemidji near Tourist Information Center
 
 **What Makes It World's Largest:** World's Largest Tire. 80 feet tall, 12 tons. Made of fiberglass and steel. Contains 8 windows (former gondola openings).
 
-**Address:** Detroit Industrial Expy, Allen Park, MI 48101 [42.2706, -83.2091]
+**Address:** I-94 near Oakwood Boulevard, Allen Park, MI 48101
 
 **Hours:** Viewable 24/7 from I-94
 
@@ -1334,7 +1334,7 @@ On shore of Lake Bemidji near Tourist Information Center
 
 **What Makes It World's Largest:** World's Tallest Thermometer. 134 feet tall (one foot per degree recorded in nearby Death Valley in 1934). Digital display shows current temperature.
 
-**Address:** 72157 Baker Blvd, Baker, CA 92364 [35.2665, -116.0728]
+**Address:** 72157 Baker Boulevard, Baker, CA 92309
 
 **Hours:** 24/7; visitor center varies
 
@@ -1397,7 +1397,7 @@ On shore of Lake Bemidji near Tourist Information Center
 
 **What Makes It World's Largest:** Largest Collection of World's Largest Scrap Metal Sculptures. Seven massive sculptures along 32-mile highway including Geese in Flight (110 feet tall - world's largest scrap metal sculpture).
 
-**Address:** Exit 72 I-94, Gladstone, ND 58630 [46.8549, -102.5436]
+**Address:** Route 21 between Gladstone and Regent, ND
 
 **Hours:** 24/7
 
@@ -1418,7 +1418,7 @@ On shore of Lake Bemidji near Tourist Information Center
 
 **What Makes It World's Largest:** America's most famous car Stonehenge replica. 38 vintage American automobiles (1950s-60s) arranged in 96-foot diameter circle, dimensions match Stonehenge proportions. All painted gray.
 
-**Address:** 2151 County Rd 59, Alliance, NE 69301 [42.1423, -102.8580]
+**Address:** 2151 County Rd 59, Alliance, NE 69301
 
 **Hours:** Dawn to dusk daily, year-round. Gift shop seasonal (typically Mon-Sat 10am-5pm summer).
 
@@ -1446,7 +1446,7 @@ On shore of Lake Bemidji near Tourist Information Center
 
 **What Makes It World's Largest:** Iconic giant donut structure. One of most recognizable donut buildings remaining from California's "Mimetic Architecture" era.
 
-**Address:** 805 W Manchester Blvd, Inglewood, CA 90301 [33.9618, -118.3704]
+**Address:** 805 W. Manchester Blvd, Inglewood, CA
 
 **Hours:** Donut shop hours (typically early morning through evening)
 

@@ -6,7 +6,7 @@
 
 ## Cancellation Stamps
 
-- [ ] Visitor Center/Bookstore (81 Carl Sandburg Lane, Flat Rock, NC 28731 (35.2727825, -82.4528575)) (35.2727825, -82.4528575)
+- [ ] Visitor Center/Bookstore (81 Carl Sandburg Lane, Flat Rock, NC 28731) (35.2727825, -82.4528575)
 
 ## Key Activities
 
@@ -26,4 +26,13 @@
 - [ ] Historic Hendersonville (10 minutes, 3 miles north)
 
 
+## Amber's Data (from spreadsheet)
+
+**Visitor Center:** Visitor Center/Park Store and Information
+
+**Address:** 81 Carl Sandburg Lane, Flat Rock, North Carolina 28731 (35.2727825, -82.4528575)
+
+**Hours:** Hours not available
+
 ## Review / Personal Notes
+

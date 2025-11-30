@@ -1,23 +1,21 @@
 # Six Flags Great Adventure
 
-**Address:** 1 Six Flags Blvd, Jackson, NJ 08527 [40.1377, -74.4405]
+**Location:** United States
 
-## Park Information
+## Address
 
-*Research needed: Operating hours, admission prices, parking, season dates*
+1 Six Flags Blvd, Jackson, NJ 08527
+## Operating Hours
 
-## Notable Coasters
+Varies by season - check park website before visiting
 
-*See user-data.md for complete coaster checklist*
+## Operating Seasons
 
-## Planning Tips
+Typically April-October, with weekend operations in early/late season and Halloween events
 
-*Research needed: Best visiting times, fast pass options, food recommendations*
+## Coasters at This Park
 
-## Nearby Attractions
 
-*Research needed: Hotels, restaurants, other activities*
-
----
-
-**Last Updated:** 2025-11-26
+- [El Toro](El Toro.md)
+- [Jersey Devil Coaster](Jersey Devil Coaster.md)
+- [Nitro](Nitro.md)

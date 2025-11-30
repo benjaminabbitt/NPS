@@ -2,7 +2,7 @@
 
 ## Cancellation Stamp Locations:
 
-- [ ] Longfellow House Washington’s Headquarters NHS Visitor Center (105 Brattle Street, Cambridge, Massachusetts, 02138 (42.3769727, -71.1263979); 9:30 AM-5:00 PM)
+- [ ] Longfellow House Washington’s Headquarters NHS Visitor Center (105 Brattle Street, Cambridge, Massachusetts, 02138; 9:30 AM-5:00 PM)
 
 ## Key Activities:
 

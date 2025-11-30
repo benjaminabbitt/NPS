@@ -6,7 +6,7 @@
 
 ## Cancellation Stamps
 
-- [ ] Hatteras Island Visitor Center (46375 Lighthouse Road, Buxton, NC 27920 (35.2647914, -75.5250228)) (35.2647914, -75.5250228)
+- [ ] Hatteras Island Visitor Center (46375 Lighthouse Road, Buxton, NC 27920) (35.2647914, -75.5250228)
 - [x] Bodie Island Visitor Center (8180 Bodie Island Lighthouse Road, Nags Head, NC)
 - [ ] Ocracoke Island Visitor Center (Near Ocracoke Lighthouse, Ocracoke, NC)
 
@@ -27,5 +27,13 @@
 - [ ] Roanoke Island (30 minutes north, Manteo)
 - [ ] Wright Brothers National Memorial (45 minutes north, Kill Devil Hills)
 
+
+## Amber's Data (from spreadsheet)
+
+**Visitor Center:** Bodie Island Visitor Center
+
+**Address:** 8180 Bodie Island Lighthouse Rd, Nags Head, North Carolina 27959
+
+**Hours:** Hours not available
 
 ## Review / Personal Notes

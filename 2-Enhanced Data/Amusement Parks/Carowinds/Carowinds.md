@@ -1,23 +1,22 @@
 # Carowinds
 
-**Address:** 14523 Carowinds Blvd, Charlotte, NC 28273 [35.1023, -80.9414]
+**Location:** United States
 
-## Park Information
+## Address
 
-*Research needed: Operating hours, admission prices, parking, season dates*
+14523 Carowinds Blvd, Charlotte, NC 28273
+## Operating Hours
 
-## Notable Coasters
+Varies by season - check park website before visiting
 
-*See user-data.md for complete coaster checklist*
+## Operating Seasons
 
-## Planning Tips
+Seasonal operation - typically May-September, check website for specific dates
 
-*Research needed: Best visiting times, fast pass options, food recommendations*
+## Coasters at This Park
 
-## Nearby Attractions
 
-*Research needed: Hotels, restaurants, other activities*
-
----
-
-**Last Updated:** 2025-11-26
+- [Afterburn](Afterburn.md)
+- [Copperhead Strike](Copperhead Strike.md)
+- [Fury 325](Fury 325.md)
+- [Thunder Striker](Thunder Striker.md)

@@ -9,20 +9,9 @@ No activities found. See [Tule Lake National Monument.md](Tule Lake National Mon
 
 ## Amber's Data (from spreadsheet)
 
-*This section preserves the original data from the source spreadsheet.*
+**Visitor Center:** Tule Lake Visitor Center
 
-**Main Address:** 44340 CA-139, Tulelake, California 96134
+**Address:** 44340 CA-139, Tulelake, California 96134
 
-**Operating Hours (from source):**
-- **Sunday:** 9:00 AM-4:30 PM
-- **Monday:** Closed
-- **Tuesday:** Closed
-- **Wednesday:** Closed
-- **Thursday:** Closed
-- **Friday:** 9:00 AM-4:30 PM
-- **Saturday:** 9:00 AM-4:30 PM
-
-**Visitor Center (from source):**
-- **Name:** Tule Lake Visitor Center
-- **Address:** 44340 CA-139
+**Hours:** Hours not available
 

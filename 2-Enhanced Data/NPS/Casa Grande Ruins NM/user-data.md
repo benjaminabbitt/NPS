@@ -6,7 +6,7 @@
 
 ## Cancellation Stamps
 
-- [ ] Casa Grande Ruins Visitor Center (1100 W. Ruins Drive, Coolidge, AZ 85128 (32.9946864, -111.5366618)) (32.9946864, -111.5366618)
+- [ ] Casa Grande Ruins Visitor Center (1100 W. Ruins Drive, Coolidge, AZ 85128) (32.9946864, -111.5366618)
 
 ## Key Activities
 
@@ -31,4 +31,13 @@
 - [ ] Casa Grande Neon Sign Park (15-20 minutes, Casa Grande)
 
 
+## Amber's Data (from spreadsheet)
+
+**Visitor Center:** Casa Grande Ruins National Monument
+
+**Address:** 1100 W Ruins Dr, Coolidge, Arizona 85128 (32.9946864, -111.5366618)
+
+**Hours:** Hours not available
+
 ## Review / Personal Notes
+

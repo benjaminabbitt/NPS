@@ -2,7 +2,7 @@
 
 ## Cancellation Stamp Locations:
 
-- [ ] Oxon Cover Park & Oxon Hill Farm Visitor Center (1967 Bald Eagle Road, Oxon Hill, Maryland, 20745 (38.8022196, -77.0022694); 9:00 AM-4:00 PM)
+- [ ] Oxon Cover Park & Oxon Hill Farm Visitor Center (1967 Bald Eagle Road, Oxon Hill, Maryland, 20745; 9:00 AM-4:00 PM)
 
 ## Key Activities:
 

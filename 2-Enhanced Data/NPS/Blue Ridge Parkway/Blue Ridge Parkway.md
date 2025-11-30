@@ -1,111 +1,33 @@
 # Blue Ridge Parkway
 
-## Cancellation Stamp Locations
+## Cancellation Stamp Locations:
 
-The Blue Ridge Parkway offers 15 passport stamp locations along its 469-mile scenic route. Call ahead to confirm current stamp availability and operating hours at specific locations.
+- [ ] Blue Ridge Parkway Visitor Center (Milepost 384, Asheville, North Carolina, 28803; 9:00 AM-4:30 PM)
 
-- **Humpback Rocks Visitor Center** (Milepost 5.8 Blue Ridge Parkway, Lyndhurst, VA 22952 [37.4307, -78.9000]; typically open daily May-October, 10 AM-5 PM; 540-943-4716) [Source: [NPS - Humpback Rocks](https://www.nps.gov/blri/planyourvisit/humpback-rocks-mp-5-8.htm), [Virtual Blue Ridge](https://www.virtualblueridge.com/parkway-place/humpback-rocks/)]
+## Key Activities:
 
-- **James River Visitor Center** (Milepost 63 Blue Ridge Parkway; seasonal hours; contact main parkway number 828-348-3400) [Source: [NPS - Passport Stamps](https://www.nps.gov/blri/planyourvisit/passport-stamps.htm)]
+- [ ] Visitor Center Experience (1-2 hours) - Explore exhibits and learn about Blue Ridge Parkway; Milepost 384, Asheville, North Carolina, 28803; 9:00 AM-4:30 PM [[Source](https://www.nps.gov/brp)]
 
-- **Peaks of Otter Visitor Center** (85919 Blue Ridge Parkway, Bedford, VA 24523 [37.4456, -79.6100]; May-October, 10 AM-5 PM; 540-586-4496) [Source: [NPS - Peaks of Otter](https://www.nps.gov/blri/planyourvisit/peaks-of-otter-mp-85-6.htm), [Blue Ridge Parkway](https://www.blueridgeparkway.org/poi/peaks-of-otter/)]
+## Hidden Gems:
 
-- **Rocky Knob Visitor Center** (Milepost 169 Blue Ridge Parkway; seasonal hours; contact 540-745-9662) [Source: [NPS - Passport Stamps](https://www.nps.gov/blri/planyourvisit/passport-stamps.htm)]
+## Also Nearby:
 
-- **Mabry Mill Cultural Site** (266 Mabry Mill Rd SE, Meadows of Dan, VA 24120 [36.7639, -80.4611]; grounds accessible year-round; restaurant and gift shop open 8 AM-6 PM late April-October) [Source: [NPS - Mabry Mill](https://www.nps.gov/blri/planyourvisit/mabry-mill-mp-176.htm), [Virtual Blue Ridge](https://www.virtualblueridge.com/parkway-place/mabry-mill/)]
 
-- **Blue Ridge Music Center** (Milepost 213 Blue Ridge Parkway; seasonal hours; contact main parkway number) [Source: [NPS - Passport Stamps](https://www.nps.gov/blri/planyourvisit/passport-stamps.htm)]
+## Amber's Data
 
-- **Moses Cone Memorial Park Visitor Center** (Milepost 294 Blue Ridge Parkway, Blowing Rock, NC 28605 [36.1431, -81.7057]; visitor information desk open May-October, craft shop open early April-November 9 AM-5 PM; 828-295-3782) [Source: [NPS - Moses Cone](https://www.nps.gov/blri/planyourvisit/moses-h-cone-memorial-park-mp-294.htm), [Virtual Blue Ridge](https://www.virtualblueridge.com/parkway-place/moses-cone-memorial-park/)]
+*This section preserves the original data from the source spreadsheet.*
 
-- **Linn Cove Viaduct Visitor Center** (Milepost 304.4 Blue Ridge Parkway; open daily May-October, 9 AM-5 PM) [Source: [NPS - Linn Cove](https://www.nps.gov/blri/planyourvisit/linn-cove-viaduct.htm), [Blue Ridge Parkway](https://www.blueridgeparkway.org/poi/linn-cove-viaduct/)]
+**Main Address:** Milepost 384, Asheville, North Carolina 28803
 
-- **Linville Falls Visitor Center** (Milepost 316.3 Blue Ridge Parkway, Linville Falls, NC 28647; typically open daily May-October, 10 AM-5 PM; 828-652-2144; NOTE: This facility was heavily impacted by Hurricane Helene and is closed for 2025 - call ahead to confirm status) [Source: [NPS - Linville Falls](https://www.nps.gov/blri/planyourvisit/linville-falls-mp-316.htm), [Blue Ridge Parkway](https://www.blueridgeparkway.org/poi/linville-falls/)]
+**Operating Hours (from source):**
+- **Sunday:** 9:00 AM-4:30 PM [ff436f]
+- **Monday:** 9:00 AM-4:30 PM [942cba]
+- **Tuesday:** 9:00 AM-4:30 PM [3fa55c]
+- **Wednesday:** 9:00 AM-4:30 PM [56d1cd]
+- **Thursday:** 9:00 AM-4:30 PM [ccffe9]
+- **Friday:** 9:00 AM-4:30 PM [d1ffbd]
+- **Saturday:** 9:00 AM-4:30 PM [23c4af]
 
-- **Museum of North Carolina Minerals** (Milepost 331 Blue Ridge Parkway; open year-round; contact main parkway number) [Source: [NPS - Passport Stamps](https://www.nps.gov/blri/planyourvisit/passport-stamps.htm)]
-
-- **Craggy Gardens Visitor Center** (364 Blue Ridge Parkway, Black Mountain, NC 28711 [35.7008, -82.3826]; generally open daily mid-April through mid-November, 10 AM-5 PM; closed in winter) [Source: [NPS - Craggy Gardens](https://www.nps.gov/blri/planyourvisit/craggy-gardens.htm), [Virtual Blue Ridge](https://www.virtualblueridge.com/parkway-place/craggy-gardens/)]
-
-- **Folk Art Center** (382 Blue Ridge Parkway, Asheville, NC 28805 [35.5665, -82.4905]; open daily 10 AM-5 PM with seasonal variations; 828-298-7928) [Source: [NPS - Folk Art Center](https://www.nps.gov/blri/planyourvisit/folk-art-center.htm), [Blue Ridge Parkway](https://www.blueridgeparkway.org/poi/folk-art-center/)]
-
-- **Blue Ridge Parkway Visitor Center** (195 Hemphill Knob Road, Asheville, NC 28803 [35.5650, -82.4877]; open 9 AM-5 PM daily year-round except Thanksgiving, Christmas, and New Year's Day; 828-298-5330) [Source: [NPS - BRP Visitor Center](https://www.nps.gov/blri/planyourvisit/blue-ridge-parkway-visitor-center.htm), [Blue Ridge Parkway](https://www.blueridgeparkway.org/poi/blue-ridge-parkway-visitor-center/)]
-
-- **Waterrock Knob Visitor Center** (Milepost 451.2 Blue Ridge Parkway, near Sylva, NC 28779 [35.4635, -83.1374]; usually open daily mid-April through early November, 10 AM-5 PM) [Source: [NPS - Waterrock Knob](https://www.nps.gov/blri/planyourvisit/waterrock-knob-mp-451-2.htm), [Virtual Blue Ridge](https://www.virtualblueridge.com/parkway-place/waterrock-knob/)]
-
-- **Oconaluftee Visitor Center, Great Smoky Mountains National Park** (Milepost 469, southern terminus of Blue Ridge Parkway; check Great Smoky Mountains NP hours) [Source: [NPS - Passport Stamps](https://www.nps.gov/blri/planyourvisit/passport-stamps.htm)]
-
-**Note:** Call to confirm current stamp locations before visiting. Hours are seasonal and subject to change. Main parkway information line: 828-348-3400.
-
-## Key Activities
-
-- **Scenic Driving** (10-12 hours for full 469-mile route non-stop; 3-5 days recommended for full experience) - The Blue Ridge Parkway is America's Favorite Drive, offering a leisurely journey through the Appalachian Highlands with dramatic mountain views, rolling meadows, and countless scenic overlooks; the parkway is open 24/7 year-round; entire route is 469 miles from milepost 0 to 469; speed limit is 45 mph throughout [Source: [Lonely Planet](https://www.lonelyplanet.com/articles/blue-ridge-parkway-road-trip), [Lazy Trips](https://lazytrips.com/blog/how-long-does-it-take-to-drive-the-blue-ridge-parkway), [NPS - Basic Info](https://www.nps.gov/blri/planyourvisit/basicinfo.htm)]
-
-- **Linville Falls** (1.6 miles round-trip, 45-90 minutes) - Moderate hike offering four different overlooks of spectacular waterfalls cascading through Linville Gorge, often called the "Grand Canyon of the East"; Linville Falls Visitor Center, Milepost 316.3 Blue Ridge Parkway, Linville Falls, NC 28647; typically open May-October, 10 AM-5 PM (NOTE: Closed for 2025 due to Hurricane Helene damage - call 828-652-2144 to confirm status) [Source: [NPS - Linville Falls](https://www.nps.gov/blri/planyourvisit/linville-falls-mp-316.htm), [Romantic Asheville](https://www.romanticasheville.com/BlueRidgeParkway.htm)]
-
-- **Linn Cove Viaduct** (0.5-1 hour for paved trail and viewing; 1 mile round-trip via Tanawha Trail for iconic photo viewpoint) - Engineering marvel that hugs the face of Grandfather Mountain, recognized internationally; accessible paved trail from visitor center leads beneath the bridge, or take the more rugged Tanawha Trail for the postcard view; Milepost 304.4 Blue Ridge Parkway; Visitor Center open daily May-October, 9 AM-5 PM [Source: [NPS - Linn Cove](https://www.nps.gov/blri/planyourvisit/linn-cove-viaduct.htm), [Blue Ridge Parkway](https://www.blueridgeparkway.org/poi/linn-cove-viaduct/), [AllTrails](https://www.alltrails.com/trail/us/north-carolina/linn-cove-viaduct-via-tanawha-trail)]
-
-- **Graveyard Fields Loop Trail** (1.3 miles, 30-60 minutes for basic loop; 3 miles, 1.5-2.5 hours to Upper Falls) - Popular trail featuring sublime contrast of lush fields and rugged mountain landscapes with two waterfalls; Lower Falls is just 0.3 miles from parking area; Milepost 418.8 Blue Ridge Parkway; accessible year-round [Source: [Blue Ridge Parkway](https://www.blueridgeparkway.org/poi/graveyard-fields/), [Asheville Trails](https://ashevilletrails.com/blue-ridge-parkway/graveyard-fields-trail-waterfalls/), [AllTrails](https://www.alltrails.com/trail/us/north-carolina/graveyard-fields-loop-trail--2)]
-
-- **Craggy Gardens** (Various trails, 30 minutes-2 hours; best visited mid-June through July) - Spectacular showplace of pink and purple Catawba rhododendron blooms covering the mountains; offers trails and panoramic views at 5,640 feet elevation; 364 Blue Ridge Parkway, Black Mountain, NC 28711; Visitor Center open mid-April through mid-November, 10 AM-5 PM [Source: [NPS - Craggy Gardens](https://www.nps.gov/blri/planyourvisit/craggy-gardens.htm), [Blue Ridge Parkway](https://www.blueridgeparkway.org/poi/craggy-gardens/)]
-
-- **Mabry Mill** (30 minutes-1 hour) - Most photographed site on the Blue Ridge Parkway; historic gristmill from the 1890s with demonstrations and live music performances every Sunday afternoon during operating season; 266 Mabry Mill Rd SE, Meadows of Dan, VA 24120; grounds accessible year-round; restaurant and gift shop open 8 AM-6 PM late April-October [Source: [NPS - Mabry Mill](https://www.nps.gov/blri/planyourvisit/mabry-mill-mp-176.htm), [Visit Roanoke VA](https://www.visitroanokeva.com/things-to-do/blue-ridge-parkway/mabry-mill/)]
-
-- **Rough Ridge Trail** (0.75 miles, 30-45 minutes) - Wonderful panoramic views on a boardwalk atop a rocky ridge, making it accessible for most visitors; Milepost 302.8 Blue Ridge Parkway; accessible year-round [Source: [Romantic Asheville](https://www.romanticasheville.com/BlueRidgeParkway.htm), [Virginia Tourism](https://www.virginia.org/places-to-visit/scenic-drives-and-byways/blue-ridge-parkway/hiking-along-the-blue-ridge-parkway/)]
-
-- **Peaks of Otter** (Various trails, 1-4 hours) - Recreation area offering multiple hiking trails around three prominent peaks with a picturesque lake; includes Sharp Top Trail (4.4 miles, moderate) to highest peak; 85919 Blue Ridge Parkway, Bedford, VA 24523; Visitor Center open May-October, 10 AM-5 PM; 540-586-4496 [Source: [NPS - Peaks of Otter](https://www.nps.gov/blri/planyourvisit/peaks-of-otter-mp-85-6.htm), [Blue Ridge Parkway](https://www.blueridgeparkway.org/poi/peaks-of-otter/)]
-
-- **Humpback Rocks** (2 miles round-trip, 1.5-2 hours, strenuous) - Popular hike to 360-degree mountaintop views; also features outdoor Mountain Farm Museum with historic buildings from the 1890s; Milepost 5.8 Blue Ridge Parkway, Lyndhurst, VA 22952; Visitor Center open May-October, 10 AM-5 PM; 540-943-4716 [Source: [NPS - Humpback Rocks](https://www.nps.gov/blri/planyourvisit/humpback-rocks-mp-5-8.htm), [Blue Ridge Parkway](https://www.blueridgeparkway.org/poi/humpback-rocks/)]
-
-- **Moses Cone Memorial Park** (25 miles of carriage roads, 1-4 hours for walks) - Historic estate with 25 miles of carriage roads perfect for strolling, small lakes, and historic structures; estate house features Southern Highland Craft Guild shop with regional arts and crafts; Milepost 294 Blue Ridge Parkway, Blowing Rock, NC 28605; craft shop open early April-November, 9 AM-5 PM; 828-295-3782 [Source: [NPS - Moses Cone](https://www.nps.gov/blri/planyourvisit/moses-h-cone-memorial-park-mp-294.htm), [Blue Ridge Parkway](https://www.blueridgeparkway.org/poi/moses-h-cone-memorial-park/)]
-
-- **Folk Art Center** (30 minutes-1.5 hours) - Showcases the best regional arts and crafts of the Southern Highland Craft Guild; features demonstrations in the lobby 10 AM-4 PM daily March-December, multiple galleries, and gift shop; 382 Blue Ridge Parkway, Asheville, NC 28805; open daily 10 AM-5 PM with seasonal variations; free admission; 828-298-7928 [Source: [NPS - Folk Art Center](https://www.nps.gov/blri/planyourvisit/folk-art-center.htm), [Blue Ridge Parkway](https://www.blueridgeparkway.org/members/folk-art-center/)]
-
-- **Beacon Heights Trail** (1 mile round-trip, 30-45 minutes) - Quick hike with panoramic views from a rock face mountaintop; smooth rocks safe to climb and sit on for enjoying the vista; Milepost 305.2 Blue Ridge Parkway; accessible year-round [Source: [Romantic Asheville](https://www.romanticasheville.com/blue_ridge_parkway_hiking_trail.htm)]
-
-- **Waterrock Knob Summit Trail** (1.2 miles round-trip, 45-90 minutes, strenuous) - Hike to the summit of the 16th highest mountain in the eastern United States at 6,292 feet; highest elevation visitor center on the Parkway with beautiful long-range views of several major mountain chains; Milepost 451.2 Blue Ridge Parkway; Visitor Center open mid-April through early November, 10 AM-5 PM [Source: [NPS - Waterrock Knob](https://www.nps.gov/blri/planyourvisit/waterrock-knob-mp-451-2.htm), [Romantic Asheville](https://www.romanticasheville.com/waterrock_knob.htm)]
-
-- **Fallingwater Cascades Trail** (1.6 miles loop, 1-1.5 hours, moderate) - Loop trail to view cascading waterfalls through forest setting; Milepost 83.1 Blue Ridge Parkway; accessible seasonally [Source: [Virginia Tourism](https://www.virginia.org/places-to-visit/scenic-drives-and-byways/blue-ridge-parkway/hiking-along-the-blue-ridge-parkway/)]
-
-- **Fryingpan Mountain Lookout Tower** (1.5 miles round-trip, 1-1.5 hours) - Hike up to a 70-foot tall fire tower for spectacular 360-degree views; Milepost 409.6 Blue Ridge Parkway; accessible seasonally [Source: [Romantic Asheville](https://www.romanticasheville.com/blue_ridge_parkway_hiking_trail.htm)]
-
-- **Blue Ridge Parkway Visitor Center Interactive Exhibits** (30 minutes-1 hour) - Main visitor center featuring exhibits on natural, cultural, and recreational resources of the region; includes 22-foot interactive map (I-Wall) showing the entire Parkway and movie presentations every 30 minutes starting at 9:30 AM (final show 4 PM); 195 Hemphill Knob Road, Asheville, NC 28803; open 9 AM-5 PM daily year-round except Thanksgiving, Christmas, and New Year's Day; 828-298-5330 [Source: [NPS - BRP Visitor Center](https://www.nps.gov/blri/planyourvisit/blue-ridge-parkway-visitor-center.htm), [Blue Ridge Parkway](https://www.blueridgeparkway.org/poi/blue-ridge-parkway-visitor-center/)]
-
-## Hidden Gems
-
-- **Pounding Mill Overlook** (15-30 minutes) - Named for nearby historic corn grinding mills, this overlook provides unmatched perspectives of Transylvania County with clear views of Frying Pan Fire Tower and Looking Glass Rock; less crowded than popular overlooks; Milepost 413.2 Blue Ridge Parkway; accessible year-round [Source: [Hidden Gems of Blue Ridge](https://thehighlandsplateau.com/hidden-gems-of-the-blue-ridge-mountains-secret-trails-and-scenic-overlooks/)]
-
-- **Thunder Hill Overlook** (15-30 minutes) - Hidden gem offering panoramic views of surrounding mountains and valleys, perfect for sunset watching; less trafficked than main attractions; Milepost 290 Blue Ridge Parkway; accessible year-round [Source: [Hidden Gems of Blue Ridge](https://thehighlandsplateau.com/hidden-gems-of-the-blue-ridge-mountains-secret-trails-and-scenic-overlooks/)]
-
-- **Raven Rocks Overlook** (15-30 minutes) - One of the only northern-facing lookouts along the Blue Ridge Parkway, providing unique perspectives; Milepost 289.5 Blue Ridge Parkway, Blowing Rock area; accessible year-round [Source: [Hidden Gems of Blue Ridge](https://thehighlandsplateau.com/hidden-gems-of-the-blue-ridge-mountains-secret-trails-and-scenic-overlooks/)]
-
-- **Green Knob Overlook and Tower** (1.3-mile trail to tower, 1-1.5 hours) - Offers distant view of South Toe River valley and access to Green Knob Tower, a historic fire lookout tower about 1.3 miles up the ridge; lesser-used trail with rewarding views; Milepost 350.4 Blue Ridge Parkway; accessible seasonally [Source: [Hidden Gems of Blue Ridge](https://thehighlandsplateau.com/hidden-gems-of-the-blue-ridge-mountains-secret-trails-and-scenic-overlooks/)]
-
-- **Chestoa View Overlook** (15-30 minutes) - Provides some of the most dramatic vistas along the parkway, showcasing Linville Gorge, often called the "Grand Canyon of the East"; underrated stop; accessible year-round [Source: [Hidden Gems of Blue Ridge](https://thehighlandsplateau.com/hidden-gems-of-the-blue-ridge-mountains-secret-trails-and-scenic-overlooks/)]
-
-- **Doughton Park** (2-8+ hours for hiking; 6,000-acre park) - One of the Parkway's best-kept secrets with rolling meadows where deer graze in early morning; offers extensive trail system including Fodder Stack Trail (2 miles round-trip, 2 hours, easiest), Bluff Mountain Trail (7.5 miles one-way), and Cedar Ridge Trail (4.4 miles one-way); Milepost 238-245 Blue Ridge Parkway; accessible year-round [Source: [WNC Magazine](https://wncmagazine.com/feature/beaten_path), [NPS - Doughton Park](https://www.nps.gov/blri/planyourvisit/doughton-park-trails.htm)]
-
-- **Flat Rock Trail** (6 miles loop, 3-4 hours, easy) - Much less crowded than other trails; short, easy loop offering views of interesting trees, plants, and fascinating geological features called "bathtubs"; one of the parkway's hidden gems; accessible seasonally [Source: [Hidden Gems of Blue Ridge](https://thehighlandsplateau.com/hidden-gems-of-the-blue-ridge-mountains-secret-trails-and-scenic-overlooks/)]
-
-- **Big Butt Trail at Walker Knob Overlook** (Various distances, 1-3 hours) - Just five miles north of Craggy Gardens, this is a much-less trafficked trail perfect for solitude seekers; accessible seasonally [Source: [Explore Asheville](https://www.exploreasheville.com/article/taking-trail-less-traveled)]
-
-- **Cascades Trail at E.B. Jeffress Park** (1.2 miles loop, 45-90 minutes, easy) - Easy loop trail through lush forest to a series of beautiful waterfalls cascading down the mountainside; less crowded than more famous waterfall hikes; accessible seasonally [Source: [Hidden Gems of Blue Ridge](https://thehighlandsplateau.com/hidden-gems-of-the-blue-ridge-mountains-secret-trails-and-scenic-overlooks/)]
-
-- **Yankee Horse Trail** (0.2 miles, 15-20 minutes, moderate) - Short trail to logging railroad exhibit and small waterfall; quick stop that most visitors miss; Milepost 34.4 Blue Ridge Parkway; accessible seasonally [Source: [Virginia Tourism](https://www.virginia.org/places-to-visit/scenic-drives-and-byways/blue-ridge-parkway/hiking-along-the-blue-ridge-parkway/)]
-
-## Also Nearby
-
-- **Biltmore Estate** (3+ hours recommended for full experience; approximately 4 miles from Blue Ridge Parkway, 10 minutes from Asheville) - America's largest private home with 250 rooms, featuring self-guided audio tour of the house (typically 1 hour), extensive gardens, winery with complimentary wine tastings, and various dining and shopping options; 1 Lodge St, Asheville, NC 28803; house open 9 AM-4:30 PM daily with seasonal variations; tickets include complimentary next-day grounds pass; visit biltmore.com for current hours and pricing [Source: [Biltmore Estate](https://www.biltmore.com/hours/hours-of-operation/), [Blue Ridge National Heritage Area](https://www.blueridgeheritage.com/destinations/biltmore-estate/), [US News Travel](https://travel.usnews.com/Asheville_NC/Things_To_Do/Biltmore_Estate_63311/)]
-
-- **Chimney Rock State Park** (2-4 hours; 25 miles southeast of Asheville, accessible off Blue Ridge Parkway at milepost 384.7) - Dramatic mountain scenery overlooking Hickory Nut Gorge and Lake Lure with hiking trails and the iconic Chimney Rock formation; timed-entry reservations required; 431 Main St, Chimney Rock, NC 28720; open 7 days/week year-round (closed Thanksgiving and Christmas), 10 AM-4:30 PM January-early March, 8:30 AM-4:30 PM March-December; 800-277-9611 [Source: [Chimney Rock State Park](https://www.chimneyrockpark.com/plan-your-visit/hours/), [Blue Ridge National Heritage Area](https://www.blueridgeheritage.com/destinations/chimney-rock/), [Explore Asheville](https://www.exploreasheville.com/things-to-do/outdoors/chimney-rock-state-park)]
-
-- **Grandfather Mountain** (2-4 hours; entrance on US 221, one mile south of Blue Ridge Parkway at Milepost 305) - Nature park featuring the famous Mile High Swinging Bridge, hiking trails, wildlife habitats, and dramatic views; Grandfather Mountain at high elevation can have different weather conditions; 2050 Blowing Rock Highway, Linville, NC 28646; open daily weather permitting except Thanksgiving and Christmas; ticket sales end one hour before closing; 828-733-4337 or 800-468-7325 [Source: [Grandfather Mountain](https://grandfather.com/visit/area-information/), [Blue Ridge National Heritage Area](https://www.blueridgeheritage.com/destinations/grandfather-mountain/), [Romantic Asheville](https://www.romanticasheville.com/grandfather.htm)]
-
-- **Mount Mitchell State Park** (2-3 hours; access road at Blue Ridge Parkway mileposts 355-356, 2.4 miles north on NC 128) - Highest point east of the Mississippi River at 6,684 feet elevation; features 0.5-mile hike from parking to observation deck at summit; 2388 State Highway 128, Burnsville, NC 28714; park open 7 AM-9 PM daily year-round (closed Christmas Day, may close for winter weather); no entrance fee; office hours 8 AM-5 PM daily (closed weekends in winter); accessible from Asheville side of Parkway only [Source: [NC State Parks - Mount Mitchell](https://www.ncparks.gov/state-parks/mount-mitchell-state-park), [Blue Ridge Parkway](https://www.blueridgeparkway.org/poi/mt-mitchell/), [US News Travel](https://travel.usnews.com/Asheville_NC/Things_To_Do/Mount_Mitchell_State_Park_65585/)]
-
-- **Downtown Roanoke** (Various activities, 2-4 hours; less than 10 minutes from Blue Ridge Parkway at milepost 136 via US Route 221) - Historic downtown with shops, restaurants, museums, and the famous Roanoke Star; accessible year-round [Source: [Visit Roanoke VA](https://www.visitroanokeva.com/things-to-do/blue-ridge-parkway/)]
-
-- **Smith Mountain Lake** (Half-day to full-day; less than 45 minutes from Roanoke) - Recreation area offering fishing, swimming, and boat rentals; accessible seasonally [Source: [LYH Lynchburg Tourism](https://www.lynchburgvirginia.org/best-stops-along-the-blue-ridge-parkway/)]
-
----
-
-**Total Recommended Time:** 3-5 days for comprehensive experience of the entire 469-mile route with stops at major attractions, visitor centers, and hikes. Individual sections can be explored in 1-2 day trips. Non-stop driving would take 10-12 hours, but this is not recommended as it defeats the purpose of experiencing the scenic beauty and attractions. [Source: [Lonely Planet](https://www.lonelyplanet.com/articles/blue-ridge-parkway-road-trip), [Travel Awaits](https://www.travelawaits.com/2489007/blue-ridge-parkway-itinerary/), [Lazy Trips](https://lazytrips.com/blog/how-long-does-it-take-to-drive-the-blue-ridge-parkway)]
+**Visitor Center (from source):**
+- **Name:** Blue Ridge Parkway Visitor Center [2683ca]
+- **Address:** 195 Hemphill Knob Rd [fa0882]

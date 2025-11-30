@@ -1,43 +1,19 @@
-# Lincoln Home NHS (National Historic Site)
+# Lincoln Home NHS
 
-## Cancellation Stamp Locations
+## Cancellation Stamp Locations:
 
-- **Lincoln Home Visitor Center** (426 S 7th Street, Springfield, IL 62701 (39.7983, -89.6440); Daily 8:30 AM - 5:00 PM except January 1, Thanksgiving, and December 25; 217-492-4241) - National Park Service passport stamps available at visitor center desk; part of 1987 Passport Stamp Set. [Source: [Operating Hours](https://www.nps.gov/liho/planyourvisit/hours.htm), [Yelp](https://www.yelp.com/biz/lincoln-home-national-historic-site-springfield), [Looking for Lincoln Passport](https://www.lookingforlincoln.org/explore/passport-program)]
+- [ ] Lincoln Home NHS Visitor Center (Illinois; Contact site for hours)
 
-**Note:** Call 217-492-4241 to confirm current stamp locations before visiting. Parking: $2 per vehicle daily fee in lot (debit and credit cards accepted).
+## Key Activities:
 
-## Key Activities
+- [ ] Visitor Center Experience (1-2 hours) - Explore exhibits and learn about Lincoln Home NHS; Illinois; Contact site for hours [[Source](https://www.nps.gov/lhn)]
 
-- **Lincoln Home Guided Tour** (30-45 minutes) - Tour the only home Abraham Lincoln ever owned (1844-1861) where he lived with his wife Mary Todd and raised three of his four sons; conducted by National Park Service Rangers with groups of maximum 15 people; free tickets required and available same-day at visitor center (arrive early as tickets often gone by 2 PM on summer weekends); home restored to 1860 appearance; 426 S 7th Street, Springfield, IL 62701 (39.7983, -89.6440); tours throughout the day 8:30 AM - 5:00 PM; FREE [Source: [Lincoln Home Tour](https://www.nps.gov/liho/planyourvisit/lincoln-home-tour.htm), [TripAdvisor Reviews](https://www.tripadvisor.com/Attraction_Review-g60887-d143197-Reviews-Lincoln_Home_National_Historic_Site-Springfield_Illinois.html), [NPPlan](https://npplan.com/parks-by-state/illinois-national-parks/lincoln-home-national-historic-site-park-at-a-glance/lincoln-home-national-historic-site-house-tour/)]
+## Hidden Gems:
 
-- **Lincoln's Neighborhood Self-Guided Walk** (45-60 minutes) - Explore pedestrian-only four-square block historic neighborhood containing 12 structures restored to their 1860 appearance with three buildings open to public; experience the community where the Lincolns lived and socialized with neighbors; interpretive exhibits throughout the neighborhood provide historical context; accessed from visitor center; daily 8:30 AM - 5:00 PM; FREE [Source: [Things to Do](https://www.nps.gov/liho/planyourvisit/things2do.htm), [TripAdvisor](https://www.tripadvisor.com/Attraction_Review-g60887-d143197-Reviews-Lincoln_Home_National_Historic_Site-Springfield_Illinois.html), [Visit Springfield](https://www.visitspringfieldillinois.com/LocationDetails/?id=Lincoln-Home-National-Historic-Site)]
+## Also Nearby:
 
-- **Visitor Center Exhibits and Film** (30-45 minutes) - Watch "Abraham Lincoln: A Journey to Greatness" park film (screened on the hour and half-hour daily 9:00 AM - 4:30 PM), explore exhibits about Lincoln's Springfield years and rise to presidency; 426 S 7th Street, Springfield, IL 62701 (39.7975784, -89.6461415); Daily 8:30 AM - 5:00 PM; FREE [Source: [Things to Do](https://www.nps.gov/liho/planyourvisit/things2do.htm), [TripAdvisor Visitor Center](https://www.tripadvisor.com/Attraction_Review-g60887-d12852815-Reviews-The_Lincoln_Home_Visitor_Center-Springfield_Illinois.html)]
 
-- **Junior Ranger Program** (1-1.5 hours) - Children complete activity booklet while exploring the park to earn official Junior Ranger badge; booklets available at visitor center; complete activities independently throughout neighborhood; return to visitor center for badge ceremony; 426 S 7th Street, Springfield, IL 62701 (39.7975784, -89.6461415); Daily 8:30 AM - 5:00 PM; FREE [Source: [Ranger Trek Junior Ranger Guide](https://rangertrek.us/lincoln-home-national-historic-site-park-junior-ranger-trek-fun-kids-family-outdoor-activities-program/), [Things to Do](https://www.nps.gov/liho/planyourvisit/things2do.htm)]
+## Amber's Data
 
-- **Living History Demonstrations** (30-45 minutes) - Experience special events featuring costumed interpreters and rangers bringing 1860s Springfield to life; offered throughout the year on select dates; check visitor center for current schedule; 426 S 7th Street, Springfield, IL 62701 (39.7975784, -89.6461415); times vary; FREE [Source: [Park Ranger John](https://www.parkrangerjohn.com/lincoln-home-national-historic-site/)]
+*This section preserves the original data from the source spreadsheet.*
 
-- **Park Ranger Walking Tours of 8th Street** (45-60 minutes) - Join rangers for guided walking tours exploring Lincoln's Springfield beyond the immediate neighborhood; offered seasonally; check visitor center for schedule; 426 S 7th Street, Springfield, IL 62701 (39.7975784, -89.6461415); times vary; FREE [Source: [Park Ranger John](https://www.parkrangerjohn.com/lincoln-home-national-historic-site/)]
-
-## Hidden Gems
-
-- **Dean House and Arnold House** (15-30 minutes each) - Visit two of the three restored neighbor homes open to public within Lincoln's Neighborhood, experiencing typical middle-class Springfield homes of the 1860s that provide context for the Lincolns' social world; accessed during neighborhood self-guided walk; daily 8:30 AM - 5:00 PM; FREE [Source: [Things to Do](https://www.nps.gov/liho/planyourvisit/things2do.htm)]
-
-- **Corneau-Shutt House** (20-30 minutes) - Explore this third restored neighbor home providing additional glimpse into 1860s Springfield residential life and the Lincoln family's community; accessed during neighborhood self-guided walk; daily 8:30 AM - 5:00 PM; FREE [Source: [Things to Do](https://www.nps.gov/liho/planyourvisit/things2do.htm)]
-
-## Also Nearby
-
-- **Abraham Lincoln Presidential Library and Museum** (2-3 hours, 0.5 miles/5 minute walk) - Explore the official library and museum of the 16th U.S. President featuring world-class exhibits, artifacts, and immersive experiences about Lincoln's life and legacy; 112 N 6th Street, Springfield, IL 62701 (39.8022508, -89.6475058); Monday-Saturday 9:00 AM - 5:00 PM, Sunday 12:00 PM - 5:00 PM; admission charged [Source: [Presidential Library and Museum](https://presidentlincoln.illinois.gov), [TripAdvisor](https://www.tripadvisor.com/Attraction_Review-g60887-d270646-Reviews-Abraham_Lincoln_Presidential_Library_and_Museum-Springfield_Illinois.html)]
-
-- **Old State Capitol State Historic Site** (45-60 minutes, 0.3 miles/5 minute walk) - Tour the fifth capitol building built for Illinois (constructed 1837-1840) in Greek Revival style where Lincoln served as State Legislator; features restored chambers and exhibits about Lincoln's political career and famous "House Divided" speech; 1 Old State Capitol Plaza, Springfield, IL 62701; hours vary; FREE [Source: [Historic Springfield](https://dnrhistoric.illinois.gov/experience/sites/historicspringfield.html)]
-
-- **Lincoln-Herndon Law Offices State Historic Site** (30-45 minutes, 0.2 miles/3 minute walk) - Visit the only remaining building in which Abraham Lincoln maintained a law office (1843-1852) with twenty-minute guided tour after orientation video; costumed interpreter portrays Lincoln's law clerk on summer Wednesdays; 6th and Adams Streets, Springfield, IL 62701; currently closed for renovations, check status before visiting [Source: [Lincoln-Herndon Law Offices](https://dnrhistoric.illinois.gov/experience/sites/central/lincoln-herndon.html), [TripAdvisor](https://www.tripadvisor.com/Attraction_Review-g60887-d268966-Reviews-Lincoln_Herndon_Law_Offices_State_Historic_Site-Springfield_Illinois.html), [Easy Access Springfield](https://easyaccessspringfield.org/access-info/Attraction-Details/1/Lincoln-Herndon-Law-Offices/)]
-
-- **Lincoln Tomb at Oak Ridge Cemetery** (45-60 minutes, 4 miles/10 minutes north) - Visit final resting place of Abraham Lincoln, Mary Todd Lincoln, and three of their sons (Edward, William, and Thomas) in beautiful monument designed by sculptor Larkin Mead and completed in 1874; second most visited cemetery in the nation after Arlington; traditional to rub the nose of Lincoln bust outside tomb for luck; 1500 Monument Avenue, Springfield, IL 62702 (39.8193076, -89.6540647); hours vary; FREE [Source: [Lincoln Tomb](https://dnrhistoric.illinois.gov/experience/sites/central/lincoln-tomb.html), [TripAdvisor](https://www.tripadvisor.com/Attraction_Review-g60887-d4310510-Reviews-Lincoln_Tomb-Springfield_Illinois.html), [Visit Springfield](https://visitspringfieldillinois.com/LocationDetails/?id=Lincoln-Tomb)]
-
-- **Lincoln Depot** (15-30 minutes, 0.4 miles/7 minute walk) - See the depot from which Lincoln departed Springfield for his 1861 inauguration, delivering his emotional Farewell Address; 10th and Monroe Streets, Springfield, IL 62701; hours vary [Source: [Historic Springfield](https://dnrhistoric.illinois.gov/experience/sites/historicspringfield.html)]
-
----
-
-**Total Recommended Time at Lincoln Home NHS (National Historic Site):** Minimum 2 hours for complete experience including visitor center, film, Lincoln Home tour, and neighborhood walk as recommended by NPS; 3-4 hours to fully explore all open buildings and exhibits at leisurely pace. Plan extra time for nearby Lincoln sites (half to full day for comprehensive Lincoln tour of Springfield). [Source: [Things to Do](https://www.nps.gov/liho/planyourvisit/things2do.htm), [Park Ranger John](https://www.parkrangerjohn.com/lincoln-home-national-historic-site/)]

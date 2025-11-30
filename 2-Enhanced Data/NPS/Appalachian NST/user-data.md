@@ -1,12 +1,12 @@
 # Appalachian NST
 
-[View Full Research Report](Appalachian%20NST.md (39.0261659, -77.1651693))
+[View Full Research Report](Appalachian%20NST.md)
 
 - [ ] Visited
 
 ## Cancellation Stamps
 
-- [ ] Appalachian Trail Conservancy Visitor Center (799 Washington Street, Harpers Ferry, WV 25425 (39.3255014, -77.7405433)) (39.3255014, -77.7405433)
+- [ ] Appalachian Trail Conservancy Visitor Center (799 Washington Street, Harpers Ferry, WV 25425) (39.3255014, -77.7405433)
 
 ## Key Activities
 
@@ -36,5 +36,13 @@
 - [ ] Antietam National Battlefield (2-3 hours, 16-17 miles)
 - [ ] Monocacy National Battlefield (1-2 hours, 23 miles)
 
+
+## Amber's Data (from spreadsheet)
+
+**Visitor Center:** Visitor Center Harpers Ferry National Historical Park
+
+**Address:** 171 Shoreline Dr, Harpers Ferry, West Virginia 25425
+
+**Hours:** Hours not available
 
 ## Review / Personal Notes

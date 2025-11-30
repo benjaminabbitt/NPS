@@ -1,0 +1,1102 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -90.4068,
+            38.5831
+          ],
+          [
+            -87.5360877,
+            38.6775722
+          ],
+          [
+            -84.508528,
+            39.119899
+          ],
+          [
+            -79.9200728,
+            39.7807755
+          ],
+          [
+            -78.9520453,
+            40.0985388
+          ],
+          [
+            -77.7411521,
+            39.4591562
+          ],
+          [
+            -77.397741,
+            39.377972
+          ],
+          [
+            -76.8924853,
+            38.9949557
+          ],
+          [
+            -76.9393031,
+            38.912614
+          ],
+          [
+            -76.9393031,
+            38.912614
+          ],
+          [
+            -76.9393031,
+            38.912614
+          ],
+          [
+            -76.9393031,
+            38.912614
+          ],
+          [
+            -76.9393031,
+            38.912614
+          ],
+          [
+            -76.9393031,
+            38.912614
+          ],
+          [
+            -76.9393031,
+            38.912614
+          ],
+          [
+            -77.0331588,
+            38.7126138
+          ],
+          [
+            -77.0331588,
+            38.7126138
+          ],
+          [
+            -77.0331588,
+            38.7126138
+          ],
+          [
+            -77.0331588,
+            38.7126138
+          ],
+          [
+            -77.0339422,
+            38.8818503
+          ],
+          [
+            -77.0339422,
+            38.8818503
+          ],
+          [
+            -77.0339422,
+            38.8818503
+          ],
+          [
+            -77.0339422,
+            38.8818503
+          ],
+          [
+            -77.0339422,
+            38.8818503
+          ],
+          [
+            -77.0339422,
+            38.8818503
+          ],
+          [
+            -77.0339422,
+            38.8818503
+          ],
+          [
+            -77.0339422,
+            38.8818503
+          ],
+          [
+            -77.0339422,
+            38.8818503
+          ],
+          [
+            -77.0339422,
+            38.8818503
+          ],
+          [
+            -77.0339422,
+            38.8818503
+          ],
+          [
+            -77.0192369,
+            38.887486
+          ],
+          [
+            -77.0192369,
+            38.887486
+          ],
+          [
+            -77.0192369,
+            38.887486
+          ],
+          [
+            -77.0192369,
+            38.887486
+          ],
+          [
+            -77.0192369,
+            38.887486
+          ],
+          [
+            -77.0258178,
+            38.896678
+          ],
+          [
+            -77.0258178,
+            38.896678
+          ],
+          [
+            -77.0258178,
+            38.896678
+          ],
+          [
+            -77.0352426,
+            38.8894754
+          ],
+          [
+            -77.0352426,
+            38.8894754
+          ],
+          [
+            -77.0495511,
+            38.8901227
+          ],
+          [
+            -77.0495511,
+            38.8901227
+          ],
+          [
+            -77.0495511,
+            38.8901227
+          ],
+          [
+            -77.0495511,
+            38.8901227
+          ],
+          [
+            -77.0495511,
+            38.8901227
+          ],
+          [
+            -77.0495511,
+            38.8901227
+          ],
+          [
+            -77.0516825,
+            38.9600035
+          ],
+          [
+            -77.1394511,
+            38.9669058
+          ],
+          [
+            -77.140882,
+            38.967745
+          ],
+          [
+            -77.1463994,
+            38.961154
+          ],
+          [
+            -77.2555114,
+            38.9937464
+          ],
+          [
+            -77.5216448,
+            38.8130594
+          ],
+          [
+            -78.2749771,
+            39.0310273
+          ],
+          [
+            -82.8295399,
+            36.1629401
+          ],
+          [
+            -85.1697211,
+            37.5524796
+          ],
+          [
+            -85.7346486,
+            37.5503915
+          ],
+          [
+            -90.4068,
+            38.5831
+          ]
+        ]
+      },
+      "properties": {
+        "trip_number": 4,
+        "total_sites": 56,
+        "total_distance_miles": 1416.5,
+        "total_days": 13.97
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.4068,
+          38.5831
+        ]
+      },
+      "properties": {
+        "name": "Kirkwood, MO",
+        "arrival_day": 1,
+        "arrival_time": "06:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.5360877,
+          38.6775722
+        ]
+      },
+      "properties": {
+        "name": "George Rogers Clark NHP, Vincennes, Indiana",
+        "arrival_day": 1,
+        "arrival_time": "10:49"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.508528,
+          39.119899
+        ]
+      },
+      "properties": {
+        "name": "William Howard Taft NHS, Cincinnati, Ohio",
+        "arrival_day": 1,
+        "arrival_time": "15:49"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.9200728,
+          39.7807755
+        ]
+      },
+      "properties": {
+        "name": "Friendship Hill NHS, Point Marion, Pennsylvania",
+        "arrival_day": 2,
+        "arrival_time": "22:20"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.9520453,
+          40.0985388
+        ]
+      },
+      "properties": {
+        "name": "Flight 93 N MEM, Stoystown, Pennsylvania",
+        "arrival_day": 2,
+        "arrival_time": "01:20"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.7411521,
+          39.4591562
+        ]
+      },
+      "properties": {
+        "name": "Antietam NB, Sharpsburg, Maryland",
+        "arrival_day": 3,
+        "arrival_time": "04:45"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.397741,
+          39.377972
+        ]
+      },
+      "properties": {
+        "name": "Monocacy NB, Frederick, Maryland",
+        "arrival_day": 3,
+        "arrival_time": "07:05"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.8924853,
+          38.9949557
+        ]
+      },
+      "properties": {
+        "name": "Greenbelt Park, Greenbelt, Maryland",
+        "arrival_day": 3,
+        "arrival_time": "09:46"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.9393031,
+          38.912614
+        ]
+      },
+      "properties": {
+        "name": "Potomac Heritage NST, Washington DC, DC",
+        "arrival_day": 3,
+        "arrival_time": "11:52"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.9393031,
+          38.912614
+        ]
+      },
+      "properties": {
+        "name": "Fort DuPont Park, Washington DC, DC",
+        "arrival_day": 4,
+        "arrival_time": "13:52"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.9393031,
+          38.912614
+        ]
+      },
+      "properties": {
+        "name": "Capitol Hill Parks, Washington DC, DC",
+        "arrival_day": 4,
+        "arrival_time": "15:52"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.9393031,
+          38.912614
+        ]
+      },
+      "properties": {
+        "name": "Kenilworth Park and Aquatic Gardens, DC, DC",
+        "arrival_day": 4,
+        "arrival_time": "17:52"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.9393031,
+          38.912614
+        ]
+      },
+      "properties": {
+        "name": "Civil War Defenses of Washington, Washington DC, DC",
+        "arrival_day": 4,
+        "arrival_time": "19:52"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.9393031,
+          38.912614
+        ]
+      },
+      "properties": {
+        "name": "National Capital Parks - East, Washington DC, DC",
+        "arrival_day": 4,
+        "arrival_time": "21:52"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.9393031,
+          38.912614
+        ]
+      },
+      "properties": {
+        "name": "Anacostia Park, Washington DC, DC",
+        "arrival_day": 5,
+        "arrival_time": "23:52"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.0331588,
+          38.7126138
+        ]
+      },
+      "properties": {
+        "name": "Harmony Hall, Fort Washington, Maryland",
+        "arrival_day": 5,
+        "arrival_time": "02:08"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.0331588,
+          38.7126138
+        ]
+      },
+      "properties": {
+        "name": "Fort Washington Park, Fort Washington, Maryland",
+        "arrival_day": 5,
+        "arrival_time": "04:08"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.0331588,
+          38.7126138
+        ]
+      },
+      "properties": {
+        "name": "Fort Foote Park, Fort Washington, Maryland",
+        "arrival_day": 5,
+        "arrival_time": "06:08"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.0331588,
+          38.7126138
+        ]
+      },
+      "properties": {
+        "name": "Piscataway Park, Fort Washington, Maryland",
+        "arrival_day": 6,
+        "arrival_time": "08:08"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.0339422,
+          38.8818503
+        ]
+      },
+      "properties": {
+        "name": "John Paul Jones MEM, DC, DC",
+        "arrival_day": 6,
+        "arrival_time": "10:20"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.0339422,
+          38.8818503
+        ]
+      },
+      "properties": {
+        "name": "World War II MEM, Washington DC, DC",
+        "arrival_day": 6,
+        "arrival_time": "12:20"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.0339422,
+          38.8818503
+        ]
+      },
+      "properties": {
+        "name": "George Mason MEM, Washington DC, DC",
+        "arrival_day": 6,
+        "arrival_time": "14:20"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.0339422,
+          38.8818503
+        ]
+      },
+      "properties": {
+        "name": "World War I MEM, Washington DC, DC",
+        "arrival_day": 7,
+        "arrival_time": "16:20"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.0339422,
+          38.8818503
+        ]
+      },
+      "properties": {
+        "name": "John Ericsson MEM, DC, DC",
+        "arrival_day": 7,
+        "arrival_time": "18:20"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.0339422,
+          38.8818503
+        ]
+      },
+      "properties": {
+        "name": "Titanic Memorial, Washington DC, DC",
+        "arrival_day": 7,
+        "arrival_time": "20:20"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.0339422,
+          38.8818503
+        ]
+      },
+      "properties": {
+        "name": "Franklin Delano Roosevelt MEM, Washington DC, DC",
+        "arrival_day": 7,
+        "arrival_time": "22:20"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.0339422,
+          38.8818503
+        ]
+      },
+      "properties": {
+        "name": "Pennsylvania Avenue NHS, Washington DC, DC",
+        "arrival_day": 7,
+        "arrival_time": "00:20"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.0339422,
+          38.8818503
+        ]
+      },
+      "properties": {
+        "name": "West Potomac Park, Washington DC, DC",
+        "arrival_day": 8,
+        "arrival_time": "02:20"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.0339422,
+          38.8818503
+        ]
+      },
+      "properties": {
+        "name": "African American Civil War MEM, DC, DC",
+        "arrival_day": 8,
+        "arrival_time": "04:20"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.0339422,
+          38.8818503
+        ]
+      },
+      "properties": {
+        "name": "Thomas Jefferson Memorial, Washington DC, DC",
+        "arrival_day": 8,
+        "arrival_time": "06:20"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.0192369,
+          38.887486
+        ]
+      },
+      "properties": {
+        "name": "American Veterans Disabled for Life Memorial, Washington DC, DC",
+        "arrival_day": 8,
+        "arrival_time": "08:20"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.0192369,
+          38.887486
+        ]
+      },
+      "properties": {
+        "name": "Ulysses S Grant MEM, Washington DC, DC",
+        "arrival_day": 9,
+        "arrival_time": "10:20"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.0192369,
+          38.887486
+        ]
+      },
+      "properties": {
+        "name": "George Gordon Meade Memorial, Washington DC, DC",
+        "arrival_day": 9,
+        "arrival_time": "12:20"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.0192369,
+          38.887486
+        ]
+      },
+      "properties": {
+        "name": "Japanese American Memorial, Washington DC, DC",
+        "arrival_day": 9,
+        "arrival_time": "14:20"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.0192369,
+          38.887486
+        ]
+      },
+      "properties": {
+        "name": "Belmont-Paul Women's Equality NM, Washington DC, DC",
+        "arrival_day": 9,
+        "arrival_time": "16:20"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.0258178,
+          38.896678
+        ]
+      },
+      "properties": {
+        "name": "Ford's Theatre NHS, DC, DC",
+        "arrival_day": 10,
+        "arrival_time": "18:20"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.0258178,
+          38.896678
+        ]
+      },
+      "properties": {
+        "name": "US Navy MEM, DC, DC",
+        "arrival_day": 10,
+        "arrival_time": "20:20"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.0258178,
+          38.896678
+        ]
+      },
+      "properties": {
+        "name": "Petersen House, DC, DC",
+        "arrival_day": 10,
+        "arrival_time": "22:20"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.0352426,
+          38.8894754
+        ]
+      },
+      "properties": {
+        "name": "Washington Monument, Washington DC, DC",
+        "arrival_day": 10,
+        "arrival_time": "00:20"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.0352426,
+          38.8894754
+        ]
+      },
+      "properties": {
+        "name": "The Lockkeeper's House, Washington DC, DC",
+        "arrival_day": 11,
+        "arrival_time": "02:20"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.0495511,
+          38.8901227
+        ]
+      },
+      "properties": {
+        "name": "Constitution Gardens, DC, DC",
+        "arrival_day": 11,
+        "arrival_time": "04:20"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.0495511,
+          38.8901227
+        ]
+      },
+      "properties": {
+        "name": "Vietnam Veterans MEM, DC, DC",
+        "arrival_day": 11,
+        "arrival_time": "06:20"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.0495511,
+          38.8901227
+        ]
+      },
+      "properties": {
+        "name": "Vietnam Women's MEM, DC, DC",
+        "arrival_day": 11,
+        "arrival_time": "08:20"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.0495511,
+          38.8901227
+        ]
+      },
+      "properties": {
+        "name": "Lincoln MEM, DC, DC",
+        "arrival_day": 12,
+        "arrival_time": "10:20"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.0495511,
+          38.8901227
+        ]
+      },
+      "properties": {
+        "name": "Signers of the Dec of Ind MEM, DC, DC",
+        "arrival_day": 12,
+        "arrival_time": "12:20"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.0495511,
+          38.8901227
+        ]
+      },
+      "properties": {
+        "name": "Korean War Veterans MEM, DC, DC",
+        "arrival_day": 12,
+        "arrival_time": "14:20"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.0516825,
+          38.9600035
+        ]
+      },
+      "properties": {
+        "name": "Rock Creek Park, Washington DC, DC",
+        "arrival_day": 12,
+        "arrival_time": "16:25"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.1394511,
+          38.9669058
+        ]
+      },
+      "properties": {
+        "name": "Glen Echo Park, Glen Echo, Maryland",
+        "arrival_day": 13,
+        "arrival_time": "18:30"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.140882,
+          38.967745
+        ]
+      },
+      "properties": {
+        "name": "Clara Barton NHS, Glen Echo, Maryland",
+        "arrival_day": 13,
+        "arrival_time": "20:30"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.1463994,
+          38.961154
+        ]
+      },
+      "properties": {
+        "name": "George Washington MEM PKWY, McLean, 22101",
+        "arrival_day": 13,
+        "arrival_time": "22:30"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.2555114,
+          38.9937464
+        ]
+      },
+      "properties": {
+        "name": "Great Falls Park, McLean, 22102",
+        "arrival_day": 13,
+        "arrival_time": "00:36"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.5216448,
+          38.8130594
+        ]
+      },
+      "properties": {
+        "name": "Manassas NBP, Manassas, 20109",
+        "arrival_day": 14,
+        "arrival_time": "02:56"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.2749771,
+          39.0310273
+        ]
+      },
+      "properties": {
+        "name": "Cedar Creek and Belle Grove NHP, Middletown, 22645",
+        "arrival_day": 14,
+        "arrival_time": "05:43"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.8295399,
+          36.1629401
+        ]
+      },
+      "properties": {
+        "name": "Andrew Johnson NHS, Greeneville, Tennessee",
+        "arrival_day": 15,
+        "arrival_time": "13:30"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.1697211,
+          37.5524796
+        ]
+      },
+      "properties": {
+        "name": "George Washington Birthplace NM, Colonial Beach, 22443",
+        "arrival_day": 15,
+        "arrival_time": "18:25"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.7346486,
+          37.5503915
+        ]
+      },
+      "properties": {
+        "name": "Abraham Lincoln Birthplace NHP, Hodgenville, Kentucky",
+        "arrival_day": 16,
+        "arrival_time": "20:58"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.4068,
+          38.5831
+        ]
+      },
+      "properties": {
+        "name": "Kirkwood, MO",
+        "arrival_day": 16,
+        "arrival_time": "01:45"
+      }
+    }
+  ]
+}
