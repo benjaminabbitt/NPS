@@ -13,5 +13,4 @@ No activities found. See [Washita Battlefield NHS.md](Washita Battlefield NHS.md
 
 **Address:** 18555 OK-47 Alt, Cheyenne, Oklahoma 73628
 
-**Hours:** Hours not available
-
+**Hours:** Daily: 8:00 AM-4:30 PM

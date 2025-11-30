@@ -13,5 +13,4 @@ No activities found. See [Tonto NM.md](Tonto NM.md) for details.
 
 **Address:** 26260 AZ-188, Roosevelt, Arizona 85545 (33.6646232, -111.1262476)
 
-**Hours:** Hours not available
-
+**Hours:** Daily: 8:00 AM–5:00 PM

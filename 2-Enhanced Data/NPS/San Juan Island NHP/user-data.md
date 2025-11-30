@@ -13,5 +13,4 @@ No activities found. See [San Juan Island NHP.md](San Juan Island NHP.md) for de
 
 **Address:** 4668 Cattle Point Rd., Friday Harbor, Washington 98250
 
-**Hours:** Hours not available
-
+**Hours:** 10:00 AM-3:00 PM (check website for specific days)

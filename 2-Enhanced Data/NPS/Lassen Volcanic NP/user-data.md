@@ -13,5 +13,4 @@ No activities found. See [Lassen Volcanic NP.md](Lassen Volcanic NP.md) for deta
 
 **Address:** 21820 Lassen Peak Hwy, Mineral, California 96063 (40.4377802, -121.5338321)
 
-**Hours:** Hours not available
-
+**Hours:** Daily: 9:30 AM-4:30 PM

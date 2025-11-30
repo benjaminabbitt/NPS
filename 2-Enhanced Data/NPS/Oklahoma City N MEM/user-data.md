@@ -13,5 +13,4 @@ No activities found. See [Oklahoma City N MEM.md](Oklahoma City N MEM.md) for de
 
 **Address:** 620 N. Harvey Ave., Oklahoma City, Oklahoma 73102 (35.4737199, -97.5172885)
 
-**Hours:** Hours not available
-
+**Hours:** Varies by day (check website)

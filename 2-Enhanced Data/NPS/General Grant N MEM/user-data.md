@@ -13,5 +13,4 @@ No activities found. See [General Grant N MEM.md](General Grant N MEM.md) for de
 
 **Address:** Riverside Drive and W. 122nd Street, New York, New York 10027
 
-**Hours:** Hours not available
-
+**Hours:** 10:00 AM-4:00 PM (check website for specific days)

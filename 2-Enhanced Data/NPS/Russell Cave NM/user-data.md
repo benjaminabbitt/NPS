@@ -13,5 +13,4 @@ No activities found. See [Russell Cave NM.md](Russell Cave NM.md) for details.
 
 **Address:** 3729 Co Rd 98, Bridgeport, Alabama 35740
 
-**Hours:** Hours not available
-
+**Hours:** Daily: 8:30 AM–4:00 PM

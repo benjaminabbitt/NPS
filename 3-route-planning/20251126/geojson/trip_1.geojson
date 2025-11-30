@@ -1,0 +1,114 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -90.4068,
+            38.5831
+          ],
+          [
+            -87.8625811,
+            36.4831363
+          ],
+          [
+            -86.8144977,
+            33.5153921
+          ],
+          [
+            -85.83128,
+            33.6581699
+          ],
+          [
+            -90.4068,
+            38.5831
+          ]
+        ]
+      },
+      "properties": {
+        "trip_number": 1,
+        "total_sites": 3,
+        "total_distance_miles": 472.1,
+        "total_days": 1
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.4068,
+          38.5831
+        ]
+      },
+      "properties": {
+        "name": "Kirkwood, MO",
+        "arrival_day": 1,
+        "arrival_time": "06:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.8625811,
+          36.4831363
+        ]
+      },
+      "properties": {
+        "name": "Fort Donelson NB, Dover, Tennessee",
+        "arrival_day": 1,
+        "arrival_time": "11:39"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.8144977,
+          33.5153921
+        ]
+      },
+      "properties": {
+        "name": "Birmingham Civil Rights NM, Birmingham, Alabama",
+        "arrival_day": 1,
+        "arrival_time": "10:40"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.83128,
+          33.6581699
+        ]
+      },
+      "properties": {
+        "name": "Freedom Riders NM, Anniston, Alabama",
+        "arrival_day": 1,
+        "arrival_time": "13:42"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.4068,
+          38.5831
+        ]
+      },
+      "properties": {
+        "name": "Return to Kirkwood, MO",
+        "arrival_day": 1,
+        "arrival_time": "23:26"
+      }
+    }
+  ]
+}

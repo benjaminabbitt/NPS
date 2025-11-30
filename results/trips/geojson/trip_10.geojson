@@ -1,0 +1,95 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -90.4068,
+            38.5831
+          ],
+          [
+            -94.4310733,
+            35.388505
+          ],
+          [
+            -97.5172885,
+            35.4737199
+          ],
+          [
+            -90.4068,
+            38.5831
+          ]
+        ]
+      },
+      "properties": {
+        "trip_number": 10,
+        "total_sites": 2,
+        "total_distance_miles": 486.9,
+        "total_days": 1
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.4068,
+          38.5831
+        ]
+      },
+      "properties": {
+        "name": "Kirkwood, MO",
+        "arrival_day": 1,
+        "arrival_time": "06:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -94.4310733,
+          35.388505
+        ]
+      },
+      "properties": {
+        "name": "Fort Smith NHS, Fort Smith, Arkansas",
+        "arrival_day": 1,
+        "arrival_time": "13:41"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.5172885,
+          35.4737199
+        ]
+      },
+      "properties": {
+        "name": "Oklahoma City N MEM, Oklahoma City, Oklahoma",
+        "arrival_day": 1,
+        "arrival_time": "08:19"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.4068,
+          38.5831
+        ]
+      },
+      "properties": {
+        "name": "Return to Kirkwood, MO",
+        "arrival_day": 1,
+        "arrival_time": "18:26"
+      }
+    }
+  ]
+}

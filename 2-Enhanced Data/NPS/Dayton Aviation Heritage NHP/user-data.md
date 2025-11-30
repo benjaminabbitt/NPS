@@ -13,5 +13,4 @@ No activities found. See [Dayton Aviation Heritage NHP.md](Dayton Aviation Herit
 
 **Address:** 22 S Williams St, Dayton, Ohio 45402 (39.7553856, -84.2119654)
 
-**Hours:** Hours not available
-
+**Hours:** 10:00 AM-4:00 PM (check website for specific days)

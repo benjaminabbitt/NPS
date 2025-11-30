@@ -37,7 +37,6 @@
 
 **Address:** 4730 South Highway 148, Brian Head, Utah 84719
 
-**Hours:** Hours not available
-
+**Hours:** Daily: 9:00 AM-5:00 PM
 ## Review / Personal Notes
 

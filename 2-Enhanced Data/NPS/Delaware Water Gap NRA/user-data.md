@@ -13,5 +13,4 @@ No activities found. See [Delaware Water Gap NRA.md](Delaware Water Gap NRA.md) 
 
 **Address:** 1978 River Road, Bushkill, Pennsylvania 18324 (41.0706397, -75.0170041)
 
-**Hours:** Hours not available
-
+**Hours:** Closed

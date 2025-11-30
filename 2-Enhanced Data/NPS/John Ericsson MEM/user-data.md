@@ -13,5 +13,4 @@ No activities found. See [John Ericsson MEM.md](John Ericsson MEM.md) for detail
 
 **Address:** 121 West Basin Dr SW, Washington, DC, DC 20004 (38.8818503, -77.0339422)
 
-**Hours:** Hours not available
-
+**Hours:** Daily: 10:00 AM-6:00 PM

@@ -13,5 +13,4 @@ No activities found. See [Fort Pulaski NM.md](Fort Pulaski NM.md) for details.
 
 **Address:** 101 Fort Pulaski Rd, Savannah, Georgia 31410
 
-**Hours:** Hours not available
-
+**Hours:** Daily: 9:00 AM-5:00 PM

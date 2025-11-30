@@ -11,7 +11,6 @@ No activities found. See [Guadalupe Mountains NP.md](Guadalupe Mountains NP.md) 
 
 **Visitor Center:** Pine Springs Visitor Center
 
-**Address:** V5VH+P6, 400 Pine Canyon Dr, Salt Flat, Texas 79847
+**Address:** V5VH+P6, 400 Pine Canyon Dr, Salt Flat, Texas 79847 (31.2638905, -98.5456116)
 
-**Hours:** Hours not available
-
+**Hours:** Daily: 8:00 AM-4:00 PM

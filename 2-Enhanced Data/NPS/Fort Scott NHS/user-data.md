@@ -13,5 +13,4 @@ No activities found. See [Fort Scott NHS.md](Fort Scott NHS.md) for details.
 
 **Address:** 199 Old Fort Blvd, Fort Scott, Kansas 66701 (37.8436759, -94.7065998)
 
-**Hours:** Hours not available
-
+**Hours:** 8:30 AM-4:30 PM (check website for specific days)

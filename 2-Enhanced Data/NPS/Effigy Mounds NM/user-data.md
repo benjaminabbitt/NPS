@@ -13,5 +13,4 @@ No activities found. See [Effigy Mounds NM.md](Effigy Mounds NM.md) for details.
 
 **Address:** 151 Hwy 76, Harpers Ferry, Iowa 52146
 
-**Hours:** Hours not available
-
+**Hours:** Daily: 9:00 AM-4:30 PM

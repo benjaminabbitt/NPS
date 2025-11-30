@@ -13,5 +13,4 @@ No activities found. See [Harpers Ferry NHP.md](Harpers Ferry NHP.md) for detail
 
 **Address:** 171 Shoreline Dr, Harpers Ferry, West Virginia 25425
 
-**Hours:** Hours not available
-
+**Hours:** Daily: 9:00 AM-5:00 PM

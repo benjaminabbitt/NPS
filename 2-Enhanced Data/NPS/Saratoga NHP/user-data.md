@@ -13,5 +13,4 @@ No activities found. See [Saratoga NHP.md](Saratoga NHP.md) for details.
 
 **Address:** 648 Route 32, Stillwater, New York 12170
 
-**Hours:** Hours not available
-
+**Hours:** Daily: 9:00 AM-5:00 PM

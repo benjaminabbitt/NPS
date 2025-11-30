@@ -13,5 +13,4 @@ No activities found. See [Golden Gate NRA.md](Golden Gate NRA.md) for details.
 
 **Address:** Golden Gate Bridge Plaza, San Francisco, California 94129 (37.8071685, -122.475654)
 
-**Hours:** Hours not available
-
+**Hours:** Daily: 9:00 AM–6:00 PM

@@ -13,5 +13,4 @@ No activities found. See [Frederick Douglass NHS.md](Frederick Douglass NHS.md) 
 
 **Address:** 1411 W Street, S.E., Washington DC, DC 20020
 
-**Hours:** Hours not available
-
+**Hours:** 9:00 AM-5:00 PM (check website for specific days)

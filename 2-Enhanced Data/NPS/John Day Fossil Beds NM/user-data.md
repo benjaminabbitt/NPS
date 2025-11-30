@@ -13,5 +13,4 @@ No activities found. See [John Day Fossil Beds NM.md](John Day Fossil Beds NM.md
 
 **Address:** 32651 OR-19, Kimberly, Oregon 97848 (44.5529761, -119.6461435)
 
-**Hours:** Hours not available
-
+**Hours:** 10:00 AM-4:00 PM (check website for specific days)

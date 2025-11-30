@@ -1,7 +1,0 @@
-# Amber's Data
-
-**Visitor Center:** Bandelier National Monument Visitor Center
-
-**Address:** 15 Entrance Rd, Los Alamos, New Mexico 87544 (35.79499, -106.2761014)
-
-**Hours:** Daily: 9:00 AM-5:00 PM

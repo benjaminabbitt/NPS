@@ -1,0 +1,95 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -90.4068,
+            38.5831
+          ],
+          [
+            -92.4479108,
+            35.2048883
+          ],
+          [
+            -92.4479108,
+            35.2048883
+          ],
+          [
+            -90.4068,
+            38.5831
+          ]
+        ]
+      },
+      "properties": {
+        "trip_number": 9,
+        "total_sites": 2,
+        "total_distance_miles": 259.2,
+        "total_days": 1
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.4068,
+          38.5831
+        ]
+      },
+      "properties": {
+        "name": "Kirkwood, MO",
+        "arrival_day": 1,
+        "arrival_time": "06:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -92.4479108,
+          35.2048883
+        ]
+      },
+      "properties": {
+        "name": "Pea Ridge NMP, Garfield, Arkansas",
+        "arrival_day": 1,
+        "arrival_time": "12:42"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -92.4479108,
+          35.2048883
+        ]
+      },
+      "properties": {
+        "name": "Arkansas Post N MEM, Gillett, Arkansas",
+        "arrival_day": 1,
+        "arrival_time": "14:42"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.4068,
+          38.5831
+        ]
+      },
+      "properties": {
+        "name": "Return to Kirkwood, MO",
+        "arrival_day": 1,
+        "arrival_time": "21:24"
+      }
+    }
+  ]
+}

@@ -13,5 +13,4 @@ No activities found. See [Chiricahua NM.md](Chiricahua NM.md) for details.
 
 **Address:** 12856 E Rhyolite Creek Rd, Willcox, Arizona 85643
 
-**Hours:** Hours not available
-
+**Hours:** Daily: 8:30 AM–4:30 PM

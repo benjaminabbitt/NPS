@@ -13,5 +13,4 @@ No activities found. See [Sagamore Hill NHS.md](Sagamore Hill NHS.md) for detail
 
 **Address:** 20 Sagamore Hill Rd, Oyster Bay, New York 11771 (40.8859117, -73.4960288)
 
-**Hours:** Hours not available
-
+**Hours:** Sunday, Thursday, Friday, Saturday: 11:00 AM-4:00 PM

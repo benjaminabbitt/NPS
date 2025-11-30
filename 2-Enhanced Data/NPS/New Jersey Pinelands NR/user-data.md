@@ -13,5 +13,4 @@ No activities found. See [New Jersey Pinelands NR.md](New Jersey Pinelands NR.md
 
 **Address:** 109 Route 50 South, Mays Landing, New Jersey 08330
 
-**Hours:** Hours not available
-
+**Hours:** Daily: 8:00 AM-4:00 PM

@@ -11,7 +11,6 @@ No activities found. See [Great Smoky Mountains NP.md](Great Smoky Mountains NP.
 
 **Visitor Center:** Sugarlands Visitor Center
 
-**Address:** 1420 Fighting Creek Gap Rd, Gatlinburg, Tennessee 37738
+**Address:** 1420 Fighting Creek Gap Rd, Gatlinburg, Tennessee 37738 (35.7730076, -86.2820081)
 
-**Hours:** Hours not available
-
+**Hours:** Daily: 9:00 AM-5:00 PM

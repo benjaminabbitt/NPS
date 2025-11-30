@@ -1,0 +1,95 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -90.4068,
+            38.5831
+          ],
+          [
+            -87.5360877,
+            38.6775722
+          ],
+          [
+            -78.9520453,
+            40.0985388
+          ],
+          [
+            -90.4068,
+            38.5831
+          ]
+        ]
+      },
+      "properties": {
+        "trip_number": 6,
+        "total_sites": 2,
+        "total_distance_miles": 623.7,
+        "total_days": 1
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.4068,
+          38.5831
+        ]
+      },
+      "properties": {
+        "name": "Kirkwood, MO",
+        "arrival_day": 1,
+        "arrival_time": "06:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.5360877,
+          38.6775722
+        ]
+      },
+      "properties": {
+        "name": "George Rogers Clark NHP, Vincennes, Indiana",
+        "arrival_day": 1,
+        "arrival_time": "10:49"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.9520453,
+          40.0985388
+        ]
+      },
+      "properties": {
+        "name": "Flight 93 N MEM, Stoystown, Pennsylvania",
+        "arrival_day": 1,
+        "arrival_time": "10:08"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.4068,
+          38.5831
+        ]
+      },
+      "properties": {
+        "name": "Return to Kirkwood, MO",
+        "arrival_day": 1,
+        "arrival_time": "23:24"
+      }
+    }
+  ]
+}

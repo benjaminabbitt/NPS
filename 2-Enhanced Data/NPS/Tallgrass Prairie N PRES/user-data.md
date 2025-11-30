@@ -13,5 +13,4 @@ No activities found. See [Tallgrass Prairie N PRES.md](Tallgrass Prairie N PRES.
 
 **Address:** 2480B KS Hwy 177, Strong City, Kansas 66869
 
-**Hours:** Hours not available
-
+**Hours:** Daily: 9:00 AM-4:30 PM

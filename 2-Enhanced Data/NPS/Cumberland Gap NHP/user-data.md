@@ -13,5 +13,4 @@ No activities found. See [Cumberland Gap NHP.md](Cumberland Gap NHP.md) for deta
 
 **Address:** 100 Pinnacle View Rd., Middlesboro, Kentucky 40965
 
-**Hours:** Hours not available
-
+**Hours:** Daily: 9:00 AM-4:00 PM

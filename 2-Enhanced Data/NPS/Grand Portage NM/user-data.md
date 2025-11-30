@@ -13,5 +13,4 @@ No activities found. See [Grand Portage NM.md](Grand Portage NM.md) for details.
 
 **Address:** 170 Mile Creek Rd, Grand Portage, Minnesota 55605 (47.9609724, -89.6857677)
 
-**Hours:** Hours not available
-
+**Hours:** Daily: 9:00 AM-5:00 PM

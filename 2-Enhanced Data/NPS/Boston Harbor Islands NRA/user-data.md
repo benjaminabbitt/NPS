@@ -13,5 +13,4 @@ No activities found. See [Boston Harbor Islands NRA.md](Boston Harbor Islands NR
 
 **Address:** 151 W Atlantic Avenue, Boston, Massachusetts 02110 (42.3557612, -71.0508834)
 
-**Hours:** Hours not available
-
+**Hours:** Closed

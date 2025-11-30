@@ -13,5 +13,4 @@ No activities found. See [Redwood National and State Parks.md](Redwood National 
 
 **Address:** US-101 & Redwood Hwy, US-101, Orick, California 95555
 
-**Hours:** Hours not available
-
+**Hours:** Daily: 9:00 AM-5:00 PM

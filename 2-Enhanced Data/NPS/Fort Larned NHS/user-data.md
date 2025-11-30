@@ -13,5 +13,4 @@ No activities found. See [Fort Larned NHS.md](Fort Larned NHS.md) for details.
 
 **Address:** 1767 KS-156, Larned, Kansas 67550 (38.1881528, -99.1018604)
 
-**Hours:** Hours not available
-
+**Hours:** Daily: 8:30 AM-4:30 PM

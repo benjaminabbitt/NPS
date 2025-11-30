@@ -13,5 +13,4 @@ No activities found. See [Kennesaw Mountain NBP.md](Kennesaw Mountain NBP.md) fo
 
 **Address:** 900 Kennesaw Mountain Dr, Kennesaw, Georgia 30152
 
-**Hours:** Hours not available
-
+**Hours:** Daily: 9:00 AM-5:00 PM

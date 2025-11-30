@@ -13,5 +13,4 @@ No activities found. See [Appomattox Court House NHP.md](Appomattox Court House 
 
 **Address:** 111 National Park Dr, Appomattox, Virginia 24522
 
-**Hours:** Hours not available
-
+**Hours:** Daily: 9:00 AM-5:00 PM

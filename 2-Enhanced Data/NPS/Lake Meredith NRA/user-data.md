@@ -13,5 +13,4 @@ No activities found. See [Lake Meredith NRA.md](Lake Meredith NRA.md) for detail
 
 **Address:** 419 E Broadway St, Fritch, Texas 79036 (35.6432673, -101.5862787)
 
-**Hours:** Hours not available
-
+**Hours:** 9:00 AM-4:00 PM (check website for specific days)

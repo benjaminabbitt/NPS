@@ -13,5 +13,4 @@ No activities found. See [Zion NP.md](Zion NP.md) for details.
 
 **Address:** 1 Zion Park Blvd, Springdale, Utah 84767 (37.2001074, -112.9869151)
 
-**Hours:** Hours not available
-
+**Hours:** Daily: 8:00 AM-5:00 PM

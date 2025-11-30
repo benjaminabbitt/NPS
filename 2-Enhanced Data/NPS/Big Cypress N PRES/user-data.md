@@ -48,7 +48,6 @@
 
 **Address:** 33000 Tamiami Trail East, Ochopee, Florida 34141 (25.8988938, -81.2883856)
 
-**Hours:** Hours not available
-
+**Hours:** Daily: 9:00 AM-4:30 PM
 ## Review / Personal Notes
 

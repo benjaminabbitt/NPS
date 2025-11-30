@@ -13,5 +13,4 @@ No activities found. See [Ninety Six NHS.md](Ninety Six NHS.md) for details.
 
 **Address:** 1103 Hwy 248, Ninety Six, South Carolina 29666 (34.1678411, -82.0256516)
 
-**Hours:** Hours not available
-
+**Hours:** 9:00 AM-4:30 PM (check website for specific days)

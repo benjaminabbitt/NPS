@@ -13,5 +13,4 @@ No activities found. See [Yukon-Charley Rivers N PRES.md](Yukon-Charley Rivers N
 
 **Address:** 101 Dunkel St, Fairbanks, Alaska 99701 (64.845898, -147.7119211)
 
-**Hours:** Hours not available
-
+**Hours:** Daily: 8:00 AM–5:00 PM

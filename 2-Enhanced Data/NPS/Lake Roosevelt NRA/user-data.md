@@ -13,5 +13,4 @@ No activities found. See [Lake Roosevelt NRA.md](Lake Roosevelt NRA.md) for deta
 
 **Address:** 44150 District Office Ln, Davenport, Washington 99122
 
-**Hours:** Hours not available
-
+**Hours:** Sunday, Friday, Saturday: 9:30 AM-5:00 PM

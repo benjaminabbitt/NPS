@@ -13,5 +13,4 @@ No activities found. See [Friendship Hill NHS.md](Friendship Hill NHS.md) for de
 
 **Address:** 223 New Geneva Road, Point Marion, Pennsylvania 15474 (39.7807755, -79.9200728)
 
-**Hours:** Hours not available
-
+**Hours:** Daily: 9:00 AM-5:00 PM

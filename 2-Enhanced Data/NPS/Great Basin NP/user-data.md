@@ -13,5 +13,4 @@ No activities found. See [Great Basin NP.md](Great Basin NP.md) for details.
 
 **Address:** 5500 NV-488, Baker, Nevada 89311 (39.015325, -114.152583)
 
-**Hours:** Hours not available
-
+**Hours:** Daily: 8:00 AM - 5:00 PM

@@ -39,6 +39,5 @@
 
 **Address:** 14707 Park Central Road, Thurmont, Maryland 21788
 
-**Hours:** Hours not available
-
+**Hours:** Daily: 9:00 AM-4:30 PM
 ## Review / Personal Notes

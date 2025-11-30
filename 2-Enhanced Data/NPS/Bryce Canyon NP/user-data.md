@@ -33,7 +33,6 @@
 
 **Address:** Highway 63, Bryce, Utah 84764 (37.685072, -112.1535205)
 
-**Hours:** Hours not available
-
+**Hours:** Daily: 8:00 AM-8:00 PM
 ## Review / Personal Notes
 

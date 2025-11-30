@@ -13,5 +13,4 @@ No activities found. See [Palo Alto Battlefield NHP.md](Palo Alto Battlefield NH
 
 **Address:** 7200 Paredes Line Road, Brownsville, Texas 78526 (26.0049965, -97.4817606)
 
-**Hours:** Hours not available
-
+**Hours:** Daily: 8:00 AM-5:00 PM

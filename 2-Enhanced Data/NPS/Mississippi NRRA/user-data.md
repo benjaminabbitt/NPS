@@ -13,5 +13,4 @@ No activities found. See [Mississippi NRRA.md](Mississippi NRRA.md) for details.
 
 **Address:** 120 W Kellogg Blvd, St Paul, Minnesota 55102 (44.9470685, -93.1042897)
 
-**Hours:** Hours not available
-
+**Hours:** 9:00 AM-5:00 PM (check website for specific days)

@@ -13,5 +13,4 @@ No activities found. See [Hamilton Grange N MEM.md](Hamilton Grange N MEM.md) fo
 
 **Address:** 414 West 141st Street, New York, New York 10031 (40.8213589, -73.9473012)
 
-**Hours:** Hours not available
-
+**Hours:** 10:00 AM-4:00 PM (check website for specific days)

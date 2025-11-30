@@ -13,5 +13,4 @@ No activities found. See [Freedom Riders NM.md](Freedom Riders NM.md) for detail
 
 **Address:** 1031 Gurnee Ave, Anniston, Alabama 36201 (33.6581699, -85.83128)
 
-**Hours:** Hours not available
-
+**Hours:** Tuesday, Wednesday, Thursday: 10:00 AM–4:00 PM

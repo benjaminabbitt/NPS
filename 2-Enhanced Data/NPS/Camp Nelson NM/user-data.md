@@ -31,6 +31,5 @@
 
 **Address:** 6614 Old Danville Loop 2 Road, Nicholasville, Kentucky 40356
 
-**Hours:** Hours not available
-
+**Hours:** 9:00 AM-5:00 PM (check website for specific days)
 ## Review / Personal Notes

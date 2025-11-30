@@ -13,5 +13,4 @@ No activities found. See [Yosemite NP.md](Yosemite NP.md) for details.
 
 **Address:** 9007 Village Dr, Yosemite National Park, California 95389
 
-**Hours:** Hours not available
-
+**Hours:** Daily: 9:00 AM-5:00 PM

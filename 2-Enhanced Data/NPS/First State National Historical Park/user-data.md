@@ -13,5 +13,4 @@ No activities found. See [First State National Historical Park.md](First State N
 
 **Address:** 10 Market St, New Castle, Delaware 19720 (39.6598681, -75.56338)
 
-**Hours:** Hours not available
-
+**Hours:** Thursday, Friday, Saturday: 9:00 AM-4:30 PM

@@ -13,5 +13,4 @@ No activities found. See [Pinnacles NP.md](Pinnacles NP.md) for details.
 
 **Address:** 5000 CA-146, Paicines, California 95043
 
-**Hours:** Hours not available
-
+**Hours:** Daily: 9:00 AM-6:00 PM

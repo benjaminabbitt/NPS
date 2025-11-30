@@ -35,7 +35,6 @@
 
 **Address:** 800 S San Marcial St, El Paso, Texas 79905 (31.7679289, -106.4538777)
 
-**Hours:** Hours not available
-
+**Hours:** 10:00 AM-5:00 PM (check website for specific days)
 ## Review / Personal Notes
 

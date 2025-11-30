@@ -13,5 +13,4 @@ No activities found. See [Noatak N PRES.md](Noatak N PRES.md) for details.
 
 **Address:** 171 Third Ave, Kotzebue, Alaska 99752
 
-**Hours:** Hours not available
-
+**Hours:** 9:00 AM–5:30 PM (check website for specific days)

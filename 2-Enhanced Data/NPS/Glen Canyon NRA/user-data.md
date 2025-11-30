@@ -13,5 +13,4 @@ No activities found. See [Glen Canyon NRA.md](Glen Canyon NRA.md) for details.
 
 **Address:** Hwy 89 at Glen Canyon Dam, Page, Utah 86040
 
-**Hours:** Hours not available
-
+**Hours:** Daily: 9:00 AM-4:00 PM

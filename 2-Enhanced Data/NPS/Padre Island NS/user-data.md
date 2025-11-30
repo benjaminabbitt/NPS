@@ -13,5 +13,4 @@ No activities found. See [Padre Island NS.md](Padre Island NS.md) for details.
 
 **Address:** 20420 Park Rd 22, Corpus Christi, Texas 78418 (27.4243667, -97.2990078)
 
-**Hours:** Hours not available
-
+**Hours:** Daily: 9:00 AM-5:00 PM

@@ -1,0 +1,1164 @@
+description: Consolidated regional airport trips (12 trips)
+total_trips: 13
+total_sites: 203
+total_days: 154
+trips:
+- name: Pacific Northwest
+  description: Washington, Oregon, Northern Idaho loop
+  fly_in: SEA
+  fly_in_name: Seattle-Tacoma
+  fly_out: PDX
+  fly_out_name: Portland
+  one_way_rental: true
+  recommended_days: 10
+  sites:
+  - name: Minidoka NHS
+    lat: 42.6790604
+    lon: -114.2436604
+    city: Jerome
+    state: Idaho
+  - name: John Day Fossil Beds NM
+    lat: 44.5529761
+    lon: -119.6461435
+    city: Kimberly
+    state: Oregon
+  - name: Fort Vancouver NHS
+    lat: 45.6262017
+    lon: -122.6566331
+    city: Vancouver
+    state: Washington
+  - name: Whitman Mission NHS
+    lat: 46.0414711
+    lon: -118.4644921
+    city: Walla Walla
+    state: Washington
+  - name: Manhattan Project NHP
+    lat: 46.3186488
+    lon: -119.3002167
+    city: Richland
+    state: Washington
+  - name: Nez Perce NHP
+    lat: 46.447474
+    lon: -116.8227749
+    city: Lapwai
+    state: Idaho
+  - name: Wing Luke Museum
+    lat: 47.5982461
+    lon: -122.3228705
+    city: Seattle
+    state: Washington
+  - name: Olympic NP
+    lat: 48.0982206
+    lon: -123.4247649
+    city: Port Angeles
+    state: Washington
+  site_count: 8
+  total_driving_mi: 1854.0
+- name: Northern California & Nevada
+  description: Bay Area, Point Reyes, Lassen, Sierra Nevada
+  fly_in: SFO
+  fly_in_name: San Francisco
+  fly_out: SFO
+  fly_out_name: San Francisco
+  one_way_rental: false
+  recommended_days: 10
+  sites:
+  - name: Tule Springs Fossil Beds NM
+    lat: 36.3166581
+    lon: -115.207274
+    city: Las Vegas
+    state: Nevada
+  - name: Kings Canyon NP
+    lat: 36.7399215
+    lon: -118.9632552
+    city: Grant Grove Village
+    state: California
+  - name: Manzanar NHS
+    lat: 36.7920681
+    lon: -118.1926066
+    city: Independence
+    state: California
+  - name: Presidio of San Francisco
+    lat: 37.8019747
+    lon: -122.4568312
+    city: San Francisco
+    state: California
+  - name: Golden Gate NRA
+    lat: 37.8071685
+    lon: -122.475654
+    city: San Francisco
+    state: California
+  - name: San Francisco Maritime NHP
+    lat: 37.8075021
+    lon: -122.420543
+    city: San Francisco
+    state: California
+  - name: Fort Point NHS
+    lat: 37.8090089
+    lon: -122.4743923
+    city: San Francisco
+    state: California
+  - name: Eugene O'Neill NHS
+    lat: 37.8254254
+    lon: -122.0221967
+    city: Danville
+    state: California
+  - name: John Muir NHS
+    lat: 37.9912921
+    lon: -122.1313223
+    city: Martinez
+    state: California
+  - name: Port Chicago Naval Magazine N MEM
+    lat: 37.9912921
+    lon: -122.1313223
+    city: Martinez
+    state: California
+  - name: Point Reyes NS
+    lat: 38.0411184
+    lon: -122.8003358
+    city: Point Reyes Station
+    state: California
+  - name: Great Basin NP
+    lat: 39.015325
+    lon: -114.152583
+    city: Baker
+    state: Nevada
+  - name: Lassen Volcanic NP
+    lat: 40.4377802
+    lon: -121.5338321
+    city: Mineral
+    state: California
+  site_count: 13
+  total_driving_mi: 2061.0
+- name: Southern California & Mojave
+  description: LA area, Channel Islands, Joshua Tree, Mojave, Vegas
+  fly_in: LAX
+  fly_in_name: Los Angeles
+  fly_out: LAS
+  fly_out_name: Las Vegas
+  one_way_rental: true
+  recommended_days: 10
+  sites:
+  - name: Cabrillo NM
+    lat: 32.6922209
+    lon: -117.2451694
+    city: San Diego
+    state: California
+  - name: Joshua Tree NP
+    lat: 34.134827
+    lon: -116.0568095
+    city: Twentynine Palms
+    state: California
+  - name: Santa Monica Mountains NRA
+    lat: 34.1351612
+    lon: -118.6447676
+    city: Calabasas
+    state: California
+  - name: Channel Islands NP
+    lat: 34.2484654
+    lon: -119.266556
+    city: Ventura
+    state: California
+  - name: Castle Mountains NM
+    lat: 35.0464427
+    lon: -115.3935286
+    city: Essex
+    state: California
+  - name: Mojave N PRES
+    lat: 35.0464427
+    lon: -115.3935286
+    city: Essex
+    state: California
+  - name: Death Valley NP
+    lat: 35.2865526
+    lon: -116.0808486
+    city: DEATH VALLEY
+    state: California
+  site_count: 7
+  total_driving_mi: 760.0
+- name: Arizona Grand Loop
+  description: All Arizona NPS sites plus Grand Canyon
+  fly_in: PHX
+  fly_in_name: Phoenix
+  fly_out: PHX
+  fly_out_name: Phoenix
+  one_way_rental: false
+  recommended_days: 10
+  sites:
+  - name: Organ Pipe Cactus NM
+    lat: 31.9548142
+    lon: -112.8011351
+    city: Ajo
+    state: Arizona
+  - name: Saguaro NP
+    lat: 32.1802177
+    lon: -110.7362598
+    city: Tucson
+    state: Arizona
+  - name: Fort Bowie NHS
+    lat: 32.3265073
+    lon: -109.4841684
+    city: Bowie
+    state: Arizona
+  - name: Casa Grande Ruins NM
+    lat: 32.9946864
+    lon: -111.5366618
+    city: Coolidge
+    state: Arizona
+  - name: Tonto NM
+    lat: 33.6646232
+    lon: -111.1262476
+    city: Roosevelt
+    state: Arizona
+  - name: Montezuma Castle NM
+    lat: 34.6143878
+    lon: -111.845751
+    city: Camp Verde
+    state: Arizona
+  - name: Tuzigoot NM
+    lat: 34.771077
+    lon: -112.0253378
+    city: Clarkdale
+    state: Arizona
+  - name: Petrified Forest NP
+    lat: 35.0658636
+    lon: -109.7814829
+    city: Petrified Forest National Park
+    state: Arizona
+  - name: Walnut Canyon NM
+    lat: 35.2027331
+    lon: -111.5147395
+    city: Flagstaff
+    state: Arizona
+  - name: Grand Canyon NP
+    lat: 36.0557614
+    lon: -112.1292908
+    city: Grand Canyon Village
+    state: Arizona
+  site_count: 10
+  total_driving_mi: 1057.0
+- name: Rocky Mountain & Canyon Country
+  description: Zion, Bryce, Utah parks, then Rocky Mountain NP and Colorado sites
+  fly_in: LAS
+  fly_in_name: Las Vegas
+  fly_out: DEN
+  fly_out_name: Denver
+  one_way_rental: true
+  recommended_days: 14
+  sites:
+  - name: Zion NP
+    lat: 37.2001074
+    lon: -112.9869151
+    city: Springdale
+    state: Utah
+  - name: Bryce Canyon NP
+    lat: 37.685072
+    lon: -112.1535205
+    city: Bryce
+    state: Utah
+  - name: Bent's Old Fort NHS
+    lat: 38.0405317
+    lon: -103.4293894
+    city: La Junta
+    state: Colorado
+  - name: Curecanti NRA
+    lat: 38.4666356
+    lon: -107.1656373
+    city: Gunnison
+    state: Colorado
+  - name: Dinosaur NM
+    lat: 40.2436171
+    lon: -108.972499
+    city: Dinosaur
+    state: Colorado
+  - name: Rocky Mountain NP
+    lat: 40.375336
+    lon: -105.5059
+    city: Estes Park
+    state: Colorado
+  - name: Timpanogos Cave NM
+    lat: 40.4507397
+    lon: -111.7580279
+    city: Alpine
+    state: Utah
+  site_count: 7
+  total_driving_mi: 1925.0
+- name: Four Corners & New Mexico
+  description: Bandelier, Carlsbad, White Sands, Mesa Verde, Chaco
+  fly_in: ABQ
+  fly_in_name: Albuquerque
+  fly_out: ABQ
+  fly_out_name: Albuquerque
+  one_way_rental: false
+  recommended_days: 12
+  sites:
+  - name: Carlsbad Caverns NP
+    lat: 32.175424
+    lon: -104.4445002
+    city: Carlsbad
+    state: New Mexico
+  - name: White Sands NP
+    lat: 32.779621
+    lon: -106.1722449
+    city: Alamogordo
+    state: New Mexico
+  - name: Salinas Pueblo Missions NM
+    lat: 34.5177349
+    lon: -106.241929
+    city: Mountainair
+    state: New Mexico
+  - name: El Malpais NM
+    lat: 35.1186484
+    lon: -107.828853
+    city: Grants
+    state: New Mexico
+  - name: El Morro NM
+    lat: 35.120638
+    lon: -108.484254
+    city: Ramah
+    state: New Mexico
+  - name: Petroglyph NM
+    lat: 35.1344849
+    lon: -106.7106283
+    city: Albuquerque
+    state: New Mexico
+  - name: Bandelier NM
+    lat: 35.79499
+    lon: -106.2761014
+    city: Los Alamos
+    state: New Mexico
+  - name: Capulin Volcano NM
+    lat: 36.7787156
+    lon: -103.9803504
+    city: Capulin
+    state: New Mexico
+  - name: Aztec Ruins NM
+    lat: 36.8345857
+    lon: -108.0002137
+    city: Aztec
+    state: New Mexico
+  site_count: 9
+  total_driving_mi: 1265.0
+- name: Texas Big Bend & Border
+  description: San Antonio to El Paso via Big Bend and border sites
+  fly_in: SAT
+  fly_in_name: San Antonio
+  fly_out: ELP
+  fly_out_name: El Paso
+  one_way_rental: true
+  recommended_days: 12
+  sites:
+  - name: Palo Alto Battlefield NHP
+    lat: 26.0049965
+    lon: -97.4817606
+    city: Brownsville
+    state: Texas
+  - name: Padre Island NS
+    lat: 27.4243667
+    lon: -97.2990078
+    city: Corpus Christi
+    state: Texas
+  - name: San Antonio Missions NHP
+    lat: 29.3603458
+    lon: -98.4788872
+    city: San Antonio
+    state: Texas
+  - name: Amistad NRA
+    lat: 29.466018
+    lon: -100.98844
+    city: Del Rio
+    state: Texas
+  - name: Blackwell School NHS
+    lat: 31.2638905
+    lon: -98.5456116
+    city: Marfa
+    state: Texas
+  - name: Alibates Flint Quarries NM
+    lat: 31.2638905
+    lon: -98.5456116
+    city: Fritch
+    state: Texas
+  - name: Rio Grande WSR
+    lat: 31.2638905
+    lon: -98.5456116
+    city: Big Bend National Park
+    state: Texas
+  - name: Guadalupe Mountains NP
+    lat: 31.2638905
+    lon: -98.5456116
+    city: Salt Flat
+    state: Texas
+  - name: Fort Davis NHS
+    lat: 31.2638905
+    lon: -98.5456116
+    city: Fort Davis
+    state: Texas
+  - name: Big Bend NP
+    lat: 31.2638905
+    lon: -98.5456116
+    city: Big Bend National Park
+    state: Texas
+  - name: Big Thicket N PRES
+    lat: 31.2638905
+    lon: -98.5456116
+    city: Kountze
+    state: Texas
+  - name: Chamizal N MEM
+    lat: 31.7679289
+    lon: -106.4538777
+    city: El Paso
+    state: Texas
+  site_count: 12
+  total_driving_mi: 1317.0
+- name: Greater Yellowstone & Northern Plains
+  description: Yellowstone, Grand Teton, then south through Wyoming to Denver
+  fly_in: BIL
+  fly_in_name: Billings
+  fly_out: DEN
+  fly_out_name: Denver
+  one_way_rental: true
+  recommended_days: 14
+  sites:
+  - name: Scotts Bluff NM
+    lat: 41.8286261
+    lon: -103.7074807
+    city: Gering
+    state: Nebraska
+  - name: Fossil Butte NM
+    lat: 41.8575
+    lon: -110.7661
+    city: Kemmerer
+    state: Wyoming
+  - name: City of Rocks N RES
+    lat: 42.0913683
+    lon: -113.632527
+    city: Almo
+    state: Idaho
+  - name: Fort Laramie NHS
+    lat: 42.2127
+    lon: -104.5455
+    city: Fort Laramie
+    state: Wyoming
+  - name: Mormon Pioneer NHT
+    lat: 42.8666
+    lon: -106.3125
+    city: Casper
+    state: Wyoming
+  - name: Grand Teton NP
+    lat: 43.7904
+    lon: -110.6818
+    city: Moose
+    state: Wyoming
+  - name: John D Rockefeller, Jr Memorial Parkway
+    lat: 43.8549
+    lon: -110.6618
+    city: Moose
+    state: Wyoming
+  - name: Yellowstone NP
+    lat: 44.428
+    lon: -110.5885
+    city: Mammoth
+    state: Wyoming
+  site_count: 8
+  total_driving_mi: 2153.0
+- name: Southeast Atlantic Coast
+  description: Miami to Outer Banks - Everglades, Florida forts, Georgia coast, Carolinas
+  fly_in: MIA
+  fly_in_name: Miami
+  fly_out: RDU
+  fly_out_name: Raleigh-Durham
+  one_way_rental: true
+  recommended_days: 14
+  sites:
+  - name: Biscayne NP
+    lat: 25.4643962
+    lon: -80.3347359
+    city: Homestead
+    state: Florida
+  - name: Big Cypress N PRES
+    lat: 25.8988938
+    lon: -81.2883856
+    city: Ochopee
+    state: Florida
+  - name: Canaveral NS
+    lat: 28.9272225
+    lon: -80.8243973
+    city: New Smyrna Beach
+    state: Florida
+  - name: Fort Matanzas NM
+    lat: 29.8611867
+    lon: -81.2780349
+    city: St. Augustine
+    state: Florida
+  - name: Castillo de San Marcos NM
+    lat: 29.8993771
+    lon: -81.3143815
+    city: St. Augustine
+    state: Florida
+  - name: Fort Caroline N MEM
+    lat: 30.3848466
+    lon: -81.4959844
+    city: Jacksonville
+    state: Florida
+  - name: Timucuan Ecological and Historic PRES
+    lat: 30.3848466
+    lon: -81.4959844
+    city: Jacksonville
+    state: Florida
+  - name: Fort Frederica NM
+    lat: 31.1600988
+    lon: -81.3884377
+    city: St. Simons Island
+    state: Georgia
+  - name: Reconstruction Era NHP
+    lat: 32.432537
+    lon: -80.6700904
+    city: Beaufort
+    state: South Carolina
+  - name: Charles Pinckney NHS
+    lat: 32.8467455
+    lon: -79.8278953
+    city: Mount Pleasant
+    state: South Carolina
+  - name: Moores Creek NB
+    lat: 34.4578949
+    lon: -78.1096233
+    city: Currie
+    state: North Carolina
+  - name: Cape Lookout NS
+    lat: 34.6976882
+    lon: -76.5735718
+    city: Harkers Island
+    state: North Carolina
+  - name: Wright Brothers N MEM
+    lat: 36.02064
+    lon: -75.6677117
+    city: Kill Devil Hills
+    state: North Carolina
+  site_count: 13
+  total_driving_mi: 1135.0
+- name: Capital Region Grand Tour
+  description: DC monuments, Maryland sites, Virginia heritage and battlefields
+  fly_in: DCA
+  fly_in_name: Washington Reagan
+  fly_out: DCA
+  fly_out_name: Washington Reagan
+  one_way_rental: false
+  recommended_days: 14
+  sites:
+  - name: Fort Monroe NM
+    lat: 37.0048
+    lon: -76.3083
+    city: Fort Monroe
+    state: Virginia
+  - name: Historic Jamestowne
+    lat: 37.2097
+    lon: -76.7781
+    city: Jamestown
+    state: Virginia
+  - name: Petersburg NB
+    lat: 37.2274
+    lon: -77.3578
+    city: Petersburg
+    state: Virginia
+  - name: Colonial NHP
+    lat: 37.2296
+    lon: -76.5096
+    city: Yorktown
+    state: Virginia
+  - name: Richmond NBP
+    lat: 37.4218
+    lon: -77.3541
+    city: Richmond
+    state: Virginia
+  - name: Assateague Island NS
+    lat: 37.9188
+    lon: -75.3521
+    city: Chincoteague
+    state: Virginia
+  - name: George Washington Birthplace NM
+    lat: 38.1857
+    lon: -76.9313
+    city: Colonial Beach
+    state: Virginia
+  - name: Shenandoah NP
+    lat: 38.2928
+    lon: -78.6796
+    city: Front Royal
+    state: Virginia
+  - name: Harriet Tubman Underground Railroad NHP
+    lat: 38.5000678
+    lon: -76.1502973
+    city: Church Creek
+    state: Maryland
+  - name: Thomas Stone NHS
+    lat: 38.5302228
+    lon: -77.0360484
+    city: Port Tobacco
+    state: Maryland
+  - name: Prince William Forest Park
+    lat: 38.5815
+    lon: -77.3842
+    city: Triangle
+    state: Virginia
+  - name: Piscataway Park
+    lat: 38.7126138
+    lon: -77.0331588
+    city: Fort Washington
+    state: Maryland
+  - name: Fort Foote Park
+    lat: 38.7126138
+    lon: -77.0331588
+    city: Fort Washington
+    state: Maryland
+  - name: Fort Washington Park
+    lat: 38.7126138
+    lon: -77.0331588
+    city: Fort Washington
+    state: Maryland
+  - name: Harmony Hall
+    lat: 38.7126138
+    lon: -77.0331588
+    city: Fort Washington
+    state: Maryland
+  - name: Manassas NBP
+    lat: 38.8126
+    lon: -77.5216
+    city: Manassas
+    state: Virginia
+  - name: Thomas Jefferson Memorial
+    lat: 38.8818503
+    lon: -77.0339422
+    city: Washington DC
+    state: DC
+  - name: African American Civil War MEM
+    lat: 38.8818503
+    lon: -77.0339422
+    city: DC
+    state: DC
+  - name: West Potomac Park
+    lat: 38.8818503
+    lon: -77.0339422
+    city: Washington DC
+    state: DC
+  - name: Pennsylvania Avenue NHS
+    lat: 38.8818503
+    lon: -77.0339422
+    city: Washington DC
+    state: DC
+  - name: Franklin Delano Roosevelt MEM
+    lat: 38.8818503
+    lon: -77.0339422
+    city: Washington DC
+    state: DC
+  - name: Titanic Memorial
+    lat: 38.8818503
+    lon: -77.0339422
+    city: Washington DC
+    state: DC
+  - name: John Ericsson MEM
+    lat: 38.8818503
+    lon: -77.0339422
+    city: DC
+    state: DC
+  - name: World War I MEM
+    lat: 38.8818503
+    lon: -77.0339422
+    city: Washington DC
+    state: DC
+  - name: George Mason MEM
+    lat: 38.8818503
+    lon: -77.0339422
+    city: Washington DC
+    state: DC
+  - name: World War II MEM
+    lat: 38.8818503
+    lon: -77.0339422
+    city: Washington DC
+    state: DC
+  - name: John Paul Jones MEM
+    lat: 38.8818503
+    lon: -77.0339422
+    city: DC
+    state: DC
+  - name: American Veterans Disabled for Life Memorial
+    lat: 38.887486
+    lon: -77.0192369
+    city: Washington DC
+    state: DC
+  - name: Ulysses S Grant MEM
+    lat: 38.887486
+    lon: -77.0192369
+    city: Washington DC
+    state: DC
+  - name: George Gordon Meade Memorial
+    lat: 38.887486
+    lon: -77.0192369
+    city: Washington DC
+    state: DC
+  - name: Japanese American Memorial
+    lat: 38.887486
+    lon: -77.0192369
+    city: Washington DC
+    state: DC
+  - name: Belmont-Paul Women's Equality NM
+    lat: 38.887486
+    lon: -77.0192369
+    city: Washington DC
+    state: DC
+  - name: Washington Monument
+    lat: 38.8894754
+    lon: -77.0352426
+    city: Washington DC
+    state: DC
+  - name: The Lockkeeper's House
+    lat: 38.8894754
+    lon: -77.0352426
+    city: Washington DC
+    state: DC
+  - name: Constitution Gardens
+    lat: 38.8901227
+    lon: -77.0495511
+    city: DC
+    state: DC
+  - name: Vietnam Veterans MEM
+    lat: 38.8901227
+    lon: -77.0495511
+    city: DC
+    state: DC
+  - name: Vietnam Women's MEM
+    lat: 38.8901227
+    lon: -77.0495511
+    city: DC
+    state: DC
+  - name: Lincoln MEM
+    lat: 38.8901227
+    lon: -77.0495511
+    city: DC
+    state: DC
+  - name: Signers of the Dec of Ind MEM
+    lat: 38.8901227
+    lon: -77.0495511
+    city: DC
+    state: DC
+  - name: Korean War Veterans MEM
+    lat: 38.8901227
+    lon: -77.0495511
+    city: DC
+    state: DC
+  - name: Petersen House
+    lat: 38.896678
+    lon: -77.0258178
+    city: DC
+    state: DC
+  - name: Ford's Theatre NHS
+    lat: 38.896678
+    lon: -77.0258178
+    city: DC
+    state: DC
+  - name: US Navy MEM
+    lat: 38.896678
+    lon: -77.0258178
+    city: DC
+    state: DC
+  - name: Potomac Heritage NST
+    lat: 38.912614
+    lon: -76.9393031
+    city: Washington DC
+    state: DC
+  - name: Fort DuPont Park
+    lat: 38.912614
+    lon: -76.9393031
+    city: Washington DC
+    state: DC
+  - name: Capitol Hill Parks
+    lat: 38.912614
+    lon: -76.9393031
+    city: Washington DC
+    state: DC
+  - name: Kenilworth Park and Aquatic Gardens
+    lat: 38.912614
+    lon: -76.9393031
+    city: DC
+    state: DC
+  - name: Civil War Defenses of Washington
+    lat: 38.912614
+    lon: -76.9393031
+    city: Washington DC
+    state: DC
+  - name: National Capital Parks - East
+    lat: 38.912614
+    lon: -76.9393031
+    city: Washington DC
+    state: DC
+  - name: Anacostia Park
+    lat: 38.912614
+    lon: -76.9393031
+    city: Washington DC
+    state: DC
+  - name: Rock Creek Park
+    lat: 38.9600035
+    lon: -77.0516825
+    city: Washington DC
+    state: DC
+  - name: George Washington MEM PKWY
+    lat: 38.9614
+    lon: -77.1464
+    city: McLean
+    state: Virginia
+  - name: Glen Echo Park
+    lat: 38.9669058
+    lon: -77.1394511
+    city: Glen Echo
+    state: Maryland
+  - name: Clara Barton NHS
+    lat: 38.967745
+    lon: -77.140882
+    city: Glen Echo
+    state: Maryland
+  - name: Greenbelt Park
+    lat: 38.9949557
+    lon: -76.8924853
+    city: Greenbelt
+    state: Maryland
+  - name: Great Falls Park
+    lat: 38.9959
+    lon: -77.2548
+    city: McLean
+    state: Virginia
+  - name: Monocacy NB
+    lat: 39.377972
+    lon: -77.397741
+    city: Frederick
+    state: Maryland
+  - name: Hampton NHS
+    lat: 39.4163298
+    lon: -76.5876824
+    city: Towson
+    state: Maryland
+  - name: Antietam NB
+    lat: 39.4591562
+    lon: -77.7411521
+    city: Sharpsburg
+    state: Maryland
+  site_count: 59
+  total_driving_mi: 1110.0
+- name: Pennsylvania Heritage
+  description: Independence Hall, Gettysburg, Valley Forge, Steamtown
+  fly_in: PHL
+  fly_in_name: Philadelphia
+  fly_out: PHL
+  fly_out_name: Philadelphia
+  one_way_rental: false
+  recommended_days: 8
+  sites:
+  - name: First State National Historical Park
+    lat: 39.6598681
+    lon: -75.56338
+    city: New Castle
+    state: Delaware
+  - name: Gloria Dei Church NHS
+    lat: 39.9356801
+    lon: -75.1432756
+    city: Philadelphia
+    state: Pennsylvania
+  - name: Independence NHP
+    lat: 39.9514534
+    lon: -75.1499193
+    city: Philadelphia
+    state: Pennsylvania
+  - name: Thaddeus Kosciuszko N MEM
+    lat: 39.9514534
+    lon: -75.1499193
+    city: Philadelphia
+    state: Pennsylvania
+  - name: Edgar Allan Poe NHS
+    lat: 39.9618313
+    lon: -75.1498587
+    city: Philadelphia
+    state: Pennsylvania
+  - name: Upper Delaware SRR
+    lat: 40.9699889
+    lon: -77.7278831
+    city: Beach Lake
+    state: Pennsylvania
+  - name: Hopewell Furnace NHS
+    lat: 40.9699889
+    lon: -77.7278831
+    city: Elverson
+    state: Pennsylvania
+  - name: Valley Forge NHP
+    lat: 40.9699889
+    lon: -77.7278831
+    city: King of Prussia
+    state: Pennsylvania
+  - name: Fort Necessity NB
+    lat: 40.9699889
+    lon: -77.7278831
+    city: Farmington
+    state: Pennsylvania
+  - name: Johnstown Flood N MEM
+    lat: 40.9699889
+    lon: -77.7278831
+    city: South Fork
+    state: Pennsylvania
+  - name: Allegheny Portage Railroad NHS
+    lat: 40.9699889
+    lon: -77.7278831
+    city: Duncansville
+    state: Pennsylvania
+  - name: Delaware Water Gap NRA
+    lat: 41.0706397
+    lon: -75.0170041
+    city: Bushkill
+    state: Pennsylvania
+  - name: Steamtown NHS
+    lat: 41.4089919
+    lon: -75.6738549
+    city: Scranton
+    state: Pennsylvania
+  site_count: 13
+  total_driving_mi: 497.0
+- name: New York Mega Tour
+  description: NYC to Finger Lakes, all New York and NJ sites
+  fly_in: EWR
+  fly_in_name: Newark
+  fly_out: EWR
+  fly_out_name: Newark
+  one_way_rental: false
+  recommended_days: 12
+  sites:
+  - name: Gateway NRA
+    lat: 40.598113
+    lon: -73.8207508
+    city: Broad Channel
+    state: New York
+  - name: Statue of Liberty NM
+    lat: 40.6898508
+    lon: -74.0476674
+    city: New York
+    state: New York
+  - name: Ellis Island
+    lat: 40.6991311
+    lon: -74.0395482
+    city: New York
+    state: New York
+  - name: Castle Clinton NM
+    lat: 40.702856
+    lon: -74.0172629
+    city: New York
+    state: New York
+  - name: Federal Hall N MEM
+    lat: 40.7075171
+    lon: -74.0100604
+    city: New York
+    state: New York
+  - name: African Burial Ground NM
+    lat: 40.7145252
+    lon: -74.0044657
+    city: New York
+    state: New York
+  - name: Lower East Side Tenement Museum NHS
+    lat: 40.7187837
+    lon: -73.9900266
+    city: New York
+    state: New York
+  - name: Stonewall NM
+    lat: 40.7339151
+    lon: -74.0020726
+    city: New York
+    state: New York
+  - name: Theodore Roosevelt Birthplace NHS
+    lat: 40.7386402
+    lon: -73.9890373
+    city: New York
+    state: New York
+  - name: Thomas Edison NHP
+    lat: 40.7851176
+    lon: -74.2333435
+    city: West Orange
+    state: New Jersey
+  - name: Morristown NHP
+    lat: 40.7973298
+    lon: -74.4671071
+    city: Morristown
+    state: New Jersey
+  - name: Hamilton Grange N MEM
+    lat: 40.8213589
+    lon: -73.9473012
+    city: New York
+    state: New York
+  - name: Sagamore Hill NHS
+    lat: 40.8859117
+    lon: -73.4960288
+    city: Oyster Bay
+    state: New York
+  - name: Saint Paul's Church NHS
+    lat: 40.8935185
+    lon: -73.8253367
+    city: Mount Vernon
+    state: New York
+  - name: Paterson Great Falls NHP
+    lat: 40.9148026
+    lon: -74.1809754
+    city: Paterson
+    state: New Jersey
+  - name: The White House and President's Park
+    lat: 40.9699889
+    lon: -77.7278831
+    city: Washington DC
+    state: DC
+  - name: Weir Farm NHP
+    lat: 41.2577549
+    lon: -73.4569284
+    city: Wilton
+    state: Connecticut
+  - name: Coltsville NHP
+    lat: 41.756704
+    lon: -72.6630899
+    city: Hartford
+    state: Connecticut
+  - name: Vanderbilt Mansion NHS
+    lat: 41.7939221
+    lon: -73.9378168
+    city: Hyde Park
+    state: New York
+  - name: Thomas Cole NHS
+    lat: 42.225766
+    lon: -73.8615472
+    city: Catskill
+    state: New York
+  - name: Martin Van Buren NHS
+    lat: 42.3698216
+    lon: -73.7040339
+    city: Kinderhook
+    state: New York
+  - name: Theodore Roosevelt Inaugural NHS
+    lat: 42.9015679
+    lon: -78.8726259
+    city: Buffalo
+    state: New York
+  - name: Women's Rights NHP
+    lat: 42.9108267
+    lon: -76.8001575
+    city: Seneca Falls
+    state: New York
+  - name: Harriet Tubman National Historical Park
+    lat: 42.923399
+    lon: -76.5758105
+    city: Auburn
+    state: New York
+  - name: Fort Stanwix NM
+    lat: 43.210051
+    lon: -75.457926
+    city: Rome
+    state: New York
+  - name: Saint-Gaudens NHS
+    lat: 43.500658
+    lon: -72.3656917
+    city: Cornish
+    state: New Hampshire
+  - name: Marsh-Billings-Rockefeller NHP
+    lat: 43.6311669
+    lon: -72.517908
+    city: Woodstock
+    state: Vermont
+  site_count: 27
+  total_driving_mi: 1552.0
+- name: New England Grand Tour
+  description: Boston Freedom Trail to Acadia and Maine border
+  fly_in: BOS
+  fly_in_name: Boston
+  fly_out: BOS
+  fly_out_name: Boston
+  one_way_rental: false
+  recommended_days: 14
+  sites:
+  - name: Touro Synagogue NHS
+    lat: 41.4740544
+    lon: -71.3104743
+    city: Newport
+    state: Rhode Island
+  - name: New Bedford Whaling NHP
+    lat: 41.6357316
+    lon: -70.9237988
+    city: New Bedford
+    state: Massachusetts
+  - name: Roger Williams N MEM
+    lat: 41.8316898
+    lon: -71.4105407
+    city: Providence
+    state: Rhode Island
+  - name: Cape Cod NS
+    lat: 41.8382325
+    lon: -69.9723193
+    city: Eastham
+    state: Massachusetts
+  - name: Blackstone River Valley NHP
+    lat: 42.1301475
+    lon: -71.5411508
+    city: Hopedale
+    state: Massachusetts
+  - name: Adams NHP
+    lat: 42.2517569
+    lon: -71.0033967
+    city: Quincy
+    state: Massachusetts
+  - name: Frederick Law Olmsted NHS
+    lat: 42.3253679
+    lon: -71.1323087
+    city: Brookline
+    state: Massachusetts
+  - name: Boston Harbor Islands NRA
+    lat: 42.3557612
+    lon: -71.0508834
+    city: Boston
+    state: Massachusetts
+  - name: Boston NHP
+    lat: 42.3600335
+    lon: -71.0562341
+    city: Boston
+    state: Massachusetts
+  - name: Boston African American NHS
+    lat: 42.3600335
+    lon: -71.0562341
+    city: Boston
+    state: Massachusetts
+  - name: Minute Man NHP
+    lat: 42.4490425
+    lon: -71.2769212
+    city: Lincoln
+    state: Massachusetts
+  - name: Saugus Iron Works NHS
+    lat: 42.4685934
+    lon: -71.0088876
+    city: Saugus
+    state: Massachusetts
+  - name: Salem Maritime NHP
+    lat: 42.5226304
+    lon: -70.8919882
+    city: Salem
+    state: Massachusetts
+  - name: Lowell NHP
+    lat: 42.6442901
+    lon: -71.3121475
+    city: Lowell
+    state: Massachusetts
+  - name: Frances Perkins NM
+    lat: 44.0052552
+    lon: -69.5564193
+    city: Newcastle
+    state: Maine 4553
+  - name: Acadia NP
+    lat: 44.4084838
+    lon: -68.2459958
+    city: Bar Harbor
+    state: Maine
+  - name: Saint Croix Island IHS
+    lat: 45.1239264
+    lon: -67.1483159
+    city: Calais
+    state: Maine 4619
+  site_count: 17
+  total_driving_mi: 914.0
+unassigned_sites: null

@@ -13,5 +13,4 @@ No activities found. See [Voyageurs NP.md](Voyageurs NP.md) for details.
 
 **Address:** 1797 Ut - 342, International Falls, Minnesota 56649
 
-**Hours:** Hours not available
-
+**Hours:** Daily: 9:00 AM-5:00 PM

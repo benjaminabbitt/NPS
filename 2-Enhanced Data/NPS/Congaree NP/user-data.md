@@ -13,5 +13,4 @@ No activities found. See [Congaree NP.md](Congaree NP.md) for details.
 
 **Address:** 100 National Park Rd, Hopkins, South Carolina 29061
 
-**Hours:** Hours not available
-
+**Hours:** Daily: 9:00 AM-5:00 PM

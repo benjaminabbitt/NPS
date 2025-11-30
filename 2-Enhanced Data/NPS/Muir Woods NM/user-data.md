@@ -13,5 +13,4 @@ No activities found. See [Muir Woods NM.md](Muir Woods NM.md) for details.
 
 **Address:** 1 Muir Woods Rd, Mill Valley, California 94941
 
-**Hours:** Hours not available
-
+**Hours:** Daily: 8:00 AM-6:30 PM

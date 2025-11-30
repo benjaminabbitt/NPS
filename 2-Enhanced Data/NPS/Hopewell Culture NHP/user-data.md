@@ -13,5 +13,4 @@ No activities found. See [Hopewell Culture NHP.md](Hopewell Culture NHP.md) for 
 
 **Address:** 16062 OH-104, Chillicothe, Ohio 45601
 
-**Hours:** Hours not available
-
+**Hours:** Daily: 9:00 AM-4:00 PM

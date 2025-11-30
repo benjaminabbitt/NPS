@@ -13,5 +13,4 @@ No activities found. See [Fort Frederica NM.md](Fort Frederica NM.md) for detail
 
 **Address:** 6515 Frederica Rd., St. Simons Island, Georgia 31522 (31.1600988, -81.3884377)
 
-**Hours:** Hours not available
-
+**Hours:** Daily: 9:00 AM-5:00 PM

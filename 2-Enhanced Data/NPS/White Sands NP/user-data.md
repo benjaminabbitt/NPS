@@ -13,5 +13,4 @@ No activities found. See [White Sands NP.md](White Sands NP.md) for details.
 
 **Address:** 19955 US-70, Alamogordo, New Mexico 88310 (32.779621, -106.1722449)
 
-**Hours:** Hours not available
-
+**Hours:** Daily: 9:00 AM-5:00 PM

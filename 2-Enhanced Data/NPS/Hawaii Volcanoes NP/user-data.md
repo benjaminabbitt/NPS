@@ -11,7 +11,6 @@ No activities found. See [Hawaii Volcanoes NP.md](Hawaii Volcanoes NP.md) for de
 
 **Visitor Center:** Kīlauea Visitor Center
 
-**Address:** 1 Crater Rim Drive, Volcano, Hawaii 96785
+**Address:** 1 Crater Rim Drive, Volcano, Hawaii 96785 (19.5938015, -155.4283701)
 
-**Hours:** Hours not available
-
+**Hours:** Daily: 9:00 AM-5:00 PM

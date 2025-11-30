@@ -13,5 +13,4 @@ No activities found. See [Lincoln Boyhood N MEM.md](Lincoln Boyhood N MEM.md) fo
 
 **Address:** 3027 East South Street, Lincoln City, Indiana 47552
 
-**Hours:** Hours not available
-
+**Hours:** Daily: 9:00 AM-3:00 PM

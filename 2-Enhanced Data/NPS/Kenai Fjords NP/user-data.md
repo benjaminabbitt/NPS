@@ -13,5 +13,4 @@ No activities found. See [Kenai Fjords NP.md](Kenai Fjords NP.md) for details.
 
 **Address:** 1212 4th Ave, Seward, Alaska 99664
 
-**Hours:** Hours not available
-
+**Hours:** Daily: 9:00 AM–7:00 PM

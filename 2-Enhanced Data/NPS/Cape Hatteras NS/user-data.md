@@ -34,6 +34,5 @@
 
 **Address:** 8180 Bodie Island Lighthouse Rd, Nags Head, North Carolina 27959
 
-**Hours:** Hours not available
-
+**Hours:** Daily: 9:00 AM-5:00 PM
 ## Review / Personal Notes

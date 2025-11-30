@@ -13,5 +13,4 @@ No activities found. See [Florissant Fossil Beds NM.md](Florissant Fossil Beds N
 
 **Address:** 15807 Co Rd 1, Florissant, Colorado 80816
 
-**Hours:** Hours not available
-
+**Hours:** Daily: 9:00 AM-4:30 PM

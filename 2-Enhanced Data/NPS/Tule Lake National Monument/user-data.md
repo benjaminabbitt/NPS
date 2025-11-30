@@ -13,5 +13,4 @@ No activities found. See [Tule Lake National Monument.md](Tule Lake National Mon
 
 **Address:** 44340 CA-139, Tulelake, California 96134
 
-**Hours:** Hours not available
-
+**Hours:** Sunday, Friday, Saturday: 9:00 AM-4:30 PM

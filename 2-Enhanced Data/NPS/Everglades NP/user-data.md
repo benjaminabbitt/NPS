@@ -13,5 +13,4 @@ No activities found. See [Everglades NP.md](Everglades NP.md) for details.
 
 **Address:** 40001 SR-9336, Homestead, Florida 33034
 
-**Hours:** Hours not available
-
+**Hours:** Daily: 9:00 AM-5:00 PM

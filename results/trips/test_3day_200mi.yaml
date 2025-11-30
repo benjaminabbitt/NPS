@@ -1,0 +1,86 @@
+home_base:
+  name: Kirkwood, MO
+  lat: 38.5831
+  lon: -90.4068
+parameters:
+  visit_hours_per_site: 2.0
+  hours_per_day: 15
+  preferred_hours_per_day: 12
+  target_days_per_trip: 3
+  max_days_per_trip: 4
+  avg_speed_mph: 55.0
+coverage:
+  total_sites_in_radius: 2
+  sites_visited: 2
+  sites_skipped: 0
+  all_sites_covered: true
+trips:
+- trip_number: 1
+  route_details:
+  - &id001
+    site: Kirkwood, MO
+    site_name: Kirkwood, MO
+    city: ''
+    state: ''
+    lat: 38.5831
+    lon: -90.4068
+    address: ''
+    arrival_minutes: 0
+    arrival_hours: 0.0
+    day: 1
+    day_time_used: 0.0
+    time_of_day: 06:00
+  - site: Springfield 1908 Race Riot National Monument, Springfield, Illinois
+    site_name: Springfield 1908 Race Riot National Monument
+    city: Springfield
+    state: Illinois
+    lat: 39.7973527
+    lon: -89.6448765
+    address: 413 S 8th St, Springfield, Illinois 62701
+    arrival_minutes: 221
+    arrival_hours: 3.68
+    day: 1
+    day_time_used: 3.7
+    time_of_day: '10:41'
+    operating_hours:
+      opens: 09:00
+      closes: '17:00'
+      is_default: false
+    always_stamp_available: false
+    timezone: America/Chicago
+  - site: George Rogers Clark NHP, Vincennes, Indiana
+    site_name: George Rogers Clark NHP
+    city: Vincennes
+    state: Indiana
+    lat: 38.6775722
+    lon: -87.5360877
+    address: 425 S 2nd St, Vincennes, Indiana 47591
+    arrival_minutes: 490
+    arrival_hours: 8.17
+    day: 1
+    day_time_used: 8.18
+    time_of_day: '15:10'
+    operating_hours:
+      opens: 09:00
+      closes: '17:00'
+      is_default: false
+    always_stamp_available: false
+    timezone: America/New_York
+  - *id001
+  stats:
+    total_sites: 2
+    total_distance_miles: 385.2
+    total_time_hours: 11.0
+    total_days: 1
+    within_target: true
+    within_max: true
+    sites_rejected: 0
+    resequenced: true
+  map_links:
+    openstreetmap_route: https://www.openstreetmap.org/directions?engine=fossgis_osrm_car&route=38.5831,-90.4068;39.7973527,-89.6448765;38.6775722,-87.5360877;38.5831,-90.4068
+    google_maps_route: https://www.google.com/maps/dir/38.5831,-90.4068/39.7973527,-89.6448765/38.6775722,-87.5360877/38.5831,-90.4068
+summary:
+  total_trips: 1
+  total_sites: 2
+  total_distance_miles: 385.2
+  total_days: 1

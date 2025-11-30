@@ -13,5 +13,4 @@ No activities found. See [Baltimore-Washington PKWY.md](Baltimore-Washington PKW
 
 **Address:** 1550 Anacostia Ave. NE, Washington DC, Maryland 20019
 
-**Hours:** Hours not available
-
+**Hours:** Daily: 9:00 AM-3:00 PM

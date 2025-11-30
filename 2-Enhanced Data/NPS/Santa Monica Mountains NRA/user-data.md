@@ -13,5 +13,4 @@ No activities found. See [Santa Monica Mountains NRA.md](Santa Monica Mountains 
 
 **Address:** 26876 Mulholland Highway, Calabasas, California 91302 (34.1351612, -118.6447676)
 
-**Hours:** Hours not available
-
+**Hours:** 9:00 AM-4:00 PM (check website for specific days)

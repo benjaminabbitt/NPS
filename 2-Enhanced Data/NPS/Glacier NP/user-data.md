@@ -13,5 +13,4 @@ No activities found. See [Glacier NP.md](Glacier NP.md) for details.
 
 **Address:** Logan's Pass Visitor Center, Browning, Montana 59417
 
-**Hours:** Hours not available
-
+**Hours:** Daily: 9:00 AM-7:00 PM

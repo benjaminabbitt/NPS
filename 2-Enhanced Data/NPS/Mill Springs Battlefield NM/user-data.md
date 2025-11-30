@@ -13,5 +13,4 @@ No activities found. See [Mill Springs Battlefield NM.md](Mill Springs Battlefie
 
 **Address:** 9020 West Highway 80, Nancy, Kentucky 42544
 
-**Hours:** Hours not available
-
+**Hours:** 10:00 AM-4:00 PM (check website for specific days)

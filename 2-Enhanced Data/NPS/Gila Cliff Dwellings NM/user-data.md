@@ -13,5 +13,4 @@ No activities found. See [Gila Cliff Dwellings NM.md](Gila Cliff Dwellings NM.md
 
 **Address:** Gila National Forest, Silver City, New Mexico 88061
 
-**Hours:** Hours not available
-
+**Hours:** Daily: 9:00 AM-4:00 PM

@@ -63,21 +63,3 @@
 **Total Recommended Time:** A half-day visit (4-5 hours) allows for the visitor center, one or two short trails (Kirby, Pitcher Plant, or Sundew), and brief exploration. A full day (6-8 hours) enables multiple trail experiences and a short paddling segment. Multi-day visits (2-3 days) are recommended for those wanting to explore different preserve units, complete longer trails like Turkey Creek or Big Sandy, experience overnight paddling/camping, or engage in serious bird watching across multiple locations. [Sources: [TripAdvisor](https://www.tripadvisor.com/Attraction_Review-g56099-d143077-Reviews-Big_Thicket_National_Preserve-Kountze_Texas.html), [NPS Plan Your Visit](https://www.nps.gov/bith/planyourvisit/index.htm), [Upgraded Points](https://upgradedpoints.com/travel/big-thicket-national-preserve-travel-guide/)]
 
 
-## Amber's Data
-
-*This section preserves the original data from the source spreadsheet.*
-
-**Main Address:** 6102 FM 420, Kountze, Texas 77625
-
-**Operating Hours (from source):**
-- **Sunday:** 9:00 AM-5:00 PM [ff436f]
-- **Monday:** 9:00 AM-5:00 PM [942cba]
-- **Tuesday:** 9:00 AM-5:00 PM [3fa55c]
-- **Wednesday:** 9:00 AM-5:00 PM [56d1cd]
-- **Thursday:** 9:00 AM-5:00 PM [ccffe9]
-- **Friday:** 9:00 AM-5:00 PM [d1ffbd]
-- **Saturday:** 9:00 AM-5:00 PM [23c4af]
-
-**Visitor Center (from source):**
-- **Name:** Big Thicket Visitor Center [2683ca]
-- **Address:** 6102 FM 420 [fa0882]

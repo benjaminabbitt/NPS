@@ -41,7 +41,6 @@
 
 **Address:** 214 Front St., Nome, Alaska 99762 (64.4980814, -165.4101566)
 
-**Hours:** Hours not available
-
+**Hours:** 10:00 AM–5:00 PM (check website for specific days)
 ## Review / Personal Notes
 

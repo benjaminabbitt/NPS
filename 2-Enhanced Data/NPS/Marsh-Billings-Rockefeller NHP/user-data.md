@@ -13,5 +13,4 @@ No activities found. See [Marsh-Billings-Rockefeller NHP.md](Marsh-Billings-Rock
 
 **Address:** 54 Elm St, Woodstock, Vermont 05091 (43.6311669, -72.517908)
 
-**Hours:** Hours not available
-
+**Hours:** 10:00 AM-5:00 PM (check website for specific days)

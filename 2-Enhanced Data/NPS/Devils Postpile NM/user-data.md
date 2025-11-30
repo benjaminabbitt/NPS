@@ -13,5 +13,4 @@ No activities found. See [Devils Postpile NM.md](Devils Postpile NM.md) for deta
 
 **Address:** Devils Postpile Road, Mammoth Lakes, California 93546
 
-**Hours:** Hours not available
-
+**Hours:** Daily: 9:00 AM–5:00 PM

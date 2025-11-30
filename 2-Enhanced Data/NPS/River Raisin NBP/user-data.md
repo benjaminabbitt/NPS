@@ -13,5 +13,4 @@ No activities found. See [River Raisin NBP.md](River Raisin NBP.md) for details.
 
 **Address:** 333 N Dixie Hwy, Monroe, Michigan 48162 (41.9159374, -83.3782184)
 
-**Hours:** Hours not available
-
+**Hours:** Daily: 10:00 AM-5:00 PM

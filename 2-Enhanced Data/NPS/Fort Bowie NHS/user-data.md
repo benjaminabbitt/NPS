@@ -13,5 +13,4 @@ No activities found. See [Fort Bowie NHS.md](Fort Bowie NHS.md) for details.
 
 **Address:** 3500 S Apache Pass Rd, Bowie, Arizona 85605 (32.3265073, -109.4841684)
 
-**Hours:** Hours not available
-
+**Hours:** Sunday, Monday: 8:30 AM–4:00 PM

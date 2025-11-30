@@ -13,5 +13,4 @@ No activities found. See [Harriet Tubman National Historical Park.md](Harriet Tu
 
 **Address:** 47 Parker Street, Auburn, New York 13021 (42.923399, -76.5758105)
 
-**Hours:** Hours not available
-
+**Hours:** Friday, Saturday: 10:00 AM-4:00 PM

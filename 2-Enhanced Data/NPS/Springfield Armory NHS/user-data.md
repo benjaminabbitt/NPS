@@ -13,5 +13,4 @@ No activities found. See [Springfield Armory NHS.md](Springfield Armory NHS.md) 
 
 **Address:** 1 Armory Square, 1 Armory Square, Springfield, Massachusetts 01105
 
-**Hours:** Hours not available
-
+**Hours:** 9:30 AM-4:30 PM (check website for specific days)

@@ -13,5 +13,4 @@ No activities found. See [Big Hole NB.md](Big Hole NB.md) for details.
 
 **Address:** 16425 Highway 43 West, Wisdom, Montana 59761
 
-**Hours:** Hours not available
-
+**Hours:** Daily: 9:00 AM - 5:00 PM

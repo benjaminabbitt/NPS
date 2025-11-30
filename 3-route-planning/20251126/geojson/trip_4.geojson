@@ -1,0 +1,95 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -90.4068,
+            38.5831
+          ],
+          [
+            -94.4233448,
+            39.0937292
+          ],
+          [
+            -94.1798525,
+            34.2939248
+          ],
+          [
+            -90.4068,
+            38.5831
+          ]
+        ]
+      },
+      "properties": {
+        "trip_number": 4,
+        "total_sites": 2,
+        "total_distance_miles": 550.9,
+        "total_days": 1
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.4068,
+          38.5831
+        ]
+      },
+      "properties": {
+        "name": "Kirkwood, MO",
+        "arrival_day": 1,
+        "arrival_time": "06:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -94.4233448,
+          39.0937292
+        ]
+      },
+      "properties": {
+        "name": "Harry S Truman NHS, Independence, Missouri",
+        "arrival_day": 1,
+        "arrival_time": "11:58"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -94.1798525,
+          34.2939248
+        ]
+      },
+      "properties": {
+        "name": "Gauley River NRA, Lansing, 25862",
+        "arrival_day": 1,
+        "arrival_time": "09:01"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.4068,
+          38.5831
+        ]
+      },
+      "properties": {
+        "name": "Return to Kirkwood, MO",
+        "arrival_day": 1,
+        "arrival_time": "17:36"
+      }
+    }
+  ]
+}

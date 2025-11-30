@@ -13,5 +13,4 @@ No activities found. See [Wolf Trap NP for the Performing Arts.md](Wolf Trap NP 
 
 **Address:** 1551 Trap Road, Vienna, Virginia 22182
 
-**Hours:** Hours not available
-
+**Hours:** Daily: 10:00 AM-4:00 PM

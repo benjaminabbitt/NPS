@@ -13,5 +13,4 @@ No activities found. See [Indiana Dunes NP.md](Indiana Dunes NP.md) for details.
 
 **Address:** 1215 IN-49, Porter, Indiana 46304
 
-**Hours:** Hours not available
-
+**Hours:** Daily: 8:30 AM-4:30 PM

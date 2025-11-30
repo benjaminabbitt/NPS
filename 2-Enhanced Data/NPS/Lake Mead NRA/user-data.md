@@ -13,5 +13,4 @@ No activities found. See [Lake Mead NRA.md](Lake Mead NRA.md) for details.
 
 **Address:** 10 Lakeshore Rd, Boulder City, Nevada 89005
 
-**Hours:** Hours not available
-
+**Hours:** Daily: 9:00 AM-4:30 PM

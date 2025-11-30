@@ -13,5 +13,4 @@ No activities found. See [Fort Donelson NB.md](Fort Donelson NB.md) for details.
 
 **Address:** 120 Fort Donelson Park Road, Dover, Tennessee 37058 (36.4831363, -87.8625811)
 
-**Hours:** Hours not available
-
+**Hours:** Daily: 8:30 AM-4:00 PM

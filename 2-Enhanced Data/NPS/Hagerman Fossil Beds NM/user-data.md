@@ -13,5 +13,4 @@ No activities found. See [Hagerman Fossil Beds NM.md](Hagerman Fossil Beds NM.md
 
 **Address:** 17970 U.S. Hwy 30, Hagerman, Idaho 83332
 
-**Hours:** Hours not available
-
+**Hours:** 9:00 AM-3:00 PM (check website for specific days)

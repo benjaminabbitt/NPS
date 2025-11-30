@@ -13,5 +13,4 @@ No activities found. See [Weir Farm NHP.md](Weir Farm NHP.md) for details.
 
 **Address:** 735 Nod Hill Rd, Wilton, Connecticut 06897 (41.2577549, -73.4569284)
 
-**Hours:** Hours not available
-
+**Hours:** 10:00 AM-4:00 PM (check website for specific days)

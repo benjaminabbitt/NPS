@@ -13,5 +13,4 @@ No activities found. See [Katahdin Woods and Waters NM.md](Katahdin Woods and Wa
 
 **Address:** W99X+JF, Stacyville, Maine 04765
 
-**Hours:** Hours not available
-
+**Hours:** Sunday, Friday, Saturday: 9:00 AM-3:00 PM

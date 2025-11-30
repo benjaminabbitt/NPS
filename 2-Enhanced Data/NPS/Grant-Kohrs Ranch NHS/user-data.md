@@ -13,5 +13,4 @@ No activities found. See [Grant-Kohrs Ranch NHS.md](Grant-Kohrs Ranch NHS.md) fo
 
 **Address:** 251 Grant Cir, Deer Lodge, Montana 59722
 
-**Hours:** Hours not available
-
+**Hours:** Daily: 9:00 AM-4:30 PM

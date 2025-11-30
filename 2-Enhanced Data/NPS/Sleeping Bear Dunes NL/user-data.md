@@ -13,5 +13,4 @@ No activities found. See [Sleeping Bear Dunes NL.md](Sleeping Bear Dunes NL.md) 
 
 **Address:** 9922 W Front St, Empire, Michigan 49630 (44.8111976, -86.0547162)
 
-**Hours:** Hours not available
-
+**Hours:** Daily: 8:30 AM-4:00 PM

@@ -13,5 +13,4 @@ No activities found. See [Salem Maritime NHP.md](Salem Maritime NHP.md) for deta
 
 **Address:** 2 New Liberty St, Salem, Massachusetts 01970 (42.5226304, -70.8919882)
 
-**Hours:** Hours not available
-
+**Hours:** Daily: 9:30 AM-4:30 PM

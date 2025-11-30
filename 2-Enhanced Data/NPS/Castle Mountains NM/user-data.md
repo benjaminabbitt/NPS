@@ -38,8 +38,7 @@
 
 **Address:** 2 Black Canyon Road, Essex, California 92332 (35.0464427, -115.3935286)
 
-**Hours:** Hours not available
-
+**Hours:** Sunday, Monday, Friday, Saturday: 10:00 AM-4:00 PM
 ## Review / Personal Notes
 
 

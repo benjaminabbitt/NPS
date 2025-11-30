@@ -13,5 +13,4 @@ No activities found. See [De Soto N MEM.md](De Soto N MEM.md) for details.
 
 **Address:** 8300 Desoto Memorial Hwy, Bradenton, Florida 34209
 
-**Hours:** Hours not available
-
+**Hours:** Daily: 8:00 AM-5:00 PM

@@ -13,5 +13,4 @@ No activities found. See [Yucca House NM.md](Yucca House NM.md) for details.
 
 **Address:** 35853 Rd H.5, Mancos, Colorado 81328
 
-**Hours:** Hours not available
-
+**Hours:** Daily: 8:30 AM-4:00 PM

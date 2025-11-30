@@ -13,5 +13,4 @@ No activities found. See [Gulf Islands NS.md](Gulf Islands NS.md) for details.
 
 **Address:** 3500 Park Rd, Ocean Springs, Mississippi 39564 (30.3988806, -88.7865166)
 
-**Hours:** Hours not available
-
+**Hours:** 9:00 AM-4:00 PM (check website for specific days)

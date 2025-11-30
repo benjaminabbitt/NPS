@@ -13,5 +13,4 @@ No activities found. See [Nicodemus NHS.md](Nicodemus NHS.md) for details.
 
 **Address:** 304 Washington Ave., Nicodemus, Kansas 67625
 
-**Hours:** Hours not available
-
+**Hours:** 9:00AM-5:00 PM (check website for specific days)

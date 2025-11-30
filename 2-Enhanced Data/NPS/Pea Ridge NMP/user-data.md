@@ -11,7 +11,6 @@ No activities found. See [Pea Ridge NMP.md](Pea Ridge NMP.md) for details.
 
 **Visitor Center:** Pea Ridge National Military Park
 
-**Address:** 15930 National Park Dr, Garfield, Arkansas 72732
+**Address:** 15930 National Park Dr, Garfield, Arkansas 72732 (35.2048883, -92.4479108)
 
-**Hours:** Hours not available
-
+**Hours:** Daily: 9:00 AM–5:00 PM

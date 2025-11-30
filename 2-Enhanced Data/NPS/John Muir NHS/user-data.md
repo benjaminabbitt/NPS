@@ -13,5 +13,4 @@ No activities found. See [John Muir NHS.md](John Muir NHS.md) for details.
 
 **Address:** 4202 Alhambra Ave, Martinez, California 94553 (37.9912921, -122.1313223)
 
-**Hours:** Hours not available
-
+**Hours:** Daily: 10:00 AM–5:00 PM

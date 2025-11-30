@@ -13,5 +13,4 @@ No activities found. See [Gloria Dei Church NHS.md](Gloria Dei Church NHS.md) fo
 
 **Address:** 916 S. Swanson Street, Philadelphia, Pennsylvania 19147 (39.9356801, -75.1432756)
 
-**Hours:** Hours not available
-
+**Hours:** 9:00 AM-4:00 PM (check website for specific days)

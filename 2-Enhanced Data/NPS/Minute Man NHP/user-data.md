@@ -13,5 +13,4 @@ No activities found. See [Minute Man NHP.md](Minute Man NHP.md) for details.
 
 **Address:** 210 North Great Road, Lincoln, Massachusetts 01773 (42.4490425, -71.2769212)
 
-**Hours:** Hours not available
-
+**Hours:** Daily: 9:00 AM-5:00 PM

@@ -36,6 +36,5 @@
 
 **Address:** Grand View Point Rd, Moab, Utah 84532
 
-**Hours:** Hours not available
-
+**Hours:** Daily: 8:00 AM-5:00 PM
 ## Review / Personal Notes

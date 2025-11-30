@@ -13,5 +13,4 @@ No activities found. See [Black Canyon of the Gunnison NP.md](Black Canyon of th
 
 **Address:** 9800 Highway 347, Montrose, Colorado 81401
 
-**Hours:** Hours not available
-
+**Hours:** Daily: 8:00 AM-5:00 PM

@@ -13,5 +13,4 @@ No activities found. See [Sunset Crater Volcano NM.md](Sunset Crater Volcano NM.
 
 **Address:** 6082 Forest Service Rd 545, Flagstaff, Arizona 86004
 
-**Hours:** Hours not available
-
+**Hours:** Daily: 9:00 AM–4:30 PM

@@ -13,5 +13,4 @@ No activities found. See [Golden Spike NHP.md](Golden Spike NHP.md) for details.
 
 **Address:** 6200 North 22300 West, Promontory, Utah 84307
 
-**Hours:** Hours not available
-
+**Hours:** Daily: 9:00 AM-5:00 PM

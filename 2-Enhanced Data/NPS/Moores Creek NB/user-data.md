@@ -13,5 +13,4 @@ No activities found. See [Moores Creek NB.md](Moores Creek NB.md) for details.
 
 **Address:** 40 Patriots Hall Dr., Currie, North Carolina 28435 (34.4578949, -78.1096233)
 
-**Hours:** Hours not available
-
+**Hours:** 9:00 AM-5:00 PM (check website for specific days)

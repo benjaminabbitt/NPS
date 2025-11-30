@@ -13,5 +13,4 @@ No activities found. See [Harriet Tubman Underground Railroad NHP.md](Harriet Tu
 
 **Address:** 4068 Golden Hill Road, Church Creek, Maryland 21622 (38.5000678, -76.1502973)
 
-**Hours:** Hours not available
-
+**Hours:** 10:00 AM-4:00 PM (check website for specific days)

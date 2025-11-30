@@ -13,5 +13,4 @@ No activities found. See [World War II MEM.md](World War II MEM.md) for details.
 
 **Address:** 1850 West Basin Dr SW, Washington DC, DC 20242 (38.8818503, -77.0339422)
 
-**Hours:** Hours not available
-
+**Hours:** Daily: 9:00 AM-6:00 PM

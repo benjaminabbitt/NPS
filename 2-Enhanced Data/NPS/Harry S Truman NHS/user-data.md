@@ -13,5 +13,4 @@ No activities found. See [Harry S Truman NHS.md](Harry S Truman NHS.md) for deta
 
 **Address:** 219 N Delaware St, Independence, Missouri 64050 (39.0937292, -94.4233448)
 
-**Hours:** Hours not available
-
+**Hours:** 9:00 AM-5:00 PM (check website for specific days)

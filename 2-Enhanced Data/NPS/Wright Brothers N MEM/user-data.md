@@ -13,5 +13,4 @@ No activities found. See [Wright Brothers N MEM.md](Wright Brothers N MEM.md) fo
 
 **Address:** 1000 North Croatan Highway, Kill Devil Hills, North Carolina 27948 (36.02064, -75.6677117)
 
-**Hours:** Hours not available
-
+**Hours:** Daily: 9:00 AM-5:00 PM

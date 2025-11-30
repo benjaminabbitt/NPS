@@ -13,5 +13,4 @@ No activities found. See [Grand Canyon NP.md](Grand Canyon NP.md) for details.
 
 **Address:** S Entrance Rd, Grand Canyon Village, Arizona 86023 (36.0557614, -112.1292908)
 
-**Hours:** Hours not available
-
+**Hours:** Daily: 8:00 AM–4:00 PM

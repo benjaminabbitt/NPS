@@ -13,5 +13,4 @@ No activities found. See [Ice Age National Scenic Trail.md](Ice Age National Sce
 
 **Address:** 8075 Old Sauk Pass Road, Cross Plains, Wisconsin 53528 (43.0817879, -89.6118533)
 
-**Hours:** Hours not available
-
+**Hours:** 8:00 AM-4:30 PM (check website for specific days)

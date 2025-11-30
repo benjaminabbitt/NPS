@@ -32,7 +32,6 @@
 
 **Address:** 727 Carlsbad Caverns Highway, Carlsbad, New Mexico 88220 (32.175424, -104.4445002)
 
-**Hours:** Hours not available
-
+**Hours:** Daily: 9:00 AM-2:30 PM
 ## Review / Personal Notes
 

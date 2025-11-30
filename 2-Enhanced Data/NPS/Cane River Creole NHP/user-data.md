@@ -32,6 +32,5 @@
 
 **Address:** 4386 LA-494, Natchez, Louisiana 71456 (31.6655406, -93.0024144)
 
-**Hours:** Hours not available
-
+**Hours:** Daily: 9:00 AM-3:30 PM
 ## Review / Personal Notes

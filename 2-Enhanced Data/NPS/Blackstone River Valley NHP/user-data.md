@@ -13,5 +13,4 @@ No activities found. See [Blackstone River Valley NHP.md](Blackstone River Valle
 
 **Address:** 50 Hopedale Street, Hopedale, Massachusetts 01747 (42.1301475, -71.5411508)
 
-**Hours:** Hours not available
-
+**Hours:** Varies by day (check website)

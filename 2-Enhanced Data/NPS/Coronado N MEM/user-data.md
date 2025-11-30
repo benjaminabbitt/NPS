@@ -13,5 +13,4 @@ No activities found. See [Coronado N MEM.md](Coronado N MEM.md) for details.
 
 **Address:** 4101 W Montezuma Canyon Rd, Hereford, Arizona 85615
 
-**Hours:** Hours not available
-
+**Hours:** Daily: 8:00 AM–4:00 PM

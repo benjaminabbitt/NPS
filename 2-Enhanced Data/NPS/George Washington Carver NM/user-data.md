@@ -13,5 +13,4 @@ No activities found. See [George Washington Carver NM.md](George Washington Carv
 
 **Address:** 5646 Carver Rd, Diamond, Missouri 64840
 
-**Hours:** Hours not available
-
+**Hours:** Daily: 9:00 AM-5:00 PM

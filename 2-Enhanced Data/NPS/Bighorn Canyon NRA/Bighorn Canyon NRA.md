@@ -60,21 +60,3 @@
 
 **Total Recommended Time:** 2-3 days for a comprehensive experience including major activities, scenic drives, and wildlife viewing; minimum 1 day for Devil Canyon Overlook, visitor center, and one water activity [[Source](https://www.nps.gov/bica/planyourvisit/itineraries.htm), [Source](https://myitchytravelfeet.com/explore-bighorn-canyon/)]
 
-## Amber's Data
-
-*This section preserves the original data from the source spreadsheet.*
-
-**Main Address:** 2222 Access Rd, Fort Smith, Montana 59050
-
-**Operating Hours (from source):**
-- **Sunday:** 8:30 AM-4:30 PM [ff436f]
-- **Monday:** 8:30 AM-4:30 PM [942cba]
-- **Tuesday:** 8:30 AM-4:30 PM [3fa55c]
-- **Wednesday:** 8:30 AM-4:30 PM [56d1cd]
-- **Thursday:** 8:30 AM-4:30 PM [ccffe9]
-- **Friday:** 8:30 AM-4:30 PM [d1ffbd]
-- **Saturday:** 8:30 AM-4:30 PM [23c4af]
-
-**Visitor Center (from source):**
-- **Name:** Yellowtail Dam Visitor Center [2683ca]
-- **Address:** 2222 Access Rd [fa0882]

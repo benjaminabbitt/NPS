@@ -13,5 +13,4 @@ No activities found. See [Pictured Rocks NL.md](Pictured Rocks NL.md) for detail
 
 **Address:** 1505 Sand Point Rd, Munising, Michigan 49862 (46.4237239, -86.6238153)
 
-**Hours:** Hours not available
-
+**Hours:** Daily: 9:00 AM-5:00 PM

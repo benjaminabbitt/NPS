@@ -13,5 +13,4 @@ No activities found. See [San Francisco Maritime NHP.md](San Francisco Maritime 
 
 **Address:** 499 Jefferson St, San Francisco, California 94109 (37.8075021, -122.420543)
 
-**Hours:** Hours not available
-
+**Hours:** Varies by day (check website)

@@ -13,5 +13,4 @@ No activities found. See [Hampton NHS.md](Hampton NHS.md) for details.
 
 **Address:** 535 Hampton Lane, Towson, Maryland 21286 (39.4163298, -76.5876824)
 
-**Hours:** Hours not available
-
+**Hours:** Sunday, Thursday, Friday, Saturday: 9:00 AM-4:00 PM

@@ -13,5 +13,4 @@ No activities found. See [Rock Creek Park.md](Rock Creek Park.md) for details.
 
 **Address:** 5200 Glover Rd NW, Washington DC, DC 20015 (38.9600035, -77.0516825)
 
-**Hours:** Hours not available
-
+**Hours:** Varies by day (check website)

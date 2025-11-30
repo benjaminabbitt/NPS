@@ -13,5 +13,4 @@ No activities found. See [Stonewall NM.md](Stonewall NM.md) for details.
 
 **Address:** 51 Christopher St, New York, New York 10014 (40.7339151, -74.0020726)
 
-**Hours:** Hours not available
-
+**Hours:** 10:00 AM-4:00 PM (check website for specific days)

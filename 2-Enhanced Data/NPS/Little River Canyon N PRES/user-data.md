@@ -13,5 +13,4 @@ No activities found. See [Little River Canyon N PRES.md](Little River Canyon N P
 
 **Address:** 4322 Little River Canyon Rim Pkwy, Fort Payne, Alabama 35967
 
-**Hours:** Hours not available
-
+**Hours:** 10:00 AM–4:00 PM (check website for specific days)

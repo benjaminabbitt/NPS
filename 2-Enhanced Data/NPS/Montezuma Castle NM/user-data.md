@@ -13,5 +13,4 @@ No activities found. See [Montezuma Castle NM.md](Montezuma Castle NM.md) for de
 
 **Address:** 2800 Montezuma Castle Rd, Camp Verde, Arizona 86322 (34.6143878, -111.845751)
 
-**Hours:** Hours not available
-
+**Hours:** Daily: 9:00 AM–4:45 PM

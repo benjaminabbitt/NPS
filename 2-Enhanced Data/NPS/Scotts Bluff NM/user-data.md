@@ -13,5 +13,4 @@ No activities found. See [Scotts Bluff NM.md](Scotts Bluff NM.md) for details.
 
 **Address:** 190276 Old Oregon Trail, Gering, Nebraska 69341 (41.8286261, -103.7074807)
 
-**Hours:** Hours not available
-
+**Hours:** Daily: 9:00 AM - 5:00 PM

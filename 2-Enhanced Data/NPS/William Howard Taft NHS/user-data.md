@@ -13,5 +13,4 @@ No activities found. See [William Howard Taft NHS.md](William Howard Taft NHS.md
 
 **Address:** 2038 Auburn Avenue, Cincinnati, Ohio 45219 (39.119899, -84.508528)
 
-**Hours:** Hours not available
-
+**Hours:** Sunday, Thursday, Friday, Saturday: 9:00 AM-4:00 PM

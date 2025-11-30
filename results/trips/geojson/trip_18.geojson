@@ -1,0 +1,152 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -90.4068,
+            38.5831
+          ],
+          [
+            -110.7045459,
+            44.9626801
+          ],
+          [
+            -119.3002167,
+            46.3186488
+          ],
+          [
+            -145.2257613,
+            61.836564
+          ],
+          [
+            -147.7119211,
+            64.845898
+          ],
+          [
+            -156.7539881,
+            71.2982129
+          ],
+          [
+            -90.4068,
+            38.5831
+          ]
+        ]
+      },
+      "properties": {
+        "trip_number": 18,
+        "total_sites": 5,
+        "total_distance_miles": 3762.4,
+        "total_days": 5
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.4068,
+          38.5831
+        ]
+      },
+      "properties": {
+        "name": "Kirkwood, MO",
+        "arrival_day": 1,
+        "arrival_time": "06:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -110.7045459,
+          44.9626801
+        ]
+      },
+      "properties": {
+        "name": "Yellowstone NP, Mammoth, 82190",
+        "arrival_day": 2,
+        "arrival_time": "12:35"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -119.3002167,
+          46.3186488
+        ]
+      },
+      "properties": {
+        "name": "Manhattan Project NHP, Richland, Washington",
+        "arrival_day": 2,
+        "arrival_time": "10:33"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -145.2257613,
+          61.836564
+        ]
+      },
+      "properties": {
+        "name": "Wrangell-St Elias NP and PRES, Copper Center, Alaska",
+        "arrival_day": 4,
+        "arrival_time": "08:49"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -147.7119211,
+          64.845898
+        ]
+      },
+      "properties": {
+        "name": "Yukon-Charley Rivers N PRES, Fairbanks, Alaska",
+        "arrival_day": 4,
+        "arrival_time": "14:50"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -156.7539881,
+          71.2982129
+        ]
+      },
+      "properties": {
+        "name": "Inupiat Heritage Center, Barrow, Alaska",
+        "arrival_day": 5,
+        "arrival_time": "08:57"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.4068,
+          38.5831
+        ]
+      },
+      "properties": {
+        "name": "Return to Kirkwood, MO",
+        "arrival_day": 5,
+        "arrival_time": "21:04"
+      }
+    }
+  ]
+}

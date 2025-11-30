@@ -33,6 +33,5 @@
 
 **Address:** 50 Nauset Road, Eastham, Massachusetts 02642 (41.8382325, -69.9723193)
 
-**Hours:** Hours not available
-
+**Hours:** Daily: 9:00 AM-5:00 PM
 ## Review / Personal Notes

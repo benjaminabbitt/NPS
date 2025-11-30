@@ -13,5 +13,4 @@ No activities found. See [North Cascades NP.md](North Cascades NP.md) for detail
 
 **Address:** 376 Newhalem St, Marblemount, Washington 98267
 
-**Hours:** Hours not available
-
+**Hours:** Daily: 9:00 AM-5:00 PM

@@ -1,0 +1,3000 @@
+home_base:
+  name: Kirkwood, MO
+  lat: 38.5831
+  lon: -90.4068
+parameters:
+  visit_hours_per_site: 2.0
+  hours_per_day: 18
+  preferred_hours_per_day: 12
+  target_days_per_trip: 14
+  max_days_per_trip: 15
+  avg_speed_mph: 55.0
+coverage:
+  total_sites_in_radius: 266
+  sites_visited: 95
+  sites_skipped: 172
+  all_sites_covered: false
+  skipped_sites:
+  - name: Abraham Lincoln Birthplace NHP
+    reason: Could not fit within trip constraints (time/distance limitations)
+    lat: 37.5503915
+    lon: -85.7346486
+  - name: Acadia NP
+    reason: Could not fit within trip constraints (time/distance limitations)
+    lat: 44.4084838
+    lon: -68.2459958
+  - name: Adams NHP
+    reason: Could not fit within trip constraints (time/distance limitations)
+    lat: 42.2517569
+    lon: -71.0033967
+  - name: African American Civil War MEM
+    reason: Could not fit within trip constraints (time/distance limitations)
+    lat: 38.8818503
+    lon: -77.0339422
+  - name: African Burial Ground NM
+    reason: Could not fit within trip constraints (time/distance limitations)
+    lat: 40.7145252
+    lon: -74.0044657
+  - name: Allegheny Portage Railroad NHS
+    reason: Could not fit within trip constraints (time/distance limitations)
+    lat: 40.9699889
+    lon: -77.7278831
+  - name: Amache NHS
+    reason: Could not fit within trip constraints (time/distance limitations)
+    lat: 38.0624519
+    lon: -102.3087324
+  - name: American Veterans Disabled for Life Memorial
+    reason: Could not fit within trip constraints (time/distance limitations)
+    lat: 38.887486
+    lon: -77.0192369
+  - name: Anacostia Park
+    reason: Could not fit within trip constraints (time/distance limitations)
+    lat: 38.912614
+    lon: -76.9393031
+  - name: Andrew Johnson NHS
+    reason: Could not fit within trip constraints (time/distance limitations)
+    lat: 36.1629401
+    lon: -82.8295399
+  - name: Arkansas Post N MEM
+    reason: Could not fit within trip constraints (time/distance limitations)
+    lat: 35.2048883
+    lon: -92.4479108
+  - name: Bandelier NM
+    reason: Could not fit within trip constraints (time/distance limitations)
+    lat: 35.79499
+    lon: -106.2761014
+  - name: Belmont-Paul Women's Equality NM
+    reason: Could not fit within trip constraints (time/distance limitations)
+    lat: 38.887486
+    lon: -77.0192369
+  - name: Big Bend NP
+    reason: Could not fit within trip constraints (time/distance limitations)
+    lat: 31.2638905
+    lon: -98.5456116
+  - name: Big Cypress N PRES
+    reason: Could not fit within trip constraints (time/distance limitations)
+    lat: 25.8988938
+    lon: -81.2883856
+  - name: Big South Fork NRRA
+    reason: Could not fit within trip constraints (time/distance limitations)
+    lat: 35.7730076
+    lon: -86.2820081
+  - name: Big Thicket N PRES
+    reason: Could not fit within trip constraints (time/distance limitations)
+    lat: 31.2638905
+    lon: -98.5456116
+  - name: Birmingham Civil Rights NM
+    reason: Could not fit within trip constraints (time/distance limitations)
+    lat: 33.5153921
+    lon: -86.8144977
+  - name: Biscayne NP
+    reason: Could not fit within trip constraints (time/distance limitations)
+    lat: 25.4643962
+    lon: -80.3347359
+  - name: Blackwell School NHS
+    reason: Could not fit within trip constraints (time/distance limitations)
+    lat: 31.2638905
+    lon: -98.5456116
+  - name: Bluestone NSR
+    reason: Could not fit within trip constraints (time/distance limitations)
+    lat: 35.7032968
+    lon: -79.4250803
+  - name: Boston African American NHS
+    reason: Could not fit within trip constraints (time/distance limitations)
+    lat: 42.3600335
+    lon: -71.0562341
+  - name: Boston Harbor Islands NRA
+    reason: Could not fit within trip constraints (time/distance limitations)
+    lat: 42.3557612
+    lon: -71.0508834
+  - name: Boston NHP
+    reason: Could not fit within trip constraints (time/distance limitations)
+    lat: 42.3600335
+    lon: -71.0562341
+  - name: Cabrillo NM
+    reason: Could not fit within trip constraints (time/distance limitations)
+    lat: 32.6922209
+    lon: -117.2451694
+  - name: Cape Cod NS
+    reason: Could not fit within trip constraints (time/distance limitations)
+    lat: 41.8382325
+    lon: -69.9723193
+  - name: Cape Lookout NS
+    reason: Could not fit within trip constraints (time/distance limitations)
+    lat: 34.6976882
+    lon: -76.5735718
+  - name: Capulin Volcano NM
+    reason: Could not fit within trip constraints (time/distance limitations)
+    lat: 36.7787156
+    lon: -103.9803504
+  - name: Carl Sandburg Home NHS
+    reason: Could not fit within trip constraints (time/distance limitations)
+    lat: 35.2727825
+    lon: -82.4528575
+  - name: Carlsbad Caverns NP
+    reason: Could not fit within trip constraints (time/distance limitations)
+    lat: 32.175424
+    lon: -104.4445002
+  - name: Castillo de San Marcos NM
+    reason: Could not fit within trip constraints (time/distance limitations)
+    lat: 29.8993771
+    lon: -81.3143815
+  - name: Castle Clinton NM
+    reason: Could not fit within trip constraints (time/distance limitations)
+    lat: 40.702856
+    lon: -74.0172629
+  - name: Cedar Creek and Belle Grove NHP
+    reason: Could not fit within trip constraints (time/distance limitations)
+    lat: 39.0310273
+    lon: -78.2749771
+  - name: Chamizal N MEM
+    reason: Could not fit within trip constraints (time/distance limitations)
+    lat: 31.7679289
+    lon: -106.4538777
+  - name: Charles Pinckney NHS
+    reason: Could not fit within trip constraints (time/distance limitations)
+    lat: 32.8467455
+    lon: -79.8278953
+  - name: Chattahoochee River NRA
+    reason: Could not fit within trip constraints (time/distance limitations)
+    lat: 33.9872732
+    lon: -84.324584
+  - name: Chickasaw NRA
+    reason: Could not fit within trip constraints (time/distance limitations)
+    lat: 34.4937367
+    lon: -96.9789694
+  - name: City of Rocks N RES
+    reason: Could not fit within trip constraints (time/distance limitations)
+    lat: 42.0913683
+    lon: -113.632527
+  - name: Civil War Defenses of Washington
+    reason: Could not fit within trip constraints (time/distance limitations)
+    lat: 38.912614
+    lon: -76.9393031
+  - name: Clara Barton NHS
+    reason: Could not fit within trip constraints (time/distance limitations)
+    lat: 38.967745
+    lon: -77.140882
+  - name: Coltsville NHP
+    reason: Could not fit within trip constraints (time/distance limitations)
+    lat: 41.756704
+    lon: -72.6630899
+  - name: Constitution Gardens
+    reason: Could not fit within trip constraints (time/distance limitations)
+    lat: 38.8901227
+    lon: -77.0495511
+  - name: Curecanti NRA
+    reason: Could not fit within trip constraints (time/distance limitations)
+    lat: 38.4666356
+    lon: -107.1656373
+  - name: Cuyahoga Valley NP
+    reason: Could not fit within trip constraints (time/distance limitations)
+    lat: 41.2625954
+    lon: -81.560308
+  - name: Dayton Aviation Heritage NHP
+    reason: Could not fit within trip constraints (time/distance limitations)
+    lat: 39.7553856
+    lon: -84.2119654
+  - name: Dinosaur NM
+    reason: Could not fit within trip constraints (time/distance limitations)
+    lat: 40.2436171
+    lon: -108.972499
+  - name: Edgar Allan Poe NHS
+    reason: Could not fit within trip constraints (time/distance limitations)
+    lat: 39.9618313
+    lon: -75.1498587
+  - name: El Malpais NM
+    reason: Could not fit within trip constraints (time/distance limitations)
+    lat: 35.1186484
+    lon: -107.828853
+  - name: El Morro NM
+    reason: Could not fit within trip constraints (time/distance limitations)
+    lat: 35.120638
+    lon: -108.484254
+  - name: Ellis Island
+    reason: Could not fit within trip constraints (time/distance limitations)
+    lat: 40.6991311
+    lon: -74.0395482
+  - name: Emmett Till and Mamie Till-Mobley NM
+    reason: Could not fit within trip constraints (time/distance limitations)
+    lat: 33.9711973
+    lon: -90.3697739
+  - name: Federal Hall N MEM
+    reason: Could not fit within trip constraints (time/distance limitations)
+    lat: 40.7075171
+    lon: -74.0100604
+  - name: First Ladies NHS
+    reason: Could not fit within trip constraints (time/distance limitations)
+    lat: 40.7975362
+    lon: -81.3748608
+  - name: First State National Historical Park
+    reason: Could not fit within trip constraints (time/distance limitations)
+    lat: 39.6598681
+    lon: -75.56338
+  - name: Flight 93 N MEM
+    reason: Could not fit within trip constraints (time/distance limitations)
+    lat: 40.0985388
+    lon: -78.9520453
+  - name: Ford's Theatre NHS
+    reason: Could not fit within trip constraints (time/distance limitations)
+    lat: 38.896678
+    lon: -77.0258178
+  - name: Fort Caroline N MEM
+    reason: Could not fit within trip constraints (time/distance limitations)
+    lat: 30.3848466
+    lon: -81.4959844
+  - name: Fort Davis NHS
+    reason: Could not fit within trip constraints (time/distance limitations)
+    lat: 31.2638905
+    lon: -98.5456116
+  - name: Fort DuPont Park
+    reason: Could not fit within trip constraints (time/distance limitations)
+    lat: 38.912614
+    lon: -76.9393031
+  - name: Fort Frederica NM
+    reason: Could not fit within trip constraints (time/distance limitations)
+    lat: 31.1600988
+    lon: -81.3884377
+  - name: Fort Larned NHS
+    reason: Could not fit within trip constraints (time/distance limitations)
+    lat: 38.1881528
+    lon: -99.1018604
+  - name: Fort Matanzas NM
+    reason: Could not fit within trip constraints (time/distance limitations)
+    lat: 29.8611867
+    lon: -81.2780349
+  - name: Fort Necessity NB
+    reason: Could not fit within trip constraints (time/distance limitations)
+    lat: 40.9699889
+    lon: -77.7278831
+  - name: Fort Point NHS
+    reason: Could not fit within trip constraints (time/distance limitations)
+    lat: 37.8090089
+    lon: -122.4743923
+  - name: Fort Stanwix NM
+    reason: Could not fit within trip constraints (time/distance limitations)
+    lat: 43.210051
+    lon: -75.457926
+  - name: Fossil Butte NM
+    reason: Could not fit within trip constraints (time/distance limitations)
+    lat: 35.1813118
+    lon: -87.0878382
+  - name: Frances Perkins NM
+    reason: Could not fit within trip constraints (time/distance limitations)
+    lat: 44.0052552
+    lon: -69.5564193
+  - name: Franklin Delano Roosevelt MEM
+    reason: Could not fit within trip constraints (time/distance limitations)
+    lat: 38.8818503
+    lon: -77.0339422
+  - name: Frederick Law Olmsted NHS
+    reason: Could not fit within trip constraints (time/distance limitations)
+    lat: 42.3253679
+    lon: -71.1323087
+  - name: Friendship Hill NHS
+    reason: Could not fit within trip constraints (time/distance limitations)
+    lat: 39.7807755
+    lon: -79.9200728
+  - name: Gauley River NRA
+    reason: Could not fit within trip constraints (time/distance limitations)
+    lat: 34.2939248
+    lon: -94.1798525
+  - name: George Mason MEM
+    reason: Could not fit within trip constraints (time/distance limitations)
+    lat: 38.8818503
+    lon: -77.0339422
+  - name: George Washington Birthplace NM
+    reason: Could not fit within trip constraints (time/distance limitations)
+    lat: 37.5524796
+    lon: -85.1697211
+  - name: Gloria Dei Church NHS
+    reason: Could not fit within trip constraints (time/distance limitations)
+    lat: 39.9356801
+    lon: -75.1432756
+  - name: Golden Gate NRA
+    reason: Could not fit within trip constraints (time/distance limitations)
+    lat: 37.8071685
+    lon: -122.475654
+  - name: Great Falls Park
+    reason: Could not fit within trip constraints (time/distance limitations)
+    lat: 38.9937464
+    lon: -77.2555114
+  - name: Great Smoky Mountains NP
+    reason: Could not fit within trip constraints (time/distance limitations)
+    lat: 35.7730076
+    lon: -86.2820081
+  - name: Greenbelt Park
+    reason: Could not fit within trip constraints (time/distance limitations)
+    lat: 38.9949557
+    lon: -76.8924853
+  - name: Gulf Islands NS
+    reason: Could not fit within trip constraints (time/distance limitations)
+    lat: 30.3988806
+    lon: -88.7865166
+  - name: Hamilton Grange N MEM
+    reason: Could not fit within trip constraints (time/distance limitations)
+    lat: 40.8213589
+    lon: -73.9473012
+  - name: Hampton NHS
+    reason: Could not fit within trip constraints (time/distance limitations)
+    lat: 39.4163298
+    lon: -76.5876824
+  - name: Harriet Tubman National Historical Park
+    reason: Could not fit within trip constraints (time/distance limitations)
+    lat: 42.923399
+    lon: -76.5758105
+  - name: Harriet Tubman Underground Railroad NHP
+    reason: Could not fit within trip constraints (time/distance limitations)
+    lat: 38.5000678
+    lon: -76.1502973
+  - name: Historic Jamestowne
+    reason: Could not fit within trip constraints (time/distance limitations)
+    lat: 37.223011
+    lon: -76.784161
+  - name: Homestead NHP
+    reason: Could not fit within trip constraints (time/distance limitations)
+    lat: 40.2658382
+    lon: -96.7332497
+  - name: Ice Age National Scenic Trail
+    reason: Could not fit within trip constraints (time/distance limitations)
+    lat: 43.0817879
+    lon: -89.6118533
+  - name: Independence NHP
+    reason: Could not fit within trip constraints (time/distance limitations)
+    lat: 39.9514534
+    lon: -75.1499193
+  - name: Isle Royale NP
+    reason: Could not fit within trip constraints (time/distance limitations)
+    lat: 47.1229405
+    lon: -88.5637537
+  - name: John D Rockefeller, Jr Memorial Parkway
+    reason: Could not fit within trip constraints (time/distance limitations)
+    lat: 43.8441363
+    lon: -110.6108042
+  - name: John Day Fossil Beds NM
+    reason: Could not fit within trip constraints (time/distance limitations)
+    lat: 44.5529761
+    lon: -119.6461435
+  - name: John Ericsson MEM
+    reason: Could not fit within trip constraints (time/distance limitations)
+    lat: 38.8818503
+    lon: -77.0339422
+  - name: Joshua Tree NP
+    reason: Could not fit within trip constraints (time/distance limitations)
+    lat: 34.134827
+    lon: -116.0568095
+  - name: Kenilworth Park and Aquatic Gardens
+    reason: Could not fit within trip constraints (time/distance limitations)
+    lat: 38.912614
+    lon: -76.9393031
+  - name: Keweenaw NHP
+    reason: Could not fit within trip constraints (time/distance limitations)
+    lat: 47.2440788
+    lon: -88.4523448
+  - name: Kings Canyon NP
+    reason: Could not fit within trip constraints (time/distance limitations)
+    lat: 36.7399215
+    lon: -118.9632552
+  - name: Korean War Veterans MEM
+    reason: Could not fit within trip constraints (time/distance limitations)
+    lat: 38.8901227
+    lon: -77.0495511
+  - name: Lake Meredith NRA
+    reason: Could not fit within trip constraints (time/distance limitations)
+    lat: 35.6432673
+    lon: -101.5862787
+  - name: Lassen Volcanic NP
+    reason: Could not fit within trip constraints (time/distance limitations)
+    lat: 40.4377802
+    lon: -121.5338321
+  - name: Little Rock Central High School NHS
+    reason: Could not fit within trip constraints (time/distance limitations)
+    lat: 34.7381346
+    lon: -92.2973826
+  - name: Manassas NBP
+    reason: Could not fit within trip constraints (time/distance limitations)
+    lat: 38.8130594
+    lon: -77.5216448
+  - name: Manhattan Project NHP
+    reason: Could not fit within trip constraints (time/distance limitations)
+    lat: 46.3186488
+    lon: -119.3002167
+  - name: Manzanar NHS
+    reason: Could not fit within trip constraints (time/distance limitations)
+    lat: 36.7920681
+    lon: -118.1926066
+  - name: Marsh-Billings-Rockefeller NHP
+    reason: Could not fit within trip constraints (time/distance limitations)
+    lat: 43.6311669
+    lon: -72.517908
+  - name: Martin Luther King, Jr NHP
+    reason: Could not fit within trip constraints (time/distance limitations)
+    lat: 33.7563822
+    lon: -84.3734662
+  - name: Mississippi NRRA
+    reason: Could not fit within trip constraints (time/distance limitations)
+    lat: 44.9470685
+    lon: -93.1042897
+  - name: Mojave N PRES
+    reason: Could not fit within trip constraints (time/distance limitations)
+    lat: 35.0464427
+    lon: -115.3935286
+  - name: Montezuma Castle NM
+    reason: Could not fit within trip constraints (time/distance limitations)
+    lat: 34.6143878
+    lon: -111.845751
+  - name: Moores Creek NB
+    reason: Could not fit within trip constraints (time/distance limitations)
+    lat: 34.4578949
+    lon: -78.1096233
+  - name: Mormon Pioneer NHT
+    reason: Could not fit within trip constraints (time/distance limitations)
+    lat: 42.8663425
+    lon: -106.3371601
+  - name: Natchez NHP
+    reason: Could not fit within trip constraints (time/distance limitations)
+    lat: 31.5470831
+    lon: -91.3855572
+  - name: National Capital Parks - East
+    reason: Could not fit within trip constraints (time/distance limitations)
+    lat: 38.912614
+    lon: -76.9393031
+  - name: New Bedford Whaling NHP
+    reason: Could not fit within trip constraints (time/distance limitations)
+    lat: 41.6357316
+    lon: -70.9237988
+  - name: New Orleans Jazz NHP
+    reason: Could not fit within trip constraints (time/distance limitations)
+    lat: 29.9548546
+    lon: -90.0647995
+  - name: Ninety Six NHS
+    reason: Could not fit within trip constraints (time/distance limitations)
+    lat: 34.1678411
+    lon: -82.0256516
+  - name: Obed WSR
+    reason: Could not fit within trip constraints (time/distance limitations)
+    lat: 35.7730076
+    lon: -86.2820081
+  - name: Ocmulgee NHP
+    reason: Could not fit within trip constraints (time/distance limitations)
+    lat: 32.837227
+    lon: -83.6018436
+  - name: Olympic NP
+    reason: Could not fit within trip constraints (time/distance limitations)
+    lat: 48.0982206
+    lon: -123.4247649
+  - name: Organ Pipe Cactus NM
+    reason: Could not fit within trip constraints (time/distance limitations)
+    lat: 31.9548142
+    lon: -112.8011351
+  - name: Padre Island NS
+    reason: Could not fit within trip constraints (time/distance limitations)
+    lat: 27.4243667
+    lon: -97.2990078
+  - name: Pennsylvania Avenue NHS
+    reason: Could not fit within trip constraints (time/distance limitations)
+    lat: 38.8818503
+    lon: -77.0339422
+  - name: Petersburg NB
+    reason: Could not fit within trip constraints (time/distance limitations)
+    lat: 37.2187215
+    lon: -77.383166
+  - name: Petersen House
+    reason: Could not fit within trip constraints (time/distance limitations)
+    lat: 38.896678
+    lon: -77.0258178
+  - name: Petroglyph NM
+    reason: Could not fit within trip constraints (time/distance limitations)
+    lat: 35.1344849
+    lon: -106.7106283
+  - name: Pictured Rocks NL
+    reason: Could not fit within trip constraints (time/distance limitations)
+    lat: 46.4237239
+    lon: -86.6238153
+  - name: Piscataway Park
+    reason: Could not fit within trip constraints (time/distance limitations)
+    lat: 38.7126138
+    lon: -77.0331588
+  - name: Point Reyes NS
+    reason: Could not fit within trip constraints (time/distance limitations)
+    lat: 38.0411184
+    lon: -122.8003358
+  - name: Port Chicago Naval Magazine N MEM
+    reason: Could not fit within trip constraints (time/distance limitations)
+    lat: 37.9912921
+    lon: -122.1313223
+  - name: Presidio of San Francisco
+    reason: Could not fit within trip constraints (time/distance limitations)
+    lat: 37.8019747
+    lon: -122.4568312
+  - name: Prince William Forest Park
+    reason: Could not fit within trip constraints (time/distance limitations)
+    lat: 40.3869075
+    lon: -105.6101747
+  - name: Pullman NHP
+    reason: Could not fit within trip constraints (time/distance limitations)
+    lat: 41.6928561
+    lon: -87.6096053
+  - name: Richmond NBP
+    reason: Could not fit within trip constraints (time/distance limitations)
+    lat: 37.5268267
+    lon: -77.4121995
+  - name: River Raisin NBP
+    reason: Could not fit within trip constraints (time/distance limitations)
+    lat: 41.9159374
+    lon: -83.3782184
+  - name: Rock Creek Park
+    reason: Could not fit within trip constraints (time/distance limitations)
+    lat: 38.9600035
+    lon: -77.0516825
+  - name: Sagamore Hill NHS
+    reason: Could not fit within trip constraints (time/distance limitations)
+    lat: 40.8859117
+    lon: -73.4960288
+  - name: Saint Croix Island IHS
+    reason: Could not fit within trip constraints (time/distance limitations)
+    lat: 45.1239264
+    lon: -67.1483159
+  - name: Saint Paul's Church NHS
+    reason: Could not fit within trip constraints (time/distance limitations)
+    lat: 40.8935185
+    lon: -73.8253367
+  - name: Salinas Pueblo Missions NM
+    reason: Could not fit within trip constraints (time/distance limitations)
+    lat: 34.5177349
+    lon: -106.241929
+  - name: San Antonio Missions NHP
+    reason: Could not fit within trip constraints (time/distance limitations)
+    lat: 29.3603458
+    lon: -98.4788872
+  - name: San Francisco Maritime NHP
+    reason: Could not fit within trip constraints (time/distance limitations)
+    lat: 37.8075021
+    lon: -122.420543
+  - name: Santa Monica Mountains NRA
+    reason: Could not fit within trip constraints (time/distance limitations)
+    lat: 34.1351612
+    lon: -118.6447676
+  - name: Scotts Bluff NM
+    reason: Could not fit within trip constraints (time/distance limitations)
+    lat: 41.8286261
+    lon: -103.7074807
+  - name: Sitka NHP
+    reason: Could not fit within trip constraints (time/distance limitations)
+    lat: 57.0514305
+    lon: -135.3312227
+  - name: Sleeping Bear Dunes NL
+    reason: Could not fit within trip constraints (time/distance limitations)
+    lat: 44.8111976
+    lon: -86.0547162
+  - name: Steamtown NHS
+    reason: Could not fit within trip constraints (time/distance limitations)
+    lat: 41.4089919
+    lon: -75.6738549
+  - name: Stones River NB
+    reason: Could not fit within trip constraints (time/distance limitations)
+    lat: 35.881861
+    lon: -86.434846
+  - name: Thaddeus Kosciuszko N MEM
+    reason: Could not fit within trip constraints (time/distance limitations)
+    lat: 39.9514534
+    lon: -75.1499193
+  - name: The Lockkeeper's House
+    reason: Could not fit within trip constraints (time/distance limitations)
+    lat: 38.8894754
+    lon: -77.0352426
+  - name: The White House and President's Park
+    reason: Could not fit within trip constraints (time/distance limitations)
+    lat: 40.9699889
+    lon: -77.7278831
+  - name: Theodore Roosevelt Birthplace NHS
+    reason: Could not fit within trip constraints (time/distance limitations)
+    lat: 40.7386402
+    lon: -73.9890373
+  - name: Thomas Jefferson Memorial
+    reason: Could not fit within trip constraints (time/distance limitations)
+    lat: 38.8818503
+    lon: -77.0339422
+  - name: Thomas Stone NHS
+    reason: Could not fit within trip constraints (time/distance limitations)
+    lat: 38.5302228
+    lon: -77.0360484
+  - name: Timucuan Ecological and Historic PRES
+    reason: Could not fit within trip constraints (time/distance limitations)
+    lat: 30.3848466
+    lon: -81.4959844
+  - name: Titanic Memorial
+    reason: Could not fit within trip constraints (time/distance limitations)
+    lat: 38.8818503
+    lon: -77.0339422
+  - name: Tonto NM
+    reason: Could not fit within trip constraints (time/distance limitations)
+    lat: 33.6646232
+    lon: -111.1262476
+  - name: Touro Synagogue NHS
+    reason: Could not fit within trip constraints (time/distance limitations)
+    lat: 41.4740544
+    lon: -71.3104743
+  - name: Tule Springs Fossil Beds NM
+    reason: Could not fit within trip constraints (time/distance limitations)
+    lat: 36.3166581
+    lon: -115.207274
+  - name: Tuskegee Institute NHS
+    reason: Could not fit within trip constraints (time/distance limitations)
+    lat: 32.4288729
+    lon: -85.7084448
+  - name: Tuzigoot NM
+    reason: Could not fit within trip constraints (time/distance limitations)
+    lat: 34.771077
+    lon: -112.0253378
+  - name: US Navy MEM
+    reason: Could not fit within trip constraints (time/distance limitations)
+    lat: 38.896678
+    lon: -77.0258178
+  - name: Ulysses S Grant MEM
+    reason: Could not fit within trip constraints (time/distance limitations)
+    lat: 38.887486
+    lon: -77.0192369
+  - name: Upper Delaware SRR
+    reason: Could not fit within trip constraints (time/distance limitations)
+    lat: 40.9699889
+    lon: -77.7278831
+  - name: Vanderbilt Mansion NHS
+    reason: Could not fit within trip constraints (time/distance limitations)
+    lat: 41.7939221
+    lon: -73.9378168
+  - name: Walnut Canyon NM
+    reason: Could not fit within trip constraints (time/distance limitations)
+    lat: 35.2027331
+    lon: -111.5147395
+  - name: Weir Farm NHP
+    reason: Could not fit within trip constraints (time/distance limitations)
+    lat: 41.2577549
+    lon: -73.4569284
+  - name: West Potomac Park
+    reason: Could not fit within trip constraints (time/distance limitations)
+    lat: 38.8818503
+    lon: -77.0339422
+  - name: White Sands NP
+    reason: Could not fit within trip constraints (time/distance limitations)
+    lat: 32.779621
+    lon: -106.1722449
+  - name: Wing Luke Museum
+    reason: Could not fit within trip constraints (time/distance limitations)
+    lat: 47.5982461
+    lon: -122.3228705
+  - name: World War I MEM
+    reason: Could not fit within trip constraints (time/distance limitations)
+    lat: 38.8818503
+    lon: -77.0339422
+  - name: World War II MEM
+    reason: Could not fit within trip constraints (time/distance limitations)
+    lat: 38.8818503
+    lon: -77.0339422
+  - name: Yellowstone NP
+    reason: Could not fit within trip constraints (time/distance limitations)
+    lat: 44.9626801
+    lon: -110.7045459
+  - name: Yukon-Charley Rivers N PRES
+    reason: Could not fit within trip constraints (time/distance limitations)
+    lat: 64.845898
+    lon: -147.7119211
+  - name: Zion NP
+    reason: Could not fit within trip constraints (time/distance limitations)
+    lat: 37.2001074
+    lon: -112.9869151
+trips:
+- trip_number: 1
+  route_details:
+  - site: Kirkwood, MO
+    site_name: Kirkwood, MO
+    city: ''
+    state: ''
+    lat: 38.5831
+    lon: -90.4068
+    address: ''
+    arrival_minutes: 0
+    arrival_hours: 0.0
+    day: 1
+    day_time_used: 0.0
+    time_of_day: 06:00
+  - site: Johnstown Flood N MEM, South Fork, Pennsylvania
+    site_name: Johnstown Flood N MEM
+    city: South Fork
+    state: Pennsylvania
+    lat: 40.9699889
+    lon: -77.7278831
+    address: 733 Lake Road, South Fork, Pennsylvania 15956
+    arrival_minutes: 1273
+    arrival_hours: 21.22
+    day: 1
+    day_time_used: 4.0
+    time_of_day: 09:13
+    operating_hours:
+      opens: 09:00
+      closes: '17:00'
+      is_default: false
+    always_stamp_available: false
+    timezone: America/New_York
+  - site: Valley Forge NHP, King of Prussia, Pennsylvania
+    site_name: Valley Forge NHP
+    city: King of Prussia
+    state: Pennsylvania
+    lat: 40.9699889
+    lon: -77.7278831
+    address: 1400 N Outer Line Dr, King of Prussia, Pennsylvania 19406
+    arrival_minutes: 1393
+    arrival_hours: 23.22
+    day: 1
+    day_time_used: 6.0
+    time_of_day: '11:13'
+    operating_hours:
+      opens: 09:00
+      closes: '17:00'
+      is_default: false
+    always_stamp_available: false
+    timezone: America/New_York
+    end_of_day_positioning:
+      positioning_minutes: 84.5
+      toward_site: Delaware Water Gap NRA
+  - site: Hopewell Furnace NHS, Elverson, Pennsylvania
+    site_name: Hopewell Furnace NHS
+    city: Elverson
+    state: Pennsylvania
+    lat: 40.9699889
+    lon: -77.7278831
+    address: 2 Mark Bird Ln, Elverson, Pennsylvania 19520
+    arrival_minutes: 1513
+    arrival_hours: 25.22
+    day: 2
+    day_time_used: 8.0
+    time_of_day: '13:13'
+    operating_hours:
+      opens: 09:00
+      closes: '17:00'
+      is_default: false
+    always_stamp_available: false
+    timezone: America/New_York
+  - site: Delaware Water Gap NRA, Bushkill, Pennsylvania
+    site_name: Delaware Water Gap NRA
+    city: Bushkill
+    state: Pennsylvania
+    lat: 41.0706397
+    lon: -75.0170041
+    address: 1978 River Road, Bushkill, Pennsylvania 18324
+    arrival_minutes: 2279
+    arrival_hours: 37.98
+    day: 2
+    day_time_used: 4.75
+    time_of_day: 08:59
+    operating_hours:
+      opens: 08:00
+      closes: '17:00'
+      is_default: true
+    always_stamp_available: false
+    timezone: America/New_York
+  - site: Morristown NHP, Morristown, New Jersey
+    site_name: Morristown NHP
+    city: Morristown
+    state: New Jersey
+    lat: 40.7973298
+    lon: -74.4671071
+    address: 30 Washington Place, Morristown, New Jersey 07960
+    arrival_minutes: 2436
+    arrival_hours: 40.6
+    day: 2
+    day_time_used: 7.38
+    time_of_day: '11:36'
+    operating_hours:
+      opens: '10:00'
+      closes: '16:00'
+      is_default: false
+    always_stamp_available: false
+    timezone: America/New_York
+  - site: Thomas Edison NHP, West Orange, New Jersey
+    site_name: Thomas Edison NHP
+    city: West Orange
+    state: New Jersey
+    lat: 40.7851176
+    lon: -74.2333435
+    address: 211 Main Street, West Orange, New Jersey 07052
+    arrival_minutes: 2569
+    arrival_hours: 42.82
+    day: 2
+    day_time_used: 9.6
+    time_of_day: '13:49'
+    operating_hours:
+      opens: '10:00'
+      closes: '16:00'
+      is_default: false
+    always_stamp_available: false
+    timezone: America/New_York
+  - site: Lower East Side Tenement Museum NHS, New York, New York
+    site_name: Lower East Side Tenement Museum NHS
+    city: New York
+    state: New York
+    lat: 40.7187837
+    lon: -73.9900266
+    address: 103 Orchard Street, New York, New York 10002
+    arrival_minutes: 3182
+    arrival_hours: 53.03
+    day: 2
+    day_time_used: 2.0
+    time_of_day: '10:02'
+    operating_hours:
+      opens: '10:00'
+      closes: '18:00'
+      is_default: false
+    always_stamp_available: false
+    timezone: America/New_York
+  - site: Gateway NRA, Broad Channel, New York
+    site_name: Gateway NRA
+    city: Broad Channel
+    state: New York
+    lat: 40.598113
+    lon: -73.8207508
+    address: 175-10 Cross Bay Blvd, Broad Channel, New York 11693
+    arrival_minutes: 3315
+    arrival_hours: 55.25
+    day: 2
+    day_time_used: 4.22
+    time_of_day: '12:15'
+    operating_hours:
+      opens: 06:00
+      closes: '21:00'
+      is_default: false
+    always_stamp_available: false
+    timezone: America/New_York
+  - site: Paterson Great Falls NHP, Paterson, New Jersey
+    site_name: Paterson Great Falls NHP
+    city: Paterson
+    state: New Jersey
+    lat: 40.9148026
+    lon: -74.1809754
+    address: 72 McBride Avenue Extension, Paterson, New Jersey 07501
+    arrival_minutes: 3466
+    arrival_hours: 57.77
+    day: 2
+    day_time_used: 6.75
+    time_of_day: '14:46'
+    operating_hours:
+      opens: 08:45
+      closes: '17:00'
+      is_default: false
+    always_stamp_available: false
+    end_of_day_positioning:
+      positioning_minutes: 179.8
+      toward_site: Apostle Islands NL
+    timezone: America/New_York
+  - site: Apostle Islands NL, Bayfield, Wisconsin
+    site_name: Apostle Islands NL
+    city: Bayfield
+    state: Wisconsin
+    lat: 46.9463335
+    lon: -90.8887619
+    address: 32660 Little Sand Bay Rd, Bayfield, Wisconsin 54814
+    arrival_minutes: 4723
+    arrival_hours: 78.72
+    day: 3
+    day_time_used: 9.72
+    time_of_day: '12:43'
+    operating_hours:
+      opens: 09:00
+      closes: '17:00'
+      is_default: false
+    always_stamp_available: false
+    timezone: America/Chicago
+  - site: Return to Kirkwood, MO
+    site_name: Return to Kirkwood, MO
+    city: ''
+    state: ''
+    lat: 38.5831
+    lon: -90.4068
+    address: ''
+    day: 3
+    time_of_day: 01:13
+    timezone: America/Chicago
+    travel_from_previous: 631.0
+    travel_distance_miles: 578.4
+    is_return_home: true
+  stats:
+    total_sites: 10
+    total_distance_miles: 1862.7
+    total_time_hours: 53.87
+    total_days: 3
+    repositioning_days: 0
+    sites_per_day_avg: 3.33
+    within_target: true
+    within_max: true
+    sites_rejected: 0
+  map_links:
+    openstreetmap_route: https://www.openstreetmap.org/directions?engine=fossgis_osrm_car&route=38.5831,-90.4068;40.9699889,-77.7278831;40.9699889,-77.7278831;40.9699889,-77.7278831;41.0706397,-75.0170041;40.7973298,-74.4671071;40.7851176,-74.2333435;40.7187837,-73.9900266;40.598113,-73.8207508;40.9148026,-74.1809754;46.9463335,-90.8887619;38.5831,-90.4068
+    google_maps_route: https://www.google.com/maps/dir/38.5831,-90.4068/40.9699889,-77.7278831/40.9699889,-77.7278831/40.9699889,-77.7278831/41.0706397,-75.0170041/40.7973298,-74.4671071/40.7851176,-74.2333435/40.7187837,-73.9900266/40.598113,-73.8207508/40.9148026,-74.1809754/46.9463335,-90.8887619/38.5831,-90.4068
+- trip_number: 2
+  route_details:
+  - site: Kirkwood, MO
+    site_name: Kirkwood, MO
+    city: ''
+    state: ''
+    lat: 38.5831
+    lon: -90.4068
+    address: ''
+    arrival_minutes: 0
+    arrival_hours: 0.0
+    day: 1
+    day_time_used: 0.0
+    time_of_day: 06:00
+  - site: Fort Donelson NB, Dover, Tennessee
+    site_name: Fort Donelson NB
+    city: Dover
+    state: Tennessee
+    lat: 36.4831363
+    lon: -87.8625811
+    address: 120 Fort Donelson Park Road, Dover, Tennessee 37058
+    arrival_minutes: 339
+    arrival_hours: 5.65
+    day: 1
+    day_time_used: 5.66
+    time_of_day: '11:39'
+    operating_hours:
+      opens: 08:30
+      closes: '16:00'
+      is_default: false
+    always_stamp_available: false
+    timezone: America/Chicago
+  - site: Freedom Riders NM, Anniston, Alabama
+    site_name: Freedom Riders NM
+    city: Anniston
+    state: Alabama
+    lat: 33.6581699
+    lon: -85.83128
+    address: 1031 Gurnee Ave, Anniston, Alabama 36201
+    arrival_minutes: 1372
+    arrival_hours: 22.87
+    day: 1
+    day_time_used: 6.31
+    time_of_day: '10:52'
+    operating_hours:
+      opens: 08:00
+      closes: '17:00'
+      is_default: true
+    always_stamp_available: false
+    timezone: America/Chicago
+  - site: Tuskegee Airmen NHS, Tuskegee, 36083
+    site_name: Tuskegee Airmen NHS
+    city: Tuskegee
+    state: '36083'
+    lat: 32.4579178
+    lon: -85.6849644
+    address: 1616 Chappie James Ave, Tuskegee,  36083
+    arrival_minutes: 1582
+    arrival_hours: 26.37
+    day: 1
+    day_time_used: 9.83
+    time_of_day: '14:22'
+    operating_hours:
+      opens: 08:00
+      closes: '17:00'
+      is_default: true
+    always_stamp_available: false
+    timezone: America/Chicago
+    end_of_day_positioning:
+      positioning_minutes: 162.5
+      toward_site: Medgar and Myrlie Evers Home NM
+  - site: Medgar and Myrlie Evers Home NM, Jackson, Mississippi
+    site_name: Medgar and Myrlie Evers Home NM
+    city: Jackson
+    state: Mississippi
+    lat: 32.340878
+    lon: -90.212145
+    address: 2332 Margaret W Alexander Dr, Jackson, Mississippi 39213
+    arrival_minutes: 2519
+    arrival_hours: 41.98
+    day: 2
+    day_time_used: 7.48
+    time_of_day: '13:59'
+    operating_hours:
+      opens: 09:00
+      closes: '16:00'
+      is_default: false
+    always_stamp_available: false
+    timezone: America/Chicago
+  - site: Cane River Creole NHP, Natchez, Louisiana
+    site_name: Cane River Creole NHP
+    city: Natchez
+    state: Louisiana
+    lat: 31.6655406
+    lon: -93.0024144
+    address: 4386 LA-494, Natchez, Louisiana 71456
+    arrival_minutes: 3511
+    arrival_hours: 58.52
+    day: 2
+    day_time_used: 6.05
+    time_of_day: '10:31'
+    operating_hours:
+      opens: 09:00
+      closes: '15:30'
+      is_default: false
+    always_stamp_available: false
+    timezone: America/Chicago
+    end_of_day_positioning:
+      positioning_minutes: 528.8
+      toward_site: Palo Alto Battlefield NHP
+  - site: Palo Alto Battlefield NHP, Brownsville, Texas
+    site_name: Palo Alto Battlefield NHP
+    city: Brownsville
+    state: Texas
+    lat: 26.0049965
+    lon: -97.4817606
+    address: 7200 Paredes Line Road, Brownsville, Texas 78526
+    arrival_minutes: 4284
+    arrival_hours: 71.4
+    day: 5
+    day_time_used: 2.0
+    time_of_day: 08:24
+    operating_hours:
+      opens: 08:00
+      closes: '17:00'
+      is_default: true
+    always_stamp_available: false
+    timezone: America/Chicago
+  - site: Return to Kirkwood, MO
+    site_name: Return to Kirkwood, MO
+    city: ''
+    state: ''
+    lat: 38.5831
+    lon: -90.4068
+    address: ''
+    day: 5
+    time_of_day: 03:52
+    timezone: America/Chicago
+    travel_from_previous: 1049.0
+    travel_distance_miles: 961.5
+    is_return_home: true
+  stats:
+    total_sites: 6
+    total_distance_miles: 1421.1
+    total_time_hours: 37.84
+    total_days: 2
+    repositioning_days: 0
+    sites_per_day_avg: 3.0
+    within_target: true
+    within_max: true
+    sites_rejected: 0
+  map_links:
+    openstreetmap_route: https://www.openstreetmap.org/directions?engine=fossgis_osrm_car&route=38.5831,-90.4068;36.4831363,-87.8625811;33.6581699,-85.83128;32.4579178,-85.6849644;32.340878,-90.212145;31.6655406,-93.0024144;26.0049965,-97.4817606;38.5831,-90.4068
+    google_maps_route: https://www.google.com/maps/dir/38.5831,-90.4068/36.4831363,-87.8625811/33.6581699,-85.83128/32.4579178,-85.6849644/32.340878,-90.212145/31.6655406,-93.0024144/26.0049965,-97.4817606/38.5831,-90.4068
+- trip_number: 3
+  route_details:
+  - site: Kirkwood, MO
+    site_name: Kirkwood, MO
+    city: ''
+    state: ''
+    lat: 38.5831
+    lon: -90.4068
+    address: ''
+    arrival_minutes: 0
+    arrival_hours: 0.0
+    day: 1
+    day_time_used: 0.0
+    time_of_day: 06:00
+  - site: Harry S Truman NHS, Independence, Missouri
+    site_name: Harry S Truman NHS
+    city: Independence
+    state: Missouri
+    lat: 39.0937292
+    lon: -94.4233448
+    address: 219 N Delaware St, Independence, Missouri 64050
+    arrival_minutes: 358
+    arrival_hours: 5.97
+    day: 1
+    day_time_used: 5.98
+    time_of_day: '11:58'
+    operating_hours:
+      opens: 09:00
+      closes: '17:00'
+      is_default: false
+    always_stamp_available: false
+    timezone: America/Chicago
+  - site: Bent's Old Fort NHS, La Junta, Colorado
+    site_name: Bent's Old Fort NHS
+    city: La Junta
+    state: Colorado
+    lat: 38.0405317
+    lon: -103.4293894
+    address: 35110 CO-194, La Junta, Colorado 81050
+    arrival_minutes: 1309
+    arrival_hours: 21.82
+    day: 1
+    day_time_used: 5.11
+    time_of_day: 09:49
+    operating_hours:
+      opens: 09:00
+      closes: '16:00'
+      is_default: false
+    always_stamp_available: false
+    timezone: America/Denver
+    end_of_day_positioning:
+      positioning_minutes: 64.6
+      toward_site: Rocky Mountain NP
+  - site: Rocky Mountain NP, Estes Park, Colorado
+    site_name: Rocky Mountain NP
+    city: Estes Park
+    state: Colorado
+    lat: 40.375336
+    lon: -105.5059
+    address: 1000 US-36, Estes Park, Colorado 80517
+    arrival_minutes: 1642
+    arrival_hours: 27.37
+    day: 2
+    day_time_used: 10.67
+    time_of_day: '15:22'
+    operating_hours:
+      opens: 09:00
+      closes: '18:00'
+      is_default: false
+    always_stamp_available: false
+    timezone: America/Denver
+  - site: Timpanogos Cave NM, Alpine, Utah
+    site_name: Timpanogos Cave NM
+    city: Alpine
+    state: Utah
+    lat: 40.4507397
+    lon: -111.7580279
+    address: 1025 E Alpine Dr, Alpine, Utah 84004
+    arrival_minutes: 2361
+    arrival_hours: 39.35
+    day: 2
+    day_time_used: 4.68
+    time_of_day: 09:21
+    operating_hours:
+      opens: 07:00
+      closes: '17:30'
+      is_default: false
+    always_stamp_available: false
+    timezone: America/Denver
+  - site: Great Basin NP, Baker, Nevada
+    site_name: Great Basin NP
+    city: Baker
+    state: Nevada
+    lat: 39.015325
+    lon: -114.152583
+    address: 5500 NV-488, Baker, Nevada 89311
+    arrival_minutes: 2656
+    arrival_hours: 44.27
+    day: 2
+    day_time_used: 9.61
+    time_of_day: '14:16'
+    operating_hours:
+      opens: 08:00
+      closes: '17:00'
+      is_default: true
+    always_stamp_available: false
+    timezone: America/Los_Angeles
+    end_of_day_positioning:
+      positioning_minutes: 36.1
+      toward_site: Eugene O'Neill NHS
+  - site: Eugene O'Neill NHS, Danville, California
+    site_name: Eugene O'Neill NHS
+    city: Danville
+    state: California
+    lat: 37.8254254
+    lon: -122.0221967
+    address: 1000 Kuss Rd, Danville, California 94526
+    arrival_minutes: 3554
+    arrival_hours: 59.23
+    day: 3
+    day_time_used: 7.35
+    time_of_day: '12:14'
+    operating_hours:
+      opens: '10:00'
+      closes: '16:30'
+      is_default: false
+    always_stamp_available: false
+    timezone: America/Los_Angeles
+  - site: John Muir NHS, Martinez, California
+    site_name: John Muir NHS
+    city: Martinez
+    state: California
+    lat: 37.9912921
+    lon: -122.1313223
+    address: 4202 Alhambra Ave, Martinez, California 94553
+    arrival_minutes: 3688
+    arrival_hours: 61.47
+    day: 3
+    day_time_used: 9.58
+    time_of_day: '14:28'
+    operating_hours:
+      opens: 08:00
+      closes: '17:00'
+      is_default: true
+    always_stamp_available: false
+    timezone: America/Los_Angeles
+    end_of_day_positioning:
+      positioning_minutes: 388.8
+      toward_site: Fort Vancouver NHS
+  - site: Fort Vancouver NHS, Vancouver, Washington
+    site_name: Fort Vancouver NHS
+    city: Vancouver
+    state: Washington
+    lat: 45.6262017
+    lon: -122.6566331
+    address: 1501 E Evergreen Blvd., Vancouver, Washington 98661
+    arrival_minutes: 5289
+    arrival_hours: 88.15
+    day: 4
+    day_time_used: 2.29
+    time_of_day: 09:09
+    operating_hours:
+      opens: 09:00
+      closes: '16:00'
+      is_default: false
+    always_stamp_available: false
+    timezone: America/Los_Angeles
+  - site: Return to Kirkwood, MO
+    site_name: Return to Kirkwood, MO
+    city: ''
+    state: ''
+    lat: 38.5831
+    lon: -90.4068
+    address: ''
+    day: 4
+    time_of_day: '18:14'
+    timezone: America/Chicago
+    travel_from_previous: 1865.9
+    travel_distance_miles: 1710.4
+    is_return_home: true
+  stats:
+    total_sites: 8
+    total_distance_miles: 2371.8
+    total_time_hours: 59.12
+    total_days: 4
+    repositioning_days: 0
+    sites_per_day_avg: 2.0
+    within_target: true
+    within_max: true
+    sites_rejected: 0
+  map_links:
+    openstreetmap_route: https://www.openstreetmap.org/directions?engine=fossgis_osrm_car&route=38.5831,-90.4068;39.0937292,-94.4233448;38.0405317,-103.4293894;40.375336,-105.5059;40.4507397,-111.7580279;39.015325,-114.152583;37.8254254,-122.0221967;37.9912921,-122.1313223;45.6262017,-122.6566331;38.5831,-90.4068
+    google_maps_route: https://www.google.com/maps/dir/38.5831,-90.4068/39.0937292,-94.4233448/38.0405317,-103.4293894/40.375336,-105.5059/40.4507397,-111.7580279/39.015325,-114.152583/37.8254254,-122.0221967/37.9912921,-122.1313223/45.6262017,-122.6566331/38.5831,-90.4068
+- trip_number: 4
+  route_details:
+  - site: Kirkwood, MO
+    site_name: Kirkwood, MO
+    city: ''
+    state: ''
+    lat: 38.5831
+    lon: -90.4068
+    address: ''
+    arrival_minutes: 0
+    arrival_hours: 0.0
+    day: 1
+    day_time_used: 0.0
+    time_of_day: 06:00
+  - site: Signers of the Dec of Ind MEM, DC, DC
+    site_name: Signers of the Dec of Ind MEM
+    city: DC
+    state: DC
+    lat: 38.8901227
+    lon: -77.0495511
+    address: 2 Lincoln Circle NW, Washington, DC, DC 20002
+    arrival_minutes: 1145
+    arrival_hours: 19.08
+    day: 1
+    day_time_used: 2.0
+    time_of_day: '10:05'
+    operating_hours:
+      opens: '10:00'
+      closes: '18:00'
+      is_default: false
+    always_stamp_available: false
+    timezone: America/New_York
+  - site: Vietnam Veterans MEM, DC, DC
+    site_name: Vietnam Veterans MEM
+    city: DC
+    state: DC
+    lat: 38.8901227
+    lon: -77.0495511
+    address: 2 Lincoln Circle NW, Washington, DC, DC 20002
+    arrival_minutes: 1265
+    arrival_hours: 21.08
+    day: 1
+    day_time_used: 4.0
+    time_of_day: '12:05'
+    operating_hours:
+      opens: '10:00'
+      closes: '18:00'
+      is_default: false
+    always_stamp_available: false
+    timezone: America/New_York
+    end_of_day_positioning:
+      positioning_minutes: 55.0
+      toward_site: Assateague Island NS
+  - site: Lincoln MEM, DC, DC
+    site_name: Lincoln MEM
+    city: DC
+    state: DC
+    lat: 38.8901227
+    lon: -77.0495511
+    address: 2 Lincoln Circle NW, Washington, DC, DC 20002
+    arrival_minutes: 1385
+    arrival_hours: 23.08
+    day: 2
+    day_time_used: 6.0
+    time_of_day: '14:05'
+    operating_hours:
+      opens: '10:00'
+      closes: '18:00'
+      is_default: false
+    always_stamp_available: false
+    timezone: America/New_York
+  - site: Capitol Hill Parks, Washington DC, DC
+    site_name: Capitol Hill Parks
+    city: Washington DC
+    state: DC
+    lat: 38.912614
+    lon: -76.9393031
+    address: 1550 Anacostia Ave. NE, Washington DC, DC 20019
+    arrival_minutes: 2230
+    arrival_hours: 37.17
+    day: 3
+    day_time_used: 4.08
+    time_of_day: '10:10'
+    operating_hours:
+      opens: 09:00
+      closes: '15:00'
+      is_default: false
+    always_stamp_available: false
+    timezone: America/New_York
+  - site: Potomac Heritage NST, Washington DC, DC
+    site_name: Potomac Heritage NST
+    city: Washington DC
+    state: DC
+    lat: 38.912614
+    lon: -76.9393031
+    address: 1550 Anacostia Ave. NE, Washington DC, DC 20019
+    arrival_minutes: 2350
+    arrival_hours: 39.17
+    day: 3
+    day_time_used: 6.08
+    time_of_day: '12:10'
+    operating_hours:
+      opens: 09:00
+      closes: '15:00'
+      is_default: false
+    always_stamp_available: false
+    timezone: America/New_York
+  - site: Assateague Island NS, Chincoteague, 23336
+    site_name: Assateague Island NS
+    city: Chincoteague
+    state: '23336'
+    lat: 37.9185315
+    lon: -75.3512123
+    address: 8586 Beach Rd, Chincoteague,  23336
+    arrival_minutes: 3309
+    arrival_hours: 55.15
+    day: 2
+    day_time_used: 5.08
+    time_of_day: '10:09'
+    operating_hours:
+      opens: 09:00
+      closes: '16:00'
+      is_default: false
+    always_stamp_available: false
+    timezone: America/New_York
+  - site: Wright Brothers N MEM, Kill Devil Hills, North Carolina
+    site_name: Wright Brothers N MEM
+    city: Kill Devil Hills
+    state: North Carolina
+    lat: 36.02064
+    lon: -75.6677117
+    address: 1000 North Croatan Highway, Kill Devil Hills, North Carolina 27948
+    arrival_minutes: 3573
+    arrival_hours: 59.55
+    day: 2
+    day_time_used: 9.48
+    time_of_day: '14:33'
+    operating_hours:
+      opens: 09:00
+      closes: '17:00'
+      is_default: false
+    always_stamp_available: false
+    timezone: America/New_York
+  - site: Return to Kirkwood, MO
+    site_name: Return to Kirkwood, MO
+    city: ''
+    state: ''
+    lat: 38.5831
+    lon: -90.4068
+    address: ''
+    day: 2
+    time_of_day: 07:36
+    timezone: America/Chicago
+    travel_from_previous: 903.6
+    travel_distance_miles: 828.3
+    is_return_home: true
+  stats:
+    total_sites: 7
+    total_distance_miles: 968.1
+    total_time_hours: 31.6
+    total_days: 2
+    repositioning_days: 0
+    sites_per_day_avg: 3.5
+    within_target: true
+    within_max: true
+    sites_rejected: 0
+  map_links:
+    openstreetmap_route: https://www.openstreetmap.org/directions?engine=fossgis_osrm_car&route=38.5831,-90.4068;38.8901227,-77.0495511;38.8901227,-77.0495511;38.8901227,-77.0495511;38.912614,-76.9393031;38.912614,-76.9393031;37.9185315,-75.3512123;36.02064,-75.6677117;38.5831,-90.4068
+    google_maps_route: https://www.google.com/maps/dir/38.5831,-90.4068/38.8901227,-77.0495511/38.8901227,-77.0495511/38.8901227,-77.0495511/38.912614,-76.9393031/38.912614,-76.9393031/37.9185315,-75.3512123/36.02064,-75.6677117/38.5831,-90.4068
+- trip_number: 5
+  route_details:
+  - site: Kirkwood, MO
+    site_name: Kirkwood, MO
+    city: ''
+    state: ''
+    lat: 38.5831
+    lon: -90.4068
+    address: ''
+    arrival_minutes: 0
+    arrival_hours: 0.0
+    day: 1
+    day_time_used: 0.0
+    time_of_day: 06:00
+  - site: George Rogers Clark NHP, Vincennes, Indiana
+    site_name: George Rogers Clark NHP
+    city: Vincennes
+    state: Indiana
+    lat: 38.6775722
+    lon: -87.5360877
+    address: 425 S 2nd St, Vincennes, Indiana 47591
+    arrival_minutes: 289
+    arrival_hours: 4.82
+    day: 1
+    day_time_used: 4.82
+    time_of_day: '10:49'
+    operating_hours:
+      opens: 09:00
+      closes: '17:00'
+      is_default: false
+    always_stamp_available: false
+    timezone: America/New_York
+  - site: Cowpens NB, Gaffney, South Carolina
+    site_name: Cowpens NB
+    city: Gaffney
+    state: South Carolina
+    lat: 35.1037677
+    lon: -81.6911511
+    address: 4001 Chesnee Hwy, Gaffney, South Carolina 29341
+    arrival_minutes: 1351
+    arrival_hours: 22.52
+    day: 1
+    day_time_used: 4.81
+    time_of_day: '12:31'
+    operating_hours:
+      opens: 09:00
+      closes: '17:00'
+      is_default: false
+    always_stamp_available: false
+    timezone: America/New_York
+    end_of_day_positioning:
+      positioning_minutes: 227.4
+      toward_site: Jimmy Carter NHP
+  - site: Jimmy Carter NHP, Plains, Georgia
+    site_name: Jimmy Carter NHP
+    city: Plains
+    state: Georgia
+    lat: 32.0365845
+    lon: -84.3925601
+    address: 300 North Bond Street, Plains, Georgia 31780
+    arrival_minutes: 2347
+    arrival_hours: 39.12
+    day: 2
+    day_time_used: 5.31
+    time_of_day: '10:07'
+    operating_hours:
+      opens: '10:00'
+      closes: '17:00'
+      is_default: false
+    always_stamp_available: false
+    timezone: America/New_York
+  - site: Canaveral NS, New Smyrna Beach, Florida
+    site_name: Canaveral NS
+    city: New Smyrna Beach
+    state: Florida
+    lat: 28.9272225
+    lon: -80.8243973
+    address: 7611 S. Atlantic Ave, New Smyrna Beach, Florida 32169
+    arrival_minutes: 3445
+    arrival_hours: 57.42
+    day: 2
+    day_time_used: 7.34
+    time_of_day: '11:25'
+    operating_hours:
+      opens: 09:00
+      closes: '17:00'
+      is_default: false
+    always_stamp_available: false
+    timezone: America/New_York
+  - site: Return to Kirkwood, MO
+    site_name: Return to Kirkwood, MO
+    city: ''
+    state: ''
+    lat: 38.5831
+    lon: -90.4068
+    address: ''
+    day: 2
+    time_of_day: 05:07
+    timezone: America/Chicago
+    travel_from_previous: 942.4
+    travel_distance_miles: 863.9
+    is_return_home: true
+  stats:
+    total_sites: 4
+    total_distance_miles: 1126.5
+    total_time_hours: 28.48
+    total_days: 2
+    repositioning_days: 0
+    sites_per_day_avg: 2.0
+    within_target: true
+    within_max: true
+    sites_rejected: 0
+  map_links:
+    openstreetmap_route: https://www.openstreetmap.org/directions?engine=fossgis_osrm_car&route=38.5831,-90.4068;38.6775722,-87.5360877;35.1037677,-81.6911511;32.0365845,-84.3925601;28.9272225,-80.8243973;38.5831,-90.4068
+    google_maps_route: https://www.google.com/maps/dir/38.5831,-90.4068/38.6775722,-87.5360877/35.1037677,-81.6911511/32.0365845,-84.3925601/28.9272225,-80.8243973/38.5831,-90.4068
+- trip_number: 6
+  route_details:
+  - site: Kirkwood, MO
+    site_name: Kirkwood, MO
+    city: ''
+    state: ''
+    lat: 38.5831
+    lon: -90.4068
+    address: ''
+    arrival_minutes: 0
+    arrival_hours: 0.0
+    day: 1
+    day_time_used: 0.0
+    time_of_day: 06:00
+  - site: Fort Smith NHS, Fort Smith, Arkansas
+    site_name: Fort Smith NHS
+    city: Fort Smith
+    state: Arkansas
+    lat: 35.388505
+    lon: -94.4310733
+    address: 301 Parker Ave, Fort Smith, Arkansas 72901
+    arrival_minutes: 461
+    arrival_hours: 7.68
+    day: 1
+    day_time_used: 7.69
+    time_of_day: '13:41'
+    operating_hours:
+      opens: 08:00
+      closes: '17:00'
+      is_default: true
+    always_stamp_available: false
+    timezone: America/Chicago
+  - site: Guadalupe Mountains NP, Salt Flat, Texas
+    site_name: Guadalupe Mountains NP
+    city: Salt Flat
+    state: Texas
+    lat: 31.2638905
+    lon: -98.5456116
+    address: V5VH+P6, 400 Pine Canyon Dr, Salt Flat, Texas 79847
+    arrival_minutes: 1254
+    arrival_hours: 20.9
+    day: 1
+    day_time_used: 4.0
+    time_of_day: 08:54
+    operating_hours:
+      opens: 08:00
+      closes: '16:00'
+      is_default: false
+    always_stamp_available: false
+    timezone: America/Chicago
+    end_of_day_positioning:
+      positioning_minutes: 93.8
+      toward_site: Amistad NRA
+  - site: Rio Grande WSR, Big Bend National Park, Texas
+    site_name: Rio Grande WSR
+    city: Big Bend National Park
+    state: Texas
+    lat: 31.2638905
+    lon: -98.5456116
+    address: 450 Rio Grande Road, Big Bend National Park, Texas 79834
+    arrival_minutes: 1374
+    arrival_hours: 22.9
+    day: 2
+    day_time_used: 6.0
+    time_of_day: '10:54'
+    operating_hours:
+      opens: 09:00
+      closes: '16:30'
+      is_default: false
+    always_stamp_available: false
+    timezone: America/Chicago
+  - site: Alibates Flint Quarries NM, Fritch, Texas
+    site_name: Alibates Flint Quarries NM
+    city: Fritch
+    state: Texas
+    lat: 31.2638905
+    lon: -98.5456116
+    address: 37084 Alibates Rd, Fritch, Texas 79036
+    arrival_minutes: 1494
+    arrival_hours: 24.9
+    day: 2
+    day_time_used: 8.0
+    time_of_day: '12:54'
+    operating_hours:
+      opens: 09:00
+      closes: '16:00'
+      is_default: false
+    always_stamp_available: false
+    timezone: America/Chicago
+  - site: Amistad NRA, Del Rio, Texas
+    site_name: Amistad NRA
+    city: Del Rio
+    state: Texas
+    lat: 29.466018
+    lon: -100.98844
+    address: 10477 US-90, Del Rio, Texas 78840
+    arrival_minutes: 2401
+    arrival_hours: 40.02
+    day: 2
+    day_time_used: 6.75
+    time_of_day: '10:01'
+    operating_hours:
+      opens: 08:00
+      closes: '16:30'
+      is_default: false
+    always_stamp_available: false
+    timezone: America/Chicago
+    end_of_day_positioning:
+      positioning_minutes: 845.0
+      toward_site: Minidoka NHS
+  - site: Minidoka NHS, Jerome, Idaho
+    site_name: Minidoka NHS
+    city: Jerome
+    state: Idaho
+    lat: 42.6790604
+    lon: -114.2436604
+    address: 1428 Hunt Rd, Jerome, Idaho 83338
+    arrival_minutes: 4581
+    arrival_hours: 76.35
+    day: 3
+    day_time_used: 7.14
+    time_of_day: '10:21'
+    operating_hours:
+      opens: 08:00
+      closes: '17:00'
+      is_default: true
+    always_stamp_available: false
+    timezone: America/Denver
+  - site: Return to Kirkwood, MO
+    site_name: Return to Kirkwood, MO
+    city: ''
+    state: ''
+    lat: 38.5831
+    lon: -90.4068
+    address: ''
+    day: 3
+    time_of_day: '11:34'
+    timezone: America/Chicago
+    travel_from_previous: 1393.1
+    travel_distance_miles: 1277.0
+    is_return_home: true
+  stats:
+    total_sites: 6
+    total_distance_miles: 2047.8
+    total_time_hours: 49.23
+    total_days: 3
+    repositioning_days: 0
+    sites_per_day_avg: 2.0
+    within_target: true
+    within_max: true
+    sites_rejected: 0
+  map_links:
+    openstreetmap_route: https://www.openstreetmap.org/directions?engine=fossgis_osrm_car&route=38.5831,-90.4068;35.388505,-94.4310733;31.2638905,-98.5456116;31.2638905,-98.5456116;31.2638905,-98.5456116;29.466018,-100.98844;42.6790604,-114.2436604;38.5831,-90.4068
+    google_maps_route: https://www.google.com/maps/dir/38.5831,-90.4068/35.388505,-94.4310733/31.2638905,-98.5456116/31.2638905,-98.5456116/31.2638905,-98.5456116/29.466018,-100.98844/42.6790604,-114.2436604/38.5831,-90.4068
+- trip_number: 7
+  route_details:
+  - site: Kirkwood, MO
+    site_name: Kirkwood, MO
+    city: ''
+    state: ''
+    lat: 38.5831
+    lon: -90.4068
+    address: ''
+    arrival_minutes: 0
+    arrival_hours: 0.0
+    day: 1
+    day_time_used: 0.0
+    time_of_day: 06:00
+  - site: Antietam NB, Sharpsburg, Maryland
+    site_name: Antietam NB
+    city: Sharpsburg
+    state: Maryland
+    lat: 39.4591562
+    lon: -77.7411521
+    address: 5831 Dunker Church Rd., Sharpsburg, Maryland 21782
+    arrival_minutes: 1245
+    arrival_hours: 20.75
+    day: 1
+    day_time_used: 2.79
+    time_of_day: 09:45
+    operating_hours:
+      opens: 09:00
+      closes: '17:00'
+      is_default: false
+    always_stamp_available: false
+    timezone: America/New_York
+  - site: Monocacy NB, Frederick, Maryland
+    site_name: Monocacy NB
+    city: Frederick
+    state: Maryland
+    lat: 39.377972
+    lon: -77.397741
+    address: 5201 Urbana Pike, Frederick, Maryland 21704
+    arrival_minutes: 1385
+    arrival_hours: 23.08
+    day: 1
+    day_time_used: 5.14
+    time_of_day: '12:05'
+    operating_hours:
+      opens: 09:00
+      closes: '17:00'
+      is_default: false
+    always_stamp_available: false
+    timezone: America/New_York
+    end_of_day_positioning:
+      positioning_minutes: 75.0
+      toward_site: Statue of Liberty NM
+  - site: Statue of Liberty NM, New York, New York
+    site_name: Statue of Liberty NM
+    city: New York
+    state: New York
+    lat: 40.6898508
+    lon: -74.0476674
+    address: Liberty Island, New York, New York 10004
+    arrival_minutes: 2329
+    arrival_hours: 38.82
+    day: 2
+    day_time_used: 2.91
+    time_of_day: '10:49'
+    operating_hours:
+      opens: 09:30
+      closes: '16:30'
+      is_default: false
+    always_stamp_available: false
+    timezone: America/New_York
+  - site: Stonewall NM, New York, New York
+    site_name: Stonewall NM
+    city: New York
+    state: New York
+    lat: 40.7339151
+    lon: -74.0020726
+    address: 51 Christopher St, New York, New York 10014
+    arrival_minutes: 2453
+    arrival_hours: 40.88
+    day: 2
+    day_time_used: 4.98
+    time_of_day: '12:53'
+    operating_hours:
+      opens: '10:00'
+      closes: '16:00'
+      is_default: false
+    always_stamp_available: false
+    timezone: America/New_York
+  - site: Blackstone River Valley NHP, Hopedale, Massachusetts
+    site_name: Blackstone River Valley NHP
+    city: Hopedale
+    state: Massachusetts
+    lat: 42.1301475
+    lon: -71.5411508
+    address: 50 Hopedale Street, Hopedale, Massachusetts 01747
+    arrival_minutes: 3479
+    arrival_hours: 57.98
+    day: 2
+    day_time_used: 5.15
+    time_of_day: '10:59'
+    operating_hours:
+      opens: 08:00
+      closes: '17:00'
+      is_default: true
+    always_stamp_available: false
+    timezone: America/New_York
+  - site: Roger Williams N MEM, Providence, Rhode Island
+    site_name: Roger Williams N MEM
+    city: Providence
+    state: Rhode Island
+    lat: 41.8316898
+    lon: -71.4105407
+    address: 282 North Main Street, Providence, Rhode Island 02903
+    arrival_minutes: 3622
+    arrival_hours: 60.37
+    day: 2
+    day_time_used: 7.54
+    time_of_day: '13:22'
+    operating_hours:
+      opens: '10:00'
+      closes: '16:00'
+      is_default: false
+    always_stamp_available: false
+    timezone: America/New_York
+  - site: Return to Kirkwood, MO
+    site_name: Return to Kirkwood, MO
+    city: ''
+    state: ''
+    lat: 38.5831
+    lon: -90.4068
+    address: ''
+    day: 2
+    time_of_day: '10:00'
+    timezone: America/Chicago
+    travel_from_previous: 1118.2
+    travel_distance_miles: 1025.0
+    is_return_home: true
+  stats:
+    total_sites: 6
+    total_distance_miles: 1085.7
+    total_time_hours: 31.74
+    total_days: 2
+    repositioning_days: 0
+    sites_per_day_avg: 3.0
+    within_target: true
+    within_max: true
+    sites_rejected: 0
+  map_links:
+    openstreetmap_route: https://www.openstreetmap.org/directions?engine=fossgis_osrm_car&route=38.5831,-90.4068;39.4591562,-77.7411521;39.377972,-77.397741;40.6898508,-74.0476674;40.7339151,-74.0020726;42.1301475,-71.5411508;41.8316898,-71.4105407;38.5831,-90.4068
+    google_maps_route: https://www.google.com/maps/dir/38.5831,-90.4068/39.4591562,-77.7411521/39.377972,-77.397741/40.6898508,-74.0476674/40.7339151,-74.0020726/42.1301475,-71.5411508/41.8316898,-71.4105407/38.5831,-90.4068
+- trip_number: 8
+  route_details:
+  - site: Kirkwood, MO
+    site_name: Kirkwood, MO
+    city: ''
+    state: ''
+    lat: 38.5831
+    lon: -90.4068
+    address: ''
+    arrival_minutes: 0
+    arrival_hours: 0.0
+    day: 1
+    day_time_used: 0.0
+    time_of_day: 06:00
+  - site: William Howard Taft NHS, Cincinnati, Ohio
+    site_name: William Howard Taft NHS
+    city: Cincinnati
+    state: Ohio
+    lat: 39.119899
+    lon: -84.508528
+    address: 2038 Auburn Avenue, Cincinnati, Ohio 45219
+    arrival_minutes: 468
+    arrival_hours: 7.8
+    day: 1
+    day_time_used: 7.81
+    time_of_day: '13:48'
+    operating_hours:
+      opens: 09:00
+      closes: '16:00'
+      is_default: false
+    always_stamp_available: false
+    timezone: America/New_York
+  - site: George Washington MEM PKWY, McLean, 22101
+    site_name: George Washington MEM PKWY
+    city: McLean
+    state: '22101'
+    lat: 38.961154
+    lon: -77.1463994
+    address: 700 George Washington Memorial Parkway, McLean,  22101
+    arrival_minutes: 1138
+    arrival_hours: 18.97
+    day: 1
+    day_time_used: 2.0
+    time_of_day: 08:58
+    operating_hours:
+      opens: 08:15
+      closes: '16:15'
+      is_default: false
+    always_stamp_available: false
+    timezone: America/New_York
+    end_of_day_positioning:
+      positioning_minutes: 60.4
+      toward_site: Thomas Cole NHS
+  - site: Glen Echo Park, Glen Echo, Maryland
+    site_name: Glen Echo Park
+    city: Glen Echo
+    state: Maryland
+    lat: 38.9669058
+    lon: -77.1394511
+    address: 7300 MacArthur Boulevard, Glen Echo, Maryland 20812
+    arrival_minutes: 1378
+    arrival_hours: 22.97
+    day: 2
+    day_time_used: 6.01
+    time_of_day: '12:58'
+    operating_hours:
+      opens: '10:00'
+      closes: '18:00'
+      is_default: false
+    always_stamp_available: false
+    timezone: America/New_York
+  - site: George Gordon Meade Memorial, Washington DC, DC
+    site_name: George Gordon Meade Memorial
+    city: Washington DC
+    state: DC
+    lat: 38.887486
+    lon: -77.0192369
+    address: 540 Independence Ave SW, Washington DC, DC 20024
+    arrival_minutes: 2228
+    arrival_hours: 37.13
+    day: 3
+    day_time_used: 4.0
+    time_of_day: '10:08'
+    operating_hours:
+      opens: '10:00'
+      closes: '17:00'
+      is_default: false
+    always_stamp_available: false
+    timezone: America/New_York
+  - site: Japanese American Memorial, Washington DC, DC
+    site_name: Japanese American Memorial
+    city: Washington DC
+    state: DC
+    lat: 38.887486
+    lon: -77.0192369
+    address: 540 Independence Ave SW, Washington DC, DC 20024
+    arrival_minutes: 2348
+    arrival_hours: 39.13
+    day: 3
+    day_time_used: 6.0
+    time_of_day: '12:08'
+    operating_hours:
+      opens: '10:00'
+      closes: '17:00'
+      is_default: false
+    always_stamp_available: false
+    timezone: America/New_York
+  - site: Thomas Cole NHS, Catskill, New York
+    site_name: Thomas Cole NHS
+    city: Catskill
+    state: New York
+    lat: 42.225766
+    lon: -73.8615472
+    address: 218 Spring Street, Catskill, New York 12414
+    arrival_minutes: 3140
+    arrival_hours: 52.33
+    day: 2
+    day_time_used: 2.0
+    time_of_day: '11:20'
+    operating_hours:
+      opens: '11:00'
+      closes: '16:00'
+      is_default: false
+    always_stamp_available: false
+    timezone: America/New_York
+  - site: Martin Van Buren NHS, Kinderhook, New York
+    site_name: Martin Van Buren NHS
+    city: Kinderhook
+    state: New York
+    lat: 42.3698216
+    lon: -73.7040339
+    address: 1013 Old Post Road, Kinderhook, New York 12106
+    arrival_minutes: 3273
+    arrival_hours: 54.55
+    day: 2
+    day_time_used: 4.23
+    time_of_day: '13:33'
+    operating_hours:
+      opens: 09:00
+      closes: '16:30'
+      is_default: false
+    always_stamp_available: false
+    end_of_day_positioning:
+      positioning_minutes: 576.6
+      toward_site: Grand Portage NM
+    timezone: America/New_York
+  - site: Grand Portage NM, Grand Portage, Minnesota
+    site_name: Grand Portage NM
+    city: Grand Portage
+    state: Minnesota
+    lat: 47.9609724
+    lon: -89.6857677
+    address: 170 Mile Creek Rd, Grand Portage, Minnesota 55605
+    arrival_minutes: 4716
+    arrival_hours: 78.6
+    day: 3
+    day_time_used: 11.45
+    time_of_day: '12:36'
+    operating_hours:
+      opens: 09:00
+      closes: '17:00'
+      is_default: false
+    always_stamp_available: false
+    timezone: America/Chicago
+  - site: Return to Kirkwood, MO
+    site_name: Return to Kirkwood, MO
+    city: ''
+    state: ''
+    lat: 38.5831
+    lon: -90.4068
+    address: ''
+    day: 3
+    time_of_day: 02:23
+    timezone: America/Chicago
+    travel_from_previous: 708.0
+    travel_distance_miles: 649.0
+    is_return_home: true
+  stats:
+    total_sites: 8
+    total_distance_miles: 1887.4
+    total_time_hours: 50.32
+    total_days: 3
+    repositioning_days: 0
+    sites_per_day_avg: 2.67
+    within_target: true
+    within_max: true
+    sites_rejected: 0
+  map_links:
+    openstreetmap_route: https://www.openstreetmap.org/directions?engine=fossgis_osrm_car&route=38.5831,-90.4068;39.119899,-84.508528;38.961154,-77.1463994;38.9669058,-77.1394511;38.887486,-77.0192369;38.887486,-77.0192369;42.225766,-73.8615472;42.3698216,-73.7040339;47.9609724,-89.6857677;38.5831,-90.4068
+    google_maps_route: https://www.google.com/maps/dir/38.5831,-90.4068/39.119899,-84.508528/38.961154,-77.1463994/38.9669058,-77.1394511/38.887486,-77.0192369/38.887486,-77.0192369/42.225766,-73.8615472/42.3698216,-73.7040339/47.9609724,-89.6857677/38.5831,-90.4068
+- trip_number: 9
+  route_details:
+  - site: Kirkwood, MO
+    site_name: Kirkwood, MO
+    city: ''
+    state: ''
+    lat: 38.5831
+    lon: -90.4068
+    address: ''
+    arrival_minutes: 0
+    arrival_hours: 0.0
+    day: 1
+    day_time_used: 0.0
+    time_of_day: 06:00
+  - site: Herbert Hoover NHS, West Branch, Iowa
+    site_name: Herbert Hoover NHS
+    city: West Branch
+    state: Iowa
+    lat: 41.6707487
+    lon: -91.3454687
+    address: 104 Parkside Dr, West Branch, Iowa 52358
+    arrival_minutes: 358
+    arrival_hours: 5.97
+    day: 1
+    day_time_used: 5.98
+    time_of_day: '11:58'
+    operating_hours:
+      opens: 09:00
+      closes: '17:00'
+      is_default: false
+    always_stamp_available: false
+    timezone: America/Chicago
+  - site: Pipestone NM, Pipestone, Minnesota
+    site_name: Pipestone NM
+    city: Pipestone
+    state: Minnesota
+    lat: 44.0095584
+    lon: -96.3210255
+    address: 36 Reservation Ave, Pipestone, Minnesota 56164
+    arrival_minutes: 1282
+    arrival_hours: 21.37
+    day: 1
+    day_time_used: 3.42
+    time_of_day: 09:22
+    operating_hours:
+      opens: 08:30
+      closes: '16:30'
+      is_default: false
+    always_stamp_available: false
+    timezone: America/Chicago
+    end_of_day_positioning:
+      positioning_minutes: 274.5
+      toward_site: Fort Laramie NHS
+  - site: Fort Laramie NHS, Fort Laramie, Wyoming
+    site_name: Fort Laramie NHS
+    city: Fort Laramie
+    state: Wyoming
+    lat: 43.1700264
+    lon: -107.568534
+    address: 965 Gray Rocks Road, Fort Laramie, Wyoming 82212
+    arrival_minutes: 2318
+    arrival_hours: 38.63
+    day: 2
+    day_time_used: 2.71
+    time_of_day: 08:38
+    operating_hours:
+      opens: 08:00
+      closes: '18:00'
+      is_default: false
+    always_stamp_available: false
+    timezone: America/Denver
+  - site: Grand Teton NP, Moose, 83012
+    site_name: Grand Teton NP
+    city: Moose
+    state: '83012'
+    lat: 43.8441363
+    lon: -110.6108042
+    address: 1 Teton Park Rd, Moose,  83012
+    arrival_minutes: 2611
+    arrival_hours: 43.52
+    day: 2
+    day_time_used: 7.6
+    time_of_day: '13:31'
+    operating_hours:
+      opens: 08:00
+      closes: '17:00'
+      is_default: true
+    always_stamp_available: false
+    timezone: America/Denver
+    end_of_day_positioning:
+      positioning_minutes: 323.7
+      toward_site: Nez Perce NHP
+  - site: Nez Perce NHP, Lapwai, Idaho
+    site_name: Nez Perce NHP
+    city: Lapwai
+    state: Idaho
+    lat: 46.447474
+    lon: -116.8227749
+    address: 39063 US-95, Lapwai, Idaho 83540
+    arrival_minutes: 3395
+    arrival_hours: 56.58
+    day: 3
+    day_time_used: 2.69
+    time_of_day: 08:35
+    operating_hours:
+      opens: 08:30
+      closes: '16:00'
+      is_default: false
+    always_stamp_available: false
+    timezone: America/Los_Angeles
+  - site: Whitman Mission NHS, Walla Walla, Washington
+    site_name: Whitman Mission NHS
+    city: Walla Walla
+    state: Washington
+    lat: 46.0414711
+    lon: -118.4644921
+    address: 328 Whitman Mission Rd, Walla Walla, Washington 99362
+    arrival_minutes: 3605
+    arrival_hours: 60.08
+    day: 3
+    day_time_used: 6.21
+    time_of_day: '12:05'
+    operating_hours:
+      opens: 09:00
+      closes: '16:00'
+      is_default: false
+    always_stamp_available: false
+    timezone: America/Los_Angeles
+    end_of_day_positioning:
+      positioning_minutes: 688.9
+      toward_site: Wrangell-St Elias NP and PRES
+  - site: Wrangell-St Elias NP and PRES, Copper Center, Alaska
+    site_name: Wrangell-St Elias NP and PRES
+    city: Copper Center
+    state: Alaska
+    lat: 61.836564
+    lon: -145.2257613
+    address: 104 Richardson Hwy, Copper Center, Alaska 99573
+    arrival_minutes: 5889
+    arrival_hours: 98.15
+    day: 6
+    day_time_used: 8.31
+    time_of_day: '14:09'
+    operating_hours:
+      opens: 08:00
+      closes: '17:00'
+      is_default: true
+    always_stamp_available: false
+    timezone: America/Anchorage
+  - site: Return to Kirkwood, MO
+    site_name: Return to Kirkwood, MO
+    city: ''
+    state: ''
+    lat: 38.5831
+    lon: -90.4068
+    address: ''
+    day: 6
+    time_of_day: '18:48'
+    timezone: America/Chicago
+    travel_from_previous: 3039.6
+    travel_distance_miles: 2786.3
+    is_return_home: true
+  stats:
+    total_sites: 7
+    total_distance_miles: 3199.1
+    total_time_hours: 72.16
+    total_days: 4
+    repositioning_days: 1
+    sites_per_day_avg: 1.75
+    within_target: true
+    within_max: true
+    sites_rejected: 0
+  map_links:
+    openstreetmap_route: https://www.openstreetmap.org/directions?engine=fossgis_osrm_car&route=38.5831,-90.4068;41.6707487,-91.3454687;44.0095584,-96.3210255;43.1700264,-107.568534;43.8441363,-110.6108042;46.447474,-116.8227749;46.0414711,-118.4644921;61.836564,-145.2257613;38.5831,-90.4068
+    google_maps_route: https://www.google.com/maps/dir/38.5831,-90.4068/41.6707487,-91.3454687/44.0095584,-96.3210255/43.1700264,-107.568534/43.8441363,-110.6108042/46.447474,-116.8227749/46.0414711,-118.4644921/61.836564,-145.2257613/38.5831,-90.4068
+- trip_number: 10
+  route_details:
+  - site: Kirkwood, MO
+    site_name: Kirkwood, MO
+    city: ''
+    state: ''
+    lat: 38.5831
+    lon: -90.4068
+    address: ''
+    arrival_minutes: 0
+    arrival_hours: 0.0
+    day: 1
+    day_time_used: 0.0
+    time_of_day: 06:00
+  - site: Buffalo NR, St. Joe, Arkansas
+    site_name: Buffalo NR
+    city: St. Joe
+    state: Arkansas
+    lat: 35.2048883
+    lon: -92.4479108
+    address: 170 Ranger Road, St. Joe, Arkansas 72675
+    arrival_minutes: 402
+    arrival_hours: 6.7
+    day: 1
+    day_time_used: 6.71
+    time_of_day: '12:42'
+    operating_hours:
+      opens: 08:00
+      closes: '17:00'
+      is_default: true
+    always_stamp_available: false
+    timezone: America/Chicago
+  - site: Pea Ridge NMP, Garfield, Arkansas
+    site_name: Pea Ridge NMP
+    city: Garfield
+    state: Arkansas
+    lat: 35.2048883
+    lon: -92.4479108
+    address: 15930 National Park Dr, Garfield, Arkansas 72732
+    arrival_minutes: 522
+    arrival_hours: 8.7
+    day: 1
+    day_time_used: 8.71
+    time_of_day: '14:42'
+    operating_hours:
+      opens: 08:00
+      closes: '17:00'
+      is_default: true
+    always_stamp_available: false
+    timezone: America/Chicago
+  - site: Oklahoma City N MEM, Oklahoma City, Oklahoma
+    site_name: Oklahoma City N MEM
+    city: Oklahoma City
+    state: Oklahoma
+    lat: 35.4737199
+    lon: -97.5172885
+    address: 620 N. Harvey Ave., Oklahoma City, Oklahoma 73102
+    arrival_minutes: 1383
+    arrival_hours: 23.05
+    day: 1
+    day_time_used: 5.09
+    time_of_day: '11:03'
+    operating_hours:
+      opens: 08:00
+      closes: '17:00'
+      is_default: true
+    always_stamp_available: false
+    timezone: America/Chicago
+    end_of_day_positioning:
+      positioning_minutes: 124.9
+      toward_site: Aztec Ruins NM
+  - site: Aztec Ruins NM, Aztec, New Mexico
+    site_name: Aztec Ruins NM
+    city: Aztec
+    state: New Mexico
+    lat: 36.8345857
+    lon: -108.0002137
+    address: 725 Ruins Rd, Aztec, New Mexico 87410
+    arrival_minutes: 2435
+    arrival_hours: 40.58
+    day: 2
+    day_time_used: 6.18
+    time_of_day: '10:35'
+    operating_hours:
+      opens: 09:00
+      closes: '17:00'
+      is_default: false
+    always_stamp_available: false
+    timezone: America/Denver
+  - site: Bryce Canyon NP, Bryce, Utah
+    site_name: Bryce Canyon NP
+    city: Bryce
+    state: Utah
+    lat: 37.685072
+    lon: -112.1535205
+    address: Highway 63, Bryce, Utah 84764
+    arrival_minutes: 2812
+    arrival_hours: 46.87
+    day: 2
+    day_time_used: 12.47
+    time_of_day: '16:52'
+    exceeds_preferred_hours: true
+    excess_hours: 0.47
+    operating_hours:
+      opens: 08:00
+      closes: '20:00'
+      is_default: false
+    always_stamp_available: false
+    timezone: America/Denver
+    end_of_day_positioning:
+      positioning_minutes: 61.7
+      toward_site: Castle Mountains NM
+  - site: Castle Mountains NM, Essex, California
+    site_name: Castle Mountains NM
+    city: Essex
+    state: California
+    lat: 35.0464427
+    lon: -115.3935286
+    address: 2 Black Canyon Road, Essex, California 92332
+    arrival_minutes: 3598
+    arrival_hours: 59.97
+    day: 3
+    day_time_used: 7.61
+    time_of_day: '11:58'
+    operating_hours:
+      opens: '10:00'
+      closes: '16:00'
+      is_default: false
+    always_stamp_available: false
+    timezone: America/Los_Angeles
+  - site: Death Valley NP, DEATH VALLEY, California
+    site_name: Death Valley NP
+    city: DEATH VALLEY
+    state: California
+    lat: 35.2865526
+    lon: -116.0808486
+    address: Airport Rd, DEATH VALLEY, California 92328
+    arrival_minutes: 3764
+    arrival_hours: 62.73
+    day: 3
+    day_time_used: 10.37
+    time_of_day: '14:44'
+    operating_hours:
+      opens: 08:00
+      closes: '17:00'
+      is_default: true
+    always_stamp_available: false
+    timezone: America/Los_Angeles
+  - site: Channel Islands NP, Ventura, California
+    site_name: Channel Islands NP
+    city: Ventura
+    state: California
+    lat: 34.2484654
+    lon: -119.266556
+    address: 1901 Spinnaker Drive, Ventura, California 93001
+    arrival_minutes: 4639
+    arrival_hours: 77.32
+    day: 3
+    day_time_used: 8.99
+    time_of_day: '11:19'
+    operating_hours:
+      opens: 08:30
+      closes: '17:00'
+      is_default: false
+    always_stamp_available: false
+    timezone: America/Los_Angeles
+  - site: Return to Kirkwood, MO
+    site_name: Return to Kirkwood, MO
+    city: ''
+    state: ''
+    lat: 38.5831
+    lon: -90.4068
+    address: ''
+    day: 3
+    time_of_day: '18:52'
+    timezone: America/Chicago
+    travel_from_previous: 1773.3
+    travel_distance_miles: 1625.5
+    is_return_home: true
+  stats:
+    total_sites: 8
+    total_distance_miles: 1866.5
+    total_time_hours: 49.94
+    total_days: 3
+    repositioning_days: 0
+    sites_per_day_avg: 2.67
+    within_target: true
+    within_max: true
+    sites_rejected: 0
+  map_links:
+    openstreetmap_route: https://www.openstreetmap.org/directions?engine=fossgis_osrm_car&route=38.5831,-90.4068;35.2048883,-92.4479108;35.2048883,-92.4479108;35.4737199,-97.5172885;36.8345857,-108.0002137;37.685072,-112.1535205;35.0464427,-115.3935286;35.2865526,-116.0808486;34.2484654,-119.266556;38.5831,-90.4068
+    google_maps_route: https://www.google.com/maps/dir/38.5831,-90.4068/35.2048883,-92.4479108/35.2048883,-92.4479108/35.4737199,-97.5172885/36.8345857,-108.0002137/37.685072,-112.1535205/35.0464427,-115.3935286/35.2865526,-116.0808486/34.2484654,-119.266556/38.5831,-90.4068
+- trip_number: 11
+  route_details:
+  - site: Kirkwood, MO
+    site_name: Kirkwood, MO
+    city: ''
+    state: ''
+    lat: 38.5831
+    lon: -90.4068
+    address: ''
+    arrival_minutes: 0
+    arrival_hours: 0.0
+    day: 1
+    day_time_used: 0.0
+    time_of_day: 06:00
+  - site: Fort Scott NHS, Fort Scott, Kansas
+    site_name: Fort Scott NHS
+    city: Fort Scott
+    state: Kansas
+    lat: 37.8436759
+    lon: -94.7065998
+    address: 199 Old Fort Blvd, Fort Scott, Kansas 66701
+    arrival_minutes: 380
+    arrival_hours: 6.33
+    day: 1
+    day_time_used: 6.34
+    time_of_day: '12:20'
+    operating_hours:
+      opens: 08:30
+      closes: '16:30'
+      is_default: false
+    always_stamp_available: false
+    timezone: America/Chicago
+  - site: Colonial NHP, Yorktown, 23690
+    site_name: Colonial NHP
+    city: Yorktown
+    state: '23690'
+    lat: 34.439407
+    lon: -103.194174
+    address: 1000 Colonial Parkway, Yorktown,  23690
+    arrival_minutes: 1379
+    arrival_hours: 22.98
+    day: 1
+    day_time_used: 6.24
+    time_of_day: '10:59'
+    operating_hours:
+      opens: 09:00
+      closes: '17:00'
+      is_default: false
+    always_stamp_available: false
+    timezone: America/Denver
+    end_of_day_positioning:
+      positioning_minutes: 2.8
+      toward_site: Petrified Forest NP
+  - site: Petrified Forest NP, Petrified Forest National Park, Arizona
+    site_name: Petrified Forest NP
+    city: Petrified Forest National Park
+    state: Arizona
+    lat: 35.0658636
+    lon: -109.7814829
+    address: 1 Park Rd, Petrified Forest National Park, Arizona 86028
+    arrival_minutes: 2410
+    arrival_hours: 40.17
+    day: 2
+    day_time_used: 5.47
+    time_of_day: '12:10'
+    operating_hours:
+      opens: 08:00
+      closes: '17:00'
+      is_default: true
+    always_stamp_available: false
+    timezone: America/Phoenix
+  - site: Casa Grande Ruins NM, Coolidge, Arizona
+    site_name: Casa Grande Ruins NM
+    city: Coolidge
+    state: Arizona
+    lat: 32.9946864
+    lon: -111.5366618
+    address: 1100 W Ruins Dr, Coolidge, Arizona 85128
+    arrival_minutes: 3318
+    arrival_hours: 55.3
+    day: 2
+    day_time_used: 2.64
+    time_of_day: 08:18
+    operating_hours:
+      opens: 08:00
+      closes: '17:00'
+      is_default: true
+    always_stamp_available: false
+    timezone: America/Phoenix
+  - site: Saguaro NP, Tucson, Arizona
+    site_name: Saguaro NP
+    city: Tucson
+    state: Arizona
+    lat: 32.1802177
+    lon: -110.7362598
+    address: 3693 S Old Spanish Trail, Tucson, Arizona 85730
+    arrival_minutes: 3517
+    arrival_hours: 58.62
+    day: 2
+    day_time_used: 5.97
+    time_of_day: '11:37'
+    operating_hours:
+      opens: 08:00
+      closes: '17:00'
+      is_default: true
+    always_stamp_available: false
+    timezone: America/Phoenix
+    end_of_day_positioning:
+      positioning_minutes: 41.7
+      toward_site: Fort Bowie NHS
+  - site: Fort Bowie NHS, Bowie, Arizona
+    site_name: Fort Bowie NHS
+    city: Bowie
+    state: Arizona
+    lat: 32.3265073
+    lon: -109.4841684
+    address: 3500 S Apache Pass Rd, Bowie, Arizona 85605
+    arrival_minutes: 3717
+    arrival_hours: 61.95
+    day: 3
+    day_time_used: 9.31
+    time_of_day: '14:57'
+    operating_hours:
+      opens: 08:00
+      closes: '17:00'
+      is_default: true
+    always_stamp_available: false
+    timezone: America/Phoenix
+  - site: Grand Canyon NP, Grand Canyon Village, Arizona
+    site_name: Grand Canyon NP
+    city: Grand Canyon Village
+    state: Arizona
+    lat: 36.0557614
+    lon: -112.1292908
+    address: S Entrance Rd, Grand Canyon Village, Arizona 86023
+    arrival_minutes: 4481
+    arrival_hours: 74.68
+    day: 3
+    day_time_used: 4.07
+    time_of_day: 08:41
+    operating_hours:
+      opens: 08:00
+      closes: '17:00'
+      is_default: true
+    always_stamp_available: false
+    end_of_day_positioning:
+      positioning_minutes: 475.2
+      toward_site: Shenandoah NP
+    timezone: America/Phoenix
+  - site: Shenandoah NP, Front Royal, 22630
+    site_name: Shenandoah NP
+    city: Front Royal
+    state: '22630'
+    lat: 44.2828717
+    lon: -105.5374053
+    address: 17065 Skyline Drive, Front Royal,  22630
+    arrival_minutes: 5327
+    arrival_hours: 88.78
+    day: 4
+    day_time_used: 2.0
+    time_of_day: 08:47
+    operating_hours:
+      opens: 08:00
+      closes: '17:00'
+      is_default: true
+    always_stamp_available: false
+    timezone: America/Denver
+  - site: Return to Kirkwood, MO
+    site_name: Return to Kirkwood, MO
+    city: ''
+    state: ''
+    lat: 38.5831
+    lon: -90.4068
+    address: ''
+    day: 4
+    time_of_day: 02:41
+    timezone: America/Chicago
+    travel_from_previous: 954.9
+    travel_distance_miles: 875.4
+    is_return_home: true
+  stats:
+    total_sites: 8
+    total_distance_miles: 2430.4
+    total_time_hours: 60.19
+    total_days: 4
+    repositioning_days: 0
+    sites_per_day_avg: 2.0
+    within_target: true
+    within_max: true
+    sites_rejected: 0
+  map_links:
+    openstreetmap_route: https://www.openstreetmap.org/directions?engine=fossgis_osrm_car&route=38.5831,-90.4068;37.8436759,-94.7065998;34.439407,-103.194174;35.0658636,-109.7814829;32.9946864,-111.5366618;32.1802177,-110.7362598;32.3265073,-109.4841684;36.0557614,-112.1292908;44.2828717,-105.5374053;38.5831,-90.4068
+    google_maps_route: https://www.google.com/maps/dir/38.5831,-90.4068/37.8436759,-94.7065998/34.439407,-103.194174/35.0658636,-109.7814829/32.9946864,-111.5366618/32.1802177,-110.7362598/32.3265073,-109.4841684/36.0557614,-112.1292908/44.2828717,-105.5374053/38.5831,-90.4068
+- trip_number: 12
+  route_details:
+  - site: Kirkwood, MO
+    site_name: Kirkwood, MO
+    city: ''
+    state: ''
+    lat: 38.5831
+    lon: -90.4068
+    address: ''
+    arrival_minutes: 0
+    arrival_hours: 0.0
+    day: 1
+    day_time_used: 0.0
+    time_of_day: 06:00
+  - site: Springfield 1908 Race Riot National Monument, Springfield, Illinois
+    site_name: Springfield 1908 Race Riot National Monument
+    city: Springfield
+    state: Illinois
+    lat: 39.7973527
+    lon: -89.6448765
+    address: 413 S 8th St, Springfield, Illinois 62701
+    arrival_minutes: 221
+    arrival_hours: 3.68
+    day: 1
+    day_time_used: 3.7
+    time_of_day: '10:41'
+    operating_hours:
+      opens: 09:00
+      closes: '17:00'
+      is_default: false
+    always_stamp_available: false
+    timezone: America/Chicago
+  - site: Theodore Roosevelt Inaugural NHS, Buffalo, New York
+    site_name: Theodore Roosevelt Inaugural NHS
+    city: Buffalo
+    state: New York
+    lat: 42.9015679
+    lon: -78.8726259
+    address: 641 Delaware Avenue, Buffalo, New York 14202
+    arrival_minutes: 1264
+    arrival_hours: 21.07
+    day: 1
+    day_time_used: 3.1
+    time_of_day: 09:04
+    operating_hours:
+      opens: 08:00
+      closes: '17:00'
+      is_default: true
+    always_stamp_available: false
+    timezone: America/New_York
+    end_of_day_positioning:
+      positioning_minutes: 85.9
+      toward_site: Women's Rights NHP
+  - site: Women's Rights NHP, Seneca Falls, New York
+    site_name: Women's Rights NHP
+    city: Seneca Falls
+    state: New York
+    lat: 42.9108267
+    lon: -76.8001575
+    address: 136 Fall Street, Seneca Falls, New York 13148
+    arrival_minutes: 1498
+    arrival_hours: 24.97
+    day: 2
+    day_time_used: 7.0
+    time_of_day: '12:58'
+    operating_hours:
+      opens: 08:00
+      closes: '17:00'
+      is_default: true
+    always_stamp_available: false
+    timezone: America/New_York
+  - site: Saint-Gaudens NHS, Cornish, New Hampshire
+    site_name: Saint-Gaudens NHS
+    city: Cornish
+    state: New Hampshire
+    lat: 43.500658
+    lon: -72.3656917
+    address: 139 St Gaudens Rd, Cornish, New Hampshire 03745
+    arrival_minutes: 2231
+    arrival_hours: 37.18
+    day: 2
+    day_time_used: 2.0
+    time_of_day: 09:11
+    operating_hours:
+      opens: 09:00
+      closes: '16:30'
+      is_default: false
+    always_stamp_available: false
+    timezone: America/New_York
+  - site: Lowell NHP, Lowell, Massachusetts
+    site_name: Lowell NHP
+    city: Lowell
+    state: Massachusetts
+    lat: 42.6442901
+    lon: -71.3121475
+    address: 246 Market St., Lowell, Massachusetts 01852
+    arrival_minutes: 2437
+    arrival_hours: 40.62
+    day: 2
+    day_time_used: 5.45
+    time_of_day: '12:37'
+    operating_hours:
+      opens: '10:00'
+      closes: '17:00'
+      is_default: false
+    always_stamp_available: false
+    timezone: America/New_York
+  - site: Minute Man NHP, Lincoln, Massachusetts
+    site_name: Minute Man NHP
+    city: Lincoln
+    state: Massachusetts
+    lat: 42.4490425
+    lon: -71.2769212
+    address: 210 North Great Road, Lincoln, Massachusetts 01773
+    arrival_minutes: 2571
+    arrival_hours: 42.85
+    day: 2
+    day_time_used: 7.69
+    time_of_day: '14:51'
+    operating_hours:
+      opens: 09:00
+      closes: '17:00'
+      is_default: false
+    always_stamp_available: false
+    timezone: America/New_York
+  - site: Saugus Iron Works NHS, Saugus, Massachusetts
+    site_name: Saugus Iron Works NHS
+    city: Saugus
+    state: Massachusetts
+    lat: 42.4685934
+    lon: -71.0088876
+    address: 244 Central St, Saugus, Massachusetts 01906
+    arrival_minutes: 3331
+    arrival_hours: 55.52
+    day: 2
+    day_time_used: 4.27
+    time_of_day: 09:31
+    operating_hours:
+      opens: 09:30
+      closes: '16:30'
+      is_default: false
+    always_stamp_available: false
+    timezone: America/New_York
+    end_of_day_positioning:
+      positioning_minutes: 87.2
+      toward_site: Salem Maritime NHP
+  - site: Salem Maritime NHP, Salem, Massachusetts
+    site_name: Salem Maritime NHP
+    city: Salem
+    state: Massachusetts
+    lat: 42.5226304
+    lon: -70.8919882
+    address: 2 New Liberty St, Salem, Massachusetts 01970
+    arrival_minutes: 3458
+    arrival_hours: 57.63
+    day: 4
+    day_time_used: 6.4
+    time_of_day: '11:38'
+    operating_hours:
+      opens: 09:30
+      closes: '16:30'
+      is_default: false
+    always_stamp_available: false
+    timezone: America/New_York
+  - site: Return to Kirkwood, MO
+    site_name: Return to Kirkwood, MO
+    city: ''
+    state: ''
+    lat: 38.5831
+    lon: -90.4068
+    address: ''
+    day: 4
+    time_of_day: 08:51
+    timezone: America/Chicago
+    travel_from_previous: 1153.6
+    travel_distance_miles: 1057.4
+    is_return_home: true
+  stats:
+    total_sites: 8
+    total_distance_miles: 1137.1
+    total_time_hours: 36.67
+    total_days: 2
+    repositioning_days: 0
+    sites_per_day_avg: 4.0
+    within_target: true
+    within_max: true
+    sites_rejected: 0
+  map_links:
+    openstreetmap_route: https://www.openstreetmap.org/directions?engine=fossgis_osrm_car&route=38.5831,-90.4068;39.7973527,-89.6448765;42.9015679,-78.8726259;42.9108267,-76.8001575;43.500658,-72.3656917;42.6442901,-71.3121475;42.4490425,-71.2769212;42.4685934,-71.0088876;42.5226304,-70.8919882;38.5831,-90.4068
+    google_maps_route: https://www.google.com/maps/dir/38.5831,-90.4068/39.7973527,-89.6448765/42.9015679,-78.8726259/42.9108267,-76.8001575/43.500658,-72.3656917/42.6442901,-71.3121475/42.4490425,-71.2769212/42.4685934,-71.0088876/42.5226304,-70.8919882/38.5831,-90.4068
+- trip_number: 13
+  route_details:
+  - site: Kirkwood, MO
+    site_name: Kirkwood, MO
+    city: ''
+    state: ''
+    lat: 38.5831
+    lon: -90.4068
+    address: ''
+    arrival_minutes: 0
+    arrival_hours: 0.0
+    day: 1
+    day_time_used: 0.0
+    time_of_day: 06:00
+  - site: Vietnam Women's MEM, DC, DC
+    site_name: Vietnam Women's MEM
+    city: DC
+    state: DC
+    lat: 38.8901227
+    lon: -77.0495511
+    address: 2 Lincoln Circle NW, Washington, DC, DC 20002
+    arrival_minutes: 1144
+    arrival_hours: 19.07
+    day: 1
+    day_time_used: 2.0
+    time_of_day: '10:04'
+    operating_hours:
+      opens: '10:00'
+      closes: '18:00'
+      is_default: false
+    always_stamp_available: false
+    timezone: America/New_York
+  - site: Washington Monument, Washington DC, DC
+    site_name: Washington Monument
+    city: Washington DC
+    state: DC
+    lat: 38.8894754
+    lon: -77.0352426
+    address: 2 15th Street NW, Washington DC, DC 20024
+    arrival_minutes: 1264
+    arrival_hours: 21.07
+    day: 1
+    day_time_used: 4.01
+    time_of_day: '12:04'
+    operating_hours:
+      opens: 08:00
+      closes: '17:00'
+      is_default: true
+    always_stamp_available: false
+    timezone: America/New_York
+    end_of_day_positioning:
+      positioning_minutes: 54.1
+      toward_site: Guilford Courthouse NMP
+  - site: John Paul Jones MEM, DC, DC
+    site_name: John Paul Jones MEM
+    city: DC
+    state: DC
+    lat: 38.8818503
+    lon: -77.0339422
+    address: 121 West Basin Dr SW, Washington, DC, DC 20004
+    arrival_minutes: 1384
+    arrival_hours: 23.07
+    day: 2
+    day_time_used: 6.02
+    time_of_day: '14:04'
+    operating_hours:
+      opens: '10:00'
+      closes: '18:00'
+      is_default: false
+    always_stamp_available: false
+    timezone: America/New_York
+  - site: Harmony Hall, Fort Washington, Maryland
+    site_name: Harmony Hall
+    city: Fort Washington
+    state: Maryland
+    lat: 38.7126138
+    lon: -77.0331588
+    address: 13551 Fort Washington Rd, Fort Washington, Maryland 20744
+    arrival_minutes: 2236
+    arrival_hours: 37.27
+    day: 3
+    day_time_used: 4.21
+    time_of_day: '10:16'
+    operating_hours:
+      opens: 09:00
+      closes: '16:30'
+      is_default: false
+    always_stamp_available: false
+    timezone: America/New_York
+  - site: Fort Washington Park, Fort Washington, Maryland
+    site_name: Fort Washington Park
+    city: Fort Washington
+    state: Maryland
+    lat: 38.7126138
+    lon: -77.0331588
+    address: 13551 Fort Washington Rd, Fort Washington, Maryland 20744
+    arrival_minutes: 2356
+    arrival_hours: 39.27
+    day: 3
+    day_time_used: 6.21
+    time_of_day: '12:16'
+    operating_hours:
+      opens: 09:00
+      closes: '16:30'
+      is_default: false
+    always_stamp_available: false
+    timezone: America/New_York
+  - site: Fort Foote Park, Fort Washington, Maryland
+    site_name: Fort Foote Park
+    city: Fort Washington
+    state: Maryland
+    lat: 38.7126138
+    lon: -77.0331588
+    address: 13551 Fort Washington Rd, Fort Washington, Maryland 20744
+    arrival_minutes: 2476
+    arrival_hours: 41.27
+    day: 3
+    day_time_used: 8.21
+    time_of_day: '14:16'
+    operating_hours:
+      opens: 09:00
+      closes: '16:30'
+      is_default: false
+    always_stamp_available: false
+    timezone: America/New_York
+  - site: Guilford Courthouse NMP, Greensboro, North Carolina
+    site_name: Guilford Courthouse NMP
+    city: Greensboro
+    state: North Carolina
+    lat: 36.1315112
+    lon: -79.8474318
+    address: 2332 New Garden Road, Greensboro, North Carolina 27410
+    arrival_minutes: 3536
+    arrival_hours: 58.93
+    day: 2
+    day_time_used: 9.43
+    time_of_day: '12:56'
+    operating_hours:
+      opens: 09:00
+      closes: '17:00'
+      is_default: false
+    always_stamp_available: false
+    timezone: America/New_York
+  - site: Reconstruction Era NHP, Beaufort, South Carolina
+    site_name: Reconstruction Era NHP
+    city: Beaufort
+    state: South Carolina
+    lat: 32.432537
+    lon: -80.6700904
+    address: 706 Craven Street, Beaufort, South Carolina 29902
+    arrival_minutes: 4214
+    arrival_hours: 70.23
+    day: 2
+    day_time_used: 2.77
+    time_of_day: 09:14
+    operating_hours:
+      opens: 09:00
+      closes: '17:00'
+      is_default: false
+    always_stamp_available: false
+    timezone: America/New_York
+  - site: Return to Kirkwood, MO
+    site_name: Return to Kirkwood, MO
+    city: ''
+    state: ''
+    lat: 38.5831
+    lon: -90.4068
+    address: ''
+    day: 2
+    time_of_day: '23:49'
+    timezone: America/Chicago
+    travel_from_previous: 755.5
+    travel_distance_miles: 692.5
+    is_return_home: true
+  stats:
+    total_sites: 8
+    total_distance_miles: 1228.4
+    total_time_hours: 38.33
+    total_days: 2
+    repositioning_days: 0
+    sites_per_day_avg: 4.0
+    within_target: true
+    within_max: true
+    sites_rejected: 0
+  map_links:
+    openstreetmap_route: https://www.openstreetmap.org/directions?engine=fossgis_osrm_car&route=38.5831,-90.4068;38.8901227,-77.0495511;38.8894754,-77.0352426;38.8818503,-77.0339422;38.7126138,-77.0331588;38.7126138,-77.0331588;38.7126138,-77.0331588;36.1315112,-79.8474318;32.432537,-80.6700904;38.5831,-90.4068
+    google_maps_route: https://www.google.com/maps/dir/38.5831,-90.4068/38.8901227,-77.0495511/38.8894754,-77.0352426/38.8818503,-77.0339422/38.7126138,-77.0331588/38.7126138,-77.0331588/38.7126138,-77.0331588/36.1315112,-79.8474318/32.432537,-80.6700904/38.5831,-90.4068
+summary:
+  total_trips: 13
+  total_sites: 94
+  total_distance_miles: 22632.6
+  total_days: 36

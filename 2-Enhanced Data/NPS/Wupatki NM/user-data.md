@@ -13,5 +13,4 @@ No activities found. See [Wupatki NM.md](Wupatki NM.md) for details.
 
 **Address:** 25137 N. Sunset Crater-Wupatki Loop Rd., Flagstaff, Arizona 86004
 
-**Hours:** Hours not available
-
+**Hours:** Daily: 9:00 AM–4:30 PM

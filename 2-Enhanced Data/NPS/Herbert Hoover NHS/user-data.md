@@ -13,5 +13,4 @@ No activities found. See [Herbert Hoover NHS.md](Herbert Hoover NHS.md) for deta
 
 **Address:** 104 Parkside Dr, West Branch, Iowa 52358 (41.6707487, -91.3454687)
 
-**Hours:** Hours not available
-
+**Hours:** Daily: 9:00 AM-5:00 PM

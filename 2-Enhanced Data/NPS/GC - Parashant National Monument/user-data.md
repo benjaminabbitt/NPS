@@ -13,5 +13,4 @@ No activities found. See [GC - Parashant National Monument.md](GC - Parashant Na
 
 **Address:** 4001 East Aviator Drive, St. George, Utah 84790
 
-**Hours:** Hours not available
-
+**Hours:** 8:00 AM–4:30 PM (check website for specific days)

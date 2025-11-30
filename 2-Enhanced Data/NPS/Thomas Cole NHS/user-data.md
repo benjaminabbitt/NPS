@@ -13,5 +13,4 @@ No activities found. See [Thomas Cole NHS.md](Thomas Cole NHS.md) for details.
 
 **Address:** 218 Spring Street, Catskill, New York 12414 (42.225766, -73.8615472)
 
-**Hours:** Hours not available
-
+**Hours:** 11:00 AM-4:00 PM (check website for specific days)

@@ -32,7 +32,6 @@
 
 **Address:** 81 Carl Sandburg Lane, Flat Rock, North Carolina 28731 (35.2727825, -82.4528575)
 
-**Hours:** Hours not available
-
+**Hours:** Sunday, Thursday, Friday, Saturday: 10:0 AM-4:00 PM
 ## Review / Personal Notes
 

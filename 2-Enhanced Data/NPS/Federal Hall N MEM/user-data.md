@@ -13,5 +13,4 @@ No activities found. See [Federal Hall N MEM.md](Federal Hall N MEM.md) for deta
 
 **Address:** 15 Pine Street, New York, New York 10005 (40.7075171, -74.0100604)
 
-**Hours:** Hours not available
-
+**Hours:** 10:00 AM-5:00 PM (check website for specific days)

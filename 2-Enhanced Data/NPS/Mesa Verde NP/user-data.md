@@ -13,5 +13,4 @@ No activities found. See [Mesa Verde NP.md](Mesa Verde NP.md) for details.
 
 **Address:** 35853 Rd H.5, Mancos, Colorado 81328
 
-**Hours:** Hours not available
-
+**Hours:** Daily: 8:30 AM-4:00 PM

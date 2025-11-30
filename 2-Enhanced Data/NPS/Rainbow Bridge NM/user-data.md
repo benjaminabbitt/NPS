@@ -13,5 +13,4 @@ No activities found. See [Rainbow Bridge NM.md](Rainbow Bridge NM.md) for detail
 
 **Address:** Forbidding Canyon Lake, Powell, Utah 84533
 
-**Hours:** Hours not available
-
+**Hours:** Daily: 7:00 AM-4:00 PM

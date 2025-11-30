@@ -46,6 +46,5 @@
 
 **Address:** 2222 Access Rd, Fort Smith, Montana 59050
 
-**Hours:** Hours not available
-
+**Hours:** Daily: 8:30 AM-4:30 PM
 ## Review / Personal Notes

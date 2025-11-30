@@ -13,5 +13,4 @@ No activities found. See [Lava Beds NM.md](Lava Beds NM.md) for details.
 
 **Address:** 1 Indian Well, Tulelake, California 96134
 
-**Hours:** Hours not available
-
+**Hours:** Daily: 9:30 AM-4:00 PM

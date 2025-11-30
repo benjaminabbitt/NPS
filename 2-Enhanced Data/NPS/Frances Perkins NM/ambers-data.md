@@ -1,7 +1,0 @@
-# Amber's Data
-
-**Visitor Center:** Frances Perkins NM
-
-**Address:** 478 River Road, Newcastle, Maine 4553 (44.0052552, -69.5564193)
-
-**Hours:** Daily: 9:00 AM-5:00 PM

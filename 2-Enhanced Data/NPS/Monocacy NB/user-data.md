@@ -13,5 +13,4 @@ No activities found. See [Monocacy NB.md](Monocacy NB.md) for details.
 
 **Address:** 5201 Urbana Pike, Frederick, Maryland 21704 (39.377972, -77.397741)
 
-**Hours:** Hours not available
-
+**Hours:** 9:00 AM-5:00 PM (check website for specific days)

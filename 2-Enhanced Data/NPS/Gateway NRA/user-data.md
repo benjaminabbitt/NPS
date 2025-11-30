@@ -13,5 +13,4 @@ No activities found. See [Gateway NRA.md](Gateway NRA.md) for details.
 
 **Address:** 175-10 Cross Bay Blvd, Broad Channel, New York 11693 (40.598113, -73.8207508)
 
-**Hours:** Hours not available
-
+**Hours:** Daily: 6:00 AM-9:00 PM

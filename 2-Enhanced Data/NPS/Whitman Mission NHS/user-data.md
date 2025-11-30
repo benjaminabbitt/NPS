@@ -13,5 +13,4 @@ No activities found. See [Whitman Mission NHS.md](Whitman Mission NHS.md) for de
 
 **Address:** 328 Whitman Mission Rd, Walla Walla, Washington 99362 (46.0414711, -118.4644921)
 
-**Hours:** Hours not available
-
+**Hours:** 9:00 AM-4:00 PM (check website for specific days)

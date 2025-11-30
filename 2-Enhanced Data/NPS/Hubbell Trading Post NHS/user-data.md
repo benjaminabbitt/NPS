@@ -13,5 +13,4 @@ No activities found. See [Hubbell Trading Post NHS.md](Hubbell Trading Post NHS.
 
 **Address:** 1/2 Mile W, Hwy. 191, Ganado, Arizona 86505
 
-**Hours:** Hours not available
-
+**Hours:** Daily: 8:00 AM–5:00 PM

@@ -1,0 +1,95 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -90.4068,
+            38.5831
+          ],
+          [
+            -94.7065998,
+            37.8436759
+          ],
+          [
+            -101.5862787,
+            35.6432673
+          ],
+          [
+            -90.4068,
+            38.5831
+          ]
+        ]
+      },
+      "properties": {
+        "trip_number": 12,
+        "total_sites": 2,
+        "total_distance_miles": 649.0,
+        "total_days": 1
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.4068,
+          38.5831
+        ]
+      },
+      "properties": {
+        "name": "Kirkwood, MO",
+        "arrival_day": 1,
+        "arrival_time": "06:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -94.7065998,
+          37.8436759
+        ]
+      },
+      "properties": {
+        "name": "Fort Scott NHS, Fort Scott, Kansas",
+        "arrival_day": 1,
+        "arrival_time": "12:20"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -101.5862787,
+          35.6432673
+        ]
+      },
+      "properties": {
+        "name": "Lake Meredith NRA, Fritch, Texas",
+        "arrival_day": 1,
+        "arrival_time": "10:59"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.4068,
+          38.5831
+        ]
+      },
+      "properties": {
+        "name": "Return to Kirkwood, MO",
+        "arrival_day": 1,
+        "arrival_time": "00:46"
+      }
+    }
+  ]
+}

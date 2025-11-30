@@ -13,5 +13,4 @@ No activities found. See [Natural Bridges NM.md](Natural Bridges NM.md) for deta
 
 **Address:** Natural Bridges Rd, Lake Powell, Utah 84533
 
-**Hours:** Hours not available
-
+**Hours:** Daily: 9:00 AM-4:00 PM

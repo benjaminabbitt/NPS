@@ -13,5 +13,4 @@ No activities found. See [Little Bighorn Battlefield.md](Little Bighorn Battlefi
 
 **Address:** Unnamed Road, Garryowen, Montana 59031
 
-**Hours:** Hours not available
-
+**Hours:** Sunday, Friday, Saturday: 8:00 AM-6:00 PM

@@ -34,7 +34,6 @@
 
 **Address:** 52 West Headquarters Drive, Torrey, Utah 84775
 
-**Hours:** Hours not available
-
+**Hours:** Daily: 8:00 AM-4:30 PM
 ## Review / Personal Notes
 

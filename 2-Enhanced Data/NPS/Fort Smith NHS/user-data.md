@@ -13,5 +13,4 @@ No activities found. See [Fort Smith NHS.md](Fort Smith NHS.md) for details.
 
 **Address:** 301 Parker Ave, Fort Smith, Arkansas 72901 (35.388505, -94.4310733)
 
-**Hours:** Hours not available
-
+**Hours:** Daily: 9:00 AM–5:00 PM

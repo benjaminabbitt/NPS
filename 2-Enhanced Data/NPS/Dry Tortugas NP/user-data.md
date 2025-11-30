@@ -13,5 +13,4 @@ No activities found. See [Dry Tortugas NP.md](Dry Tortugas NP.md) for details.
 
 **Address:** Fort Jefferson, Key West, Florida 33040
 
-**Hours:** Hours not available
-
+**Hours:** Daily: 8:30 AM-4:30 PM

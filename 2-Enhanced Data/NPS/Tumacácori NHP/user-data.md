@@ -13,5 +13,4 @@ No activities found. See [Tumacácori NHP.md](Tumacácori NHP.md) for details.
 
 **Address:** 1891 I-19 Frontage Rd, Tumacacori, Arizona 85640
 
-**Hours:** Hours not available
-
+**Hours:** Daily: 9:00 AM–5:00 PM

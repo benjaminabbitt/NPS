@@ -6,25 +6,25 @@
 
 ## Cancellation Stamps
 
-- [x] Alibates Visitor Center (37084 Alibates Rd., Potter County, TX 79036) [98a432]
+- [x] Alibates Visitor Center (37084 Alibates Rd., Potter County, TX 79036)
 
 ## Key Activities
 
-- [ ] Ranger-Guided Quarries Tour (2 hours) [c1fce6]
-- [ ] Visitor Center Experience (30 minutes) [4d56c2]
-- [ ] Mesquite Trail Self-Guided Hike (10 minutes) [5a6a32]
+- [ ] Ranger-Guided Quarries Tour (2 hours)
+- [ ] Visitor Center Experience (30 minutes)
+- [ ] Mesquite Trail Self-Guided Hike (10 minutes)
 
 ## Hidden Gems
 
-- [ ] Alibates Heritage Garden and Butterfly Garden (15 minutes) [dbb227]
-- [ ] Wildlife Viewing Along the Trail (included in tour time) [72c01c]
+- [ ] Alibates Heritage Garden and Butterfly Garden (15 minutes)
+- [ ] Wildlife Viewing Along the Trail (included in tour time)
 
 ## Also Nearby
 
-- [ ] Palo Duro Canyon State Park (half day to full day, 30 minutes from Fritch) [f4a005]
-- [ ] Cadillac Ranch (30 minutes, 15 miles east of Amarillo) [46d7f9]
-- [ ] Panhandle-Plains Historical Museum (2-4 hours, 20 minutes south of Amarillo in Canyon) [9ca4bc]
-- [ ] Lake Meredith National Recreation Area (flexible, adjacent to Alibates) [b32d89]
+- [ ] Palo Duro Canyon State Park (half day to full day, 30 minutes from Fritch)
+- [ ] Cadillac Ranch (30 minutes, 15 miles east of Amarillo)
+- [ ] Panhandle-Plains Historical Museum (2-4 hours, 20 minutes south of Amarillo in Canyon)
+- [ ] Lake Meredith National Recreation Area (flexible, adjacent to Alibates)
 
 
 
@@ -33,9 +33,8 @@
 
 **Visitor Center:** Alibates Visitor Center
 
-**Address:** 37084 Alibates Rd, Fritch, Texas 79036
+**Address:** 37084 Alibates Rd, Fritch, Texas 79036 (31.2638905, -98.5456116)
 
-**Hours:** Hours not available
-
+**Hours:** Daily: 9:00 AM-4:00 PM
 ## Review / Personal Notes
 

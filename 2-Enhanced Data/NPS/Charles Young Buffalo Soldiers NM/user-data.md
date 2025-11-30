@@ -13,5 +13,4 @@ No activities found. See [Charles Young Buffalo Soldiers NM.md](Charles Young Bu
 
 **Address:** 1120 U.S. Route 42 E, Wilberforce, Ohio 45384
 
-**Hours:** Hours not available
-
+**Hours:** 9:00 AM-4:30 PM (check website for specific days)

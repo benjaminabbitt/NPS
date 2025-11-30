@@ -13,5 +13,4 @@ No activities found. See [Lincoln MEM.md](Lincoln MEM.md) for details.
 
 **Address:** 2 Lincoln Circle NW, Washington, DC, DC 20002 (38.8901227, -77.0495511)
 
-**Hours:** Hours not available
-
+**Hours:** Daily: 10:00 AM-6:00 PM

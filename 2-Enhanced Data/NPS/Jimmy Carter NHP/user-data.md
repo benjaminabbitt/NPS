@@ -13,5 +13,4 @@ No activities found. See [Jimmy Carter NHP.md](Jimmy Carter NHP.md) for details.
 
 **Address:** 300 North Bond Street, Plains, Georgia 31780 (32.0365845, -84.3925601)
 
-**Hours:** Hours not available
-
+**Hours:** Daily: 10:00 AM-5:00 PM

@@ -13,5 +13,4 @@ No activities found. See [Fort Stanwix NM.md](Fort Stanwix NM.md) for details.
 
 **Address:** 100 North James St., Rome, New York 13440 (43.210051, -75.457926)
 
-**Hours:** Hours not available
-
+**Hours:** 9:30 AM-4:00 PM (check website for specific days)

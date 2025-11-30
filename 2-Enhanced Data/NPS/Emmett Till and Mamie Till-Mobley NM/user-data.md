@@ -13,5 +13,4 @@ No activities found. See [Emmett Till and Mamie Till-Mobley NM.md](Emmett Till a
 
 **Address:** 158 N Court St, Sumner, Mississippi 38957 (33.9711973, -90.3697739)
 
-**Hours:** Hours not available
-
+**Hours:** 12:00 PM-5:00 PM (check website for specific days)

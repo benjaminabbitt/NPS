@@ -1,0 +1,1270 @@
+home_base:
+  name: Kirkwood, MO
+  lat: 38.5831
+  lon: -90.4068
+parameters:
+  visit_hours_per_site: 2.0
+  hours_per_day: 18
+  preferred_hours_per_day: 12
+  target_days_per_trip: 3
+  max_days_per_trip: 4
+  avg_speed_mph: 55.0
+coverage:
+  total_sites_in_radius: 63
+  sites_visited: 29
+  sites_skipped: 35
+  all_sites_covered: false
+  skipped_sites:
+  - name: Amache NHS
+    reason: Could not fit within trip constraints (time/distance limitations)
+    lat: 38.0624519
+    lon: -102.3087324
+  - name: Andrew Johnson NHS
+    reason: Could not fit within trip constraints (time/distance limitations)
+    lat: 36.1629401
+    lon: -82.8295399
+  - name: Apostle Islands NL
+    reason: Could not fit within trip constraints (time/distance limitations)
+    lat: 46.9463335
+    lon: -90.8887619
+  - name: Big South Fork NRRA
+    reason: Could not fit within trip constraints (time/distance limitations)
+    lat: 35.7730076
+    lon: -86.2820081
+  - name: Birmingham Civil Rights NM
+    reason: Could not fit within trip constraints (time/distance limitations)
+    lat: 33.5153921
+    lon: -86.8144977
+  - name: Buffalo NR
+    reason: Could not fit within trip constraints (time/distance limitations)
+    lat: 35.2048883
+    lon: -92.4479108
+  - name: Carl Sandburg Home NHS
+    reason: Could not fit within trip constraints (time/distance limitations)
+    lat: 35.2727825
+    lon: -82.4528575
+  - name: Chickasaw NRA
+    reason: Could not fit within trip constraints (time/distance limitations)
+    lat: 34.4937367
+    lon: -96.9789694
+  - name: Cowpens NB
+    reason: Could not fit within trip constraints (time/distance limitations)
+    lat: 35.1037677
+    lon: -81.6911511
+  - name: Dayton Aviation Heritage NHP
+    reason: Could not fit within trip constraints (time/distance limitations)
+    lat: 39.7553856
+    lon: -84.2119654
+  - name: First Ladies NHS
+    reason: Could not fit within trip constraints (time/distance limitations)
+    lat: 40.7975362
+    lon: -81.3748608
+  - name: Fort Larned NHS
+    reason: Could not fit within trip constraints (time/distance limitations)
+    lat: 38.1881528
+    lon: -99.1018604
+  - name: Fossil Butte NM
+    reason: Could not fit within trip constraints (time/distance limitations)
+    lat: 35.1813118
+    lon: -87.0878382
+  - name: Freedom Riders NM
+    reason: Could not fit within trip constraints (time/distance limitations)
+    lat: 33.6581699
+    lon: -85.83128
+  - name: Friendship Hill NHS
+    reason: Could not fit within trip constraints (time/distance limitations)
+    lat: 39.7807755
+    lon: -79.9200728
+  - name: Gauley River NRA
+    reason: Could not fit within trip constraints (time/distance limitations)
+    lat: 34.2939248
+    lon: -94.1798525
+  - name: George Washington Birthplace NM
+    reason: Could not fit within trip constraints (time/distance limitations)
+    lat: 37.5524796
+    lon: -85.1697211
+  - name: Great Smoky Mountains NP
+    reason: Could not fit within trip constraints (time/distance limitations)
+    lat: 35.7730076
+    lon: -86.2820081
+  - name: Homestead NHP
+    reason: Could not fit within trip constraints (time/distance limitations)
+    lat: 40.2658382
+    lon: -96.7332497
+  - name: Isle Royale NP
+    reason: Could not fit within trip constraints (time/distance limitations)
+    lat: 47.1229405
+    lon: -88.5637537
+  - name: Keweenaw NHP
+    reason: Could not fit within trip constraints (time/distance limitations)
+    lat: 47.2440788
+    lon: -88.4523448
+  - name: Little Rock Central High School NHS
+    reason: Could not fit within trip constraints (time/distance limitations)
+    lat: 34.7381346
+    lon: -92.2973826
+  - name: Martin Luther King, Jr NHP
+    reason: Could not fit within trip constraints (time/distance limitations)
+    lat: 33.7563822
+    lon: -84.3734662
+  - name: Medgar and Myrlie Evers Home NM
+    reason: Could not fit within trip constraints (time/distance limitations)
+    lat: 32.340878
+    lon: -90.212145
+  - name: Mississippi NRRA
+    reason: Could not fit within trip constraints (time/distance limitations)
+    lat: 44.9470685
+    lon: -93.1042897
+  - name: Natchez NHP
+    reason: Could not fit within trip constraints (time/distance limitations)
+    lat: 31.5470831
+    lon: -91.3855572
+  - name: Obed WSR
+    reason: Could not fit within trip constraints (time/distance limitations)
+    lat: 35.7730076
+    lon: -86.2820081
+  - name: Pictured Rocks NL
+    reason: Could not fit within trip constraints (time/distance limitations)
+    lat: 46.4237239
+    lon: -86.6238153
+  - name: Pipestone NM
+    reason: Could not fit within trip constraints (time/distance limitations)
+    lat: 44.0095584
+    lon: -96.3210255
+  - name: Pullman NHP
+    reason: Could not fit within trip constraints (time/distance limitations)
+    lat: 41.6928561
+    lon: -87.6096053
+  - name: River Raisin NBP
+    reason: Could not fit within trip constraints (time/distance limitations)
+    lat: 41.9159374
+    lon: -83.3782184
+  - name: Sleeping Bear Dunes NL
+    reason: Could not fit within trip constraints (time/distance limitations)
+    lat: 44.8111976
+    lon: -86.0547162
+  - name: Tuskegee Airmen NHS
+    reason: Could not fit within trip constraints (time/distance limitations)
+    lat: 32.4579178
+    lon: -85.6849644
+  - name: Tuskegee Institute NHS
+    reason: Could not fit within trip constraints (time/distance limitations)
+    lat: 32.4288729
+    lon: -85.7084448
+  - name: William Howard Taft NHS
+    reason: Could not fit within trip constraints (time/distance limitations)
+    lat: 39.119899
+    lon: -84.508528
+trips:
+- trip_number: 1
+  route_details:
+  - site: Kirkwood, MO
+    site_name: Kirkwood, MO
+    city: ''
+    state: ''
+    lat: 38.5831
+    lon: -90.4068
+    address: ''
+    arrival_minutes: 0
+    arrival_hours: 0.0
+    day: 1
+    day_time_used: 0.0
+    time_of_day: 06:00
+  - site: Springfield 1908 Race Riot National Monument, Springfield, Illinois
+    site_name: Springfield 1908 Race Riot National Monument
+    city: Springfield
+    state: Illinois
+    lat: 39.7973527
+    lon: -89.6448765
+    address: 413 S 8th St, Springfield, Illinois 62701
+    arrival_minutes: 221
+    arrival_hours: 3.68
+    day: 1
+    day_time_used: 3.7
+    time_of_day: '10:41'
+    operating_hours:
+      opens: 09:00
+      closes: '17:00'
+      is_default: false
+    always_stamp_available: false
+    timezone: America/Chicago
+  - site: Cuyahoga Valley NP, Peninsula, Ohio
+    site_name: Cuyahoga Valley NP
+    city: Peninsula
+    state: Ohio
+    lat: 41.2625954
+    lon: -81.560308
+    address: 6947 Riverview Rd, Peninsula, Ohio 44264
+    arrival_minutes: 1116
+    arrival_hours: 18.6
+    day: 1
+    day_time_used: 2.0
+    time_of_day: 09:36
+    operating_hours:
+      opens: 09:30
+      closes: '17:00'
+      is_default: false
+    always_stamp_available: false
+    timezone: America/New_York
+  - site: Return to Kirkwood, MO
+    site_name: Return to Kirkwood, MO
+    city: ''
+    state: ''
+    lat: 38.5831
+    lon: -90.4068
+    address: ''
+    day: 1
+    time_of_day: '20:45'
+    timezone: America/Chicago
+    travel_from_previous: 549.5
+    travel_distance_miles: 503.7
+    is_return_home: true
+  stats:
+    total_sites: 2
+    total_distance_miles: 529.6
+    total_time_hours: 13.63
+    total_days: 1
+    repositioning_days: 0
+    sites_per_day_avg: 2.0
+    within_target: true
+    within_max: true
+    sites_rejected: 0
+  map_links:
+    openstreetmap_route: https://www.openstreetmap.org/directions?engine=fossgis_osrm_car&route=38.5831,-90.4068;39.7973527,-89.6448765;41.2625954,-81.560308;38.5831,-90.4068
+    google_maps_route: https://www.google.com/maps/dir/38.5831,-90.4068/39.7973527,-89.6448765/41.2625954,-81.560308/38.5831,-90.4068
+- trip_number: 2
+  route_details:
+  - site: Kirkwood, MO
+    site_name: Kirkwood, MO
+    city: ''
+    state: ''
+    lat: 38.5831
+    lon: -90.4068
+    address: ''
+    arrival_minutes: 0
+    arrival_hours: 0.0
+    day: 1
+    day_time_used: 0.0
+    time_of_day: 06:00
+  - site: Grand Portage NM, Grand Portage, Minnesota
+    site_name: Grand Portage NM
+    city: Grand Portage
+    state: Minnesota
+    lat: 47.9609724
+    lon: -89.6857677
+    address: 170 Mile Creek Rd, Grand Portage, Minnesota 55605
+    arrival_minutes: 1103
+    arrival_hours: 18.38
+    day: 1
+    day_time_used: 2.0
+    time_of_day: 09:23
+    operating_hours:
+      opens: 09:00
+      closes: '17:00'
+      is_default: false
+    always_stamp_available: false
+    timezone: America/Chicago
+  - site: Return to Kirkwood, MO
+    site_name: Return to Kirkwood, MO
+    city: ''
+    state: ''
+    lat: 38.5831
+    lon: -90.4068
+    address: ''
+    day: 1
+    time_of_day: '23:10'
+    timezone: America/Chicago
+    travel_from_previous: 708.0
+    travel_distance_miles: 649.0
+    is_return_home: true
+  stats:
+    total_sites: 1
+    total_distance_miles: 649.0
+    total_time_hours: 13.8
+    total_days: 1
+    repositioning_days: 0
+    sites_per_day_avg: 1.0
+    within_target: true
+    within_max: true
+    sites_rejected: 0
+  map_links:
+    openstreetmap_route: https://www.openstreetmap.org/directions?engine=fossgis_osrm_car&route=38.5831,-90.4068;47.9609724,-89.6857677;38.5831,-90.4068
+    google_maps_route: https://www.google.com/maps/dir/38.5831,-90.4068/47.9609724,-89.6857677/38.5831,-90.4068
+- trip_number: 3
+  route_details:
+  - site: Kirkwood, MO
+    site_name: Kirkwood, MO
+    city: ''
+    state: ''
+    lat: 38.5831
+    lon: -90.4068
+    address: ''
+    arrival_minutes: 0
+    arrival_hours: 0.0
+    day: 1
+    day_time_used: 0.0
+    time_of_day: 06:00
+  - site: Arkansas Post N MEM, Gillett, Arkansas
+    site_name: Arkansas Post N MEM
+    city: Gillett
+    state: Arkansas
+    lat: 35.2048883
+    lon: -92.4479108
+    address: 1741 Old Post Rd, Gillett, Arkansas 72055
+    arrival_minutes: 402
+    arrival_hours: 6.7
+    day: 1
+    day_time_used: 6.71
+    time_of_day: '12:42'
+    operating_hours:
+      opens: 08:00
+      closes: '17:00'
+      is_default: true
+    always_stamp_available: false
+    timezone: America/Chicago
+  - site: Pea Ridge NMP, Garfield, Arkansas
+    site_name: Pea Ridge NMP
+    city: Garfield
+    state: Arkansas
+    lat: 35.2048883
+    lon: -92.4479108
+    address: 15930 National Park Dr, Garfield, Arkansas 72732
+    arrival_minutes: 522
+    arrival_hours: 8.7
+    day: 1
+    day_time_used: 8.71
+    time_of_day: '14:42'
+    operating_hours:
+      opens: 08:00
+      closes: '17:00'
+      is_default: true
+    always_stamp_available: false
+    timezone: America/Chicago
+  - site: Cane River Creole NHP, Natchez, Louisiana
+    site_name: Cane River Creole NHP
+    city: Natchez
+    state: Louisiana
+    lat: 31.6655406
+    lon: -93.0024144
+    address: 4386 LA-494, Natchez, Louisiana 71456
+    arrival_minutes: 1153
+    arrival_hours: 19.22
+    day: 1
+    day_time_used: 2.0
+    time_of_day: 09:13
+    operating_hours:
+      opens: 09:00
+      closes: '15:30'
+      is_default: false
+    always_stamp_available: false
+    timezone: America/Chicago
+  - site: Return to Kirkwood, MO
+    site_name: Return to Kirkwood, MO
+    city: ''
+    state: ''
+    lat: 38.5831
+    lon: -90.4068
+    address: ''
+    day: 1
+    time_of_day: '20:18'
+    timezone: America/Chicago
+    travel_from_previous: 545.4
+    travel_distance_miles: 499.9
+    is_return_home: true
+  stats:
+    total_sites: 3
+    total_distance_miles: 505.9
+    total_time_hours: 15.2
+    total_days: 1
+    repositioning_days: 0
+    sites_per_day_avg: 3.0
+    within_target: true
+    within_max: true
+    sites_rejected: 0
+  map_links:
+    openstreetmap_route: https://www.openstreetmap.org/directions?engine=fossgis_osrm_car&route=38.5831,-90.4068;35.2048883,-92.4479108;35.2048883,-92.4479108;31.6655406,-93.0024144;38.5831,-90.4068
+    google_maps_route: https://www.google.com/maps/dir/38.5831,-90.4068/35.2048883,-92.4479108/35.2048883,-92.4479108/31.6655406,-93.0024144/38.5831,-90.4068
+- trip_number: 4
+  route_details:
+  - site: Kirkwood, MO
+    site_name: Kirkwood, MO
+    city: ''
+    state: ''
+    lat: 38.5831
+    lon: -90.4068
+    address: ''
+    arrival_minutes: 0
+    arrival_hours: 0.0
+    day: 1
+    day_time_used: 0.0
+    time_of_day: 06:00
+  - site: Jimmy Carter NHP, Plains, Georgia
+    site_name: Jimmy Carter NHP
+    city: Plains
+    state: Georgia
+    lat: 32.0365845
+    lon: -84.3925601
+    address: 300 North Bond Street, Plains, Georgia 31780
+    arrival_minutes: 1117
+    arrival_hours: 18.62
+    day: 1
+    day_time_used: 2.0
+    time_of_day: '10:37'
+    operating_hours:
+      opens: '10:00'
+      closes: '17:00'
+      is_default: false
+    always_stamp_available: false
+    timezone: America/New_York
+  - site: Return to Kirkwood, MO
+    site_name: Return to Kirkwood, MO
+    city: ''
+    state: ''
+    lat: 38.5831
+    lon: -90.4068
+    address: ''
+    day: 1
+    time_of_day: '22:53'
+    timezone: America/Chicago
+    travel_from_previous: 616.4
+    travel_distance_miles: 565.0
+    is_return_home: true
+  stats:
+    total_sites: 1
+    total_distance_miles: 565.0
+    total_time_hours: 12.27
+    total_days: 1
+    repositioning_days: 0
+    sites_per_day_avg: 1.0
+    within_target: true
+    within_max: true
+    sites_rejected: 0
+  map_links:
+    openstreetmap_route: https://www.openstreetmap.org/directions?engine=fossgis_osrm_car&route=38.5831,-90.4068;32.0365845,-84.3925601;38.5831,-90.4068
+    google_maps_route: https://www.google.com/maps/dir/38.5831,-90.4068/32.0365845,-84.3925601/38.5831,-90.4068
+- trip_number: 5
+  route_details:
+  - site: Kirkwood, MO
+    site_name: Kirkwood, MO
+    city: ''
+    state: ''
+    lat: 38.5831
+    lon: -90.4068
+    address: ''
+    arrival_minutes: 0
+    arrival_hours: 0.0
+    day: 1
+    day_time_used: 0.0
+    time_of_day: 06:00
+  - site: Stones River NB, Murfreesboro, Tennessee
+    site_name: Stones River NB
+    city: Murfreesboro
+    state: Tennessee
+    lat: 35.881861
+    lon: -86.434846
+    address: 3501 Old Nashville Hwy, Murfreesboro, Tennessee 37129
+    arrival_minutes: 433
+    arrival_hours: 7.22
+    day: 1
+    day_time_used: 7.22
+    time_of_day: '13:13'
+    operating_hours:
+      opens: 09:00
+      closes: '17:00'
+      is_default: false
+    always_stamp_available: false
+    timezone: America/Chicago
+  - site: Chattahoochee River NRA, Sandy Springs, Georgia
+    site_name: Chattahoochee River NRA
+    city: Sandy Springs
+    state: Georgia
+    lat: 33.9872732
+    lon: -84.324584
+    address: 1978 Island Ford Pkwy, Sandy Springs, Georgia 30350
+    arrival_minutes: 1106
+    arrival_hours: 18.43
+    day: 1
+    day_time_used: 2.0
+    time_of_day: 09:26
+    operating_hours:
+      opens: 09:00
+      closes: '17:00'
+      is_default: false
+    always_stamp_available: false
+    timezone: America/New_York
+  - site: Ninety Six NHS, Ninety Six, South Carolina
+    site_name: Ninety Six NHS
+    city: Ninety Six
+    state: South Carolina
+    lat: 34.1678411
+    lon: -82.0256516
+    address: 1103 Hwy 248, Ninety Six, South Carolina 29666
+    arrival_minutes: 1370
+    arrival_hours: 22.83
+    day: 1
+    day_time_used: 6.4
+    time_of_day: '13:50'
+    operating_hours:
+      opens: 09:00
+      closes: '16:30'
+      is_default: false
+    always_stamp_available: false
+    timezone: America/New_York
+  - site: Return to Kirkwood, MO
+    site_name: Return to Kirkwood, MO
+    city: ''
+    state: ''
+    lat: 38.5831
+    lon: -90.4068
+    address: ''
+    day: 1
+    time_of_day: 01:57
+    timezone: America/Chicago
+    travel_from_previous: 607.5
+    travel_distance_miles: 556.8
+    is_return_home: true
+  stats:
+    total_sites: 3
+    total_distance_miles: 596.8
+    total_time_hours: 16.85
+    total_days: 1
+    repositioning_days: 0
+    sites_per_day_avg: 3.0
+    within_target: true
+    within_max: true
+    sites_rejected: 0
+  map_links:
+    openstreetmap_route: https://www.openstreetmap.org/directions?engine=fossgis_osrm_car&route=38.5831,-90.4068;35.881861,-86.434846;33.9872732,-84.324584;34.1678411,-82.0256516;38.5831,-90.4068
+    google_maps_route: https://www.google.com/maps/dir/38.5831,-90.4068/35.881861,-86.434846/33.9872732,-84.324584/34.1678411,-82.0256516/38.5831,-90.4068
+- trip_number: 6
+  route_details:
+  - site: Kirkwood, MO
+    site_name: Kirkwood, MO
+    city: ''
+    state: ''
+    lat: 38.5831
+    lon: -90.4068
+    address: ''
+    arrival_minutes: 0
+    arrival_hours: 0.0
+    day: 1
+    day_time_used: 0.0
+    time_of_day: 06:00
+  - site: George Rogers Clark NHP, Vincennes, Indiana
+    site_name: George Rogers Clark NHP
+    city: Vincennes
+    state: Indiana
+    lat: 38.6775722
+    lon: -87.5360877
+    address: 425 S 2nd St, Vincennes, Indiana 47591
+    arrival_minutes: 289
+    arrival_hours: 4.82
+    day: 1
+    day_time_used: 4.82
+    time_of_day: '10:49'
+    operating_hours:
+      opens: 09:00
+      closes: '17:00'
+      is_default: false
+    always_stamp_available: false
+    timezone: America/New_York
+  - site: Flight 93 N MEM, Stoystown, Pennsylvania
+    site_name: Flight 93 N MEM
+    city: Stoystown
+    state: Pennsylvania
+    lat: 40.0985388
+    lon: -78.9520453
+    address: 6424 Lincoln Highway, Stoystown, Pennsylvania 15563
+    arrival_minutes: 1328
+    arrival_hours: 22.13
+    day: 1
+    day_time_used: 4.18
+    time_of_day: '10:08'
+    operating_hours:
+      opens: 09:00
+      closes: '17:00'
+      is_default: false
+    always_stamp_available: false
+    timezone: America/New_York
+  - site: Return to Kirkwood, MO
+    site_name: Return to Kirkwood, MO
+    city: ''
+    state: ''
+    lat: 38.5831
+    lon: -90.4068
+    address: ''
+    day: 1
+    time_of_day: '23:24'
+    timezone: America/Chicago
+    travel_from_previous: 677.0
+    travel_distance_miles: 620.6
+    is_return_home: true
+  stats:
+    total_sites: 2
+    total_distance_miles: 623.7
+    total_time_hours: 15.34
+    total_days: 1
+    repositioning_days: 0
+    sites_per_day_avg: 2.0
+    within_target: true
+    within_max: true
+    sites_rejected: 0
+  map_links:
+    openstreetmap_route: https://www.openstreetmap.org/directions?engine=fossgis_osrm_car&route=38.5831,-90.4068;38.6775722,-87.5360877;40.0985388,-78.9520453;38.5831,-90.4068
+    google_maps_route: https://www.google.com/maps/dir/38.5831,-90.4068/38.6775722,-87.5360877/40.0985388,-78.9520453/38.5831,-90.4068
+- trip_number: 7
+  route_details:
+  - site: Kirkwood, MO
+    site_name: Kirkwood, MO
+    city: ''
+    state: ''
+    lat: 38.5831
+    lon: -90.4068
+    address: ''
+    arrival_minutes: 0
+    arrival_hours: 0.0
+    day: 1
+    day_time_used: 0.0
+    time_of_day: 06:00
+  - site: Ice Age National Scenic Trail, Cross Plains, Wisconsin
+    site_name: Ice Age National Scenic Trail
+    city: Cross Plains
+    state: Wisconsin
+    lat: 43.0817879
+    lon: -89.6118533
+    address: 8075 Old Sauk Pass Road, Cross Plains, Wisconsin 53528
+    arrival_minutes: 462
+    arrival_hours: 7.7
+    day: 1
+    day_time_used: 7.7
+    time_of_day: '13:42'
+    operating_hours:
+      opens: 08:00
+      closes: '16:30'
+      is_default: false
+    always_stamp_available: false
+    timezone: America/Chicago
+  - site: Return to Kirkwood, MO
+    site_name: Return to Kirkwood, MO
+    city: ''
+    state: ''
+    lat: 38.5831
+    lon: -90.4068
+    address: ''
+    day: 1
+    time_of_day: '21:24'
+    timezone: America/Chicago
+    travel_from_previous: 342.1
+    travel_distance_miles: 313.6
+    is_return_home: true
+  stats:
+    total_sites: 1
+    total_distance_miles: 313.6
+    total_time_hours: 7.7
+    total_days: 1
+    repositioning_days: 0
+    sites_per_day_avg: 1.0
+    within_target: true
+    within_max: true
+    sites_rejected: 0
+  map_links:
+    openstreetmap_route: https://www.openstreetmap.org/directions?engine=fossgis_osrm_car&route=38.5831,-90.4068;43.0817879,-89.6118533;38.5831,-90.4068
+    google_maps_route: https://www.google.com/maps/dir/38.5831,-90.4068/43.0817879,-89.6118533/38.5831,-90.4068
+- trip_number: 8
+  route_details:
+  - site: Kirkwood, MO
+    site_name: Kirkwood, MO
+    city: ''
+    state: ''
+    lat: 38.5831
+    lon: -90.4068
+    address: ''
+    arrival_minutes: 0
+    arrival_hours: 0.0
+    day: 1
+    day_time_used: 0.0
+    time_of_day: 06:00
+  - site: Abraham Lincoln Birthplace NHP, Hodgenville, Kentucky
+    site_name: Abraham Lincoln Birthplace NHP
+    city: Hodgenville
+    state: Kentucky
+    lat: 37.5503915
+    lon: -85.7346486
+    address: 2995 Lincoln Farm Road, Hodgenville, Kentucky 42748
+    arrival_minutes: 407
+    arrival_hours: 6.78
+    day: 1
+    day_time_used: 6.8
+    time_of_day: '12:47'
+    operating_hours:
+      opens: 09:00
+      closes: '17:00'
+      is_default: false
+    always_stamp_available: false
+    timezone: America/New_York
+  - site: Cedar Creek and Belle Grove NHP, Middletown, 22645
+    site_name: Cedar Creek and Belle Grove NHP
+    city: Middletown
+    state: '22645'
+    lat: 39.0310273
+    lon: -78.2749771
+    address: 7712 Main Street, Middletown,  22645
+    arrival_minutes: 1262
+    arrival_hours: 21.03
+    day: 1
+    day_time_used: 3.08
+    time_of_day: 09:02
+    operating_hours:
+      opens: 08:00
+      closes: '17:00'
+      is_default: true
+    always_stamp_available: false
+    timezone: America/New_York
+  - site: Return to Kirkwood, MO
+    site_name: Return to Kirkwood, MO
+    city: ''
+    state: ''
+    lat: 38.5831
+    lon: -90.4068
+    address: ''
+    day: 1
+    time_of_day: '22:54'
+    timezone: America/Chicago
+    travel_from_previous: 712.9
+    travel_distance_miles: 653.5
+    is_return_home: true
+  stats:
+    total_sites: 2
+    total_distance_miles: 681.1
+    total_time_hours: 16.38
+    total_days: 1
+    repositioning_days: 0
+    sites_per_day_avg: 2.0
+    within_target: true
+    within_max: true
+    sites_rejected: 0
+  map_links:
+    openstreetmap_route: https://www.openstreetmap.org/directions?engine=fossgis_osrm_car&route=38.5831,-90.4068;37.5503915,-85.7346486;39.0310273,-78.2749771;38.5831,-90.4068
+    google_maps_route: https://www.google.com/maps/dir/38.5831,-90.4068/37.5503915,-85.7346486/39.0310273,-78.2749771/38.5831,-90.4068
+- trip_number: 9
+  route_details:
+  - site: Kirkwood, MO
+    site_name: Kirkwood, MO
+    city: ''
+    state: ''
+    lat: 38.5831
+    lon: -90.4068
+    address: ''
+    arrival_minutes: 0
+    arrival_hours: 0.0
+    day: 1
+    day_time_used: 0.0
+    time_of_day: 06:00
+  - site: Herbert Hoover NHS, West Branch, Iowa
+    site_name: Herbert Hoover NHS
+    city: West Branch
+    state: Iowa
+    lat: 41.6707487
+    lon: -91.3454687
+    address: 104 Parkside Dr, West Branch, Iowa 52358
+    arrival_minutes: 358
+    arrival_hours: 5.97
+    day: 1
+    day_time_used: 5.98
+    time_of_day: '11:58'
+    operating_hours:
+      opens: 09:00
+      closes: '17:00'
+      is_default: false
+    always_stamp_available: false
+    timezone: America/Chicago
+  - site: Return to Kirkwood, MO
+    site_name: Return to Kirkwood, MO
+    city: ''
+    state: ''
+    lat: 38.5831
+    lon: -90.4068
+    address: ''
+    day: 1
+    time_of_day: '17:56'
+    timezone: America/Chicago
+    travel_from_previous: 238.9
+    travel_distance_miles: 219.0
+    is_return_home: true
+  stats:
+    total_sites: 1
+    total_distance_miles: 219.0
+    total_time_hours: 5.98
+    total_days: 1
+    repositioning_days: 0
+    sites_per_day_avg: 1.0
+    within_target: true
+    within_max: true
+    sites_rejected: 0
+  map_links:
+    openstreetmap_route: https://www.openstreetmap.org/directions?engine=fossgis_osrm_car&route=38.5831,-90.4068;41.6707487,-91.3454687;38.5831,-90.4068
+    google_maps_route: https://www.google.com/maps/dir/38.5831,-90.4068/41.6707487,-91.3454687/38.5831,-90.4068
+- trip_number: 10
+  route_details:
+  - site: Kirkwood, MO
+    site_name: Kirkwood, MO
+    city: ''
+    state: ''
+    lat: 38.5831
+    lon: -90.4068
+    address: ''
+    arrival_minutes: 0
+    arrival_hours: 0.0
+    day: 1
+    day_time_used: 0.0
+    time_of_day: 06:00
+  - site: Fort Smith NHS, Fort Smith, Arkansas
+    site_name: Fort Smith NHS
+    city: Fort Smith
+    state: Arkansas
+    lat: 35.388505
+    lon: -94.4310733
+    address: 301 Parker Ave, Fort Smith, Arkansas 72901
+    arrival_minutes: 461
+    arrival_hours: 7.68
+    day: 1
+    day_time_used: 7.69
+    time_of_day: '13:41'
+    operating_hours:
+      opens: 08:00
+      closes: '17:00'
+      is_default: true
+    always_stamp_available: false
+    timezone: America/Chicago
+  - site: Oklahoma City N MEM, Oklahoma City, Oklahoma
+    site_name: Oklahoma City N MEM
+    city: Oklahoma City
+    state: Oklahoma
+    lat: 35.4737199
+    lon: -97.5172885
+    address: 620 N. Harvey Ave., Oklahoma City, Oklahoma 73102
+    arrival_minutes: 1159
+    arrival_hours: 19.32
+    day: 1
+    day_time_used: 2.0
+    time_of_day: 08:19
+    operating_hours:
+      opens: 08:00
+      closes: '17:00'
+      is_default: true
+    always_stamp_available: false
+    timezone: America/Chicago
+  - site: Return to Kirkwood, MO
+    site_name: Return to Kirkwood, MO
+    city: ''
+    state: ''
+    lat: 38.5831
+    lon: -90.4068
+    address: ''
+    day: 1
+    time_of_day: '18:26'
+    timezone: America/Chicago
+    travel_from_previous: 487.7
+    travel_distance_miles: 447.0
+    is_return_home: true
+  stats:
+    total_sites: 2
+    total_distance_miles: 486.9
+    total_time_hours: 12.85
+    total_days: 1
+    repositioning_days: 0
+    sites_per_day_avg: 2.0
+    within_target: true
+    within_max: true
+    sites_rejected: 0
+  map_links:
+    openstreetmap_route: https://www.openstreetmap.org/directions?engine=fossgis_osrm_car&route=38.5831,-90.4068;35.388505,-94.4310733;35.4737199,-97.5172885;38.5831,-90.4068
+    google_maps_route: https://www.google.com/maps/dir/38.5831,-90.4068/35.388505,-94.4310733/35.4737199,-97.5172885/38.5831,-90.4068
+- trip_number: 11
+  route_details:
+  - site: Kirkwood, MO
+    site_name: Kirkwood, MO
+    city: ''
+    state: ''
+    lat: 38.5831
+    lon: -90.4068
+    address: ''
+    arrival_minutes: 0
+    arrival_hours: 0.0
+    day: 1
+    day_time_used: 0.0
+    time_of_day: 06:00
+  - site: Harry S Truman NHS, Independence, Missouri
+    site_name: Harry S Truman NHS
+    city: Independence
+    state: Missouri
+    lat: 39.0937292
+    lon: -94.4233448
+    address: 219 N Delaware St, Independence, Missouri 64050
+    arrival_minutes: 358
+    arrival_hours: 5.97
+    day: 1
+    day_time_used: 5.98
+    time_of_day: '11:58'
+    operating_hours:
+      opens: 09:00
+      closes: '17:00'
+      is_default: false
+    always_stamp_available: false
+    timezone: America/Chicago
+  - site: Return to Kirkwood, MO
+    site_name: Return to Kirkwood, MO
+    city: ''
+    state: ''
+    lat: 38.5831
+    lon: -90.4068
+    address: ''
+    day: 1
+    time_of_day: '17:56'
+    timezone: America/Chicago
+    travel_from_previous: 238.9
+    travel_distance_miles: 219.0
+    is_return_home: true
+  stats:
+    total_sites: 1
+    total_distance_miles: 219.0
+    total_time_hours: 5.98
+    total_days: 1
+    repositioning_days: 0
+    sites_per_day_avg: 1.0
+    within_target: true
+    within_max: true
+    sites_rejected: 0
+  map_links:
+    openstreetmap_route: https://www.openstreetmap.org/directions?engine=fossgis_osrm_car&route=38.5831,-90.4068;39.0937292,-94.4233448;38.5831,-90.4068
+    google_maps_route: https://www.google.com/maps/dir/38.5831,-90.4068/39.0937292,-94.4233448/38.5831,-90.4068
+- trip_number: 12
+  route_details:
+  - site: Kirkwood, MO
+    site_name: Kirkwood, MO
+    city: ''
+    state: ''
+    lat: 38.5831
+    lon: -90.4068
+    address: ''
+    arrival_minutes: 0
+    arrival_hours: 0.0
+    day: 1
+    day_time_used: 0.0
+    time_of_day: 06:00
+  - site: Fort Scott NHS, Fort Scott, Kansas
+    site_name: Fort Scott NHS
+    city: Fort Scott
+    state: Kansas
+    lat: 37.8436759
+    lon: -94.7065998
+    address: 199 Old Fort Blvd, Fort Scott, Kansas 66701
+    arrival_minutes: 380
+    arrival_hours: 6.33
+    day: 1
+    day_time_used: 6.34
+    time_of_day: '12:20'
+    operating_hours:
+      opens: 08:30
+      closes: '16:30'
+      is_default: false
+    always_stamp_available: false
+    timezone: America/Chicago
+  - site: Lake Meredith NRA, Fritch, Texas
+    site_name: Lake Meredith NRA
+    city: Fritch
+    state: Texas
+    lat: 35.6432673
+    lon: -101.5862787
+    address: 419 E Broadway St, Fritch, Texas 79036
+    arrival_minutes: 1379
+    arrival_hours: 22.98
+    day: 1
+    day_time_used: 5.01
+    time_of_day: '10:59'
+    operating_hours:
+      opens: 09:00
+      closes: '16:00'
+      is_default: false
+    always_stamp_available: false
+    timezone: America/Chicago
+  - site: Return to Kirkwood, MO
+    site_name: Return to Kirkwood, MO
+    city: ''
+    state: ''
+    lat: 38.5831
+    lon: -90.4068
+    address: ''
+    day: 1
+    time_of_day: 00:46
+    timezone: America/Chicago
+    travel_from_previous: 707.0
+    travel_distance_miles: 648.1
+    is_return_home: true
+  stats:
+    total_sites: 2
+    total_distance_miles: 649.0
+    total_time_hours: 15.8
+    total_days: 1
+    repositioning_days: 0
+    sites_per_day_avg: 2.0
+    within_target: true
+    within_max: true
+    sites_rejected: 0
+  map_links:
+    openstreetmap_route: https://www.openstreetmap.org/directions?engine=fossgis_osrm_car&route=38.5831,-90.4068;37.8436759,-94.7065998;35.6432673,-101.5862787;38.5831,-90.4068
+    google_maps_route: https://www.google.com/maps/dir/38.5831,-90.4068/37.8436759,-94.7065998/35.6432673,-101.5862787/38.5831,-90.4068
+- trip_number: 13
+  route_details:
+  - site: Kirkwood, MO
+    site_name: Kirkwood, MO
+    city: ''
+    state: ''
+    lat: 38.5831
+    lon: -90.4068
+    address: ''
+    arrival_minutes: 0
+    arrival_hours: 0.0
+    day: 1
+    day_time_used: 0.0
+    time_of_day: 06:00
+  - site: Emmett Till and Mamie Till-Mobley NM, Sumner, Mississippi
+    site_name: Emmett Till and Mamie Till-Mobley NM
+    city: Sumner
+    state: Mississippi
+    lat: 33.9711973
+    lon: -90.3697739
+    address: 158 N Court St, Sumner, Mississippi 38957
+    arrival_minutes: 467
+    arrival_hours: 7.78
+    day: 1
+    day_time_used: 7.79
+    time_of_day: '13:47'
+    operating_hours:
+      opens: '12:00'
+      closes: '17:00'
+      is_default: false
+    always_stamp_available: false
+    timezone: America/Chicago
+  - site: New Orleans Jazz NHP, New Orleans, Louisiana
+    site_name: New Orleans Jazz NHP
+    city: New Orleans
+    state: Louisiana
+    lat: 29.9548546
+    lon: -90.0647995
+    address: 419 Decatur St, New Orleans, Louisiana 70130
+    arrival_minutes: 1192
+    arrival_hours: 19.87
+    day: 1
+    day_time_used: 2.0
+    time_of_day: 09:52
+    operating_hours:
+      opens: 09:30
+      closes: '16:30'
+      is_default: false
+    always_stamp_available: false
+    timezone: America/Chicago
+    end_of_day_positioning:
+      positioning_minutes: 189.0
+      toward_site: Gulf Islands NS
+  - site: Gulf Islands NS, Ocean Springs, Mississippi
+    site_name: Gulf Islands NS
+    city: Ocean Springs
+    state: Mississippi
+    lat: 30.3988806
+    lon: -88.7865166
+    address: 3500 Park Rd, Ocean Springs, Mississippi 39564
+    arrival_minutes: 1401
+    arrival_hours: 23.35
+    day: 2
+    day_time_used: 5.5
+    time_of_day: '13:21'
+    operating_hours:
+      opens: 09:00
+      closes: '16:00'
+      is_default: false
+    always_stamp_available: false
+    timezone: America/Chicago
+  - site: Return to Kirkwood, MO
+    site_name: Return to Kirkwood, MO
+    city: ''
+    state: ''
+    lat: 38.5831
+    lon: -90.4068
+    address: ''
+    day: 2
+    time_of_day: 01:46
+    timezone: America/Chicago
+    travel_from_previous: 625.0
+    travel_distance_miles: 573.0
+    is_return_home: true
+  stats:
+    total_sites: 3
+    total_distance_miles: 679.1
+    total_time_hours: 18.35
+    total_days: 1
+    repositioning_days: 0
+    sites_per_day_avg: 3.0
+    within_target: true
+    within_max: true
+    sites_rejected: 0
+  map_links:
+    openstreetmap_route: https://www.openstreetmap.org/directions?engine=fossgis_osrm_car&route=38.5831,-90.4068;33.9711973,-90.3697739;29.9548546,-90.0647995;30.3988806,-88.7865166;38.5831,-90.4068
+    google_maps_route: https://www.google.com/maps/dir/38.5831,-90.4068/33.9711973,-90.3697739/29.9548546,-90.0647995/30.3988806,-88.7865166/38.5831,-90.4068
+- trip_number: 14
+  route_details:
+  - site: Kirkwood, MO
+    site_name: Kirkwood, MO
+    city: ''
+    state: ''
+    lat: 38.5831
+    lon: -90.4068
+    address: ''
+    arrival_minutes: 0
+    arrival_hours: 0.0
+    day: 1
+    day_time_used: 0.0
+    time_of_day: 06:00
+  - site: Fort Donelson NB, Dover, Tennessee
+    site_name: Fort Donelson NB
+    city: Dover
+    state: Tennessee
+    lat: 36.4831363
+    lon: -87.8625811
+    address: 120 Fort Donelson Park Road, Dover, Tennessee 37058
+    arrival_minutes: 339
+    arrival_hours: 5.65
+    day: 1
+    day_time_used: 5.66
+    time_of_day: '11:39'
+    operating_hours:
+      opens: 08:30
+      closes: '16:00'
+      is_default: false
+    always_stamp_available: false
+    timezone: America/Chicago
+  - site: Ocmulgee NHP, Macon, Georgia
+    site_name: Ocmulgee NHP
+    city: Macon
+    state: Georgia
+    lat: 32.837227
+    lon: -83.6018436
+    address: 1207 Emery Hwy, Macon, Georgia 31217
+    arrival_minutes: 1240
+    arrival_hours: 20.67
+    day: 1
+    day_time_used: 2.73
+    time_of_day: 09:40
+    operating_hours:
+      opens: 09:00
+      closes: '17:00'
+      is_default: false
+    always_stamp_available: false
+    timezone: America/New_York
+  - site: Return to Kirkwood, MO
+    site_name: Return to Kirkwood, MO
+    city: ''
+    state: ''
+    lat: 38.5831
+    lon: -90.4068
+    address: ''
+    day: 1
+    time_of_day: '21:40'
+    timezone: America/Chicago
+    travel_from_previous: 600.5
+    travel_distance_miles: 550.5
+    is_return_home: true
+  stats:
+    total_sites: 2
+    total_distance_miles: 550.6
+    total_time_hours: 14.01
+    total_days: 1
+    repositioning_days: 0
+    sites_per_day_avg: 2.0
+    within_target: true
+    within_max: true
+    sites_rejected: 0
+  map_links:
+    openstreetmap_route: https://www.openstreetmap.org/directions?engine=fossgis_osrm_car&route=38.5831,-90.4068;36.4831363,-87.8625811;32.837227,-83.6018436;38.5831,-90.4068
+    google_maps_route: https://www.google.com/maps/dir/38.5831,-90.4068/36.4831363,-87.8625811/32.837227,-83.6018436/38.5831,-90.4068
+- trip_number: 15
+  route_details:
+  - site: Kirkwood, MO
+    site_name: Kirkwood, MO
+    city: ''
+    state: ''
+    lat: 38.5831
+    lon: -90.4068
+    address: ''
+    arrival_minutes: 0
+    arrival_hours: 0.0
+    day: 1
+    day_time_used: 0.0
+    time_of_day: 06:00
+  - site: Guilford Courthouse NMP, Greensboro, North Carolina
+    site_name: Guilford Courthouse NMP
+    city: Greensboro
+    state: North Carolina
+    lat: 36.1315112
+    lon: -79.8474318
+    address: 2332 New Garden Road, Greensboro, North Carolina 27410
+    arrival_minutes: 1222
+    arrival_hours: 20.37
+    day: 1
+    day_time_used: 2.43
+    time_of_day: 09:22
+    operating_hours:
+      opens: 09:00
+      closes: '17:00'
+      is_default: false
+    always_stamp_available: false
+    timezone: America/New_York
+  - site: Bluestone NSR, Meadow Bridge, 25976
+    site_name: Bluestone NSR
+    city: Meadow Bridge
+    state: '25976'
+    lat: 35.7032968
+    lon: -79.4250803
+    address: 330 Meadow Creek Rd, Meadow Bridge,  25976
+    arrival_minutes: 1383
+    arrival_hours: 23.05
+    day: 1
+    day_time_used: 5.11
+    time_of_day: '12:03'
+    operating_hours:
+      opens: 09:00
+      closes: '17:00'
+      is_default: false
+    always_stamp_available: false
+    timezone: America/New_York
+  - site: Return to Kirkwood, MO
+    site_name: Return to Kirkwood, MO
+    city: ''
+    state: ''
+    lat: 38.5831
+    lon: -90.4068
+    address: ''
+    day: 1
+    time_of_day: 01:37
+    timezone: America/Chicago
+    travel_from_previous: 694.1
+    travel_distance_miles: 636.3
+    is_return_home: true
+  stats:
+    total_sites: 2
+    total_distance_miles: 641.7
+    total_time_hours: 15.67
+    total_days: 1
+    repositioning_days: 0
+    sites_per_day_avg: 2.0
+    within_target: true
+    within_max: true
+    sites_rejected: 0
+  map_links:
+    openstreetmap_route: https://www.openstreetmap.org/directions?engine=fossgis_osrm_car&route=38.5831,-90.4068;36.1315112,-79.8474318;35.7032968,-79.4250803;38.5831,-90.4068
+    google_maps_route: https://www.google.com/maps/dir/38.5831,-90.4068/36.1315112,-79.8474318/35.7032968,-79.4250803/38.5831,-90.4068
+summary:
+  total_trips: 15
+  total_sites: 28
+  total_distance_miles: 7910.0
+  total_days: 15

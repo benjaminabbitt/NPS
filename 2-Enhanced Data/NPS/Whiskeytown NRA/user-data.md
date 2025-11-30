@@ -13,5 +13,4 @@ No activities found. See [Whiskeytown NRA.md](Whiskeytown NRA.md) for details.
 
 **Address:** 14412 JFK Mem Dr, Whiskeytown, California 96095
 
-**Hours:** Hours not available
-
+**Hours:** Daily: 9:00 AM-5:00 PM

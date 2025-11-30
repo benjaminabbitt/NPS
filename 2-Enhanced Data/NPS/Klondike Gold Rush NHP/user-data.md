@@ -13,5 +13,4 @@ No activities found. See [Klondike Gold Rush NHP.md](Klondike Gold Rush NHP.md) 
 
 **Address:** 319 Second Ave S., Seattle, Washington 98104
 
-**Hours:** Hours not available
-
+**Hours:** 10:00 AM-5:00 PM (check website for specific days)

@@ -13,5 +13,4 @@ No activities found. See [Lower East Side Tenement Museum NHS.md](Lower East Sid
 
 **Address:** 103 Orchard Street, New York, New York 10002 (40.7187837, -73.9900266)
 
-**Hours:** Hours not available
-
+**Hours:** Daily: 10:00 AM-6:00 PM

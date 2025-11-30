@@ -13,5 +13,4 @@ No activities found. See [Hovenweep NM.md](Hovenweep NM.md) for details.
 
 **Address:** Hovenweep Rd, Montezuma Creek, UTAH 84534
 
-**Hours:** Hours not available
-
+**Hours:** Daily: 9:00 AM-4:00 PM

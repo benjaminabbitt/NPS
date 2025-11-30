@@ -13,5 +13,4 @@ No activities found. See [Timpanogos Cave NM.md](Timpanogos Cave NM.md) for deta
 
 **Address:** 1025 E Alpine Dr, Alpine, Utah 84004 (40.4507397, -111.7580279)
 
-**Hours:** Hours not available
-
+**Hours:** Daily: 7:00 AM-5:30 PM

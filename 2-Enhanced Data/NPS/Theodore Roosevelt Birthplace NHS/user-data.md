@@ -13,5 +13,4 @@ No activities found. See [Theodore Roosevelt Birthplace NHS.md](Theodore Rooseve
 
 **Address:** 28 East 20th Street, New York, New York 10003 (40.7386402, -73.9890373)
 
-**Hours:** Hours not available
-
+**Hours:** 10:00 AM-4:00 PM (check website for specific days)

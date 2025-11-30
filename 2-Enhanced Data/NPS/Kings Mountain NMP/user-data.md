@@ -13,5 +13,4 @@ No activities found. See [Kings Mountain NMP.md](Kings Mountain NMP.md) for deta
 
 **Address:** 2300 Park Road, Blacksburg, South Carolina 29702
 
-**Hours:** Hours not available
-
+**Hours:** 9:00 AM-5:00 PM (check website for specific days)

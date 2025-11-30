@@ -13,5 +13,4 @@ No activities found. See [Reconstruction Era NHP.md](Reconstruction Era NHP.md) 
 
 **Address:** 706 Craven Street, Beaufort, South Carolina 29902 (32.432537, -80.6700904)
 
-**Hours:** Hours not available
-
+**Hours:** Daily: 9:00 AM-5:00 PM

@@ -1,0 +1,114 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -90.4068,
+            38.5831
+          ],
+          [
+            -92.4479108,
+            35.2048883
+          ],
+          [
+            -92.4479108,
+            35.2048883
+          ],
+          [
+            -90.212145,
+            32.340878
+          ],
+          [
+            -90.4068,
+            38.5831
+          ]
+        ]
+      },
+      "properties": {
+        "trip_number": 2,
+        "total_sites": 3,
+        "total_distance_miles": 495.1,
+        "total_days": 1
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.4068,
+          38.5831
+        ]
+      },
+      "properties": {
+        "name": "Kirkwood, MO",
+        "arrival_day": 1,
+        "arrival_time": "06:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -92.4479108,
+          35.2048883
+        ]
+      },
+      "properties": {
+        "name": "Buffalo NR, St. Joe, Arkansas",
+        "arrival_day": 1,
+        "arrival_time": "12:42"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -92.4479108,
+          35.2048883
+        ]
+      },
+      "properties": {
+        "name": "Pea Ridge NMP, Garfield, Arkansas",
+        "arrival_day": 1,
+        "arrival_time": "14:42"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.212145,
+          32.340878
+        ]
+      },
+      "properties": {
+        "name": "Medgar and Myrlie Evers Home NM, Jackson, Mississippi",
+        "arrival_day": 1,
+        "arrival_time": "09:34"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.4068,
+          38.5831
+        ]
+      },
+      "properties": {
+        "name": "Return to Kirkwood, MO",
+        "arrival_day": 1,
+        "arrival_time": "19:24"
+      }
+    }
+  ]
+}

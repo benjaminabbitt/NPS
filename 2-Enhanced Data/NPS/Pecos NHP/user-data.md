@@ -13,5 +13,4 @@ No activities found. See [Pecos NHP.md](Pecos NHP.md) for details.
 
 **Address:** 1 Peach Drive, Pecos, New Mexico 87552
 
-**Hours:** Hours not available
-
+**Hours:** Daily: 8:00 AM-4:30 PM

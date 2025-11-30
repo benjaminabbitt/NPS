@@ -13,5 +13,4 @@ No activities found. See [Tule Springs Fossil Beds NM.md](Tule Springs Fossil Be
 
 **Address:** 8660 N Decatur Blvd, Las Vegas, Nevada 89085 (36.3166581, -115.207274)
 
-**Hours:** Hours not available
-
+**Hours:** Daily: 8:00 AM-4:30 PM

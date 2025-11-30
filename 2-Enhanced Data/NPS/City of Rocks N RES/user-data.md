@@ -13,5 +13,4 @@ No activities found. See [City of Rocks N RES.md](City of Rocks N RES.md) for de
 
 **Address:** 3035 Elba-Almo Road, Almo, Idaho 83312 (42.0913683, -113.632527)
 
-**Hours:** Hours not available
-
+**Hours:** Daily: 8:00 AM-4:30 PM

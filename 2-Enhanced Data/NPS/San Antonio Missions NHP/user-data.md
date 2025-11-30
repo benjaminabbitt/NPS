@@ -13,5 +13,4 @@ No activities found. See [San Antonio Missions NHP.md](San Antonio Missions NHP.
 
 **Address:** 6701 San Jose Drive, San Antonio, Texas 78214 (29.3603458, -98.4788872)
 
-**Hours:** Hours not available
-
+**Hours:** Daily: 9:00 AM-5:00 PM

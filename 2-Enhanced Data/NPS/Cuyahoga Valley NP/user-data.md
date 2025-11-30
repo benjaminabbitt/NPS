@@ -13,5 +13,4 @@ No activities found. See [Cuyahoga Valley NP.md](Cuyahoga Valley NP.md) for deta
 
 **Address:** 6947 Riverview Rd, Peninsula, Ohio 44264 (41.2625954, -81.560308)
 
-**Hours:** Hours not available
-
+**Hours:** Daily: 9:30 AM-5:00 PM

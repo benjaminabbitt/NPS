@@ -13,5 +13,4 @@ No activities found. See [Saguaro NP.md](Saguaro NP.md) for details.
 
 **Address:** 3693 S Old Spanish Trail, Tucson, Arizona 85730 (32.1802177, -110.7362598)
 
-**Hours:** Hours not available
-
+**Hours:** Daily: 8:00 AM–4:00 PM

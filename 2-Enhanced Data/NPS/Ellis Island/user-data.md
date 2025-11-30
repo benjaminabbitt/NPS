@@ -13,5 +13,4 @@ No activities found. See [Ellis Island.md](Ellis Island.md) for details.
 
 **Address:** Ellis Island National Museum of Immigration, New York, New York 10004 (40.6991311, -74.0395482)
 
-**Hours:** Hours not available
-
+**Hours:** Daily: 9:00 AM-5:00 PM

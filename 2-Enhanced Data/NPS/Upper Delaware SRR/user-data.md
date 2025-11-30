@@ -11,7 +11,6 @@ No activities found. See [Upper Delaware SRR.md](Upper Delaware SRR.md) for deta
 
 **Visitor Center:** Upper Delaware Scenic & Recreational River Headquarters
 
-**Address:** 274 River Road, Beach Lake, Pennsylvania 18405
+**Address:** 274 River Road, Beach Lake, Pennsylvania 18405 (40.9699889, -77.7278831)
 
-**Hours:** Hours not available
-
+**Hours:** 7:30 AM-4:00 PM (check website for specific days)

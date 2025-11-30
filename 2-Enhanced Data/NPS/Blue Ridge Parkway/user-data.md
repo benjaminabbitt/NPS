@@ -13,5 +13,4 @@ No activities found. See [Blue Ridge Parkway.md](Blue Ridge Parkway.md) for deta
 
 **Address:** 195 Hemphill Knob Rd, Asheville, North Carolina 28803
 
-**Hours:** Hours not available
-
+**Hours:** Daily: 9:00 AM-4:30 PM

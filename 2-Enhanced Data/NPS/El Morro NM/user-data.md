@@ -13,5 +13,4 @@ No activities found. See [El Morro NM.md](El Morro NM.md) for details.
 
 **Address:** NM-53, Ramah, New Mexico 87321 (35.120638, -108.484254)
 
-**Hours:** Hours not available
-
+**Hours:** Daily: 9:00 AM-5:00 PM
