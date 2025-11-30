@@ -1,19 +1,23 @@
 # Universal Studios Florida
 
-**Location:** United States
+**Address:** 6000 Universal Blvd, Orlando, FL 32819 [28.4793, -81.4688]
 
-## Address
+## Park Information
 
-6000 Universal Blvd, Orlando, FL 32819
-## Operating Hours
+*Research needed: Operating hours, admission prices, parking, season dates*
 
-Varies by season - check park website before visiting
+## Notable Coasters
 
-## Operating Seasons
+*See user-data.md for complete coaster checklist*
 
-Open year-round
+## Planning Tips
 
-## Coasters at This Park
+*Research needed: Best visiting times, fast pass options, food recommendations*
 
+## Nearby Attractions
 
-- [Revenge of the Mummy](Revenge of the Mummy.md)
+*Research needed: Hotels, restaurants, other activities*
+
+---
+
+**Last Updated:** 2025-11-26

@@ -1,13 +1,43 @@
-# Ford’s Theatre NHS
+# Ford's Theatre NHS (National Historic Site)
 
-## Cancellation Stamp Locations:
+## Cancellation Stamp Locations
 
-- [ ] Ford’s Theatre NHS Visitor Center (511 10th Street NW, Washington, DC, 20004; 8:30 AM-5:00 PM)
+- **Ford's Theatre Museum & Bookstore** - The NPS passport cancellation stamp is available at the park store/bookstore located in the museum beneath the historic theatre; 511 Tenth Street NW, Washington, DC 20004 ([38.896709, -77.0256655](https://maps.apple.com/place?address=511+Tenth+St+NW%2C+Washington%2C+DC++20004%2C+United+States&coordinate=38.896709%2C-77.0256655&name=Ford%27s+Theatre&place-id=I100AA271655C8A48&_provider=9902)); open daily 9:00 AM - 5:00 PM (bookstore typically open 9:00 AM - 4:30 PM), closed Thanksgiving and December 25; 202-426-6924 [Source: [NPS Basic Information](https://www.nps.gov/foth/planyourvisit/basicinfo.htm), [NPS Park Store](https://www.nps.gov/foth/learn/bookstore.htm), [Apple Maps](https://maps.apple.com/place?address=511+Tenth+St+NW%2C+Washington%2C+DC++20004%2C+United+States&coordinate=38.896709%2C-77.0256655&name=Ford%27s+Theatre&place-id=I100AA271655C8A48&_provider=9902)]
 
-## Key Activities:
+**Note:** Matinee performances and special events may cause the museum and store to close temporarily. Call ahead to confirm current stamp locations and hours: 202-426-6924.
 
-- [ ] Visitor Center Experience (1-2 hours) - Explore exhibits and learn about Ford’s Theatre NHS; 511 10th Street NW, Washington, DC, 20004; 8:30 AM-5:00 PM [[Source](https://www.nps.gov/ftn)]
+## Key Activities
 
-## Hidden Gems:
+- **Ford's Theatre Tour** (30-60 minutes) - View the historic theatre interior, recreated to its 1865 appearance, including President Lincoln's box; NPS rangers provide interpretive talks about the assassination; self-guided access or ranger program available; 511 Tenth Street NW, Washington, DC 20004 ([38.896709, -77.0256655](https://maps.apple.com/place?address=511+Tenth+St+NW%2C+Washington%2C+DC++20004%2C+United+States&coordinate=38.896709%2C-77.0256655&name=Ford%27s+Theatre&place-id=I100AA271655C8A48&_provider=9902)); timed entry every half hour 9:00 AM - 4:30 PM daily; free admission (tickets required, $5 online reservation fee recommended) [Source: [Ford's Theatre Historic Site Visit](https://fords.org/visit-us/historic-site-visit/), [NPS Explore Ford's Theater](https://www.nps.gov/thingstodo/explore-fords-theater.htm), [Frommers Guide](https://www.frommers.com/destinations/washington-d-c/attractions/fords-theatre-national-historic-site/)]
 
-## Also Nearby:
+- **Ford's Theatre Museum** (30-60 minutes) - Self-guided exhibits on Lincoln's presidency, Civil War milestones, and the assassination conspiracy; features the Derringer pistol used by John Wilkes Booth, Booth's diary, the original door to Lincoln's box, and the blood-stained pillow from Lincoln's deathbed; located beneath the theatre; same address and hours as theatre [Source: [Ford's Theatre Historic Site Visit](https://fords.org/visit-us/historic-site-visit/), [TripAdvisor Reviews](https://www.tripadvisor.com/Attraction_Review-g28970-d104861-Reviews-Ford_s_Theatre-Washington_DC_District_of_Columbia.html), [Ford's Theatre Wikipedia](https://en.wikipedia.org/wiki/Ford's_Theatre)]
+
+- **Petersen House Tour** (20-30 minutes) - Visit the house across the street where President Lincoln died after being carried from the theatre; see the room where he passed away and learn about those who gathered around him that night; NPS rangers provide context; included in Ford's Theatre timed entry ticket; same hours as theatre [Source: [Ford's Theatre Historic Site Visit](https://fords.org/visit-us/historic-site-visit/), [NPS Petersen House](https://www.nps.gov/foth/the-petersen-house.htm), [TripAdvisor FAQ](https://www.tripadvisor.com/FAQ_Answers-g28970-d104861-t3522800-About_how_long_does_it_take_to_see_Ford_s.html)]
+
+- **Aftermath Exhibits** (30-45 minutes) - Interactive exhibits covering the 12-day manhunt for John Wilkes Booth, Lincoln's funeral train journey to Springfield, Illinois, and the nation's mourning; features a recreated 1865 Washington street scene; same address and hours as theatre [Source: [Ford's Theatre Historic Site Visit](https://fords.org/visit-us/historic-site-visit/), [Tourist Checklist Guide](https://thetouristchecklist.com/fords-theatre/)]
+
+- **NPS Ranger Programs** (30 minutes) - Rangers provide interpretive talks about the history of the theatre and events of April 14, 1865, when Lincoln was assassinated; included with theatre admission; daily during timed entry hours [Source: [NPS Explore Ford's Theater](https://www.nps.gov/thingstodo/explore-fords-theater.htm)]
+
+- **One Destiny Play** (40 minutes) - Two-character play depicting the assassination from the perspectives of Harry Ford (theatre owner) and Harry Hawk (actor on stage that night); performed Tuesdays-Saturdays during select morning entries (beginning Spring 2026); additional $5 ticket; same address as theatre [Source: [Ford's Theatre One Destiny](https://fords.org/visit-us/one-destiny-a-one-act-play/), [Washington.org Event Listing](https://washington.org/event/one-destiny-one-act-play-fords-theatre)]
+
+- **Audio Guide Tour** (adds 30+ minutes) - Acoustiguide audio tour providing additional historical content throughout the museum and theatre; available in adult and youth versions; $5 rental; available during timed entries that include the museum [Source: [Ford's Theatre Historic Site Visit](https://fords.org/visit-us/historic-site-visit/)]
+
+## Hidden Gems
+
+- **Original Church Architecture** (5-10 minutes viewing) - The building was originally constructed in 1833 as the First Baptist Church of Washington before John T. Ford converted it to a theatre in 1861; architectural elements from the church era remain visible; look for these details during your theatre tour; same address and hours as theatre [Source: [Ford's Theatre Wikipedia](https://en.wikipedia.org/wiki/Ford's_Theatre), [History Hit](https://www.historyhit.com/locations/ford-theatre/)]
+
+- **George Washington Portrait** (included in theatre tour) - A portrait of George Washington hangs beneath the President's Box, exactly as it did on the night Lincoln was shot; this historical detail is often overlooked but connects to the visual scene from that tragic evening; visible during theatre tour [Source: [Ford's Theatre Wikipedia](https://en.wikipedia.org/wiki/Ford's_Theatre)]
+
+- **Lincoln-Booth Performance Connection** (museum exhibit) - Though Lincoln loved Shakespearean drama, he never attended any of Booth's Shakespeare performances but did see Booth perform in the contemporary play "The Marble Heart"; this little-known fact is explored in the museum exhibits; included in museum visit [Source: [Ford's Theatre Wikipedia](https://en.wikipedia.org/wiki/Ford's_Theatre)]
+
+- **History on Foot Walking Tour** (2 hours) - Ranger-led walking tour covering approximately 1.6 miles to eight historically significant locations related to the Lincoln assassination; deeper exploration of the surrounding neighborhood's role in the events; check NPS website for current schedule and availability [Source: [TripAdvisor Reviews](https://www.tripadvisor.com/Attraction_Review-g28970-d104861-Reviews-Ford_s_Theatre-Washington_DC_District_of_Columbia.html)]
+
+## Also Nearby
+
+- **International Spy Museum** (2-3 hours, 0.7 miles) - Modern 140,000-square-foot museum featuring interactive RFID-enabled exhibits, espionage artifacts including cipher machines and sabotage weapons, and immersive "Undercover Mission" experiences; walk or 5-minute drive from Ford's Theatre; 700 L'Enfant Plaza SW, Washington, DC 20024 ([38.884163, -77.025719](https://www.latlong.net/place/international-spy-museum-washington-dc-usa-32809.html)); open daily 9:00 AM - 7:00 PM weekdays, until 8:00 PM Fridays-Sundays; advance tickets recommended ($5-20+) [Source: [International Spy Museum Visit](https://www.spymuseum.org/visit/), [Washington.org Guide](https://washington.org/visit-dc/guide-to-international-spy-museum), [This Brits Life Review](https://thisbritslife.com/spy-museum-in-washington-dc/)]
+
+- **National Archives Museum** (1-2 hours, 0.4 miles) - Home to the original Declaration of Independence, Constitution, and Bill of Rights displayed in the Rotunda for the Charters of Freedom; additional exhibits on American history and government records; 5-minute walk from Ford's Theatre; 701 Constitution Ave NW, Washington, DC 20408 ([38.8924797, -77.0229382](https://www.google.com/maps/place/National+Archives+Museum/@38.8924797,-77.0255131,16z/data=!3m1!4b1!4m6!3m5!1s0x89b7b79adcbc14d1:0x17b51a59f16166f1!8m2!3d38.8924797!4d-77.0229382!16s/g/11bx1ykwvg?entry=ttu)); open daily 10:00 AM - 5:30 PM (extended hours 10:00 AM - 7:00 PM March 15-Labor Day); free admission (optional $1 timed entry ticket to skip public line) [Source: [National Archives Visit](https://visit.archives.gov/visit), [Washington.org Guide](https://washington.org/visit-dc/guide-to-national-archives-museum-washington-dc), [National Archives Hours](https://www.archives.gov/calendar/locations-hours-contact-information)]
+
+---
+
+**Total Recommended Time:** 2-2.5 hours for complete Ford's Theatre NHS experience (theatre, museum, Petersen House, and Aftermath Exhibits). Allow 3-4 hours if including One Destiny play and audio guide. [Source: [TripAdvisor FAQ](https://www.tripadvisor.com/FAQ_Answers-g28970-d104861-t3522800-About_how_long_does_it_take_to_see_Ford_s.html), [Frommers Guide](https://www.frommers.com/destinations/washington-d-c/attractions/fords-theatre-national-historic-site/)]

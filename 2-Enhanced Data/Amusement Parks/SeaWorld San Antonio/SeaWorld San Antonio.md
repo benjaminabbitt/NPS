@@ -1,19 +1,23 @@
 # SeaWorld San Antonio
 
-**Location:** United States
+**Address:** 10500 Sea World Dr, San Antonio, TX 78251 [29.4584, -98.6998]
 
-## Address
+## Park Information
 
-10500 SeaWorld Dr, San Antonio, TX 78251
-## Operating Hours
+*Research needed: Operating hours, admission prices, parking, season dates*
 
-Varies by season - check park website before visiting
+## Notable Coasters
 
-## Operating Seasons
+*See user-data.md for complete coaster checklist*
 
-Seasonal operation - typically May-September, check website for specific dates
+## Planning Tips
 
-## Coasters at This Park
+*Research needed: Best visiting times, fast pass options, food recommendations*
 
+## Nearby Attractions
 
-- [Texas Stingray](Texas Stingray.md)
+*Research needed: Hotels, restaurants, other activities*
+
+---
+
+**Last Updated:** 2025-11-26

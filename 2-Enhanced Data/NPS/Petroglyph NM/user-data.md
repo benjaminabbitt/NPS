@@ -9,9 +9,20 @@ No activities found. See [Petroglyph NM.md](Petroglyph NM.md) for details.
 
 ## Amber's Data (from spreadsheet)
 
-**Visitor Center:** Petroglyph NM Visitor Center
+*This section preserves the original data from the source spreadsheet.*
 
-**Address:** Western Trail NW, Albuquerque, New Mexico 87120 (35.1344849, -106.7106283)
+**Main Address:** Western Trail NW, Albuquerque, New Mexico 87120
 
-**Hours:** Hours not available
+**Operating Hours (from source):**
+- **Sunday:** 8:30 AM-4:30 PM
+- **Monday:** 8:30 AM-4:30 PM
+- **Tuesday:** 8:30 AM-4:30 PM
+- **Wednesday:** 8:30 AM-4:30 PM
+- **Thursday:** 8:30 AM-4:30 PM
+- **Friday:** 8:30 AM-4:30 PM
+- **Saturday:** 8:30 AM-4:30 PM
+
+**Visitor Center (from source):**
+- **Name:** Petroglyph NM Visitor Center
+- **Address:** Western Trail NW
 

@@ -31,13 +31,24 @@
 - [ ] Brooklyn Bridge Walk (30-60 minutes, 1 mile from Battery Park)
 
 
+
 ## Amber's Data (from spreadsheet)
 
-**Visitor Center:** Castle Clinton NM
+*This section preserves the original data from the source spreadsheet.*
 
-**Address:** Battery Park, New York, New York 10004 (40.702856, -74.0172629)
+**Main Address:** Battery Park, New York, New York 10004
 
-**Hours:** Hours not available
+**Operating Hours (from source):**
+- **Sunday:** 7:45 AM-5:00 PM
+- **Monday:** 7:45 AM-5:00 PM
+- **Tuesday:** 7:45 AM-5:00 PM
+- **Wednesday:** 7:45 AM-5:00 PM
+- **Thursday:** 7:45 AM-5:00 PM
+- **Friday:** 7:45 AM-5:00 PM
+- **Saturday:** 7:45 AM-5:00 PM
+
+**Visitor Center (from source):**
+- **Name:** Castle Clinton NM
+- **Address:** Battery Park
 
 ## Review / Personal Notes
-

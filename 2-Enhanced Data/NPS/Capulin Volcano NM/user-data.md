@@ -26,13 +26,4 @@
 - [ ] Folsom Museum (30 minutes, 25 miles east)
 
 
-## Amber's Data (from spreadsheet)
-
-**Visitor Center:** Capulin Volcano Visitor Center
-
-**Address:** 44 Volcano Road, Capulin, New Mexico 88414 (36.7787156, -103.9803504)
-
-**Hours:** Hours not available
-
 ## Review / Personal Notes
-

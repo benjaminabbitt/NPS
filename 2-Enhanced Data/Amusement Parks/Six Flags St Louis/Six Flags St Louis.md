@@ -1,18 +1,23 @@
 # Six Flags St Louis
 
-**Location:** United States
+**Address:** 4900 Six Flags Rd, Eureka, MO 63025 [38.5128, -90.6751]
 
-## Address
+## Park Information
 
-4900 Six Flags Rd, Eureka, MO 63025
-## Operating Hours
+*Research needed: Operating hours, admission prices, parking, season dates*
 
-Varies by season - check park website before visiting
+## Notable Coasters
 
-## Operating Seasons
+*See user-data.md for complete coaster checklist*
 
-Typically April-October, with weekend operations in early/late season and Halloween events
+## Planning Tips
 
-## Coasters at This Park
+*Research needed: Best visiting times, fast pass options, food recommendations*
 
-- Mr. Freeze Reverse Blast
+## Nearby Attractions
+
+*Research needed: Hotels, restaurants, other activities*
+
+---
+
+**Last Updated:** 2025-11-26

@@ -9,9 +9,18 @@ No activities found. See [GC - Parashant National Monument.md](GC - Parashant Na
 
 ## Amber's Data (from spreadsheet)
 
-**Visitor Center:** Public Lands Center
+*This section preserves the original data from the source spreadsheet.*
 
-**Address:** 4001 East Aviator Drive, St. George, Utah 84790
+**Operating Hours (from source):**
+- **Sunday:** Closed
+- **Monday:** 8:00 AM–4:30 PM
+- **Tuesday:** 8:00 AM–4:30 PM
+- **Wednesday:** 8:00 AM–4:30 PM
+- **Thursday:** 8:00 AM–4:30 PM
+- **Friday:** 8:00 AM–4:30 PM
+- **Saturday:** Closed
 
-**Hours:** Hours not available
+**Visitor Center (from source):**
+- **Name:** Public Lands Center
+- **Address:** 4001 East Aviator Drive
 

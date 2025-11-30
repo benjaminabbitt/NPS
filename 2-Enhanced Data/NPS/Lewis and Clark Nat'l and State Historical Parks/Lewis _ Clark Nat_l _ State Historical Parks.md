@@ -2,7 +2,7 @@
 
 ## Cancellation Stamp Locations:
 
-- [ ] Lewis & Clark Nat’l & State Historical Parks Visitor Center (92343 Fort Clatsop Road, Astoria, Oregon, 97103; 9:00 AM-5:00 PM)
+- [ ] Lewis & Clark Nat’l & State Historical Parks Visitor Center (92343 Fort Clatsop Road, Astoria, Oregon, 97103 (46.1344132, -123.8802077); 9:00 AM-5:00 PM)
 
 ## Key Activities:
 

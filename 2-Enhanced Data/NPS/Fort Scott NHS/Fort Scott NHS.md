@@ -1,33 +1,53 @@
-# Fort Scott NHS
+# Fort Scott NHS (National Historic Site)
 
-## Cancellation Stamp Locations:
+## Cancellation Stamp Locations
 
-- [ ] Fort Scott NHS Visitor Center (1 Old Fort Blvd., Fort Scott, Kansas, 66701; 8:30 AM-4:30 PM)
+- **Post Hospital Visitor Center** (101 Old Fort Blvd, Fort Scott, KS 66701 (37.8380, -94.7100); April-October: daily 8:00 AM-5:00 PM, November-March: daily 9:00 AM-5:00 PM, closed Thanksgiving, Christmas, and New Year's Day; 620-223-0310) - Passport cancellation stamp available. As of 2025, the Visitor Center information desk has been temporarily moved to the West Infantry Barracks next door while work is being completed in the Post Hospital. The park's bookstore will be closed until the Post Hospital is reopened. [Source: [NPS Operating Hours](https://www.nps.gov/fosc/planyourvisit/hours.htm), [NPS Visitor Center](https://www.nps.gov/fosc/planyourvisit/visitorcenters.htm)]
 
-## Key Activities:
+**Note:** Call 620-223-0310 to confirm current stamp location before visiting.
 
-- [ ] Visitor Center Experience (1-2 hours) - Explore exhibits and learn about Fort Scott NHS; 1 Old Fort Blvd., Fort Scott, Kansas, 66701; 8:30 AM-4:30 PM [[Source](https://www.nps.gov/fsn)]
+## Key Activities
 
-## Hidden Gems:
+- **Self-Guided Tour of Historic Buildings** (1.5-2 hours) - Explore 20 historic structures including four officers' barracks, one dragoon's barracks, two infantry barracks, a hospital, guardhouse, dragoon stables, ordnance and post headquarters, quartermaster stables, bake shop, flagpole, and magazine. Tour 33 historically furnished rooms showcasing military life from the 1840s-1870s frontier era. Most visitors spend 1-2 hours touring the buildings; 101 Old Fort Blvd, Fort Scott, KS 66701 (37.843585, -94.706489); same hours as Visitor Center [Source: [TripAdvisor Reviews](https://www.tripadvisor.com/Attraction_Review-g60815-d605893-Reviews-Fort_Scott_National_Historic_Site-Fort_Scott_Kansas.html), [NPS Article](https://www.nps.gov/articles/fortscott.htm), [KCUR Guide](https://www.kcur.org/arts-life/2025-08-23/fort-scott-kansas-things-to-do-national-historic-site)]
 
-## Also Nearby:
+- **Guided Ranger Tours** (1 hour) - Join ranger-led tours departing at 10:00 AM and 1:00 PM, walking through the Hospital/Visitor Center, Post Headquarters, and Dragoon Barracks with interpretive commentary about military life, dragoons' duties, and fort operations. Tours accommodate up to 25 people and may be canceled due to weather or staffing; 101 Old Fort Blvd, Fort Scott, KS 66701 (37.843585, -94.706489); weekends at 10:00 AM and 1:00 PM [Source: [NPS Guided Tours](https://www.nps.gov/fosc/planyourvisit/guidedtours.htm), [KCUR Guide](https://www.kcur.org/arts-life/2025-08-23/fort-scott-kansas-things-to-do-national-historic-site)]
 
+- **Tallgrass Prairie Loop Trail** (30-45 minutes) - Walk through five acres of restored tallgrass prairie on this short nature trail, experiencing the landscape that once covered much of the Great Plains and learning about prairie ecology and restoration efforts; 101 Old Fort Blvd, Fort Scott, KS 66701 (37.843585, -94.706489); open during site hours [Source: [NPS Article](https://www.nps.gov/articles/fortscott.htm), [KCUR Guide](https://www.kcur.org/arts-life/2025-08-23/fort-scott-kansas-things-to-do-national-historic-site)]
 
-## Amber's Data
+- **Cell Phone Audio Tour** (1-1.5 hours) - Take a self-guided tour with detailed audio descriptions at 12 stops throughout the fort, providing in-depth information about each building's history, architecture, and the people who lived and worked there; 101 Old Fort Blvd, Fort Scott, KS 66701 (37.843585, -94.706489); available during site hours [Source: [KCUR Guide](https://www.kcur.org/arts-life/2025-08-23/fort-scott-kansas-things-to-do-national-historic-site)]
 
-*This section preserves the original data from the source spreadsheet.*
+- **NPS App with Augmented Reality Experience** (1-1.5 hours) - Beginning May 23, 2025, experience the first-ever augmented reality (AR) feature in a national park through the NPS App, digitally reconstructing historic structures and bringing the 1840s-1870s fort to life through your smartphone; 101 Old Fort Blvd, Fort Scott, KS 66701 (37.843585, -94.706489); available during site hours [Source: [NPS Visitor Center](https://www.nps.gov/fosc/planyourvisit/visitorcenters.htm)]
 
-**Main Address:** 1 Old Fort Blvd., Fort Scott, Kansas 66701
+- **Living History Demonstrations** (30-60 minutes) - Watch rangers and reenactors bring the fort to life with musket drills, blacksmithing demonstrations, and period storytelling, including portrayals of the 1st Kansas Colored Infantry soldiers who served during the Civil War era; 101 Old Fort Blvd, Fort Scott, KS 66701 (37.843585, -94.706489); offered during special events and on select weekends [Source: [KCUR Guide](https://www.kcur.org/arts-life/2025-08-23/fort-scott-kansas-things-to-do-national-historic-site), [NPS Article](https://www.nps.gov/articles/fortscott.htm)]
 
-**Operating Hours (from source):**
-- **Sunday:** 8:30 AM-4:30 PM [ff436f]
-- **Monday:** 8:30 AM-4:30 PM [942cba]
-- **Tuesday:** 8:30 AM-4:30 PM [3fa55c]
-- **Wednesday:** Closed [56d1cd]
-- **Thursday:** Closed [ccffe9]
-- **Friday:** 8:30 AM-4:30 PM [d1ffbd]
-- **Saturday:** 8:30 AM-4:30 PM [23c4af]
+- **Junior Ranger Program** (1-2 hours) - Pick up a Junior Ranger booklet at the visitor center and complete activities throughout the site to earn a Junior Ranger badge while learning about frontier military life, Bleeding Kansas history, and the Civil War; 101 Old Fort Blvd, Fort Scott, KS 66701 (37.843585, -94.706489); available during site hours [Source: [KCUR Guide](https://www.kcur.org/arts-life/2025-08-23/fort-scott-kansas-things-to-do-national-historic-site)]
 
-**Visitor Center (from source):**
-- **Name:** Post Hospital Visitor Center [2683ca]
-- **Address:** 199 Old Fort Blvd [fa0882]
+- **Museum Exhibits** (30-45 minutes) - Explore three exhibit areas within the historic buildings featuring artifacts, period uniforms, weapons, and interpretive displays about the fort's role in westward expansion, enforcing the Fugitive Slave Act, Bleeding Kansas, and serving as a Union supply base during the Civil War; 101 Old Fort Blvd, Fort Scott, KS 66701 (37.843585, -94.706489); available during site hours [Source: [NPS Article](https://www.nps.gov/articles/fortscott.htm), [Visit Fort Scott](https://visitfortscott.com/activity/fort-scott-national-historic-site/)]
+
+## Hidden Gems
+
+- **Annual Candlelight Tour** (1.5 hours) - Experience the fort illuminated by 1,000 candle lanterns during this special December event where participants become part of the reenactment, immersing themselves in 1840s prairie life during the Christmas season. Tours depart every 15 minutes on the first Friday and Saturday in December; tickets $8 adults, children 5 and under free; 101 Old Fort Blvd, Fort Scott, KS 66701 (37.843585, -94.706489); first Friday and Saturday of December, tours run 6:30 PM-9:00 PM Friday, 5:00 PM-9:00 PM Saturday; 620-223-0310 [Source: [NPS Candlelight Tour](https://www.nps.gov/fosc/planyourvisit/clt.htm), [Fort Scott Biz](https://fortscott.biz/news/40th-annual-historic-candlelight-tour-finding-peace-on-the-frontier), [TripAdvisor Review](https://www.tripadvisor.com/ShowUserReviews-g60815-d605893-r638478034-Fort_Scott_National_Historic_Site-Fort_Scott_Kansas.html)]
+
+- **Dragoon Barracks Museum** (30 minutes) - Discover stories of individual dragoon soldiers who patrolled the countryside from 1842-1853, protecting wagon trains along the Santa Fe and Oregon Trails, keeping peace among Native American tribes and settlers. The museum features period uniforms, equipment, and personal artifacts; 101 Old Fort Blvd, Fort Scott, KS 66701 (37.843585, -94.706489); available during site hours [Source: [NPS Article](https://www.nps.gov/articles/fortscott.htm), [Civil War on the Western Border](https://civilwaronthewesternborder.org/encyclopedia/fort-scott-kansas)]
+
+- **Wilson Goodlander House** (20-30 minutes) - Tour this historic structure focusing on the construction techniques and architecture of Fort Scott, showcasing the unique military Greek Revival elements on French Colonial architecture that makes this site a National Historic Landmark; 101 Old Fort Blvd, Fort Scott, KS 66701 (37.843585, -94.706489); available during site hours [Source: [Kansas Sampler](https://kansassampler.org/8wondersofkansas-history/fort-scott-national-historic-site-fort-scott)]
+
+- **Underground Railroad Network to Freedom Site** (included in exhibits) - Learn about Fort Scott's role as a National Underground Railroad Network to Freedom certified site, exploring the complex stories of freedom seekers, the enforcement of the Fugitive Slave Act, and the tensions that led to Bleeding Kansas; 101 Old Fort Blvd, Fort Scott, KS 66701 (37.843585, -94.706489); information available in exhibits during site hours [Source: [NPS Article](https://www.nps.gov/articles/fortscott.htm), [Kansas Sampler](https://kansassampler.org/8wondersofkansas-history/fort-scott-national-historic-site-fort-scott)]
+
+## Also Nearby
+
+- **Mine Creek Battlefield State Historic Site** (1-1.5 hours, 35 miles northeast) - Visit the site of one of the largest cavalry battles of the Civil War fought on October 25, 1864, where 2,800 Union troops defeated 8,000 Confederates, capturing nearly 1,000 men and two Confederate generals. The visitor center features Civil War-era uniforms, weapons, and interpretive displays about Price's Missouri Campaign; 20485 KS-52, Pleasanton, KS 66075; 2.5 miles southwest of Pleasanton [Source: [Kansas Historical Society](https://www.kansashistory.gov/p/mine-creek-civil-war-battlefield/19567), [American Battlefield Trust](https://www.battlefields.org/visit/battlefields/mine-creek-battlefield), [Civil War Muse](http://www.thecivilwarmuse.com/index.php?page=mine-creek-state-historic-site-visitor-center)]
+
+- **Prairie State Park** (2-3 hours, 45 miles southeast) - Experience nearly 4,000 acres of preserved tallgrass prairie in Missouri with a herd of approximately 100 wild bison and hiking trails through one of the largest remaining tallgrass prairie landscapes in the state. Features nature center, camping, and opportunities to see bison, diverse bird species, and native prairie plants; 128 NW 150th Lane, Mindenmines, MO 64769; 18 miles west of Lamar, MO [Source: [Missouri State Parks](https://mostateparks.com/park/prairie-state-park), [TripAdvisor](https://www.tripadvisor.com/Attraction_Review-g44674-d2208897-Reviews-Prairie_State_Park-Mindenmines_Missouri.html), [Missouri Life](https://missourilife.com/bison-birds-and-more-at-prairie-state-park/)]
+
+- **Gordon Parks Museum** (45-60 minutes, 2 miles south) - Celebrate the life and work of internationally-known photographer, filmmaker, writer, and musician Gordon Parks through 3,000 square feet of exhibits featuring his photographs, personal effects including his desk and cameras, and displays about his role as a civil rights advocate and artistic pioneer; Ellis Fine Arts Center, Fort Scott Community College, 2108 S. Horton St., Fort Scott, KS 66701 (37.8164278, -94.715548); Monday-Friday 9:00 AM-4:00 PM (school year), Monday-Thursday 9:00 AM-4:00 PM (summer); 620-223-2700 x-5850 [Source: [Gordon Parks Museum](https://www.gordonparkscenter.org/), [Visit Fort Scott](https://visitfortscott.com/see-and-do/gordon-parks-museum/), [Kansas Travel](http://www.kansastravel.org/gordonparksmuseum.htm)]
+
+- **Lowell Milken Center for Unsung Heroes** (45-75 minutes, downtown) - Explore this free 6,000-square-foot interactive museum honoring everyday people who made extraordinary contributions to fight injustice, featuring the Life in a Jar exhibit about Irena Sendler who saved 2,500 Jewish children during the Holocaust, a 48-seat theater, and student-created projects celebrating courage and compassion; 1 S. Main St., Fort Scott, KS 66701 (37.841788, -94.706054); Monday-Friday 10:00 AM-5:00 PM, Saturday 10:00 AM-4:00 PM, Sunday closed; 620-223-9991 [Source: [Lowell Milken Center](https://www.lowellmilkencenter.org/), [Visit Fort Scott](https://visitfortscott.com/activity/lowell-milken-center-for-unsung-heroes/), [TripAdvisor](https://www.tripadvisor.com/Attraction_Review-g60815-d3491028-Reviews-Lowell_Milken_Center_for_Unsung_Heroes-Fort_Scott_Kansas.html)]
+
+- **Dolly the Trolley Historic Tour** (50 minutes, downtown) - Take a narrated trolley tour through historic downtown Fort Scott on bricked streets lined with period homes from the 1800s, learning about Fort Scott's history, architecture, and the famous Fort Scott Bricks used to build the Indianapolis Speedway and Panama Canal; departs from Fort Scott Area Chamber of Commerce, 231 E. Wall St., Fort Scott, KS 66701 (37.841998, -94.704919); Fridays 11:00 AM-2:00 PM (hourly), Saturdays 10:00 AM-2:00 PM (hourly), first weekend of March to first weekend of December; $6 adults, $4 children 12 and under; 620-223-3566 [Source: [Visit Fort Scott](https://visitfortscott.com/activity/fort-scott-trolley-tours/), [Fort Scott Chamber](https://fortscott.com/events/details/trolley-tour-of-historic-fort-scott-50-minute-narrated-tour-09-13-2025-34532), [KCUR Guide](https://www.kcur.org/arts-life/2025-08-23/fort-scott-kansas-things-to-do-national-historic-site)]
+
+- **Historic Downtown Fort Scott Walking Tour** (1-1.5 hours, downtown) - Self-guided walking tour of downtown featuring the Milrose Block with early 20th-century commercial architecture, Liberty Theatre (restored 1919 theater still in operation), and historic buildings constructed with Fort Scott Bricks. Pick up a walking tour map at the Chamber of Commerce; downtown Fort Scott, KS 66701; self-guided, available anytime [Source: [Visit Fort Scott](https://visitfortscott.com/see-and-do/historic-downtown-fort-scott-walking-tour/), [Travel Kansas](https://www.travelks.com/listing/historic-downtown-walking-tour/3053/), [KCUR Guide](https://www.kcur.org/arts-life/2025-08-23/fort-scott-kansas-things-to-do-national-historic-site)]
+
+---
+
+**Total Recommended Time:** 3-4 hours for a comprehensive visit including self-guided building tours, ranger tour or audio tour, tallgrass prairie trail, and museum exhibits. History enthusiasts may wish to spend a full day to thoroughly explore all buildings and participate in multiple activities. [Source: [TripAdvisor Reviews](https://www.tripadvisor.com/Attraction_Review-g60815-d605893-Reviews-Fort_Scott_National_Historic_Site-Fort_Scott_Kansas.html)]

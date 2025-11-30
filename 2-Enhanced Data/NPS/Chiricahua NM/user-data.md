@@ -9,9 +9,20 @@ No activities found. See [Chiricahua NM.md](Chiricahua NM.md) for details.
 
 ## Amber's Data (from spreadsheet)
 
-**Visitor Center:** Chiricahua National Monument Visitor Center
+*This section preserves the original data from the source spreadsheet.*
 
-**Address:** 12856 E Rhyolite Creek Rd, Willcox, Arizona 85643
+**Main Address:** 13063 E Bonita Canyon Rd, Willcox, Arizona 85643
 
-**Hours:** Hours not available
+**Operating Hours (from source):**
+- **Sunday:** 8:30 AM–4:30 PM
+- **Monday:** 8:30 AM–4:30 PM
+- **Tuesday:** 8:30 AM–4:30 PM
+- **Wednesday:** 8:30 AM–4:30 PM
+- **Thursday:** 8:30 AM–4:30 PM
+- **Friday:** 8:30 AM–4:30 PM
+- **Saturday:** 8:30 AM–4:30 PM
+
+**Visitor Center (from source):**
+- **Name:** Chiricahua National Monument Visitor Center
+- **Address:** 12856 E Rhyolite Creek Rd
 

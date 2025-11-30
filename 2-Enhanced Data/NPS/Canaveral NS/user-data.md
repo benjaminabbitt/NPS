@@ -6,7 +6,7 @@
 
 ## Cancellation Stamps
 
-- [x] Apollo Beach Visitor Center (7611 S. Atlantic Ave, New Smyrna Beach, FL 32169) (28.9272225, -80.8243973)
+- [x] Apollo Beach Visitor Center (7611 S. Atlantic Ave, New Smyrna Beach, FL 32169 (28.9272225, -80.8243973)) (28.9272225, -80.8243973)
 
 ## Key Activities
 
@@ -26,13 +26,5 @@
 - [ ] Merritt Island National Wildlife Refuge (2-3 hours, adjacent)
 - [ ] Kennedy Space Center Visitor Complex (3-4 hours, 20 miles)
 
-
-## Amber's Data (from spreadsheet)
-
-**Visitor Center:** Apollo Beach Visitor Center
-
-**Address:** 7611 S. Atlantic Ave, New Smyrna Beach, Florida 32169 (28.9272225, -80.8243973)
-
-**Hours:** Hours not available
 
 ## Review / Personal Notes

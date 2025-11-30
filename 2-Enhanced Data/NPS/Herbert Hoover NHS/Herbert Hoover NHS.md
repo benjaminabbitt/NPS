@@ -1,33 +1,53 @@
-# Herbert Hoover NHS
+# Herbert Hoover NHS (National Historic Site)
 
-## Cancellation Stamp Locations:
+## Cancellation Stamp Locations
 
-- [ ] Herbert Hoover NHS Visitor Center (110 Parkside Dr., West Branch, Iowa, 52358; 9:00 AM-5:00 PM)
+- **Herbert Hoover National Historic Site Visitor Center** (210 Parkside Drive, West Branch, IA 52358 (41.6691, -91.3481); Daily 9:00 AM - 5:00 PM except Thanksgiving, Christmas, and New Year's Day; (319) 643-2541) - The Visitor Center offers two NPS passport stamps: a centennial version and the regular version. An information table with the Passport cancellation stamp, Junior Ranger program, and a variety of brochures is set up next to the entrance each day from 9:00 AM. [Source: [NPS Operating Hours](https://www.nps.gov/heho/planyourvisit/hours.htm), [TripAdvisor FAQ](https://www.tripadvisor.com/FAQ_Answers-g60851-d2390142-t2608641-Just_wondering_if_there_is_a_stamp_for_the.html), [Terra Goes](https://www.terragoes.com/herbert-hoover-nhs/)]
 
-## Key Activities:
+**Note:** Call (319) 643-2541 to confirm current stamp locations before visiting.
 
-- [ ] Visitor Center Experience (1-2 hours) - Explore exhibits and learn about Herbert Hoover NHS; 110 Parkside Dr., West Branch, Iowa, 52358; 9:00 AM-5:00 PM [[Source](https://www.nps.gov/hhn)]
+## Key Activities
 
-## Hidden Gems:
+- **Birthplace Cottage Tour (30 minutes)** - Enter the small, two-room 1871 cottage where Herbert Hoover was born, only 280 square feet in size with one room serving as family room, dining room, and kitchen, and the other 95-square-foot room where the entire family slept; 210 Parkside Drive, West Branch, IA 52358 (41.6691, -91.3481); Daily 9:00 AM - 5:00 PM except Thanksgiving, Christmas, and New Year's Day. [Source: [NPS Birthplace Cottage](https://www.nps.gov/places/birthplace-cottage.htm), [NPPlan](https://npplan.com/parks-by-state/iowa-national-parks/herbert-hoover-national-historic-site-park-at-a-glance/herbert-hoover-national-historic-site-historical-buildings/herbert-hoover-national-historic-site-birthplace-cottage/), [Half Day Trip](https://home.nps.gov/tripideas/visit-hoover-hometown.htm)]
 
-## Also Nearby:
+- **Guided Tour of Historic Buildings (30 minutes)** - Join park rangers for a guided tour of four historic buildings: the Birthplace Cottage, Blacksmith Shop, Schoolhouse, and Friends Meetinghouse, departing from the Visitor Center; 210 Parkside Drive, West Branch, IA 52358 (41.6691, -91.3481); Tours meet at Visitor Center daily at 9:30 AM, lasting approximately 30 minutes. [Source: [NPS Ranger Tour](https://www.nps.gov/planyourvisit/event-details.htm?id=C8AB0BEF-F42B-87DB-0B16AE32B2681C73), [Park Ranger John](https://www.parkrangerjohn.com/herbert-hoover-national-historic-site/)]
 
+- **Blacksmith Shop Demonstration (30 minutes)** - Watch demonstrations of blacksmithing techniques typical of the era, learning about the trade that supported the Hoover family, with the shop producing various iron items for sale and replacement period hardware; 210 Parkside Drive, West Branch, IA 52358 (41.6691, -91.3481); Daily 9:00 AM - 5:00 PM except Thanksgiving, Christmas, and New Year's Day. [Source: [TripAdvisor](https://www.tripadvisor.com/Attraction_Review-g60851-d2390142-Reviews-Herbert_Hoover_National_Historic_Site-West_Branch_Iowa.html), [Yelp](https://www.yelp.com/biz/herbert-hoover-national-historic-site-west-branch-2), [NPS Things To Do](https://www.nps.gov/heho/planyourvisit/things2do.htm)]
 
-## Amber's Data
+- **Quaker Friends Meetinghouse Visit (20 minutes)** - Visit the simple yet serene 1857 meetinghouse where the Hoover family attended services, with the building's plain design reflecting Quaker principles; 210 Parkside Drive, West Branch, IA 52358 (41.6691, -91.3481); Daily 9:00 AM - 5:00 PM except Thanksgiving, Christmas, and New Year's Day. [Source: [TripAdvisor](https://www.tripadvisor.com/Attraction_Review-g60851-d2390142-Reviews-Herbert_Hoover_National_Historic_Site-West_Branch_Iowa.html), [Park Ranger John](https://www.parkrangerjohn.com/herbert-hoover-national-historic-site/)]
 
-*This section preserves the original data from the source spreadsheet.*
+- **Visitor Center Exhibits and Film (30-45 minutes)** - Explore exhibits on Hoover's childhood and participation in the inauguration of this complex in his hometown, and watch the 12-minute movie "Adventure and Great Undertakings: Herbert Hoover's Childhood in West Branch"; 210 Parkside Drive, West Branch, IA 52358 (41.6691, -91.3481); Daily 9:00 AM - 5:00 PM except Thanksgiving, Christmas, and New Year's Day. [Source: [TripAdvisor](https://www.tripadvisor.com/Attraction_Review-g60851-d2390142-Reviews-Herbert_Hoover_National_Historic_Site-West_Branch_Iowa.html), [Park Ranger John](https://www.parkrangerjohn.com/herbert-hoover-national-historic-site/)]
 
-**Main Address:** 110 Parkside Dr., West Branch, Iowa 52358
+- **Herbert Hoover Prairie Trail Loop (26-45 minutes, 1.4 miles)** - Hike over two miles of trails through 81 acres of tallgrass prairie restoration and along Hoover Creek, named a National Recreation Trail in 1981, offering a glimpse of the Iowa landscape that had almost vanished by the time Herbert Hoover's grandparents moved here in 1854; Trailhead at 210 Parkside Drive, West Branch, IA 52358 (41.6691, -91.3481); Open 24 hours. [Source: [AllTrails](https://www.alltrails.com/trail/us/iowa/herbert-hoover-prairie-trail-loop), [NPS Walk the Trails](https://www.nps.gov/thingstodo/walk-the-nature-trails.htm), [Park Ranger John](https://www.parkrangerjohn.com/herbert-hoover-national-historic-site/)]
 
-**Operating Hours (from source):**
-- **Sunday:** 9:00 AM-5:00 PM [ff436f]
-- **Monday:** 9:00 AM-5:00 PM [942cba]
-- **Tuesday:** 9:00 AM-5:00 PM [3fa55c]
-- **Wednesday:** 9:00 AM-5:00 PM [56d1cd]
-- **Thursday:** 9:00 AM-5:00 PM [ccffe9]
-- **Friday:** 9:00 AM-5:00 PM [d1ffbd]
-- **Saturday:** 9:00 AM-5:00 PM [23c4af]
+- **Hoover Gravesite Visit (15-20 minutes)** - Pay respects at the hilltop gravesite where President Herbert Hoover and First Lady Lou Henry Hoover are buried, overlooking the birthplace cottage and presidential library, with two plainly inscribed ledger stones of Vermont white marble keeping with Quaker simplicity; Located 550 yards southwest of the Birthplace Cottage on a hilltop at the Herbert Hoover National Historic Site, West Branch, IA 52358; Open 24 hours. [Source: [NPS Gravesite](https://www.nps.gov/places/gravesite-of-president-and-mrs-hoover.htm), [NPPlan Hoover Gravesite](https://npplan.com/parks-by-state/iowa-national-parks/herbert-hoover-national-historic-site-park-at-a-glance/herbert-hoover-national-historic-site-hoover-grave/), [Find a Grave](https://www.findagrave.com/memorial/498/herbert-hoover)]
 
-**Visitor Center (from source):**
-- **Name:** Herbert Hoover National Historic Site Visitor Center [2683ca]
-- **Address:** 104 Parkside Dr [fa0882]
+- **Herbert Hoover Presidential Library and Museum (1.5-2 hours when reopens)** - Explore the world's largest collection of Herbert Hoover artifacts and archives at the presidential library and museum, featuring exhibits on Hoover's distinguished life and career including his humanitarian work, presidency, and post-presidential years; 210 Parkside Drive, West Branch, IA 52358 (41.6691, -91.3481); Currently closed for renovations until Summer 2026, phone (319) 259-8331. [Source: [Hoover Library Visit](https://hoover.archives.gov/visit), [TripAdvisor](https://www.tripadvisor.com/Attraction_Review-g60851-d110053-Reviews-Herbert_Hoover_Presidential_Library_and_Museum-West_Branch_Iowa.html), [Travel Iowa](https://www.traveliowa.com/places/herbert-hoover-presidential-library-and-museum-national-historic-site/590/)]
+
+## Hidden Gems
+
+- **One-Room Schoolhouse (15 minutes)** - Visit the 1853 one-room schoolhouse that represents the type of education facility young Herbert Hoover would have attended, part of the self-guided tour of historic buildings; 210 Parkside Drive, West Branch, IA 52358 (41.6691, -91.3481); Daily 9:00 AM - 5:00 PM except Thanksgiving, Christmas, and New Year's Day. [Source: [TripAdvisor](https://www.tripadvisor.com/Attraction_Review-g60851-d2390142-Reviews-Herbert_Hoover_National_Historic_Site-West_Branch_Iowa.html), [Wikipedia](https://en.wikipedia.org/wiki/Herbert_Hoover_National_Historic_Site)]
+
+- **Isis Statue (10 minutes)** - View the statue of Isis donated by Belgians in gratitude for Herbert Hoover's humanitarian relief work during World War I, a lesser-known memorial on the grounds; Located on the grounds of Herbert Hoover National Historic Site, West Branch, IA 52358 (41.6691, -91.3481); Open 24 hours. [Source: [TripAdvisor](https://www.tripadvisor.com/Attraction_Review-g60851-d2390142-Reviews-Herbert_Hoover_National_Historic_Site-West_Branch_Iowa.html)]
+
+- **Tallgrass Prairie Nature Study (30-60 minutes)** - Explore the 81 acres of tallgrass prairie reconstructed to honor Herbert Hoover's love of nature, offering cross-country skiing, snowshoeing, and nature study opportunities, with the prairie covering 85 percent of Iowa prior to West Branch settlement; 210 Parkside Drive, West Branch, IA 52358 (41.6691, -91.3481); Open 24 hours. [Source: [Park Ranger John](https://www.parkrangerjohn.com/herbert-hoover-national-historic-site/), [NPS Walk the Trails](https://www.nps.gov/thingstodo/walk-the-nature-trails.htm)]
+
+- **NPS Mobile App Tour (1.5-2 hours)** - Use the NPS App on your visit to discover the places and people that shaped the early life of the 31st President through an interactive self-guided tour experience; Available throughout Herbert Hoover National Historic Site, West Branch, IA 52358 (41.6691, -91.3481); Download app before arrival, grounds open 24 hours. [Source: [Good Sam Blog](https://blog.goodsam.com/national-parks-herbert-hoover-national-historic-site-iowa/), [TripAdvisor](https://www.tripadvisor.com/Attraction_Review-g60851-d2390142-Reviews-Herbert_Hoover_National_Historic_Site-West_Branch_Iowa.html)]
+
+## Also Nearby
+
+- **Amana Colonies National Historic Landmark (2-4 hours, 20 miles west)** - Explore seven historic villages that make up one of America's longest-lived communal societies founded by German colonists, featuring shops with handcrafted items, Iowa's only operating woolen mill, the Amana Heritage Museum, and family-style German restaurants; Visitors Center at 622 46th Ave, Amana, IA 52203 (41.8000, -91.8681); Phone (319) 622-7622; approximately 30 minutes from West Branch. [Source: [Amana Colonies](https://amanacolonies.com/visitors-guide/surrounding-area/), [Travel Iowa 3-Day Trip](https://www.traveliowa.com/3-day-trip-iowa-city-amana-colonies-and-cedar-rapids/), [TripAdvisor](https://www.tripadvisor.com/Attraction_Review-g29354-d108558-Reviews-Amana_Colonies_National_Historic_Landmark-Amana_Iowa.html)]
+
+- **Iowa 80 Truckstop - World's Largest (1-2 hours, 12 miles east)** - Visit the world's largest truck stop featuring 67,000 square feet, 9 restaurant choices, a trucking museum, movie theater, and unique roadside Americana experience with 5,000 daily visitors; 755 W Iowa 80 Rd, Walcott, IA 52773 (41.6176, -90.7811); Open 24 hours, phone (563) 284-6961; approximately 15 minutes from West Branch. [Source: [Iowa 80 Official](https://iowa80truckstop.com/), [Wikipedia](https://en.wikipedia.org/wiki/Iowa_80), [TripAdvisor](https://www.tripadvisor.com/Attraction_Review-g38490-d2207120-Reviews-Iowa_80_World_s_Largest_Truck_Stop-Walcott_Iowa.html)]
+
+- **Cedar Rapids Museum of Art (1.5-2 hours, 30 miles northwest)** - View the world's largest collection of work by famed Cedar Rapids artist Grant Wood, including paintings, sketches, jewelry, and a sculpted bench, with free admission on Thursday evenings from 5-8 PM; 410 3rd Ave SE, Cedar Rapids, IA 52401; Tuesday-Wednesday and Friday 12:00 PM - 4:00 PM, Thursday 12:00 PM - 8:00 PM, Saturday 10:00 AM - 4:00 PM, Sunday 12:00 PM - 4:00 PM, Monday closed; Phone (319) 366-7503; approximately 30-35 minutes from West Branch. [Source: [CRMA Official](https://www.crma.org/), [CRMA Visit](https://www.crma.org/visit), [TripAdvisor](https://www.tripadvisor.com/Attraction_Review-g37743-d220096-Reviews-Cedar_Rapids_Museum_of_Art-Cedar_Rapids_Iowa.html)]
+
+- **Grant Wood Studio (45 minutes, 30 miles northwest)** - Tour the studio where famed artist Grant Wood created many of his iconic works, located near downtown Cedar Rapids with free docent-guided tours beginning on the hour and half hour; 810 Second Avenue SE, Cedar Rapids, IA 52401; Open April-December, Saturdays and Sundays 12:00 PM - 4:00 PM; Free admission; approximately 30-35 minutes from West Branch. [Source: [CRMA Visit](https://www.crma.org/visit), [Tourism Cedar Rapids](https://www.tourismcedarrapids.com/blog/cedar-rapids-museum-of-art/)]
+
+- **Downtown West Branch Main Street (1-2 hours, 1 mile)** - Explore the charming historic downtown featuring unique boutiques, vintage treasures at Main Street Antiques, handmade goods at West Branch Emporium, quilting supplies at Cotton Creek Mill, classic ice cream shop, and local dining; Main Street, West Branch, IA 52358; Various hours by business, most open daily; approximately 5 minutes from Herbert Hoover NHS. [Source: [Main Street West Branch](https://www.mainstreetwestbranch.org/eat-shop-explore), [Travel Iowa](https://www.traveliowa.com/places/main-street-west-branch/4026/), [Main Street Visit](https://www.mainstreetwestbranch.org/visit)]
+
+- **University of Iowa Campus and Attractions (30-60 minutes, 10 miles west)** - Experience Big Ten college sports including Hawkeye football, basketball, and wrestling, visit the Hancher Auditorium for national touring entertainment, or explore the Pedestrian Mall with locally-owned shops; Iowa City, IA 52240; Various hours and locations; approximately 15 minutes from West Branch. [Source: [Travel Iowa 3-Day Trip](https://www.traveliowa.com/3-day-trip-iowa-city-amana-colonies-and-cedar-rapids/), [Expedia West Branch](https://www.expedia.com/West-Branch.dx6059980)]
+
+---
+
+**Total Recommended Time:** 2-4 hours for the National Historic Site (including all historic buildings, visitor center, trails, and gravesite). Add 1.5-2 hours when the Presidential Library and Museum reopens in Summer 2026. [Source: [TripAdvisor](https://www.tripadvisor.com/Attraction_Review-g60851-d2390142-Reviews-Herbert_Hoover_National_Historic_Site-West_Branch_Iowa.html), [Park Ranger John](https://www.parkrangerjohn.com/herbert-hoover-national-historic-site/)]

@@ -6,37 +6,48 @@
 
 ## Cancellation Stamps
 
-- [x] African American Civil War Memorial (1925 Vermont Avenue NW, Washington, DC 20001) [7aaeee]
+- [x] African American Civil War Memorial (1925 Vermont Avenue NW, Washington, DC 20001 (38.9157362, -77.0261661))
 
 ## Key Activities
 
-- [ ] View the Spirit of Freedom Statue and Memorial (15-30 minutes) [9a3b50]
-- [ ] Visit the African American Civil War Museum (1-2 hours) - Note: Currently closed for renovation, reopening late 2025 [0f4c75]
-- [ ] Research USCT Ancestors on the Wall of Honor (30-60 minutes) [58551d]
+- [ ] View the Spirit of Freedom Statue and Memorial (15-30 minutes)
+- [ ] Visit the African American Civil War Museum (1-2 hours) - Note: Currently closed for renovation, reopening late 2025
+- [ ] Research USCT Ancestors on the Wall of Honor (30-60 minutes)
 
 ## Hidden Gems
 
-- [ ] Attend the Meridian Hill Park Sunday Drum Circle (1-2 hours, Sundays at 3:00 PM) [067ede]
-- [ ] View the Thirteen-Basin Cascading Fountain at Meridian Hill Park (15-30 minutes) [cb1c0f]
+- [ ] Attend the Meridian Hill Park Sunday Drum Circle (1-2 hours, Sundays at 3:00 PM)
+- [ ] View the Thirteen-Basin Cascading Fountain at Meridian Hill Park (15-30 minutes)
 
 ## Also Nearby
 
-- [ ] Ben's Chili Bowl (30-45 minutes, 1213 U Street NW) [d0bd54]
-- [ ] Lincoln Theatre (2-3 hours for performance, 1215 U Street NW) [2d1eac]
-- [ ] National Museum of African American History and Culture (3-4 hours, approximately 2 miles away) [f0f68a]
+- [ ] Ben's Chili Bowl (30-45 minutes, 1213 U Street NW)
+- [ ] Lincoln Theatre (2-3 hours for performance, 1215 U Street NW)
+- [ ] National Museum of African American History and Culture (3-4 hours, approximately 2 miles away)
 - [ ] Mary McLeod Bethune Council House NHS (45 minutes - 1 hour, 1318 Vermont Avenue NW)
-- [ ] Howard Theatre (2-3 hours for performance, 620 T Street NW) [c21e80]
+- [ ] Howard Theatre (2-3 hours for performance, 620 T Street NW)
+
 
 
 
 
 ## Amber's Data (from spreadsheet)
 
-**Visitor Center:** Martin Luther King, Jr. Memorial Bookstore
+*This section preserves the original data from the source spreadsheet.*
 
-**Address:** 121 West Basin Dr SW, Washington, DC, DC 20004 (38.8818503, -77.0339422)
+**Main Address:** 1925 Vermont Avenue Northwest, Washington, DC 20001 (38.9157362, -77.0261661)
 
-**Hours:** Hours not available
+**Operating Hours (from source):**
+- **Sunday:** 10:00 AM-6:00 PM
+- **Monday:** 10:00 AM-6:00 PM
+- **Tuesday:** 10:00 AM-6:00 PM
+- **Wednesday:** 10:00 AM-6:00 PM
+- **Thursday:** 10:00 AM-6:00 PM
+- **Friday:** 10:00 AM-6:00 PM
+- **Saturday:** 10:00 AM-6:00 PM
+
+**Visitor Center (from source):**
+- **Name:** Martin Luther King, Jr. Memorial Bookstore
+- **Address:** 121 West Basin Dr SW, Washington, DC, DC 20004
 
 ## Review / Personal Notes
-

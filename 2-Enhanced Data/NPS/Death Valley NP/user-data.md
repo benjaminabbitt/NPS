@@ -9,9 +9,18 @@ No activities found. See [Death Valley NP.md](Death Valley NP.md) for details.
 
 ## Amber's Data (from spreadsheet)
 
-**Visitor Center:** Furnace Creek Visitor Center
+*This section preserves the original data from the source spreadsheet.*
 
-**Address:** Airport Rd, DEATH VALLEY, California 92328 (35.2865526, -116.0808486)
+**Operating Hours (from source):**
+- **Sunday:** 8:00 AM-5:00 PM
+- **Monday:** 8:00 AM-5:00 PM
+- **Tuesday:** 8:00 AM-5:00 PM
+- **Wednesday:** 8:00 AM-5:00 PM
+- **Thursday:** 8:00 AM-5:00 PM
+- **Friday:** 8:00 AM-5:00 PM
+- **Saturday:** 8:00 AM-5:00 PM
 
-**Hours:** Hours not available
+**Visitor Center (from source):**
+- **Name:** Furnace Creek Visitor Center
+- **Address:** Airport Rd
 

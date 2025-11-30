@@ -6,19 +6,19 @@
 
 ## Cancellation Stamps
 
-- [x] Aleutian World War II Visitor Center (2716 Airport Beach Road, Unalaska, AK 99692) [420feb]
+- [x] Aleutian World War II Visitor Center (2716 Airport Beach Road, Unalaska, AK 99692 (53.8845151, -166.5545882))
 
 ## Key Activities
 
-- [ ] Visitor Center and Museum Tour (1-1.5 hours) [d1909e]
-- [ ] Fort Schwatka Self-Guided Tour (2-3 hours) [8960d7]
-- [ ] Mount Ballyhoo Hike (1-3 hours) [c1fd9f]
+- [ ] Visitor Center and Museum Tour (1-1.5 hours)
+- [ ] Fort Schwatka Self-Guided Tour (2-3 hours)
+- [ ] Mount Ballyhoo Hike (1-3 hours)
 
 ## Hidden Gems
 
-- [ ] Bunker Hill Trail (1-1.5 hours) [e798a9]
-- [ ] USS Northwestern Memorial (15-30 minutes) [67ff2d]
-- [ ] Pyramid Valley Trail (1.5-2 hours) [1ec876]
+- [ ] Bunker Hill Trail (1-1.5 hours)
+- [ ] USS Northwestern Memorial (15-30 minutes)
+- [ ] Pyramid Valley Trail (1.5-2 hours)
 
 ## Also Nearby
 
@@ -28,13 +28,24 @@
 
 
 
+
 ## Amber's Data (from spreadsheet)
 
-**Visitor Center:** Aleutian Islands WWII National Historic Area - Visitor Center
+*This section preserves the original data from the source spreadsheet.*
 
-**Address:** 2716 Airport Beach Rd, Unalaska, Alaska 99692 (53.8845151, -166.5545882)
+**Main Address:** 2716 Airport Beach Road, Unalaska, Alaska 99692 (53.8845151, -166.5545882)
 
-**Hours:** Hours not available
+**Operating Hours (from source):**
+- **Sunday:** Closed
+- **Monday:** Closed
+- **Tuesday:** 8:00 AM–5:00 PM
+- **Wednesday:** 8:00 AM–5:00 PM
+- **Thursday:** 8:00 AM–5:00 PM
+- **Friday:** 8:00 AM–5:00 PM
+- **Saturday:** 10:00 AM–5:00 PM
+
+**Visitor Center (from source):**
+- **Name:** Aleutian Islands WWII National Historic Area - Visitor Center
+- **Address:** 2716 Airport Beach Rd, Unalaska, Alaska 99692 (53.8845151, -166.5545882)
 
 ## Review / Personal Notes
-

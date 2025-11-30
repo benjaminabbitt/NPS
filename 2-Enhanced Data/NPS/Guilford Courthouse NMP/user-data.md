@@ -9,9 +9,20 @@ No activities found. See [Guilford Courthouse NMP.md](Guilford Courthouse NMP.md
 
 ## Amber's Data (from spreadsheet)
 
-**Visitor Center:** Visitor Center
+*This section preserves the original data from the source spreadsheet.*
 
-**Address:** 2332 New Garden Road, Greensboro, North Carolina 27410 (36.1315112, -79.8474318)
+**Main Address:** 2332 New Garden Road, Greensboro, North Carolina 27410 (36.1315112, -79.8474318)
 
-**Hours:** Hours not available
+**Operating Hours (from source):**
+- **Sunday:** 9:00 AM-5:00 PM
+- **Monday:** 9:00 AM-5:00 PM
+- **Tuesday:** 9:00 AM-5:00 PM
+- **Wednesday:** 9:00 AM-5:00 PM
+- **Thursday:** 9:00 AM-5:00 PM
+- **Friday:** 9:00 AM-5:00 PM
+- **Saturday:** 9:00 AM-5:00 PM
+
+**Visitor Center (from source):**
+- **Name:** Visitor Center
+- **Address:** 2332 New Garden Road
 

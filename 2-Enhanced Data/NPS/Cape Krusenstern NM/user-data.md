@@ -6,7 +6,7 @@
 
 ## Cancellation Stamps
 
-- [x] Northwest Arctic Heritage Center (171 3rd Avenue, Kotzebue, AK 99752) (66.8969703, -162.5930442)
+- [x] Northwest Arctic Heritage Center (171 3rd Avenue, Kotzebue, AK 99752 (66.8969703, -162.5930442)) (66.8969703, -162.5930442)
 
 ## Key Activities
 
@@ -25,13 +25,4 @@
 - [ ] Iñupiat Heritage Cultural Tours in Kotzebue (2-4 hours)
 
 
-## Amber's Data (from spreadsheet)
-
-**Visitor Center:** Northwest Arctic Heritage Center
-
-**Address:** 171 Third Ave, Kotzebue, Alaska 99752
-
-**Hours:** Hours not available
-
 ## Review / Personal Notes
-

@@ -9,9 +9,20 @@ No activities found. See [Lake Roosevelt NRA.md](Lake Roosevelt NRA.md) for deta
 
 ## Amber's Data (from spreadsheet)
 
-**Visitor Center:** Fort Spokane Visitor Center and Museum
+*This section preserves the original data from the source spreadsheet.*
 
-**Address:** 44150 District Office Ln, Davenport, Washington 99122
+**Main Address:** 1008 Crest Drive, Coulee Dam, Washington 99116 (47.9698792, -118.9697265)
 
-**Hours:** Hours not available
+**Operating Hours (from source):**
+- **Sunday:** 9:30 AM-5:00 PM
+- **Monday:** Closed
+- **Tuesday:** Closed
+- **Wednesday:** Closed
+- **Thursday:** Closed
+- **Friday:** 9:30 AM-5:00 PM
+- **Saturday:** 9:30 AM-5:00 PM
+
+**Visitor Center (from source):**
+- **Name:** Fort Spokane Visitor Center and Museum
+- **Address:** 44150 District Office Ln
 

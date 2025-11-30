@@ -1,25 +1,23 @@
 # Cedar Point
 
-**Location:** United States
+**Address:** 1 Cedar Point Dr, Sandusky, OH 44870 [41.4823, -82.6835]
 
-## Address
+## Park Information
 
-1 Cedar Point Dr, Sandusky, OH 44870
-## Operating Hours
+*Research needed: Operating hours, admission prices, parking, season dates*
 
-Varies by season - check park website before visiting
+## Notable Coasters
 
-## Operating Seasons
+*See user-data.md for complete coaster checklist*
 
-Typically April-October, with weekend operations in early/late season and Halloween events
+## Planning Tips
 
-## Coasters at This Park
+*Research needed: Best visiting times, fast pass options, food recommendations*
 
+## Nearby Attractions
 
-- [GateKeeper](GateKeeper.md)
-- [Maverick](Maverick.md)
-- [Millennium Force](Millennium Force.md)
-- [Raptor](Raptor.md)
-- Siren’s Curse
-- [Steel Vengeance](Steel Vengeance.md)
-- [Top Thrill 2](Top Thrill 2.md)
+*Research needed: Hotels, restaurants, other activities*
+
+---
+
+**Last Updated:** 2025-11-26

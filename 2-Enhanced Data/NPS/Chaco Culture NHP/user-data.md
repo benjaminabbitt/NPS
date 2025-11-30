@@ -33,13 +33,4 @@
 - [ ] Bisti/De-Na-Zin Wilderness (3-4 hours, 63 miles/3.25 hours drive)
 
 
-## Amber's Data (from spreadsheet)
-
-**Visitor Center:** Chaco Culture National Historical Park Visitor Center
-
-**Address:** 1808 County Road 7950, Nageezi, New Mexico 87037
-
-**Hours:** Hours not available
-
 ## Review / Personal Notes
-

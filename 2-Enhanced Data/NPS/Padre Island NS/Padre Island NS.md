@@ -1,33 +1,51 @@
-# Padre Island NS
+# Padre Island NS (National Seashore)
 
-## Cancellation Stamp Locations:
+## Cancellation Stamp Locations
 
-- [ ] Padre Island NS Visitor Center (20420 Park Road 22, Corpus Christi, Texas, 78418; 9:00 AM-5:00 PM)
+- **Malaquite Visitor Center** (20420 Park Rd 22, Corpus Christi, TX 78418 (27.6389, -97.2743); Daily 9:00 AM - 5:00 PM year-round, closed Christmas Day; 361-949-8068) - National Park Service passport cancellation stamps available at visitor center information desk; popular stop for passport collectors; also features exhibits on park history, plants, animals, and park store; FREE admission. [Source: [NPS Visitor Center](https://www.nps.gov/pais/planyourvisit/visitor-center.htm), [NPS Operating Hours](https://home.nps.gov/pais/planyourvisit/hours.htm), [NPPlan](https://npplan.com/parks-by-state/texas-national-parks/padre-island-national-seashore-park-at-a-glance/padre-island-national-seashore-malaquite-visitor-center/)]
 
-## Key Activities:
+**Note:** Park entrance fee $25 for seven-day pass or $10 for single-day pass. Park open 24/7 year-round. No cell service throughout park and no gas stations; stock up on supplies in Corpus Christi before arriving.
 
-- [ ] Visitor Center Experience (1-2 hours) - Explore exhibits and learn about Padre Island NS; 20420 Park Road 22, Corpus Christi, Texas, 78418; 9:00 AM-5:00 PM [[Source](https://www.nps.gov/pin)]
+## Key Activities
 
-## Hidden Gems:
+- **Sea Turtle Hatchling Releases** (20-45 minutes) - Witness public Kemp's Ridley sea turtle hatchling releases mid-June through August at 6:45 AM on Malaquite Beach in front of visitor center; releases occur sporadically when nests hatch (June-October possible); takes 20-45 minutes for baby turtles to reach water; call Hatchling Hotline 361-949-7163 for latest schedule; magical experience for all ages; Malaquite Beach; mid-June through August (possible June-October); FREE with park admission [Source: [NPS Hatchling Releases](https://www.nps.gov/pais/planyourvisit/hatchlingreleases.htm), [Visit Corpus Christi](https://www.visitcorpuschristi.com/beaches/sea-turtle-releases/), [Upgraded Points](https://upgradedpoints.com/travel/padre-island-national-seashore-travel-guide/)]
 
-## Also Nearby:
+- **Malaquite Beach Family Swimming** (2-4 hours) - Enjoy 4.5-mile-long beach closed to motorized vehicles; perfect for families with children; safe swimming, beachcombing, sandcastle building; accessible via visitor center; lifeguards not on duty so swim at own risk; Malaquite Beach; daylight hours year-round; FREE with park admission [Source: [WNPA Trip Planning](https://wnpa.org/plan-your-trip/trip-ideas/park-stories/how-to-plan-your-perfect-trip-to-padre-island-national-seashore-1), [Upgraded Points](https://upgradedpoints.com/travel/padre-island-national-seashore-travel-guide/), [Park Ranger John](https://www.parkrangerjohn.com/padre-island-national-seashore/)]
 
+- **Beachcombing and Shell Collecting** (1-3 hours) - Search for shells at Little Shell Beach (Milepost 10-15) and Big Shell Beach (Milepost 20-25) where currents meet and deposit shells of differing sizes; excellent variety of Gulf Coast shells; popular activity year-round; along beachfront; accessible during daylight; FREE with park admission [Source: [Tourist Secrets](https://www.touristsecrets.com/destinations/united-states/texas/secrets-of-texass-padre-island-national-seashore-barrier-islands/), [WNPA Padre Island](https://wnpa.org/explore-parks/padre-island)]
 
-## Amber's Data
+- **World-Class Birding** (2-6 hours) - Observe over 380 bird species (nearly half of all North American species); park located on Central Flyway major migration route; best times early spring, fall, and winter; Bird Island Basin excellent for water birds and wading birds; globally important area for migratory birds; various locations throughout park; year-round, best spring/fall/winter; FREE with park admission [Source: [Tourist Secrets](https://www.touristsecrets.com/destinations/united-states/texas/secrets-of-texass-padre-island-national-seashore-barrier-islands/), [America's Best History](https://americasbesthistory.com/abh-padreisland.html), [WNPA Padre Island](https://wnpa.org/explore-parks/padre-island)]
 
-*This section preserves the original data from the source spreadsheet.*
+- **Kayaking Laguna Madre and Ocean** (2-6 hours) - Paddle calm, shallow Laguna Madre waters (beginner-friendly) or challenge yourself with open ocean sea kayaking; launch from Bird Island Basin campground for lagoon access; bring own kayak or rent in Corpus Christi; birding opportunities; Bird Island Basin or ocean beach; year-round during daylight; FREE with park admission, rental fees external [Source: [America's Best History](https://americasbesthistory.com/abh-padreisland.html), [WNPA Trip Planning](https://wnpa.org/plan-your-trip/trip-ideas/park-stories/how-to-plan-your-perfect-trip-to-padre-island-national-seashore-1/)]
 
-**Main Address:** 20420 Park Road 22, Corpus Christi, Texas 78418
+- **Fishing** (2-8 hours) - Fish from beach, lagoon, or boat; wade fishing in Laguna Madre; surf fishing on Gulf beaches; variety of species including redfish, speckled trout, flounder; bring own equipment; Texas fishing license required; various locations throughout park; year-round; FREE with park admission plus license [Source: [America's Best History](https://americasbesthistory.com/abh-padreisland.html), [WNPA Padre Island](https://wnpa.org/explore-parks/padre-island)]
 
-**Operating Hours (from source):**
-- **Sunday:** 9:00 AM-5:00 PM [ff436f]
-- **Monday:** 9:00 AM-5:00 PM [942cba]
-- **Tuesday:** 9:00 AM-5:00 PM [3fa55c]
-- **Wednesday:** 9:00 AM-5:00 PM [56d1cd]
-- **Thursday:** 9:00 AM-5:00 PM [ccffe9]
-- **Friday:** 9:00 AM-5:00 PM [d1ffbd]
-- **Saturday:** 9:00 AM-5:00 PM [23c4af]
+- **Ranger-Led Programs** (varies by program) - Join free ranger-led deck walks, beach walks, sea turtle releases, star parties, and Cowboy Connections programs; appropriate for all ages; excellent way to learn park history and ecology; schedules vary seasonally; check at visitor center; various locations; seasonal schedules; FREE [Source: [Tourist Secrets](https://www.touristsecrets.com/destinations/united-states/texas/secrets-of-texass-padre-island-national-seashore-barrier-islands/), [America's Best History](https://americasbesthistory.com/abh-padreisland.html)]
 
-**Visitor Center (from source):**
-- **Name:** Malaquite Visitor Center [2683ca]
-- **Address:** 20420 Park Rd 22 [fa0882]
+- **Camping at Malaquite Campground** (overnight) - Camp at developed campground half-mile north of visitor center; 48 sites with picnic tables, some with overhead canopies; no hookups but restrooms and cold rinse showers; first-come, first-served; maximum 14-day stay; near Malaquite Beach; year-round; $8-14 per night [Source: [Tourist Secrets](https://www.touristsecrets.com/destinations/united-states/texas/secrets-of-texass-padre-island-national-seashore-barrier-islands/), [Upgraded Points](https://upgradedpoints.com/travel/padre-island-national-seashore-travel-guide/)]
+
+## Hidden Gems
+
+- **Primitive Beach Camping (4WD Required)** (overnight) - Experience rugged off-grid beach camping along entire south beach; requires four-wheel-drive vehicle or long walk-in; perfect for solitude and nature lovers; bring all supplies including water; stunning stargazing; south beach area; year-round; FREE with park admission [Source: [Tourist Secrets](https://www.touristsecrets.com/destinations/united-states/texas/secrets-of-texass-padre-island-national-seashore-barrier-islands/), [Upgraded Points](https://upgradedpoints.com/travel/padre-island-national-seashore-travel-guide/), [Hipcamp](https://www.hipcamp.com/en-US/discover/texas/padre-island)]
+
+- **Historic Line Camps Exploration** (30-60 minutes) - Visit remnants of Dunn family ranch line camps: Novillo (well, bunkhouse, windmill, buildings, corrals still standing), Black Hill (some fencing remains), and Green Hill (some fencing remains); spaced 15 miles apart along island; fascinating ranch history; various locations on island; accessible during daylight with 4WD; FREE with park admission [Source: [Tourist Secrets](https://www.touristsecrets.com/destinations/united-states/texas/secrets-of-texass-padre-island-national-seashore-barrier-islands/)]
+
+- **Bird Island Basin Lagoon Swimming and Boating** (2-4 hours) - Swim and boat in calm Laguna Madre waters; one of best areas in park to enjoy water; excellent birding opportunities; less crowded than ocean beaches; boat launch available; Bird Island Basin campground; year-round during daylight; FREE with park admission [Source: [Tourist Secrets](https://www.touristsecrets.com/destinations/united-states/texas/secrets-of-texass-padre-island-national-seashore-barrier-islands/), [America's Best History](https://americasbesthistory.com/abh-padreisland.html)]
+
+- **Cowboy Connections Ranger Program** (timing varies) - Attend special ranger program about island's ranching history; often overlooked program with fascinating stories; check schedule at visitor center; seasonal offering; various locations; times vary; FREE [Source: [Tourist Secrets](https://www.touristsecrets.com/destinations/united-states/texas/secrets-of-texass-padre-island-national-seashore-barrier-islands/)]
+
+- **Star Parties** (1-2 hours) - Experience ranger-led stargazing programs in dark sky environment; minimal light pollution on barrier island; seasonal offerings; check visitor center schedule; Malaquite Beach area; evening programs; FREE [Source: [Tourist Secrets](https://www.touristsecrets.com/destinations/united-states/texas/secrets-of-texass-padre-island-national-seashore-barrier-islands/)]
+
+## Also Nearby
+
+- **South Padre Island** (2-8 hours, 90 miles south) - Visit popular beach resort town via Port Isabel and Queen Isabella Causeway (not accessible directly from park); winter population 3,000 swells during spring break and summer; beaches, dining, shopping, water sports, nightlife; South Padre Island, TX; hours vary by venue; costs vary [Source: [Tourist Secrets](https://www.touristsecrets.com/destinations/united-states/texas/secrets-of-texass-padre-island-national-seashore-barrier-islands/)]
+
+- **Corpus Christi** (various activities, 15 miles northwest) - Explore coastal city offering Texas State Aquarium, USS Lexington Museum, shopping, dining, museums, culture; gateway to Padre Island; stock up on supplies here before visiting park (no services in park); Corpus Christi, TX; hours vary; costs vary [Source: [NPS Nearby Attractions](https://www.nps.gov/pais/planyourvisit/nearbyattractions.htm), [Tourist Secrets](https://www.touristsecrets.com/destinations/united-states/texas/secrets-of-texass-padre-island-national-seashore-barrier-islands/)]
+
+- **Texas State Aquarium** (2-3 hours, 20 miles northwest) - Visit top-rated aquarium in Corpus Christi featuring Gulf of Mexico marine life, touch tanks, dolphin shows, stingray lagoon; excellent complement to beach visit; 2710 N Shoreline Blvd, Corpus Christi, TX 78402 (27.8138802, -97.3926202); hours vary; admission charged [Source: [NPS Nearby Attractions](https://www.nps.gov/pais/planyourvisit/nearbyattractions.htm)]
+
+- **USS Lexington Museum** (2-3 hours, 20 miles northwest) - Tour historic World War II aircraft carrier museum on Corpus Christi Bay; restored aircraft, flight simulators, exhibits; 2914 N Shoreline Blvd, Corpus Christi, TX 78402 (27.8148742, -97.3887113); hours vary; admission charged [Source: [NPS Nearby Attractions](https://www.nps.gov/pais/planyourvisit/nearbyattractions.htm)]
+
+---
+
+**Total Recommended Time at Padre Island NS (National Seashore):** Minimum half-day for beach, visitor center, and wildlife viewing; full day recommended for swimming, beachcombing, and ranger programs; 2-3 days ideal for camping, fishing, kayaking, and turtle releases (if in season). Best visit March for mild weather (mid-50s to mid-70s); summer highs 80s-low 90s; winter highs 60s. **CRITICAL: No cell service, no gas stations, limited food/beverage; stock supplies in Corpus Christi before arriving.** [Source: [WNPA Trip Planning](https://wnpa.org/plan-your-trip/trip-ideas/park-stories/how-to-plan-your-perfect-trip-to-padre-island-national-seashore-1), [Upgraded Points](https://upgradedpoints.com/travel/padre-island-national-seashore-travel-guide/), [Park Ranger John](https://www.parkrangerjohn.com/padre-island-national-seashore/)]

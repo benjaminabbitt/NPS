@@ -1,19 +1,23 @@
 # Lost Island Theme Park
 
-**Location:** United States
+**Address:** 2600 E Shaulis Rd, Waterloo, IA 50701 [42.444, -92.315]
 
-## Address
+## Park Information
 
-2225 E Shawnee Rd, Waterloo, IA 50701
-## Operating Hours
+*Research needed: Operating hours, admission prices, parking, season dates*
 
-Varies by season - check park website before visiting
+## Notable Coasters
 
-## Operating Seasons
+*See user-data.md for complete coaster checklist*
 
-Seasonal operation - typically May-September, check website for specific dates
+## Planning Tips
 
-## Coasters at This Park
+*Research needed: Best visiting times, fast pass options, food recommendations*
 
+## Nearby Attractions
 
-- [Fire Runner](Fire Runner.md)
+*Research needed: Hotels, restaurants, other activities*
+
+---
+
+**Last Updated:** 2025-11-26

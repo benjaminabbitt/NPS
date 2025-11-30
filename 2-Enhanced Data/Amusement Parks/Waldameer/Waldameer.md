@@ -1,19 +1,23 @@
 # Waldameer
 
-**Location:** United States
+**Address:** 220 Peninsula Dr, Erie, PA 16505 [42.1087, -80.1555]
 
-## Address
+## Park Information
 
-220 Peninsula Dr, Erie, PA 16505
-## Operating Hours
+*Research needed: Operating hours, admission prices, parking, season dates*
 
-Varies by season - check park website before visiting
+## Notable Coasters
 
-## Operating Seasons
+*See user-data.md for complete coaster checklist*
 
-Seasonal operation - typically May-September, check website for specific dates
+## Planning Tips
 
-## Coasters at This Park
+*Research needed: Best visiting times, fast pass options, food recommendations*
 
+## Nearby Attractions
 
-- [Ravine Flyer II](Ravine Flyer II.md)
+*Research needed: Hotels, restaurants, other activities*
+
+---
+
+**Last Updated:** 2025-11-26

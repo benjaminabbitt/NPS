@@ -9,9 +9,20 @@ No activities found. See [Klondike Gold Rush NHP.md](Klondike Gold Rush NHP.md) 
 
 ## Amber's Data (from spreadsheet)
 
-**Visitor Center:** Klondlike Gold Rush Visitor Center
+*This section preserves the original data from the source spreadsheet.*
 
-**Address:** 319 Second Ave S., Seattle, Washington 98104
+**Main Address:** 319 Second Ave S., Seattle, Washington 98104
 
-**Hours:** Hours not available
+**Operating Hours (from source):**
+- **Sunday:** 10:00 AM-5:00 PM
+- **Monday:** Closed
+- **Tuesday:** Closed
+- **Wednesday:** 10:00 AM-5:00 PM
+- **Thursday:** 10:00 AM-5:00 PM
+- **Friday:** 10:00 AM-5:00 PM
+- **Saturday:** 10:00 AM-5:00 PM
+
+**Visitor Center (from source):**
+- **Name:** Klondlike Gold Rush Visitor Center
+- **Address:** 319 Second Ave S.
 

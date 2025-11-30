@@ -1,19 +1,23 @@
 # Lagoon
 
-**Location:** United States
+**Address:** 375 N Lagoon Dr, Farmington, UT 84025 [40.9853, -111.8942]
 
-## Address
+## Park Information
 
-375 N Lagoon Dr, Farmington, UT 84025
-## Operating Hours
+*Research needed: Operating hours, admission prices, parking, season dates*
 
-Varies by season - check park website before visiting
+## Notable Coasters
 
-## Operating Seasons
+*See user-data.md for complete coaster checklist*
 
-Seasonal operation - typically May-September, check website for specific dates
+## Planning Tips
 
-## Coasters at This Park
+*Research needed: Best visiting times, fast pass options, food recommendations*
 
+## Nearby Attractions
 
-- [Cannibal](Cannibal.md)
+*Research needed: Hotels, restaurants, other activities*
+
+---
+
+**Last Updated:** 2025-11-26

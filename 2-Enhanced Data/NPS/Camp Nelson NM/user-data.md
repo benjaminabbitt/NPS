@@ -25,12 +25,4 @@
 - [ ] Kentucky Horse Park (2-3 hours, 25 miles)
 
 
-## Amber's Data (from spreadsheet)
-
-**Visitor Center:** Camp Nelson National Monument Visitor Center, Museum, and Barracks
-
-**Address:** 6614 Old Danville Loop 2 Road, Nicholasville, Kentucky 40356
-
-**Hours:** Hours not available
-
 ## Review / Personal Notes

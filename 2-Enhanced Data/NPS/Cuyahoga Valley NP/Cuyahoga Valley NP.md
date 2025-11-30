@@ -1,33 +1,57 @@
-# Cuyahoga Valley NP
+# Cuyahoga Valley NP (National Park)
 
-## Cancellation Stamp Locations:
+## Cancellation Stamp Locations
 
-- [ ] Cuyahoga Valley NP Visitor Center (6947 Riverview Road, Peninsula, Ohio, 44264; 9:30 AM-5:00 PM)
+- **Boston Mill Visitor Center** (6947 Riverview Road, Peninsula, OH 44264 (41.2647, -81.5575); Open daily 9:00 AM - 5:00 PM, may have limited staff/hours in winter; 330-600-4784) - Multiple passport stamps available. [Source: [NPS CUVA FAQ](https://www.nps.gov/cuva/faqs.htm), [NPS Operating Hours](https://www.nps.gov/cuva/planyourvisit/hours.htm)]
 
-## Key Activities:
+**Additional Stamp Locations:**
+- **Canal Exploration Center** (7104 Canal Road, Valley View, OH 44125 (41.3725606, -81.6123893); Open Wednesday - Sunday 10:00 AM - 4:00 PM; closed Monday - Tuesday and closed November 1 - April 30)
+- **Hunt House** (2054 Bolanz Road, Peninsula, OH 44264; Open weekends 10:00 AM - 4:00 PM Memorial Day - Labor Day only; closed rest of year)
 
-- [ ] Visitor Center Experience (1-2 hours) - Explore exhibits and learn about Cuyahoga Valley NP; 6947 Riverview Road, Peninsula, Ohio, 44264; 9:30 AM-5:00 PM [[Source](https://www.nps.gov/cvn)]
+**Note:** Cuyahoga Valley National Park is free to enter and has multiple stamp locations. Call 330-600-4784 to confirm current stamp locations and hours, especially at seasonal locations.
 
-## Hidden Gems:
+## Key Activities
 
-## Also Nearby:
+- **Brandywine Falls** (1-2 hours) - This iconic 60-foot waterfall is accessible via a short 0.5-mile boardwalk walk (20-30 minutes round trip) or the longer 1.5-mile Brandywine Gorge Loop Trail (1-2 hours) with 160 feet of elevation gain; best after rainfall with spring and early summer offering fullest flows; parking at Brandywine Falls Trailhead, 8176 Brandywine Road, Northfield, OH 44067 (41.2754292, -81.5368074); always accessible [Source: [NPS Brandywine Falls](https://www.nps.gov/cuva/learn/historyculture/brandywine-falls.htm), [OhioParkQuests](https://ohioparkquests.com/brandywine-falls-cuyahoga-valley-national-park/), [TripAdvisor](https://www.tripadvisor.com/Attraction_Review-g50929-d566268-Reviews-Brandywine_Falls-Sagamore_Hills_Ohio.html)]
 
+- **Ledges Trail** (1-1.5 hours) - The park's most iconic hike featuring striking rock formations and overlooks; 2.4-mile loop rated moderate with 219 feet of elevation gain; rocky and technical terrain requires sturdy shoes; trail circles a plateau through older-growth forest; Ledges Trailhead at 701 Truxell Road, Peninsula, OH 44264 (41.2198683, -81.5184691); open year-round [Source: [AllTrails](https://www.alltrails.com/trail/us/ohio/cuyahoga-valley-ledges-trail), [NPS Hike the Ledges](https://www.nps.gov/thingstodo/hike-the-ledges-trail.htm), [Earth Trekkers](https://www.earthtrekkers.com/ledges-trail-cuyahoga-valley/)]
 
-## Amber's Data
+- **Cuyahoga Valley Scenic Railroad** (2-3.5 hours) - Vintage rail experience through 26 miles of park scenery; choose 2-hour half loop from Peninsula or 3.5-hour full loop from Rockside, Peninsula, or Akron Northside stations; multiple seating options from coach to dome cars; operates year-round with Wednesday-Sunday service June-August; tickets from $18 adults, $13 children; Peninsula Depot: 1630 Mill Street West, Peninsula, OH 44264 (41.2420213, -81.5487654); hours vary by season [Source: [CVSR Official](https://www.cvsr.org/), [NPS Train Info](https://www.nps.gov/cuva/planyourvisit/train.htm), [TripAdvisor](https://www.tripadvisor.com/Attraction_Review-g50835-d624033-Reviews-Cuyahoga_Valley_Scenic_Railroad-Peninsula_Ohio.html)]
 
-*This section preserves the original data from the source spreadsheet.*
+- **Ohio & Erie Canal Towpath Trail** (1.5-2 hours for 5-mile section, 4+ hours for full 20-mile park section by bike) - Historic 20-mile paved trail through the park (part of eventual 101-mile system); flat and mostly ADA accessible; popular for walking, running, and biking; Boston Mills to Peninsula section is 5 miles with 95 feet of elevation gain; multiple access points including Boston Mill Visitor Center, Ira Trailhead, and Peninsula; always accessible [Source: [NPS Towpath](https://www.nps.gov/cuva/planyourvisit/ohio-and-erie-canal-towpath-trail.htm), [Ohio & Erie Canalway](https://www.ohioanderiecanalway.com/explore/the-towpath-trail/), [AllTrails](https://www.alltrails.com/trail/us/ohio/ohio-and-erie-canal-towpath-from-boston-mills-to-peninsula)]
 
-**Main Address:** 6947 Riverview Road, Peninsula, Ohio 44264
+- **Blue Hen Falls** (1-1.5 hours) - Lovely 15-foot waterfall accessible via moderate 3-mile round trip hike from Boston Mill Visitor Center on rugged Buckeye Trail; 580 feet of elevation change with steep ridges and 100-foot staircase; trailhead at Boston Mill Visitor Center, 6947 Riverview Road, Peninsula, OH 44264 (41.2625954, -81.560308); trail open year-round but avoid if ground is wet or icy [Source: [NPS Blue Hen Falls](https://www.nps.gov/thingstodo/hike-to-blue-hen-falls.htm), [Conservancy CVNP](https://www.conservancyforcvnp.org/take-a-hike-to-blue-hen-falls/), [AllTrails](https://www.alltrails.com/trail/us/ohio/blue-hen-falls-trail--2)]
 
-**Operating Hours (from source):**
-- **Sunday:** 9:30 AM-5:00 PM [ff436f]
-- **Monday:** 9:30 AM-5:00 PM [942cba]
-- **Tuesday:** 9:30 AM-5:00 PM [3fa55c]
-- **Wednesday:** 9:30 AM-5:00 PM [56d1cd]
-- **Thursday:** 9:30 AM-5:00 PM [ccffe9]
-- **Friday:** 9:30 AM-5:00 PM [d1ffbd]
-- **Saturday:** 9:30 AM-5:00 PM [23c4af]
+- **Beaver Marsh Wildlife Viewing** (0.5-1 hour) - Premier birding and wildlife watching location with boardwalk over wetlands; best viewing early morning or evening March-October; see American Beaver lodges, herons, egrets, waterfowl, and diverse reptiles/amphibians; easy 1.8-mile out-and-back trail accessible by wheelchair/stroller; 0.4 miles north of Ira Trailhead on Towpath Trail, Ira Trailhead at Riverview Road & Ira Road, Peninsula, OH; always accessible [Source: [NPS Beaver Marsh](https://www.nps.gov/cuva/planyourvisit/the-beaver-marsh.htm), [Conservancy CVNP](https://www.conservancyforcvnp.org/trails/beaver-marsh/), [AllTrails](https://www.alltrails.com/trail/us/ohio/beaver-marsh--2)]
 
-**Visitor Center (from source):**
-- **Name:** Boston Mill Visitor Center [2683ca]
-- **Address:** 6947 Riverview Rd [fa0882]
+- **Canal Exploration Center** (1-1.5 hours) - Interactive museum in historic 1826 tavern/store/residence at Lock 38; hands-on exhibits about Ohio & Erie Canal history; bronze mule statue, outdoor lock demonstrations (seasonal), period costumes to try on; 7104 Canal Road, Valley View, OH 44125 (41.3725606, -81.6123893); Wednesday-Sunday 10:00 AM - 4:00 PM, closed Monday-Tuesday and November 1 - April 30; free admission [Source: [NPS Canal Exploration Center](https://www.nps.gov/cuva/learn/historyculture/canal-exploration-center.htm), [TripAdvisor](https://www.tripadvisor.com/Attraction_Review-g51075-d8515376-Reviews-Canal_Exploration_Center-Valley_View_Ohio.html)]
+
+- **Kendall Lake Loop** (0.5-1 hour) - Peaceful 1.5-mile loop around 12-acre lake created by Civilian Conservation Corps in 1935; mostly flat dirt trail with 91 feet elevation gain; excellent for fishing, picnicking, wildlife watching (herons, ducks, turtles); picnic shelter and fishing pier available; Truxell Road parking area, access via Akron-Peninsula Road to Truxell Road; open daily year-round [Source: [NPS Kendall Lake](https://www.nps.gov/cuva/planyourvisit/explore-the-kendall-lake-area.htm), [AllTrails](https://www.alltrails.com/trail/us/ohio/kendall-lake-loop), [Conservancy CVNP](https://www.conservancyforcvnp.org/trails/kendall-lake/)]
+
+## Hidden Gems
+
+- **Everett Covered Bridge** (15-30 minutes) - Only remaining covered bridge in Summit County; originally built 1870s-1880s, reconstructed 1986 after flood damage; picturesque red wooden bridge crossing Furnace Run; accessible via Everett Road, open daily 8:00 AM - 8:00 PM; 2370 Everett Road, Peninsula, OH 44264 (41.2040678, -81.5835084); nearby trails include 5.6-mile Riding Run Trail and 1.9-mile Furnace Run Trail; free admission [Source: [NPS Everett Covered Bridge](https://www.nps.gov/cuva/learn/historyculture/everett-covered-bridge.htm), [Cleveland Historical](https://clevelandhistorical.org/items/show/342), [Conservancy CVNP](https://www.conservancyforcvnp.org/everett-covered-bridge-place-gather/)]
+
+- **Canalway Questing** (2-3 hours) - Unique geocaching-like activity along canal trails; search for hidden boxes containing stamps and educational tidbits about canal ecosystems, history, and heritage; obtain guidebook from visitor centers; accessible along Towpath Trail and canal areas; one of few national parks offering this activity; always accessible [Source: [CWRU Hidden Gems](https://thedaily.case.edu/7-hidden-gems-to-explore-in-cuyahoga-valley-national-park/), [Conservancy CVNP Hidden Gems](https://www.conservancyforcvnp.org/hidden-gems-of-cuyahoga-valley-national-park/)]
+
+- **Ledges Overlook at Dusk** (30-45 minutes) - Experience the popular Ledges Trail at sunset when rock formations glow with vibrant colors and crowds thin; magical photography opportunity and peaceful meditation spot; same trailhead as Ledges Trail at 701 Truxell Road, Peninsula, OH 44264 (41.2198683, -81.5184691); accessible during daylight hours year-round [Source: [CWRU Hidden Gems](https://thedaily.case.edu/7-hidden-gems-to-explore-in-cuyahoga-valley-national-park/)]
+
+- **Stanford House** (30 minutes viewing) - Historic 1843 Greek Revival house built by George Stanford, son of Western Reserve surveyor James Stanford; now serves as in-park lodging and event space; walk grounds and view exterior of property showcasing 19th-century farming history; 6093 Stanford Road, Peninsula, OH 44264 (41.2711709, -81.5567964), about 1 mile from Boston Mill Visitor Center; grounds accessible during daylight [Source: [NPS Stanford House](https://www.nps.gov/cuva/learn/historyculture/stanford-house.htm), [Cleveland Historical](https://clevelandhistorical.org/items/show/336)]
+
+- **Boston Store Visitor Center** (30-45 minutes) - Historic 1836 warehouse and boarding house built by Kelley brothers for canal workers; watch 18-minute park video "Generations: Cuyahoga Valley National Park"; exhibits on canal boat building; two passport cancellation stamps available; 1550 Boston Mills Road, Peninsula, OH 44264; Monday-Sunday 9:30 AM - 5:00 PM; free admission [Source: [Park Stores](https://www.conservancyforcvnp.org/park-stores/), [Ohio & Erie Canalway](https://www.ohioanderiecanalway.com/plan/listings/boston-store/), [TripAdvisor](https://www.tripadvisor.com/Attraction_Review-g50835-d6368499-Reviews-Boston_Store_Visitor_Center-Peninsula_Ohio.html)]
+
+## Also Nearby
+
+- **Hale Farm & Village** (2 hours, adjacent to park) - Living history museum within park boundaries featuring 32 historic structures on 90 acres; artisan demonstrations including glassblowing, blacksmithing, spinning, weaving, candle making, and pottery; farm animals and heritage gardens; preserved 1826 Hale family farmhouse; 2686 Oak Hill Road, Bath, OH; June 1-Labor Day Wednesday-Sunday 10:00 AM - 4:00 PM, September-October Saturday-Sunday 10:00 AM - 4:00 PM; $15 adults, $8 youth ages 3-12 [Source: [WRHS Hale Farm](https://www.wrhs.org/plan-visit/places-to-visit/hale-farm-village/welcome), [WRHS Hours](https://www.wrhs.org/plan-visit/hours-admission), [Ohio Traveler](https://www.ohiotraveler.com/hale-farm-village/)]
+
+- **Pro Football Hall of Fame** (3-4 hours, 25 miles south in Canton) - Premier sports museum featuring seven floors of exhibits documenting professional football history since 1963; 118,000 square feet of galleries; 2121 George Halas Drive NW, Canton, OH 44708; open daily 9:00 AM - 5:00 PM (extended 9:00 AM - 7:00 PM Memorial Day - Labor Day); closed Thanksgiving and Christmas; $45 adults; 330-456-8207 [Source: [Visit Canton](https://www.visitcanton.com/directory/pro-football-hall-of-fame/), [Ohio Traveler](https://www.ohiotraveler.com/pro-football-hall-of-fame/), [TripAdvisor](https://www.tripadvisor.com/Attraction_Review-g50168-d199133-Reviews-Pro_Football_Hall_of_Fame-Canton_Ohio.html)]
+
+- **Rock and Roll Hall of Fame** (2-3 hours, 30 miles north in Cleveland) - Iconic I.M. Pei-designed museum on Lake Erie documenting rock music history; seven floors of exhibits, films, and music featuring inductees; 1100 Rock and Roll Boulevard, Cleveland, OH 44114; open daily 10:00 AM - 5:00 PM (until 9:00 PM Thursdays, extended summer hours); closed Thanksgiving and Christmas; $39.50 adults, $29.50 children ages 6-12; timed entry tickets required, book online in advance; 330-456-8207 [Source: [Rock Hall Visit](https://rockhall.com/visit/), [Taylor on a Trip](https://tayloronatrip.com/rock-roll-hall-of-fame-museum-guide), [US News Travel](https://travel.usnews.com/Cleveland_OH/Things_To_Do/Rock_and_Roll_Hall_of_Fame_and_Museum_63139/)]
+
+- **Cleveland Museum of Art** (1-5 hours, 30 miles north in Cleveland) - World-class art museum with always-free admission; daily highlights tours at 1:00 PM and 1:30 PM; 11150 East Boulevard, Cleveland, OH; closed Mondays; Tuesday & Thursday 10:00 AM - 5:00 PM, Wednesday & Friday 10:00 AM - 9:00 PM, Saturday & Sunday 10:00 AM - 5:00 PM; free general admission; special exhibitions may have fees; 216-421-7350 [Source: [CMA Plan Visit](https://www.clevelandart.org/plan-your-visit), [This is Cleveland](https://www.thisiscleveland.com/locations/cleveland-museum-of-art), [TripAdvisor](https://www.tripadvisor.com/Attraction_Review-g50207-d137616-Reviews-Cleveland_Museum_of_Art-Cleveland_Ohio.html)]
+
+- **Akron Zoo** (2-3 hours, 15 miles southeast in Akron) - Accredited 77-acre zoo with over 1,000 animals representing 100+ species; Summit County's most visited attraction; 505 Euclid Avenue, Akron, OH 44307 (41.0759812, -81.5414946); peak season (April 1-September 30) 10:00 AM - 5:00 PM daily, off-season (October 1-March 31) 11:00 AM - 4:00 PM daily; $11-21 admission, children under 2 free, free parking; 330-375-2550 [Source: [Akron Zoo Hours](https://www.akronzoo.org/hours-admission), [Akron Life](https://www.akronlife.com/locations/akron-zoo/), [TripAdvisor](https://www.tripadvisor.com/Attraction_Review-g29912-d250341-Reviews-Akron_Zoo-Akron_Ohio.html)]
+
+---
+
+**Total Recommended Time:** 2 days for highlights (one day for top trails and waterfalls, second day for railroad and Canal Exploration Center); 3 days for comprehensive experience including Hale Farm & Village and additional trails [Source: [Hipcamp](https://www.hipcamp.com/en-US/question/how-many-days-do-you-need-in-nvejsmm8), [Earth Trekkers One Day](https://www.earthtrekkers.com/one-day-in-cuyahoga-valley-national-park/), [TripAdvisor Forum](https://www.tripadvisor.com/ShowTopic-g60784-i25714-k5342131-Cuyahoga_Valley_National_Park_How_long_to_stay-Brecksville_Ohio.html)]

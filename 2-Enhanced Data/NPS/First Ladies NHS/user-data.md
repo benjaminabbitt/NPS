@@ -9,9 +9,20 @@ No activities found. See [First Ladies NHS.md](First Ladies NHS.md) for details.
 
 ## Amber's Data (from spreadsheet)
 
-**Visitor Center:** Visitor Center
+*This section preserves the original data from the source spreadsheet.*
 
-**Address:** 205 Market Avenue South, Canton, Ohio 44702 (40.7975362, -81.3748608)
+**Main Address:** 205 Market Avenue South, Canton, Ohio 44702
 
-**Hours:** Hours not available
+**Operating Hours (from source):**
+- **Sunday:** Closed
+- **Monday:** Closed
+- **Tuesday:** 9:00 AM-4:00 PM
+- **Wednesday:** 9:00 AM-4:00 PM
+- **Thursday:** 9:00 AM-4:00 PM
+- **Friday:** 9:00 AM-4:00 PM
+- **Saturday:** 9:00 AM-4:00 PM
+
+**Visitor Center (from source):**
+- **Name:** Visitor Center
+- **Address:** 205 Market Avenue South
 

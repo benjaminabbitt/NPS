@@ -6,7 +6,7 @@
 
 ## Cancellation Stamps
 
-- [ ] Carlsbad Caverns Visitor Center (3225 National Parks Highway, Carlsbad, NM 88220) (32.3849636, -104.2227676)
+- [ ] Carlsbad Caverns Visitor Center (3225 National Parks Highway, Carlsbad, NM 88220 (32.3849636, -104.2227676)) (32.3849636, -104.2227676)
 
 ## Key Activities
 
@@ -26,13 +26,4 @@
 - [ ] Sitting Bull Falls Recreation Area (2-3 hours, 42 miles southwest)
 
 
-## Amber's Data (from spreadsheet)
-
-**Visitor Center:** Carlsbad Caverns NP Visitor Center
-
-**Address:** 727 Carlsbad Caverns Highway, Carlsbad, New Mexico 88220 (32.175424, -104.4445002)
-
-**Hours:** Hours not available
-
 ## Review / Personal Notes
-

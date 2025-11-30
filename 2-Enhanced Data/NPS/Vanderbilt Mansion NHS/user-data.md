@@ -9,9 +9,20 @@ No activities found. See [Vanderbilt Mansion NHS.md](Vanderbilt Mansion NHS.md) 
 
 ## Amber's Data (from spreadsheet)
 
-**Visitor Center:** Pavilion Visitors Center
+*This section preserves the original data from the source spreadsheet.*
 
-**Address:** 1 Vanderbilt Park Rd, Hyde Park, New York 12538 (41.7939221, -73.9378168)
+**Main Address:** 81 Vanderbilt Park Road, Hyde Park, New York 12538
 
-**Hours:** Hours not available
+**Operating Hours (from source):**
+- **Sunday:** 9:00 AM-5:00 PM
+- **Monday:** 9:00 AM-5:00 PM
+- **Tuesday:** 9:00 AM-5:00 PM
+- **Wednesday:** 9:00 AM-5:00 PM
+- **Thursday:** 9:00 AM-5:00 PM
+- **Friday:** 9:00 AM-5:00 PM
+- **Saturday:** 9:00 AM-5:00 PM
+
+**Visitor Center (from source):**
+- **Name:** Pavilion Visitors Center
+- **Address:** 1 Vanderbilt Park Rd
 

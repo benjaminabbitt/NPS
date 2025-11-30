@@ -1,20 +1,23 @@
 # Kings Dominion
 
-**Location:** United States
+**Address:** 16000 Theme Park Way, Doswell, VA 23047 [37.8398, -77.4443]
 
-## Address
+## Park Information
 
-16000 Theme Park Way, Doswell, VA 23047
-## Operating Hours
+*Research needed: Operating hours, admission prices, parking, season dates*
 
-Varies by season - check park website before visiting
+## Notable Coasters
 
-## Operating Seasons
+*See user-data.md for complete coaster checklist*
 
-Seasonal operation - typically May-September, check website for specific dates
+## Planning Tips
 
-## Coasters at This Park
+*Research needed: Best visiting times, fast pass options, food recommendations*
 
+## Nearby Attractions
 
-- [Pantherian](Pantherian.md)
-- [Twisted Timbers](Twisted Timbers.md)
+*Research needed: Hotels, restaurants, other activities*
+
+---
+
+**Last Updated:** 2025-11-26

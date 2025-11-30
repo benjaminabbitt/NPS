@@ -51,12 +51,4 @@
 - [ ] Marathon, TX (1-2 hours, 45 minutes to north entrance)
 
 
-## Amber's Data (from spreadsheet)
-
-**Visitor Center:** Panther Junction Visitor Center
-
-**Address:** 1 Alsate Dr, Big Bend National Park, Texas 79834
-
-**Hours:** Hours not available
-
 ## Review / Personal Notes

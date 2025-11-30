@@ -26,12 +26,4 @@
 - [ ] Fort St. Jean Baptiste State Historic Site (1-2 hours, 3 miles)
 
 
-## Amber's Data (from spreadsheet)
-
-**Visitor Center:** Oakland Plantation Store
-
-**Address:** 4386 LA-494, Natchez, Louisiana 71456 (31.6655406, -93.0024144)
-
-**Hours:** Hours not available
-
 ## Review / Personal Notes

@@ -10,11 +10,19 @@ dependencies = [
     "chromadb>=0.6.4",
     "numpy>=2.2.2",
     "ortools>=9.12",
+    "pyyaml>=6.0",
+    "timezonefinder>=6.0",
+    "structlog>=25.5.0",
 ]
 
 [build-system]
 requires = ["hatchling"]
 build-backend = "hatchling.build"
 
-[tool.uv]
-dev-dependencies = []
+[tool.hatch.build.targets.wheel]
+packages = ["src"]
+
+[dependency-groups]
+dev = [
+    "pytest>=9.0.1",
+]

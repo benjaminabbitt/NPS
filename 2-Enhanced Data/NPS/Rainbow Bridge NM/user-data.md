@@ -9,9 +9,20 @@ No activities found. See [Rainbow Bridge NM.md](Rainbow Bridge NM.md) for detail
 
 ## Amber's Data (from spreadsheet)
 
-**Visitor Center:** Rainbow Bridge NM
+*This section preserves the original data from the source spreadsheet.*
 
-**Address:** Forbidding Canyon Lake, Powell, Utah 84533
+**Main Address:** Forbidding Canyon Lake, Powell, Utah 84533
 
-**Hours:** Hours not available
+**Operating Hours (from source):**
+- **Sunday:** 7:00 AM-4:00 PM
+- **Monday:** 7:00 AM-4:00 PM
+- **Tuesday:** 7:00 AM-4:00 PM
+- **Wednesday:** 7:00 AM-4:00 PM
+- **Thursday:** 7:00 AM-4:00 PM
+- **Friday:** 7:00 AM-4:00 PM
+- **Saturday:** 7:00 AM-4:00 PM
+
+**Visitor Center (from source):**
+- **Name:** Rainbow Bridge NM
+- **Address:** Forbidding Canyon Lake
 

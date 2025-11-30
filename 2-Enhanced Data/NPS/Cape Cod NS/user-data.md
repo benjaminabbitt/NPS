@@ -6,7 +6,7 @@
 
 ## Cancellation Stamps
 
-- [x] Salt Pond Visitor Center (50 Nauset Road, Eastham, MA 02642) (41.8382325, -69.9723193)
+- [x] Salt Pond Visitor Center (50 Nauset Road, Eastham, MA 02642 (41.8382325, -69.9723193)) (41.8382325, -69.9723193)
 - [ ] Province Lands Visitor Center (171 Race Point Road, Provincetown, MA) (42.0740454, -70.205273)
 
 ## Key Activities
@@ -26,13 +26,5 @@
 - [ ] Highland Light (Cape Cod Light) (30 minutes, Truro)
 - [ ] Provincetown (30 minutes)
 
-
-## Amber's Data (from spreadsheet)
-
-**Visitor Center:** Salt Pond Visitor Center
-
-**Address:** 50 Nauset Road, Eastham, Massachusetts 02642 (41.8382325, -69.9723193)
-
-**Hours:** Hours not available
 
 ## Review / Personal Notes

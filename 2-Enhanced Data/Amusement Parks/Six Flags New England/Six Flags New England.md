@@ -1,20 +1,23 @@
 # Six Flags New England
 
-**Location:** United States
+**Address:** 1623 Main St, Agawam, MA 01001 [42.038, -72.6154]
 
-## Address
+## Park Information
 
-1623 Main St, Agawam, MA 01001
-## Operating Hours
+*Research needed: Operating hours, admission prices, parking, season dates*
 
-Varies by season - check park website before visiting
+## Notable Coasters
 
-## Operating Seasons
+*See user-data.md for complete coaster checklist*
 
-Typically April-October, with weekend operations in early/late season and Halloween events
+## Planning Tips
 
-## Coasters at This Park
+*Research needed: Best visiting times, fast pass options, food recommendations*
 
+## Nearby Attractions
 
-- [Superman the Ride](Superman the Ride.md)
-- [Wicked Cyclone](Wicked Cyclone.md)
+*Research needed: Hotels, restaurants, other activities*
+
+---
+
+**Last Updated:** 2025-11-26

@@ -26,12 +26,4 @@
 - [ ] Marshall & Leslie (10-20 minutes)
 
 
-## Amber's Data (from spreadsheet)
-
-**Visitor Center:** Tyler Bend Visitor Center
-
-**Address:** 170 Ranger Road, St. Joe, Arkansas 72675
-
-**Hours:** Hours not available
-
 ## Review / Personal Notes

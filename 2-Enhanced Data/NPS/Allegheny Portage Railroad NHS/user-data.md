@@ -6,37 +6,48 @@
 
 ## Cancellation Stamps
 
-- [x] Summit Level Visitor Center (110 Federal Park Road, Gallitzin, PA 16641) [c3f61c]
+- [x] Summit Level Visitor Center (110 Federal Park Road, Gallitzin, PA 16641)
 
 ## Key Activities
 
-- [x] Summit Level Visitor Center (30-45 minutes) [c3f61c]
-- [ ] Lemon House Historic Tavern (30 minutes) [05e668]
-- [ ] Engine House 6 Exhibit Shelter (20-30 minutes) [1efba5]
-- [ ] Summit Level Hiking Trails (varies) [a02b0c]
+- [x] Summit Level Visitor Center (30-45 minutes)
+- [ ] Lemon House Historic Tavern (30 minutes)
+- [ ] Engine House 6 Exhibit Shelter (20-30 minutes)
+- [ ] Summit Level Hiking Trails (varies)
 
 ## Hidden Gems
 
-- [ ] Staple Bend Tunnel Trail (1.5-2 hours) [fb2f87]
-- [ ] Skew Arch Bridge (10-15 minutes) [2f74ba]
-- [ ] Heritage Hikes with Rangers (varies) [a2f636]
+- [ ] Staple Bend Tunnel Trail (1.5-2 hours)
+- [ ] Skew Arch Bridge (10-15 minutes)
+- [ ] Heritage Hikes with Rangers (varies)
 
 ## Also Nearby
 
-- [ ] Horseshoe Curve National Historic Landmark (1-1.5 hours, 12 miles west) [6c4a79]
-- [ ] Gallitzin Tunnels Park & Museum (30-45 minutes, 3 miles) [27ae66]
-- [ ] Railroaders Memorial Museum (2 hours, 12 miles west in Altoona) [9570dc]
+- [ ] Horseshoe Curve National Historic Landmark (1-1.5 hours, 12 miles west)
+- [ ] Gallitzin Tunnels Park & Museum (30-45 minutes, 3 miles)
+- [ ] Railroaders Memorial Museum (2 hours, 12 miles west in Altoona)
+
 
 
 
 
 ## Amber's Data (from spreadsheet)
 
-**Visitor Center:** Summit Level Visitor Center
+*This section preserves the original data from the source spreadsheet.*
 
-**Address:** Tunnelhill St, Duncansville, Pennsylvania 16635
+**Main Address:** 110 Federal Park Road, Gallitzin, Pennsylvania 16641
 
-**Hours:** Hours not available
+**Operating Hours (from source):**
+- **Sunday:** 9:00 AM-5:00 PM
+- **Monday:** 9:00 AM-5:00 PM
+- **Tuesday:** 9:00 AM-5:00 PM
+- **Wednesday:** 9:00 AM-5:00 PM
+- **Thursday:** 9:00 AM-5:00 PM
+- **Friday:** 9:00 AM-5:00 PM
+- **Saturday:** 9:00 AM-5:00 PM
+
+**Visitor Center (from source):**
+- **Name:** Summit Level Visitor Center
+- **Address:** Tunnelhill St, Duncansville, Pennsylvania 16635
 
 ## Review / Personal Notes
-

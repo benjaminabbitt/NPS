@@ -9,9 +9,20 @@ No activities found. See [Mississippi NRRA.md](Mississippi NRRA.md) for details.
 
 ## Amber's Data (from spreadsheet)
 
-**Visitor Center:** Mississippi River Visitor Center
+*This section preserves the original data from the source spreadsheet.*
 
-**Address:** 120 W Kellogg Blvd, St Paul, Minnesota 55102 (44.9470685, -93.1042897)
+**Main Address:** 120 W Kellogg Blvd, St Paul, Minnesota 55102 (44.9470685, -93.1042897)
 
-**Hours:** Hours not available
+**Operating Hours (from source):**
+- **Sunday:** 9:00 AM-5:00 PM
+- **Monday:** Closed
+- **Tuesday:** 9:00 AM-5:00 PM
+- **Wednesday:** 9:00 AM-5:00 PM
+- **Thursday:** 9:00 AM-5:00 PM
+- **Friday:** 9:00 AM-5:00 PM
+- **Saturday:** 9:00 AM-5:00 PM
+
+**Visitor Center (from source):**
+- **Name:** Mississippi River Visitor Center
+- **Address:** 120 W Kellogg Blvd
 

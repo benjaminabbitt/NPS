@@ -1,20 +1,23 @@
 # Six Flags Over Georgia
 
-**Location:** United States
+**Address:** 275 Riverside Pkwy SW, Austell, GA 30168 [33.7684, -84.5507]
 
-## Address
+## Park Information
 
-275 Riverside Pkwy SW, Austell, GA 30168
-## Operating Hours
+*Research needed: Operating hours, admission prices, parking, season dates*
 
-Varies by season - check park website before visiting
+## Notable Coasters
 
-## Operating Seasons
+*See user-data.md for complete coaster checklist*
 
-Typically April-October, with weekend operations in early/late season and Halloween events
+## Planning Tips
 
-## Coasters at This Park
+*Research needed: Best visiting times, fast pass options, food recommendations*
 
+## Nearby Attractions
 
-- [Goliath](Goliath.md)
-- [Twisted Cyclone](Twisted Cyclone.md)
+*Research needed: Hotels, restaurants, other activities*
+
+---
+
+**Last Updated:** 2025-11-26

@@ -9,9 +9,20 @@ No activities found. See [Statue of Liberty NM.md](Statue of Liberty NM.md) for 
 
 ## Amber's Data (from spreadsheet)
 
-**Visitor Center:** Liberty Island Information Center
+*This section preserves the original data from the source spreadsheet.*
 
-**Address:** Liberty Island, New York, New York 10004 (40.6898508, -74.0476674)
+**Main Address:** Liberty Island, New York, New York 10004
 
-**Hours:** Hours not available
+**Operating Hours (from source):**
+- **Sunday:** 9:30 AM-4:30 PM
+- **Monday:** 9:30 AM-4:30 PM
+- **Tuesday:** 9:30 AM-4:30 PM
+- **Wednesday:** 9:30 AM-4:30 PM
+- **Thursday:** 9:30 AM-4:30 PM
+- **Friday:** 9:30 AM-4:30 PM
+- **Saturday:** 9:30 AM-4:30 PM
+
+**Visitor Center (from source):**
+- **Name:** Liberty Island Information Center
+- **Address:** Liberty Island
 

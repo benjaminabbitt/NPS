@@ -1,20 +1,23 @@
 # Kennywood
 
-**Location:** United States
+**Address:** 4800 Kennywood Blvd, West Mifflin, PA 15122 [40.3869, -79.8656]
 
-## Address
+## Park Information
 
-4800 Kennywood Blvd, West Mifflin, PA 15122
-## Operating Hours
+*Research needed: Operating hours, admission prices, parking, season dates*
 
-Varies by season - check park website before visiting
+## Notable Coasters
 
-## Operating Seasons
+*See user-data.md for complete coaster checklist*
 
-Seasonal operation - typically May-September, check website for specific dates
+## Planning Tips
 
-## Coasters at This Park
+*Research needed: Best visiting times, fast pass options, food recommendations*
 
+## Nearby Attractions
 
-- Phantom's Revenge
-- [Steel Curtain](Steel Curtain.md)
+*Research needed: Hotels, restaurants, other activities*
+
+---
+
+**Last Updated:** 2025-11-26

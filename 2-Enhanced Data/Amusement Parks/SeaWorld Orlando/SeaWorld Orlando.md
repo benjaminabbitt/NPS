@@ -1,21 +1,23 @@
 # SeaWorld Orlando
 
-**Location:** United States
+**Address:** 7007 Sea World Dr, Orlando, FL 32821 [28.4115, -81.4617]
 
-## Address
+## Park Information
 
-7007 Sea World Dr, Orlando, FL 32821
-## Operating Hours
+*Research needed: Operating hours, admission prices, parking, season dates*
 
-Varies by season - check park website before visiting
+## Notable Coasters
 
-## Operating Seasons
+*See user-data.md for complete coaster checklist*
 
-Seasonal operation - typically May-September, check website for specific dates
+## Planning Tips
 
-## Coasters at This Park
+*Research needed: Best visiting times, fast pass options, food recommendations*
 
+## Nearby Attractions
 
-- [Mako](Mako.md)
-- [Manta](Manta.md)
-- [Pipeline the Surf Coaster](Pipeline the Surf Coaster.md)
+*Research needed: Hotels, restaurants, other activities*
+
+---
+
+**Last Updated:** 2025-11-26

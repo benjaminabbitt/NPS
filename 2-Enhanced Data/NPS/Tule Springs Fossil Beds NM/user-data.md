@@ -9,9 +9,18 @@ No activities found. See [Tule Springs Fossil Beds NM.md](Tule Springs Fossil Be
 
 ## Amber's Data (from spreadsheet)
 
-**Visitor Center:** Ice Age Fossils State Park Visitor Center
+*This section preserves the original data from the source spreadsheet.*
 
-**Address:** 8660 N Decatur Blvd, Las Vegas, Nevada 89085 (36.3166581, -115.207274)
+**Operating Hours (from source):**
+- **Sunday:** 8:00 AM-4:30 PM
+- **Monday:** 8:00 AM-4:30 PM
+- **Tuesday:** 8:00 AM-4:30 PM
+- **Wednesday:** 8:00 AM-4:30 PM
+- **Thursday:** 8:00 AM-4:30 PM
+- **Friday:** 8:00 AM-4:30 PM
+- **Saturday:** 8:00 AM-4:30 PM
 
-**Hours:** Hours not available
+**Visitor Center (from source):**
+- **Name:** Ice Age Fossils State Park Visitor Center
+- **Address:** 8660 N Decatur Blvd
 

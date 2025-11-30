@@ -1,33 +1,43 @@
-# Little Rock Central High School NHS
+# Little Rock Central High School NHS (National Historic Site)
 
-## Cancellation Stamp Locations:
+## Cancellation Stamp Locations
 
-- [ ] Little Rock Central High School NHS Visitor Center (2120 W Daisy L Gatson Bates Dr, Little Rock, Arkansas, 72202; Closed)
+- **Little Rock Central High School NHS Visitor Center** (2120 W. Daisy L. Gatson Bates Drive, Little Rock, AR 72202 (34.7382, -92.2974); Tuesday-Saturday 10:00 AM - 4:00 PM, closed Sunday, Monday, New Year's Day, Thanksgiving, and Christmas; contact via NPS website) - National Park Service passport cancellation stamps available at visitor center information desk near entrance; ask ranger or volunteer for assistance; includes date stamp and special commemorative stamps; free. [Source: [NPS Basic Info](https://www.nps.gov/chsc/planyourvisit/basicinfo.htm), [NPS Stamp Your Passport](https://www.nps.gov/thingstodo/stamp-your-park-passport.htm), [America's National Parks](https://americasnationalparks.org/wp-content/uploads/2024/07/Cancellations-07-24.pdf)]
 
-## Key Activities:
+**Note:** Visitor center located across street from Central High School which remains active with 2,500+ students. Avoid visiting during school pickup/drop-off times (8:30-9:00 AM and 3:30-4:00 PM on weekdays). FREE admission to all visitor center exhibits and ranger programs.
 
-- [ ] Visitor Center Experience (1-2 hours) - Explore exhibits and learn about Little Rock Central High School NHS; 2120 W Daisy L Gatson Bates Dr, Little Rock, Arkansas, 72202; Closed [[Source](https://www.nps.gov/lrc)]
+## Key Activities
 
-## Hidden Gems:
+- **Visitor Center Museum Exhibits** (60 minutes) - Explore comprehensive interactive exhibits featuring interviews, news footage, audio/video recordings documenting 1957 desegregation crisis and Little Rock Nine; touch screens, tactile displays, living history panels designed for accessibility; powerful firsthand accounts and historical context; 2120 W. Daisy L. Gatson Bates Drive; Tuesday-Saturday 10:00 AM - 4:00 PM; FREE [Source: [US News Travel](https://travel.usnews.com/Little_Rock_AR/Things_To_Do/Little_Rock_Central_High_School_National_Historic_Site_65418/), [NPS Plan Visit](https://www.nps.gov/chsc/planyourvisit/index.htm), [Feed the Malik](https://www.feedthemalik.com/post/tour-central-high-school-little-rock-things-to-do)]
 
-## Also Nearby:
+- **Ranger-Led School Grounds Tour** (1.5-2.5 hours) - Join free guided tour Tuesday-Saturday at 1:00 PM; rangers lead visitors across street to school grounds walking path taken by Little Rock Nine; role-playing experience creates powerful emotional connection; highly praised program with exceptional storytelling; limited to 50 people; **must reserve at least 48 hours in advance online**; meet at visitor center; Tuesday-Saturday 1:00 PM; FREE [Source: [NPS Guided Tours](https://www.nps.gov/chsc/planyourvisit/guidedtours.htm), [TripAdvisor](https://www.tripadvisor.com/Attraction_Review-g60766-d106709-Reviews-Little_Rock_Central_High_School_National_Historic_Site-Little_Rock_Arkansas.html), [NPS Half Day Trip](https://www.nps.gov/tripideas/central-high-half-day.htm)]
 
+- **Elizabeth Eckford Bus Bench** (15-20 minutes) - Visit memorial bench honoring Elizabeth Eckford, one of Little Rock Nine, depicting her solitary walk to school on September 4, 1957; powerful symbolic site on school grounds; part of self-guided experience; school grounds accessible during daylight; FREE [Source: [NPS Things to Do](https://www.nps.gov/chsc/planyourvisit/things2do.htm), [Park Ranger John](https://www.parkrangerjohn.com/little-rock-central-high-school-national-historic-site/)]
 
-## Amber's Data
+- **Commemorative Garden Exploration** (15-20 minutes) - Walk peaceful garden honoring Little Rock Nine and civil rights movement; reflective space with interpretive elements; integral part of park experience; visitor center grounds; Tuesday-Saturday 10:00 AM - 4:00 PM; FREE [Source: [NPS Things to Do](https://www.nps.gov/chsc/planyourvisit/things2do.htm), [NPS Plan Like Ranger](https://www.nps.gov/articles/000/plan-like-a-park-ranger-top-10-tips-for-visiting-little-rock-central-high-school-nhs.htm)]
 
-*This section preserves the original data from the source spreadsheet.*
+- **Junior Ranger Program** (30-45 minutes) - Complete age-appropriate activity booklet available free at visitor center; learn about civil rights history through interactive activities; earn official Junior Ranger badge upon completion; excellent for families; visitor center; during open hours; FREE [Source: [Ranger Trek](https://rangertrek.us/ranger-treks-guide-to-the-little-rock-central-high-school-national-historic-site-junior-ranger-program/), [NPS Things to Do](https://www.nps.gov/chsc/planyourvisit/things2do.htm)]
 
-**Main Address:** 2120 W Daisy L Gatson Bates Dr, Little Rock, Arkansas 72202
+- **Central High School Exterior Viewing** (15-30 minutes) - View impressive 1927 building architecture from public areas; see statues of Ambition, Personality, Opportunity, and Preparation above front entrance; "United" statue near side entrance featuring intertwined circles; school remains active so interior not accessible; viewable from street; accessible during daylight; FREE [Source: [TripAdvisor](https://www.tripadvisor.com/Attraction_Review-g60766-d106709-Reviews-Little_Rock_Central_High_School_National_Historic_Site-Little_Rock_Arkansas.html), [Park Ranger John](https://www.parkrangerjohn.com/little-rock-central-high-school-national-historic-site/)]
 
-**Operating Hours (from source):**
-- **Sunday:** Closed [ff436f]
-- **Monday:** Closed [942cba]
-- **Tuesday:** 10:00 AM–4:00 PM [3fa55c]
-- **Wednesday:** 10:00 AM–4:00 PM [56d1cd]
-- **Thursday:** 10:00 AM–4:00 PM [ccffe9]
-- **Friday:** 10:00 AM–4:00 PM [d1ffbd]
-- **Saturday:** 10:00 AM–4:30 PM [23c4af]
+## Hidden Gems
 
-**Visitor Center (from source):**
-- **Name:** Little Rock Central High School National Historic Site Visitor Center [2683ca]
-- **Address:** 2120 W Daisy L Gatson Bates Dr [fa0882]
+- **Magnolia Mobil Gas Station** (10-15 minutes) - Visit historic gas station down street from visitor center near high school; played significant role during 1957 desegregation crisis; often overlooked piece of civil rights history; near school; accessible during daylight; FREE [Source: [TripAdvisor](https://www.tripadvisor.com/Attraction_Review-g60766-d106709-Reviews-Little_Rock_Central_High_School_National_Historic_Site-Little_Rock_Arkansas.html)]
+
+- **Central High Architectural Details** (included in visit) - Discover impressive statues and architectural features: four figures (Ambition, Personality, Opportunity, Preparation) over front entrance; "United" statue with two figures and intertwined circles at side entrance; beautiful 1927 design elements; visible from public areas; accessible during daylight; FREE [Source: [Park Ranger John](https://www.parkrangerjohn.com/little-rock-central-high-school-national-historic-site/), [TripAdvisor](https://www.tripadvisor.com/Attraction_Review-g60766-d106709-Reviews-Little_Rock_Central_High_School_National_Historic_Site-Little_Rock_Arkansas.html)]
+
+- **Interactive Accessibility Features** (integrated throughout museum) - Experience thoughtfully designed touch screens, tactile displays, and interactive living history panels throughout visitor center; accessibility-focused design often missed by rushed visitors; comprehensive engagement opportunities; visitor center; Tuesday-Saturday 10:00 AM - 4:00 PM; FREE [Source: [TripAdvisor](https://www.tripadvisor.com/Attraction_Review-g60766-d106709-Reviews-Little_Rock_Central_High_School_National_Historic_Site-Little_Rock_Arkansas.html)]
+
+## Also Nearby
+
+- **Arkansas State Capitol and Testament Statues** (1-1.5 hours, 2 miles) - Tour impressive 1915 state capitol building with free guided tours; view "Testament Statues" on capitol grounds featuring bronze statues of each Little Rock Nine member; complements NHS experience perfectly; 500 Woodlane St, Little Rock, AR 72201 (34.7466091, -92.2892042); hours vary; FREE [Source: [TripAdvisor](https://www.tripadvisor.com/Attraction_Review-g60766-d106709-Reviews-Little_Rock_Central_High_School_National_Historic_Site-Little_Rock_Arkansas.html), [Park Ranger John](https://www.parkrangerjohn.com/little-rock-central-high-school-national-historic-site/)]
+
+- **William J. Clinton Presidential Library and Museum** (2-3 hours, 3 miles) - Explore comprehensive presidential library featuring exhibits on Clinton presidency, replica Oval Office, presidential gifts, Arkansas history; striking modern architecture along Arkansas River; 1200 President Clinton Ave, Little Rock, AR 72201 (34.7462669, -92.2584); hours vary; admission charged [Source: [TripAdvisor](https://www.tripadvisor.com/Attraction_Review-g60766-d106709-Reviews-Little_Rock_Central_High_School_National_Historic_Site-Little_Rock_Arkansas.html)]
+
+- **Paul Laurence Dunbar High School** (20-30 minutes, 1.5 miles) - Visit historic 1929 building constructed as most modern and complete high school for African Americans in Arkansas; important context for understanding segregation era; exterior viewing; 1000 Wright Ave, Little Rock, AR 72206 (34.732029, -92.285312); accessible during daylight; FREE [Source: [TripAdvisor](https://www.tripadvisor.com/Attraction_Review-g60766-d106709-Reviews-Little_Rock_Central_High_School_National_Historic_Site-Little_Rock_Arkansas.html)]
+
+- **Historic Arkansas Museum** (1.5-2 hours, 2.5 miles downtown) - Explore Arkansas history through galleries and historic buildings including oldest surviving structures in Little Rock; Arkansas-made crafts, decorative arts, weapons collection; 200 E 3rd St, Little Rock, AR 72201 (34.7464218, -92.269032); hours vary; admission charged [Source: [NPS Nearby Attractions](https://www.nps.gov/chsc/planyourvisit/index.htm)]
+
+---
+
+**Total Recommended Time at Little Rock Central High School NHS (National Historic Site):** Minimum 1 hour for museum exhibits only; 2.5-3 hours recommended for comprehensive experience including museum and ranger-led grounds tour. **Book ranger tour at least 48 hours in advance.** Avoid school pickup/drop-off times (8:30-9:00 AM, 3:30-4:00 PM weekdays). Tours may be modified during extreme weather. [Source: [US News Travel](https://travel.usnews.com/Little_Rock_AR/Things_To_Do/Little_Rock_Central_High_School_National_Historic_Site_65418/), [NPS Half Day Trip](https://www.nps.gov/tripideas/central-high-half-day.htm), [NPS Plan Like Ranger](https://www.nps.gov/articles/000/plan-like-a-park-ranger-top-10-tips-for-visiting-little-rock-central-high-school-nhs.htm)]

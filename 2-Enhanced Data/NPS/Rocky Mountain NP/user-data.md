@@ -9,9 +9,20 @@ No activities found. See [Rocky Mountain NP.md](Rocky Mountain NP.md) for detail
 
 ## Amber's Data (from spreadsheet)
 
-**Visitor Center:** Beaver Meadows Visitor Center
+*This section preserves the original data from the source spreadsheet.*
 
-**Address:** 1000 US-36, Estes Park, Colorado 80517 (40.375336, -105.5059)
+**Main Address:** 1000 US Hwy 36, Estes Park, Colorado 80517 (40.2921488, -105.5492776)
 
-**Hours:** Hours not available
+**Operating Hours (from source):**
+- **Sunday:** 9:00 AM-6:00 PM
+- **Monday:** 9:00 AM-6:00 PM
+- **Tuesday:** 9:00 AM-6:00 PM
+- **Wednesday:** 9:00 AM-6:00 PM
+- **Thursday:** 9:00 AM-6:00 PM
+- **Friday:** 9:00 AM-6:00 PM
+- **Saturday:** 9:00 AM-6:00 PM
+
+**Visitor Center (from source):**
+- **Name:** Beaver Meadows Visitor Center
+- **Address:** 1000 US-36
 

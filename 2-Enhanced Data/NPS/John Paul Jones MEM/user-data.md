@@ -9,9 +9,20 @@ No activities found. See [John Paul Jones MEM.md](John Paul Jones MEM.md) for de
 
 ## Amber's Data (from spreadsheet)
 
-**Visitor Center:** Martin Luther King, Jr. Memorial Bookstore
+*This section preserves the original data from the source spreadsheet.*
 
-**Address:** 121 West Basin Dr SW, Washington, DC, DC 20004 (38.8818503, -77.0339422)
+**Main Address:** 17th St SW, Washington, DC 20004
 
-**Hours:** Hours not available
+**Operating Hours (from source):**
+- **Sunday:** 10:00 AM-6:00 PM
+- **Monday:** 10:00 AM-6:00 PM
+- **Tuesday:** 10:00 AM-6:00 PM
+- **Wednesday:** 10:00 AM-6:00 PM
+- **Thursday:** 10:00 AM-6:00 PM
+- **Friday:** 10:00 AM-6:00 PM
+- **Saturday:** 10:00 AM-6:00 PM
+
+**Visitor Center (from source):**
+- **Name:** Martin Luther King, Jr. Memorial Bookstore
+- **Address:** 121 West Basin Dr SW
 

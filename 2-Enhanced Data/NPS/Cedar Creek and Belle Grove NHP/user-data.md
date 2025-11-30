@@ -6,7 +6,7 @@
 
 ## Cancellation Stamps
 
-- [ ] NPS Visitor Contact Station (7712 Main Street, Middletown, VA 22645) (39.0310273, -78.2749771)
+- [ ] NPS Visitor Contact Station (7712 Main Street, Middletown, VA 22645 (39.0310273, -78.2749771)) (39.0310273, -78.2749771)
 - [ ] Belle Grove Plantation (336 Belle Grove Road, Middletown, VA 22645)
 - [ ] Cedar Creek Battlefield Foundation Museum (8437 Valley Pike, Middletown, VA 22645) (39.0166057, -78.2971507)
 - [ ] Strasburg Visitor and Information Center (33229 Old Valley Pike, Strasburg, VA 22657) (39.0007266, -78.3491203)

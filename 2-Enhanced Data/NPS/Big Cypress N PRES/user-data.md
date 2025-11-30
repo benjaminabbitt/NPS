@@ -42,13 +42,4 @@
 - [ ] Everglades City and Ten Thousand Islands (1-2 hours for boat tour, 35-45 minutes west)
 
 
-## Amber's Data (from spreadsheet)
-
-**Visitor Center:** Nathaniel P. Reed Visitor Center
-
-**Address:** 33000 Tamiami Trail East, Ochopee, Florida 34141 (25.8988938, -81.2883856)
-
-**Hours:** Hours not available
-
 ## Review / Personal Notes
-

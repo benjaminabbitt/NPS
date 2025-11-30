@@ -1,33 +1,49 @@
-# Chickasaw NRA
+# Chickasaw NRA (National Recreation Area)
 
-## Cancellation Stamp Locations:
+## Cancellation Stamp Locations
 
-- [ ] Chickasaw NRA Visitor Center (901 W. 1st Street, Sulphur, Oklahoma, 73086; 9:00 AM-4:30 PM)
+- **Travertine Nature Center** (1504 NE Perimeter Road, Sulphur, OK 73086 (34.5097, -96.9747); Thursday-Monday 9:00 AM - 4:30 PM, closed Tuesday-Wednesday, Thanksgiving, Christmas, and New Year's Day; 580-622-7234) - National Park Service passport cancellation stamps available at the visitor center during normal operating hours. The Travertine Nature Center straddles Travertine Creek near the northeast boundary of the park and serves as the park's main visitor center. [Source: [NPS Passport Stamps](https://www.nps.gov/chic/planyourvisit/passport_stamps.htm), [Travertine Nature Center](https://www.nps.gov/chic/planyourvisit/travertine-information-and-nature-center.htm), [New Hours](https://www.kxii.com/2025/04/09/new-hours-travertine-nature-center/)]
 
-## Key Activities:
+**Note:** Call 580-622-7234 to confirm current stamp locations and hours before visiting. FREE admission - no entrance permits or passes necessary.
 
-- [ ] Visitor Center Experience (1-2 hours) - Explore exhibits and learn about Chickasaw NRA; 901 W. 1st Street, Sulphur, Oklahoma, 73086; 9:00 AM-4:30 PM [[Source](https://www.nps.gov/cn)]
+## Key Activities
 
-## Hidden Gems:
+- **Little Niagara Falls Swimming** (1-3 hours) - Swim in the natural pool created by Little Niagara Falls along Travertine Creek with refreshing cool water temperatures ranging between 62-64 degrees year-round; popular for hot summer days with nearby restrooms and picnic area; located near Travertine Nature Center parking lot; open during daylight hours; FREE; arrive early during summer for parking [Source: [Swimming](https://www.nps.gov/chic/planyourvisit/swimming.htm), [Get Lost Guide](https://getlostintheusa.com/chickasaw-national-recreation-area/), [3 Days Itinerary](https://wnpa.org/plan-your-trip/trip-ideas/3-days-in-chickasaw-national-recreation-area)]
 
-## Also Nearby:
+- **Buffalo and Antelope Springs Trail** (1-1.5 hours) - Hike the 1.4-mile (or 3.1 miles per AllTrails) loop trail featuring "rustic park" construction style typical from 1916-1942, visiting two freshwater springs fed by the Arbuckle-Simpson aquifer; Antelope Springs produces 1.5 million gallons of water daily and has been left in its natural state; 187 feet elevation gain; trailhead at Travertine Nature Center parking lot; open dawn to dusk; FREE [Source: [Trails](https://www.nps.gov/chic/planyourvisit/trails.htm), [AllTrails Buffalo Antelope](https://www.alltrails.com/trail/us/oklahoma/buffalo-and-antelope-springs-trail), [3 Days Itinerary](https://wnpa.org/plan-your-trip/trip-ideas/3-days-in-chickasaw-national-recreation-area)]
 
+- **Veterans Lake Trail and Activities** (1-3 hours) - Walk, bike, or run the 2.8-3 mile paved path circling Veterans Lake; enjoy kayaking, canoeing, fishing, and no-wake boating with no permits required; fishing docks available; peaceful setting ideal for water activities; lake accessible from multiple points; open dawn to dusk; FREE [Source: [Get Lost Guide](https://getlostintheusa.com/chickasaw-national-recreation-area/), [3 Days Itinerary](https://wnpa.org/plan-your-trip/trip-ideas/3-days-in-chickasaw-national-recreation-area), [AllTrails](https://www.alltrails.com/parks/us/oklahoma/chickasaw-national-recreation-area)]
 
-## Amber's Data
+- **Bison Viewing at Buffalo Paddock** (30-60 minutes) - Observe American bison in the West Bison Pasture via the 1.9-mile round trip loop trail; best viewing times are early morning and late afternoon for prime wildlife viewing opportunities; experience these majestic animals in their natural habitat; trailhead accessible from park roads; open dawn to dusk; FREE [Source: [Get Lost Guide](https://getlostintheusa.com/chickasaw-national-recreation-area/), [Airial Travel](https://www.airial.travel/attractions/united-states/sulphur/chickasaw-national-recreation-area-4rLWeFoU), [AllTrails](https://www.alltrails.com/parks/us/oklahoma/chickasaw-national-recreation-area)]
 
-*This section preserves the original data from the source spreadsheet.*
+- **Travertine Creek Waterfalls Tour** (1.5-2 hours) - Explore several waterfalls along Travertine Creek including Little Niagara Falls (most well-known), Bear Falls, and Garfield Falls; hike trails connecting the waterfalls; enjoy photography opportunities and cool mist; accessible via trail system from Travertine Nature Center; open dawn to dusk; FREE [Source: [Get Lost Guide](https://getlostintheusa.com/chickasaw-national-recreation-area/), [Naturally Oklahoma](https://naturallyoklahoma.com/chickasaw-national-recreation-area/), [3 Days Itinerary](https://wnpa.org/plan-your-trip/trip-ideas/3-days-in-chickasaw-national-recreation-area)]
 
-**Main Address:** 901 W. 1st Street, Sulphur, Oklahoma 73086
+- **Lake of the Arbuckles Recreation** (2-4 hours) - Fish, boat, and swim at the park's largest lake; multiple access points and boat ramps available; popular for water sports and fishing; scenic views of Arbuckle Mountains; various lake access points throughout park; open dawn to dusk; FREE park entry (separate fees may apply for camping/facilities) [Source: [Swimming](https://www.nps.gov/chic/planyourvisit/swimming.htm), [Wikipedia](https://en.wikipedia.org/wiki/Chickasaw_National_Recreation_Area), [Naturally Oklahoma](https://naturallyoklahoma.com/chickasaw-national-recreation-area/)]
 
-**Operating Hours (from source):**
-- **Sunday:** 9:00 AM-4:30 PM [ff436f]
-- **Monday:** 9:00 AM-4:30 PM [942cba]
-- **Tuesday:** Closed [3fa55c]
-- **Wednesday:** Closed [56d1cd]
-- **Thursday:** 9:00 AM-4:30 PM [ccffe9]
-- **Friday:** 9:00 AM-4:30 PM [d1ffbd]
-- **Saturday:** 9:00 AM-4:30 PM [23c4af]
+- **Travertine Nature Center Exhibits** (30-45 minutes) - Explore interactive educational exhibits about the park's flora, fauna, geology, and history; watch informational presentations; speak with rangers for trail recommendations; pick up Junior Ranger materials; 1504 NE Perimeter Road, Sulphur, OK 73086; Thursday-Monday 9:00 AM - 4:30 PM; FREE [Source: [Travertine Nature Center](https://www.nps.gov/chic/planyourvisit/travertine-information-and-nature-center.htm), [Get Lost Guide](https://getlostintheusa.com/chickasaw-national-recreation-area/), [Park Ranger John](https://www.parkrangerjohn.com/chickasaw-national-recreation-area/)]
 
-**Visitor Center (from source):**
-- **Name:** Travertine Nature Center [2683ca]
-- **Address:** 1504 Perimeter Rd [fa0882]
+## Hidden Gems
+
+- **Antelope Springs Natural State** (20-30 minutes) - Visit Antelope Springs which has been intentionally left in its completely natural state, fed by the Arbuckle-Simpson aquifer producing 1.5 million gallons of water daily; experience the spring as it has existed for centuries without modern alterations; accessed via Buffalo and Antelope Springs Trail; dawn to dusk; FREE [Source: [Get Lost Guide](https://getlostintheusa.com/chickasaw-national-recreation-area/), [3 Days Itinerary](https://wnpa.org/plan-your-trip/trip-ideas/3-days-in-chickasaw-national-recreation-area)]
+
+- **Ranger-Led Programs and Guided Hikes** (1-2 hours) - Join park rangers for educational tours on flora, fauna, and park history; interactive learning opportunities include guided hikes exploring the Arbuckle-Simpson aquifer, geological features, and ecological succession; schedule varies seasonally, check with Travertine Nature Center for current offerings; meet at Nature Center; FREE [Source: [Nearby Attractions](https://www.nps.gov/chic/planyourvisit/nearbyattractions.htm), [Get Lost Guide](https://getlostintheusa.com/chickasaw-national-recreation-area/), [Park Ranger John](https://www.parkrangerjohn.com/chickasaw-national-recreation-area/)]
+
+- **Rock Creek Swimming** (1-2 hours) - Discover the lesser-known swimming area at Rock Creek, offering a quieter alternative to the busier Little Niagara Falls; cool spring-fed waters perfect for hot days; accessible via trail system; open during daylight hours; FREE [Source: [Swimming](https://www.nps.gov/chic/planyourvisit/swimming.htm), [Naturally Oklahoma](https://naturallyoklahoma.com/chickasaw-national-recreation-area/)]
+
+- **Buckhorn Area Lake Views** (1-2 hours) - Explore the gorgeous Buckhorn Area featuring a beautiful lake perfect for peaceful boating; less crowded than other areas; scenic photography opportunities with forested hills backdrop; accessible via park roads; open dawn to dusk; FREE [Source: [Get Lost Guide](https://getlostintheusa.com/chickasaw-national-recreation-area/), [Naturally Oklahoma](https://naturallyoklahoma.com/chickasaw-national-recreation-area/)]
+
+- **Spring Wildflowers and Fall Foliage Viewing** (30-90 minutes) - Experience the park's seasonal beauty with mild spring temperatures bringing blooming wildflowers throughout trails, or visit in autumn for colorful fall foliage in the partially forested hills; best viewing along Buffalo and Antelope Springs Trail and Veterans Lake Trail; seasonal timing varies; FREE [Source: [3 Days Itinerary](https://wnpa.org/plan-your-trip/trip-ideas/3-days-in-chickasaw-national-recreation-area), [Get Lost Guide](https://getlostintheusa.com/chickasaw-national-recreation-area/)]
+
+## Also Nearby
+
+- **Turner Falls Park** (30-45 minutes, 22 miles south in Davis) - Visit Oklahoma's largest waterfall at 77 feet high in this 1,500-acre park featuring natural caves, hiking trails, creeks, and a massive stone castle; swimming areas and camping available; 6801 Scenic Highway 77, Davis, OK 73030 (34.4511874, -97.1355455); hours vary seasonally; admission fee charged [Source: [Nearby Attractions](https://www.nps.gov/chic/planyourvisit/nearbyattractions.htm), [Get Lost Guide](https://getlostintheusa.com/chickasaw-national-recreation-area/), [Chickasaw Country](https://www.chickasawcountry.com/article/head-arbuckle-mountains)]
+
+- **Arbuckle Wilderness Park** (1-2 hours, 15 miles south in Davis) - Drive through 200 acres getting up close with hundreds of exotic animals including zebras, giraffes, bison, and more; unique drive-through safari experience; 6142 Wild Life Ln, Davis, OK 73030; hours vary seasonally; admission fee charged [Source: [Nearby Attractions](https://www.nps.gov/chic/planyourvisit/nearbyattractions.htm), [Chickasaw Country](https://www.chickasawcountry.com/article/head-arbuckle-mountains)]
+
+- **Downtown Sulphur Historic District** (1-2 hours, 3 miles west) - Explore charming small-town Oklahoma with local shops, restaurants, and historic architecture; gateway to Arbuckle Mountains region; Sulphur, OK 73086; business hours vary [Source: [Nearby Attractions](https://www.chickasawretreat.com/nearby-attractions/), [Chickasaw Country Itinerary](https://www.divergenttravelers.com/chickasaw-country-oklahoma/)]
+
+- **Chickasaw Cultural Center** (2-3 hours, 45 miles northeast in Sulphur) - Discover Chickasaw Nation heritage at this comprehensive cultural center featuring exhibits, traditional village, storytelling, and cultural demonstrations; learn about the tribe's history and arrangement with the U.S. government that resulted in free admission to the recreation area; hours and location vary, check website; admission may apply [Source: [Get Lost Guide](https://getlostintheusa.com/chickasaw-national-recreation-area/), [Chickasaw Country Itinerary](https://www.divergenttravelers.com/chickasaw-country-oklahoma/)]
+
+---
+
+**Total Recommended Time at Chickasaw NRA (National Recreation Area):** Minimum 2-3 hours for nature center, Little Niagara Falls swim, and Buffalo/Antelope Springs hike; full day (6-8 hours) recommended for comprehensive experience including Veterans Lake, multiple waterfalls, bison viewing, and all trails; 3-day visit ideal for exploring all areas at leisurely pace with time for nearby attractions. Best in spring (wildflowers, mild temperatures) or fall (colorful foliage). [Source: [3 Days Itinerary](https://wnpa.org/plan-your-trip/trip-ideas/3-days-in-chickasaw-national-recreation-area), [TripAdvisor](https://www.tripadvisor.com/Attraction_Review-g60771-d117491-Reviews-Chickasaw_National_Recreation_Area-Sulphur_Oklahoma.html), [Get Lost Guide](https://getlostintheusa.com/chickasaw-national-recreation-area/)]

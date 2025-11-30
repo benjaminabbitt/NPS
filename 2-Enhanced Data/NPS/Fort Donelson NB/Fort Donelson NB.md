@@ -1,33 +1,47 @@
-# Fort Donelson NB
+# Fort Donelson NB (National Battlefield)
 
-## Cancellation Stamp Locations:
+## Cancellation Stamp Locations
 
-- [ ] Fort Donelson NB Visitor Center (PO Box 434, Dover, Tennessee, 37058; 8:30 AM-4:00 PM)
+- **Fort Donelson Visitor Center** (120 Fort Donelson Park Road, Dover, TN 37058 (36.4831363, -87.8625811); Daily 8:30 AM-4:00 PM except Thanksgiving, Christmas, and New Year's Day; (931) 232-5706) [Source: [NPS Operating Hours](https://www.nps.gov/fodo/planyourvisit/hours.htm), [NPS Visitor Center](https://www.nps.gov/places/fort-donelson-nb-visitor-center.htm), [NPS Contact](https://www.nps.gov/fodo/contacts.htm)]
 
-## Key Activities:
+**Note:** Call (931) 232-5706 to confirm current stamp locations before visiting. The park currently operates from a temporary visitor center (double-wide mobile home) while the original 1960s visitor center undergoes renovation. [Source: [NPS Visitor Center Access](https://home.nps.gov/fodo/learn/news/fort-donelson-national-battlefield-is-providing-access-to-park-visitor-center-and-the-historic-dover-hotel.htm)]
 
-- [ ] Visitor Center Experience (1-2 hours) - Explore exhibits and learn about Fort Donelson NB; PO Box 434, Dover, Tennessee, 37058; 8:30 AM-4:00 PM [[Source](https://www.nps.gov/fdn)]
+## Key Activities
 
-## Hidden Gems:
+- **Visitor Center Exhibits** (30 minutes) - View limited exhibits on ironclad battleships, Dover Hotel, and Confederate prisoners of war in temporary visitor center; speak with park rangers for detailed battlefield information; pick up brochures and park maps; 120 Fort Donelson Park Road, Dover, TN 37058 (36.4831363, -87.8625811); Daily 8:30 AM-4:00 PM [Source: [NPPlan Visitor Center](https://npplan.com/parks-by-state/tennessee/fort-donelson-national-battlefield-park-at-a-glance/fort-donelson-national-battlefield-visitor-center/), [Civil War Talk](https://civilwartalk.com/threads/fort-donelson-national-battlefield-visit.198088/)]
 
-## Also Nearby:
+- **Battlefield Driving Tour** (1.5-2 hours) - Complete 6-mile self-guided driving tour with 11 stops including Confederate Monument, river batteries, earthworks, Fort Donelson (15-acre earthen fort), and sites scattered around Dover; free audio tour available; tour road open 8 AM to closing (varies by season); grounds accessible sunrise to sunset for foot traffic [Source: [NPPlan Driving Tour](https://npplan.com/parks-by-state/tennessee/fort-donelson-national-battlefield-park-at-a-glance/fort-donelson-national-battlefield-battlefield-driving-tour/), [NPS Hours](https://www.nps.gov/fodo/planyourvisit/hours.htm), [American Battlefield Trust](https://www.battlefields.org/visit/battlefields/fort-donelson-battlefield)]
 
+- **River Batteries Walk** (30-45 minutes) - Walk down to the Cumberland River to explore Confederate artillery batteries featuring twelve historic guns (ten 32-pounder smoothbores, two 9-pounders, 8-inch howitzer, 6.5-inch rifle, and 10-inch Columbiad) positioned 100 feet above the river for plunging fire against Union gunboats; beautiful river views; accessed from main battlefield area [Source: [Grokipedia](https://grokipedia.com/page/Fort_Donelson), [TripAdvisor Reviews](https://www.tripadvisor.com/Attraction_Review-g60808-d143130-Reviews-Fort_Donelson_National_Battlefield-Dover_Tennessee.html)]
 
-## Amber's Data
+- **Dover Hotel (Surrender House)** (30-45 minutes) - Tour the historic hotel where Confederate General Simon Buckner surrendered to Union General Ulysses S. Grant on February 16, 1862, earning Grant his "Unconditional Surrender" nickname; only original Civil War battle surrender structure remaining; self-guided tour of first floor restored to 1860s appearance; 101 Petty St, Dover, TN 37058 (36.48855, -87.8370383); Daily 8:30 AM-4:00 PM except Thanksgiving, Christmas, and New Year's Day [Source: [NPS Dover Hotel](https://www.nps.gov/fodo/learn/photosmultimedia/tourstop10.htm), [American Battlefield Trust Dover Hotel](https://www.battlefields.org/visit/heritage-sites/dover-hotel-surrender-house-fort-donelson-national-battlefield), [HMDB Surrender House](https://www.hmdb.org/m.asp?m=21312)]
 
-*This section preserves the original data from the source spreadsheet.*
+- **Fort Donelson National Cemetery Visit** (30 minutes) - Pay respects at 15-acre cemetery established 1867 for re-interment of Union soldiers who fell during the 1862 battle; 670 Union dead including many unknowns, plus veterans from WWI, WWII, Korea, and Vietnam; closed for new burials; 174 National Cemetery Drive, Dover, TN 37058 (36.488408, -87.8475589); Daily 8 AM-5 PM; (931) 232-5706 [Source: [NPS Cemetery](https://www.nps.gov/fodo/planyourvisit/fortdonelsonnationalcemetery.htm), [Tennessee Hometown Locator](https://tennessee.hometownlocator.com/maps/feature-map,ftc,2,fid,1308845,n,fort%20donelson%20national%20cemetery.cfm)]
 
-**Main Address:** PO Box 434, Dover, Tennessee 37058
+- **Donelson Trail Hike** (2-4 hours) - Hike the main 6.6-mile loop trail circling most of the park, passing battlefield tour stops 1, 4, 5, and 6 with optional 2.2-mile round trip spur to Fort Donelson National Cemetery; features "tippy-toe steep" hills with three particularly challenging climbs; dirt, rocks, and tree roots; moderate to strenuous difficulty; trailheads at Visitor Center, Stops 4 and 5, and Picnic Area [Source: [AllTrails Fort Donelson Loop](https://www.alltrails.com/trail/us/tennessee/fort-donelson-battlefield-loop-trail), [NPPlan Donelson Trail](https://npplan.com/parks-by-state/tennessee/fort-donelson-national-battlefield-park-at-a-glance/fort-donelson-national-battlefield-hiking-trails/fort-donelson-national-battlefield-donelson-trail/), [NPS Hiking](https://www.nps.gov/thingstodo/hike-the-trails-at-fort-donelson-nb.htm)]
 
-**Operating Hours (from source):**
-- **Sunday:** 8:30 AM-4:00 PM [ff436f]
-- **Monday:** 8:30 AM-4:00 PM [942cba]
-- **Tuesday:** 8:30 AM-4:00 PM [3fa55c]
-- **Wednesday:** 8:30 AM-4:00 PM [56d1cd]
-- **Thursday:** 8:30 AM-4:00 PM [ccffe9]
-- **Friday:** 8:30 AM-4:00 PM [d1ffbd]
-- **Saturday:** 8:30 AM-4:00 PM [23c4af]
+- **Park Film Online** (17 minutes) - Watch "Fort Donelson: Gateway to the Confederate Heartland" online before or after your visit for better understanding of the battle (film not currently shown at temporary visitor center); available at www.nps.gov/fodo/planyourvisit/things2do [Source: [NPPlan Visitor Center](https://npplan.com/parks-by-state/tennessee/fort-donelson-national-battlefield-park-at-a-glance/fort-donelson-national-battlefield-visitor-center/), [Park Ranger John](https://www.parkrangerjohn.com/fort-donelson-national-battlefield/)]
 
-**Visitor Center (from source):**
-- **Name:** Fort Donelson Visitor Center [2683ca]
-- **Address:** 120 Fort Donelson Park Road [fa0882]
+## Hidden Gems
+
+- **River Circle Trail** (1-2 hours) - Tackle challenging 4.6-mile trail with steep descents including initial 200-foot drop and second hill with -22% average grade (strenuous level); limited river views through trees with one section viewing Hickman Creek; primarily an exercise trail for serious hikers; accessed from main battlefield area [Source: [AllTrails Fort Donelson Loop](https://www.alltrails.com/trail/us/tennessee/fort-donelson-battlefield-loop-trail), [NPPlan River Circle Trail](https://npplan.com/parks-by-state/tennessee/fort-donelson-national-battlefield-park-at-a-glance/fort-donelson-national-battlefield-hiking-trails/fort-donelson-national-battlefield-river-circle-trail/)]
+
+- **Confederate Monument** (15-20 minutes) - Visit memorial commemorating hundreds of Confederate soldiers buried on battlefield in unmarked graves; one of the 11 stops on driving tour; provides solemn reflection on the battle's Confederate casualties [Source: [NPPlan Driving Tour](https://npplan.com/parks-by-state/tennessee/fort-donelson-national-battlefield-park-at-a-glance/fort-donelson-national-battlefield-battlefield-driving-tour/), [Tennessee River Valley](https://tennesseerivervalleygeotourism.org/entries/fort-donelson-national-battlefield/14885f75-3c18-4d22-a21d-76187207af62)]
+
+- **Earthworks Exploration** (30-45 minutes) - Walk among miles of original Civil War earthworks forming semicircle around fort and Dover, bounded by Hickman Creek (west), Lick Creek (east), and Cumberland River (north); explore three miles of trenches that Union forces breached during the battle [Source: [Grokipedia Fort Donelson](https://grokipedia.com/page/Fort_Donelson), [Explore Kentucky Lake](https://www.explorekentuckylake.com/history/fort-donelson/)]
+
+- **Eagle Watching** (Variable) - Observe eagles nesting in the area during winter months; bring binoculars for best viewing along Cumberland River; inquire with rangers about current nesting locations; park grounds accessible sunrise to sunset [Source: [Tennessee River Valley](https://tennesseerivervalleygeotourism.org/entries/fort-donelson-national-battlefield/14885f75-3c18-4d22-a21d-76187207af62)]
+
+## Also Nearby
+
+- **Land Between the Lakes National Recreation Area** (10-15 minutes north, 3 miles) - Explore 170,000-acre national recreation area with Nature Station, Elk & Bison Prairie, Golden Pond Planetarium, Homeplace 1850s working farm, Turkey Bay OHV Area, 300 miles of shoreline, and 500 miles of trails for hiking, biking, fishing, boating, and camping; southern entrance at Dover; Woodlands Trace National Scenic Byway (43.1 miles) begins at US 79 intersection west of Dover [Source: [Explore Kentucky Lake Dover](https://www.explorekentuckylake.com/dover/), [Land Between Lakes Guide](https://www.hikingwithshawn.com/land-between-the-lakes-national-recreation-area-guide/), [Wikipedia The Trace](https://en.wikipedia.org/wiki/The_Trace_(Land_Between_the_Lakes))]
+
+- **Paris Landing State Park** (30-35 minutes west, 20 miles) - Visit 841-acre state park on Kentucky Lake's widest section featuring award-winning 18-hole golf course (4-star Golf Digest rating for 27 years), full-service marina, beach, fishing pier, Birds of Prey raptor rehabilitation program, hiking trails, tennis and basketball courts, resort hotel, restaurant, and convention center; excellent fishing with 100+ fish species in Kentucky Lake [Source: [Tennessee State Parks Paris Landing](https://tnstateparks.com/parks/paris-landing), [Paris Landing Blog](https://hopsandskips.net/2025/02/20/tennessee-state-park-tour-paris-landing/), [Explore Kentucky Lake Paris](https://www.explorekentuckylake.com/paris-landing/)]
+
+- **Nathan Bedford Forrest State Park** (45-50 minutes southwest) - Explore 2,587-acre state park on Kentucky Lake's western shore featuring Battle of Johnsonville interpretive exhibits (1864 Confederate victory), hiking trails, camping, picnic areas, and Tennessee River overlooks; named after Confederate General Forrest who conducted operations in area; established 1929 [Source: [Tennessee State Parks NBF](https://tnstateparks.com/parks/nathan-bedford-forrest), [TripAdvisor NBF](https://www.tripadvisor.com/Attraction_Review-g55038-d4766610-Reviews-Nathan_Bedford_Forrest_State_Park-Eva_Tennessee.html)]
+
+- **Cross Creeks National Wildlife Refuge** (25-30 minutes south) - Visit 8,862-acre refuge managed by U.S. Fish and Wildlife Service for migratory waterfowl preservation; activities include fishing, limited hunting, bird watching, hiking, and environmental education; excellent birding opportunities throughout the year [Source: [Explore Kentucky Lake Dover](https://www.explorekentuckylake.com/dover/things-to-do/)]
+
+---
+
+**Total Recommended Time:** 3-4 hours for complete Fort Donelson experience (visitor center, driving tour, Dover Hotel, and National Cemetery). Add 2-4 hours if hiking the Donelson Trail. [Source: [TripAdvisor FAQ](https://www.tripadvisor.com/FAQ_Answers-g60808-d143130-t5747935-How_much_time_should_I_plan_for_to_visit_the_park.html), [Swept Away Today](https://sweptawaytoday.com/2025/04/11/step-back-in-time-fort-donelson-and-shiloh-battlefields-road-trip-from-nashville/)]

@@ -1,33 +1,49 @@
-# Fort Davis NHS
+# Fort Davis NHS (National Historic Site)
 
-## Cancellation Stamp Locations:
+## Cancellation Stamp Locations
 
-- [ ] Fort Davis NHS Visitor Center (101 Lt. Flipper Dr. #1379, Fort Davis, Texas, 79734; 8:00 AM-4:30 PM)
+- **Fort Davis Visitor Center** (101 Lt. Flipper Dr. #1379, Fort Davis, TX 79734 (30.5892, -103.8950); Daily 8:00 AM - 5:00 PM, closed Thanksgiving, Christmas, New Year's Day, and Martin Luther King Jr. Holiday; 432-426-3224 ext. 220) - National Park Service passport cancellation stamps available at the visitor center. [Source: [NPS Basic Information](https://www.nps.gov/foda/planyourvisit/basicinfo.htm), [Park Ranger John](https://www.parkrangerjohn.com/fort-davis-national-historic-site/), [Contact Us](https://www.nps.gov/foda/contacts.htm)]
 
-## Key Activities:
+**Note:** Call 432-426-3224 ext. 220 to confirm current stamp locations and hours before visiting. Best time to visit: Spring and Fall for warm weather and beautiful conditions.
 
-- [ ] Visitor Center Experience (1-2 hours) - Explore exhibits and learn about Fort Davis NHS; 101 Lt. Flipper Dr. #1379, Fort Davis, Texas, 79734; 8:00 AM-4:30 PM [[Source](https://www.nps.gov/fdn)]
+## Key Activities
 
-## Hidden Gems:
+- **Visitor Center Film** (15-20 minutes) - Watch the 15-minute film narrated by Kareem Abdul-Jabbar detailing the park's history and the role of Buffalo Soldiers at this frontier military post; excellent introduction to Fort Davis; Fort Davis Visitor Center, 101 Lt. Flipper Dr., Fort Davis, TX 79734 (30.5989809, -103.8866542); Daily 8:00 AM - 5:00 PM; FREE [Source: [Fort Davis Blog](https://fortdavisdrug.com/blog/exploring-fort-davis-national-historic-site-a-journey-through-time), [Texas Trailhead](https://www.thetexastrailhead.com/what-to-expect-fort-davis-national-historic-site/)]
 
-## Also Nearby:
+- **Self-Guided Fort Tour** (1-2 hours) - Walk through officers' quarters, barracks, and the hospital experiencing daily life at this well-preserved frontier military post that operated from 1854-1891; inspect various structures mixing restored buildings and foundations; explore ruins of 100 structures including cavalry stables and post headquarters; pick up self-guided tour brochure at visitor center; Fort grounds open daily 8:00 AM - 5:00 PM; FREE [Source: [WNPA Fort Davis](https://wnpa.org/explore-parks/fort-davis), [Park Ranger John](https://www.parkrangerjohn.com/fort-davis-national-historic-site/), [American Southwest](https://www.americansouthwest.net/texas/fort-davis/national-historic-site.html)]
 
+- **Cavalry Barracks Tour** (20-30 minutes) - Explore restored barracks that housed soldiers who protected the frontier, restored to 19th-century condition with authentic military artifacts and exhibits inside; gain insight into everyday life of a frontier soldier; located along fort's main parade ground; open during park hours; FREE [Source: [Fort Davis Blog](https://fortdavisdrug.com/blog/exploring-fort-davis-national-historic-site-a-journey-through-time), [Land of Liberty](https://landoflibertyexplorers.com/?p=3845)]
 
-## Amber's Data
+- **Officers' Row Walk** (30-45 minutes) - Stroll along Officer's Row viewing restored homes that contrast sharply with ruins of other structures, showcasing the divide in living standards between officers and enlisted men; peek into officers' quarters to see how commanding officers and their families lived; access via main fort grounds; open during park hours; FREE [Source: [Fort Davis Blog](https://fortdavisdrug.com/blog/exploring-fort-davis-national-historic-site-a-journey-through-time), [WNPA Fort Davis](https://wnpa.org/explore-parks/fort-davis)]
 
-*This section preserves the original data from the source spreadsheet.*
+- **Hospital Building Tour** (15-20 minutes) - Visit one of the largest and most impressive buildings on site; this critical facility treated both soldiers and civilians on the frontier; explore interior exhibits about frontier medicine; Fort Davis grounds; open during park hours; FREE [Source: [Fort Davis Blog](https://fortdavisdrug.com/blog/exploring-fort-davis-national-historic-site-a-journey-through-time), [Land of Liberty](https://landoflibertyexplorers.com/?p=3845)]
 
-**Main Address:** 101 Lt. Flipper Dr. #1379, Fort Davis, Texas 79734
+- **Scenic Overlook Trail** (1-1.5 hours round trip) - Hike the moderately challenging 1.5-mile trail that rewards visitors with panoramic views of the fort and the valley below; experience the natural defenses that protected this strategic location; trailhead at fort parking area; open dawn to dusk; FREE [Source: [Fort Davis Blog](https://fortdavisdrug.com/blog/exploring-fort-davis-national-historic-site-a-journey-through-time), [AllTrails Fort Davis](https://www.alltrails.com/parks/us/texas/fort-davis-national-historic-site)]
 
-**Operating Hours (from source):**
-- **Sunday:** 8:00 AM-4:30 PM [ff436f]
-- **Monday:** 8:00 AM-4:30 PM [942cba]
-- **Tuesday:** 8:00 AM-4:30 PM [3fa55c]
-- **Wednesday:** 8:00 AM-4:30 PM [56d1cd]
-- **Thursday:** 8:00 AM-4:30 PM [ccffe9]
-- **Friday:** 8:00 AM-4:30 PM [d1ffbd]
-- **Saturday:** 8:00 AM-4:30 PM [23c4af]
+- **Hospital Canyon Trail** (30-45 minutes) - Walk the shorter, easier trail winding through a canyon near the fort's defensive perimeter; discover natural barriers that protected the fort; interpretive signs explain the canyon's strategic importance; trailhead accessible from fort grounds; open dawn to dusk; FREE [Source: [Fort Davis Blog](https://fortdavisdrug.com/blog/exploring-fort-davis-national-historic-site-a-journey-through-time), [AllTrails Fort Davis](https://www.alltrails.com/parks/us/texas/fort-davis-national-historic-site)]
 
-**Visitor Center (from source):**
-- **Name:** Visitor Center [2683ca]
-- **Address:** 101 Lt. Flipper Dr. #1379 [fa0882]
+## Hidden Gems
+
+- **North Ridge and Hospital Canyon Loop Trail** (1.5-2 hours) - Hike the highest-rated trail in the area (4.7 stars from 275 reviews), spanning 2.3 miles with 351 feet elevation gain; combines best views and canyon exploration in one loop; less crowded than shorter trails; trailhead at fort parking area; open dawn to dusk; FREE [Source: [AllTrails Fort Davis](https://www.alltrails.com/parks/us/texas/fort-davis-national-historic-site)]
+
+- **Living History Demonstrations** (varies, seasonal) - Experience fort life through period-dressed interpreters demonstrating military drills, daily routines, and frontier skills when offered; check with visitor center for current schedule; fort grounds; times vary seasonally; FREE [Source: [Park Ranger John](https://www.parkrangerjohn.com/fort-davis-national-historic-site/), [WNPA Fort Davis](https://wnpa.org/explore-parks/fort-davis)]
+
+- **Ruins Exploration** (30-60 minutes) - Get close-up views of foundations and partial walls from 100 structures including post headquarters, cavalry stables, and enlisted men's quarters; imagine fort layout and daily operations; interpretive signs throughout ruins; fort grounds; open during park hours; FREE [Source: [WNPA Fort Davis](https://wnpa.org/explore-parks/fort-davis), [American Southwest](https://www.americansouthwest.net/texas/fort-davis/national-historic-site.html)]
+
+- **Buffalo Soldier History** (integrated throughout visit) - Learn about the African American cavalry and infantry regiments (9th and 10th Cavalry, 24th and 25th Infantry) who served at Fort Davis from 1867-1885; exhibits and interpretive materials throughout site honor their service protecting frontier settlements; visitor center and fort grounds; daily 8:00 AM - 5:00 PM; FREE [Source: [Park Ranger John](https://www.parkrangerjohn.com/fort-davis-national-historic-site/), [Fort Davis Blog](https://fortdavisdrug.com/blog/exploring-fort-davis-national-historic-site-a-journey-through-time)]
+
+## Also Nearby
+
+- **McDonald Observatory** (1-2 hours for tours, 3-4 hours for star parties, 16 miles northwest) - Experience world-class stargazing beneath some of Texas's darkest skies; tour the Hobby-Eberly Telescope (one of world's largest optical telescopes); attend Star Parties, Twilight Programs, Daytime Tours, and Solar Viewing year-round (reservations required); 3640 Dark Sky Drive, Fort Davis, TX 79734; tour times vary; admission charged [Source: [McDonald Observatory](https://mcdonaldobservatory.org/), [Tour Texas](https://www.tourtexas.com/destinations/fort-davis-things-to-do), [NPS Nearby Attractions](https://www.nps.gov/foda/planyourvisit/nearbyattractions.htm)]
+
+- **Davis Mountains State Park** (30 minutes - half day, 4 miles northwest) - Hike the 4.5-mile Skyline Drive Trail, explore the 1.75-mile CCC trail connecting to Fort Davis NHS, visit "the best little bird blind in Texas," join ranger-led programs including full moonrise viewings and guided bird watching trips; Indian Lodge State Park resort on-site; Park Road 3, Fort Davis, TX 79734; hours vary; entrance fee charged [Source: [Davis Mountains State Park](https://tpwd.texas.gov/state-parks/davis-mountains), [Rock Chuck Summit](https://rockchucksummit.com/davis-mountains-state-park/), [Tour Texas](https://www.tourtexas.com/destinations/fort-davis-things-to-do)]
+
+- **Marfa Mystery Lights & Art Scene** (1-3 hours, 21 miles south) - View the famous unexplained Marfa Lights from viewing platform, explore contemporary art galleries, visit unique shops in this quirky desert art town; Marfa, TX 79843; hours vary by business [Source: [Tour Texas](https://www.tourtexas.com/destinations/fort-davis), [Visit Fort Davis](https://www.fortdavis.com/)]
+
+- **Balmorhea State Park** (2-4 hours, 45 miles northeast) - Swim and snorkel in the world's largest spring-fed pool (over 1.75 acres) with constant 72-76°F water flowing from San Solomon Springs at 22-28 million gallons daily; 9207 TX-17, Toyahvale, TX 79786; hours vary; entrance fee charged [Source: [Visit Fort Davis](https://www.fortdavis.com/), [Tour Texas](https://www.tourtexas.com/destinations/fort-davis)]
+
+- **Chihuahuan Desert Research Institute** (1-2 hours, 4 miles south) - Explore birding blinds, hiking trails, botanical gardens showcasing native Chihuahuan Desert plants, and succulent greenhouse; PO Box 905, Fort Davis, TX 79734; hours vary; admission may apply [Source: [Tour Texas](https://www.tourtexas.com/destinations/fort-davis), [NPS Nearby Attractions](https://www.nps.gov/foda/planyourvisit/nearbyattractions.htm)]
+
+---
+
+**Total Recommended Time at Fort Davis NHS (National Historic Site):** Minimum 1-2 hours for visitor center, film, and self-guided fort tour; 2-3 hours recommended for comprehensive experience including buildings, ruins, and short trail; 3-4 hours ideal for adding longer hiking trails. Combine with McDonald Observatory and Davis Mountains State Park for full day or multi-day West Texas adventure. [Source: [Park Ranger John](https://www.parkrangerjohn.com/fort-davis-national-historic-site/), [Texas Trailhead](https://www.thetexastrailhead.com/what-to-expect-fort-davis-national-historic-site/), [Fort Davis Blog](https://fortdavisdrug.com/blog/exploring-fort-davis-national-historic-site-a-journey-through-time)]

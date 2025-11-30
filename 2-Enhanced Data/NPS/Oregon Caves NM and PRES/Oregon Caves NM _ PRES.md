@@ -2,7 +2,7 @@
 
 ## Cancellation Stamp Locations:
 
-- [ ] Oregon Caves NM & PRES Visitor Center (19000 Caves Hwy, Cave Junction, Oregon, 97523; 9:30 AM-5:00 PM)
+- [ ] Oregon Caves NM & PRES Visitor Center (19000 Caves Hwy, Cave Junction, Oregon, 97523 (42.1618296, -123.6436727); 9:30 AM-5:00 PM)
 
 ## Key Activities:
 

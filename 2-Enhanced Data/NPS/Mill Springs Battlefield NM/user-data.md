@@ -9,9 +9,20 @@ No activities found. See [Mill Springs Battlefield NM.md](Mill Springs Battlefie
 
 ## Amber's Data (from spreadsheet)
 
-**Visitor Center:** Mill Springs Battlefield National Monument Visitor Center and Museum
+*This section preserves the original data from the source spreadsheet.*
 
-**Address:** 9020 West Highway 80, Nancy, Kentucky 42544
+**Main Address:** 9020 West Highway 80, Nancy, Kentucky 42544
 
-**Hours:** Hours not available
+**Operating Hours (from source):**
+- **Sunday:** 10:00 AM-4:00 PM
+- **Monday:** Closed
+- **Tuesday:** Closed
+- **Wednesday:** 10:00 AM-4:00 PM
+- **Thursday:** 10:00 AM-4:00 PM
+- **Friday:** 10:00 AM-4:00 PM
+- **Saturday:** 10:00 AM-4:00 PM
+
+**Visitor Center (from source):**
+- **Name:** Mill Springs Battlefield National Monument Visitor Center and Museum
+- **Address:** 9020 West Highway 80
 

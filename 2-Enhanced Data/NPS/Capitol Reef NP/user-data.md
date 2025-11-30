@@ -28,13 +28,4 @@
 - [ ] Kodachrome Basin State Park (2-3 hours, 2.5 hours southwest)
 
 
-## Amber's Data (from spreadsheet)
-
-**Visitor Center:** Capitol Reef National Park Visitor Center
-
-**Address:** 52 West Headquarters Drive, Torrey, Utah 84775
-
-**Hours:** Hours not available
-
 ## Review / Personal Notes
-

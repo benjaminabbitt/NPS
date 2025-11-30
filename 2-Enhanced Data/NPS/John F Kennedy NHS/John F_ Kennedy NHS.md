@@ -2,7 +2,7 @@
 
 ## Cancellation Stamp Locations:
 
-- [ ] John F. Kennedy NHS Visitor Center (83 Beals Street, Brookline, Massachusetts, 02446; Closed)
+- [ ] John F. Kennedy NHS Visitor Center (83 Beals Street, Brookline, Massachusetts, 02446 (42.3469485, -71.1232485); Closed)
 
 ## Key Activities:
 

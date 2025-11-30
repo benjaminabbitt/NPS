@@ -31,13 +31,4 @@
 - [ ] Utah Shakespeare Festival (3-4 hours per performance, 30 minutes)
 
 
-## Amber's Data (from spreadsheet)
-
-**Visitor Center:** Cedar Breaks National Monument
-
-**Address:** 4730 South Highway 148, Brian Head, Utah 84719
-
-**Hours:** Hours not available
-
 ## Review / Personal Notes
-

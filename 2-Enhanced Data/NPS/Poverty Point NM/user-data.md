@@ -9,9 +9,20 @@ No activities found. See [Poverty Point NM.md](Poverty Point NM.md) for details.
 
 ## Amber's Data (from spreadsheet)
 
-**Visitor Center:** Poverty Point World Heritage Site
+*This section preserves the original data from the source spreadsheet.*
 
-**Address:** 6859 LA-577, Pioneer, Louisiana 71266
+**Main Address:** 6859 Hwy. 577, Pioneer, Louisiana 71266
 
-**Hours:** Hours not available
+**Operating Hours (from source):**
+- **Sunday:** 9:00 AM-5:00 PM
+- **Monday:** 9:00 AM-5:00 PM
+- **Tuesday:** 9:00 AM-5:00 PM
+- **Wednesday:** 9:00 AM-5:00 PM
+- **Thursday:** 9:00 AM-5:00 PM
+- **Friday:** 9:00 AM-5:00 PM
+- **Saturday:** 9:00 AM-5:00 PM
+
+**Visitor Center (from source):**
+- **Name:** Poverty Point World Heritage Site
+- **Address:** 6859 LA-577
 

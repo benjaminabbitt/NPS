@@ -28,12 +28,4 @@
 - [ ] Morehead City (30 minutes)
 
 
-## Amber's Data (from spreadsheet)
-
-**Visitor Center:** Harkers Island Visitor Center
-
-**Address:** 1800 Island Road, Harkers Island, North Carolina 28531 (34.6976882, -76.5735718)
-
-**Hours:** Hours not available
-
 ## Review / Personal Notes

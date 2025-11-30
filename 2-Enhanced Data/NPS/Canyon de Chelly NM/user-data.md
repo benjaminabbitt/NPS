@@ -6,7 +6,7 @@
 
 ## Cancellation Stamps
 
-- [ ] Canyon de Chelly Welcome Center (Indian Route 7, Chinle, AZ 86503) (36.1594495, -109.5755639)
+- [ ] Canyon de Chelly Welcome Center (Indian Route 7, Chinle, AZ 86503 (36.0634543, -109.3719757)) (36.1594495, -109.5755639)
 
 ## Key Activities
 
@@ -25,13 +25,5 @@
 - [ ] Hubbell Trading Post National Historic Site (1-2 hours, 30 miles)
 - [ ] Petrified Forest National Park (2-3 hours, 90 miles)
 
-
-## Amber's Data (from spreadsheet)
-
-**Visitor Center:** Canyon de Chelly National Monument Welcome Center
-
-**Address:** Indn Rte 7, Chinle, Arizona 86503
-
-**Hours:** Hours not available
 
 ## Review / Personal Notes

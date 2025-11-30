@@ -13,11 +13,11 @@ You are a travel agent researching trip options for your client. You prioritize 
 
 ## Trip Day Boundaries
 - **Trip day starts**: 6:00 AM (0600)
-- **Trip day ends**: 9:00 PM (2100)
-- **Total available time**: 15 hours per day
-- **Working/driving time**: 12 hours per day (allowing for breaks, meals, etc.)
+- **Trip day ends**: 12:00 AM (0000) - midnight
+- **Maximum available time**: 18 hours per day (hard limit)
+- **Preferred working time**: 10-12 hours per day (soft limit, sustainable pacing)
 - First activity cannot begin before 6:00 AM
-- Last activity must complete by 9:00 PM
+- Repositioning travel can continue until midnight
 
 ## Site Operating Hours
 - **Default Hours**: If operating hours are not available for a site, assume **8:00 AM - 5:00 PM (0800-1700)**
@@ -289,32 +289,39 @@ Using OR-Tools VRP (Vehicle Routing Problem) solver to create optimal transporta
 - Visit each site once for the recommended time
 - Source data from vector database and Cancellation Stamp Sites/Overrides directory
 - Respect operating hours constraints (no visits outside hours unless `always_stamp_available: true`)
-- Trip timing: 6:00 AM start, 9:00 PM end (15-hour window)
+- Trip timing: 6:00 AM start, midnight end (18-hour window maximum)
 
-**Trip Pacing Parameters** (updated 2025-11-23):
-- **Working hours per day**: 10 hours (realistic pacing, not maximum window)
-- **Time per site**: 4 hours (stamps, exploration, photos, travel buffer)
-- **Target**: ~2 sites per day for sustainable travel
+**Trip Pacing Parameters** (updated 2025-11-25):
+- **Maximum hours per day**: 18 hours (6am-midnight, hard limit)
+- **Preferred hours per day**: 10-12 hours (soft limit, sustainable pacing)
+- **Time per site**: 2 hours (stamps, exploration, photos)
+- **Target**: 1-2 sites per day average across the entire trip
 - **Average speed**: 55 mph
+- **Zero-site days**: Acceptable for repositioning between site clusters
+
+**Day Structure:**
+- Sites are visited during operating hours (respecting constraints)
+- End-of-day repositioning: Remaining daily time (up to 18 hours) used to drive toward next day's sites
+- Driving-only days: Some days may have zero site visits if traveling between distant clusters
 
 ### Maximum Distance Calculation
 Default maximum distance is automatically calculated based on trip duration:
 
 **Formula:**
 ```
-max_distance = target_days × 12 hours/day × 55 mph × 0.25
+max_distance = target_days × 10 hours/day × 55 mph × 0.4
 ```
 
 **Rationale:**
-1. Realistic max = (days × hours_per_day × avg_speed) × 0.5
-   - Assumes 50% of time is driving, 50% is visiting sites
-2. Conservative upper bound = realistic_max / 2
-   - Provides buffer for operating hours constraints and routing inefficiencies
+1. 10 hours of driving per day within the 18-hour window (accounting for site visits)
+2. 55 mph average speed
+3. Factor of 0.4 for one-way range (40% of total driving capacity)
+4. Allows for driving-only repositioning days between site clusters
 
-**Examples** (updated 2025-11-23 with 10 hours/day):
-- 3 days:  412 miles
-- 7 days:  962 miles
-- 14 days: 1,925 miles
+**Examples** (updated 2025-11-25):
+- 3 days:  660 miles
+- 7 days:  1,540 miles
+- 14 days: 3,080 miles
 
 **Implementation:**
 - Located in `src/routing/optimize_trip_parameters.py::calculate_default_max_distance()`
@@ -328,7 +335,199 @@ python3 src/routing/optimize_trip_parameters.py --target-days 14
 This automatically calculates the default max-distance and searches for maximum coverage with zero violations.
 
 ## World's Largest
-For each item in the World's Largest report, perform research about how long it will take, operating hours, operating seasons, and address. Try to fit these into the trips. These do *not* all need to be visited, but are good to fit in if they can comfortably be factored into drives.
+
+### Overview
+World's Largest attractions are roadside and natural attractions throughout the United States. These do *not* all need to be visited, but are good to fit in if they can comfortably be factored into drives between other destinations (NPS sites, amusement parks, etc.).
+
+### Directory Structure
+
+For each World's Largest item, create a directory structure as follows:
+
+```
+2-Enhanced Data/World's Largest/[Item Name]/
+├── [Item Name].md          # Comprehensive research report
+└── user-data.md            # User checklist format
+```
+
+### Main Report ([Item Name].md)
+
+**IMPORTANT: This file is immutable research documentation. All user inputs, tracking, and interactions should occur in user-data.md only.**
+
+The comprehensive report containing:
+- Full item name with verification status in title (e.g., "World's Largest Rocking Chair ✓", "World's Largest Pistachio [SELF-DECLARED]")
+- What Makes It World's Largest (dimensions, description)
+- Address with geocoded coordinates
+- Operating Hours and Seasonal Information
+- Fees
+- History
+- Access/Parking/Viewing Information
+- Key Activities (viewing the attraction, photo opportunities, any interactive elements)
+- Hidden Gems (lesser-known aspects, nearby smaller attractions)
+- Also Nearby (meaningful nearby attractions not affiliated with the World's Largest item, within 30-60 minutes travel time)
+- Total Recommended Time summary at the end with citations
+
+Formatting:
+- Use plain bullet points (-), NOT checkboxes
+- Include all detailed information inline
+- All citations as markdown links
+- Description first, then address, then hours for each activity
+- Include verification status: ✓ = Guinness/verified, [SELF-DECLARED], [CONTESTED], [CLOSED], [DETERIORATED], [LIMITED ACCESS]
+- This is reference documentation only - do not add checkboxes or interactive elements
+
+### User Data (user-data.md)
+
+Simplified checklist format for trip planning:
+
+```markdown
+# [Item Name]
+
+[View Full Research Report]([Item%20Name].md)
+
+- [ ] Visited
+
+## What Makes It World's Largest
+
+[Brief description and dimensions]
+
+## Location & Hours
+
+- [ ] **Address:** [Full address with geocoded coordinates]
+- [ ] **Hours:** [Operating hours or 24/7]
+- [ ] **Fees:** [FREE or admission cost]
+- [ ] **Best Time:** [Optimal viewing time/season]
+
+## Key Activities
+
+- [ ] [Activity name] ([time duration])
+- [ ] [Additional activities]
+
+## Hidden Gems
+
+- [ ] [Activity name] ([time duration])
+- [ ] [Additional activities]
+
+## Also Nearby
+
+- [ ] [Attraction name] ([time duration], [distance])
+- [ ] [Additional attractions]
+
+## Review / Personal Notes
+
+```
+
+Requirements for user-data.md:
+- Include link to main report at the top for easy reference
+- Include checkboxes for tracking progress
+- Brief activity names with timing only
+- Key location details
+- Include "Review / Personal Notes" section at the end for user input
+- NO detailed descriptions or citations (these remain in main report only)
+
+### Research Requirements
+
+For each World's Largest item from the raw data file, gather and format:
+
+1. **Verification Status:**
+   - Determine if Guinness World Record (✓) or self-declared
+   - Note if contested with other locations
+   - Check if still operating or closed
+
+2. **Location & Access:**
+   - Full address with geocoded coordinates (lat, lon)
+   - Parking information
+   - Viewing accessibility (24/7, restricted hours, etc.)
+   - Any access restrictions or fees
+
+3. **Operating Information:**
+   - Hours of operation (many are 24/7 viewable)
+   - Seasonal variations
+   - Best time to visit
+   - Admission fees if any
+
+4. **Activities & Timing:**
+   - Time to view/photograph the attraction (typically 15-30 minutes)
+   - Any interactive elements (can climb, can add to, tours available, etc.)
+   - Special events or demonstrations
+   - Photo opportunities
+
+5. **Hidden Gems:**
+   - Lesser-known features of the attraction
+   - Nearby smaller related items
+   - Historical context often overlooked
+
+6. **Also Nearby:**
+   - Identify complementary and notable activities/attractions within 30-60 minutes travel time
+   - Must be meaningful/significant attractions
+   - Same format as NPS nearby attractions
+   - Include distance/location context in description
+   - These are separate from the main attraction visit
+
+### Extraction from Raw Data
+
+The raw data file (`1-Raw Input Data/World's Largest/World's Largest.md`) contains 120+ items organized by category:
+- Natural Formations & Wonders
+- Major Monuments & Structures
+- Balls of Things
+- Food Items
+- Animal Statues
+- Casey, Illinois (12 Guinness records + 20+ additional)
+- Statues
+- Sports Equipment
+- Musical Instruments
+- Vehicles & Equipment
+- Additional Notable Attractions
+
+For each item in the raw data:
+1. Extract name, location, verification status
+2. Extract "What Makes It World's Largest", address, GPS coordinates
+3. Extract hours, fees, history, seasonal information
+4. Create directory structure in `2-Enhanced Data/World's Largest/`
+5. Generate main report file with all extracted data plus nearby attractions research
+6. Generate user-data.md checklist file
+7. Sync to Chroma vector database
+
+### Special Considerations
+
+**Verification Status:**
+- Always preserve the verification status from raw data
+- ✓ indicates Guinness or verified record
+- [SELF-DECLARED] for unverified claims
+- [CONTESTED] for multiple claimants
+- [CLOSED] for no longer operating
+- [DETERIORATED] for compromised condition
+- [LIMITED ACCESS] for difficult to reach
+
+**Multi-Item Locations:**
+- Casey, Illinois has 12+ items - create individual directories for each
+- Group related items logically (all Casey items can reference each other in "Also Nearby")
+
+**Closed/Deteriorated Items:**
+- Still document these as they may be viewable from exterior
+- Clearly mark status in both files
+- Note what remains accessible
+
+**Trip Planning Integration:**
+- These attractions are supplementary to NPS and amusement park visits
+- Ideal for breaking up long drives between main destinations
+- Many are quick stops (15-30 minutes) making them perfect drive-time additions
+- Prioritize items along planned routes rather than destination visits
+
+### Naming Conventions
+
+Directory and file names should:
+- Use the common name from the raw data
+- Remove "World's Largest" prefix from directory name for brevity
+- Example: "World's Largest Catsup Bottle" → directory: "Catsup Bottle"
+- Include verification status in the markdown file titles only
+- Use spaces in directory names (match NPS convention)
+
+### Database Synchronization
+
+After creating or updating World's Largest files:
+- Sync all data to Chroma vector database
+- Store both main report and user-data content
+- Tag with "worlds-largest" category for easy filtering
+- Include location coordinates for geographic queries
 
 ## Amusement Parks
 For each item in the Amusement Park list, perform research about how long it will take, operating hours, operating seasons, and address. Fit these into trips. These *do* all need to be visited.
@@ -356,3 +555,4 @@ For each trip, include route details, timing, and all activities.
 
 # Code location
 Place all code elements that are generated in the src directory.  Create a new subdirectory with a short but meaningful name inside of src and place the needed code there.  Be aware of the CLAUDE.md inside the src directory.
+- make note of drive times that are directly distance derived

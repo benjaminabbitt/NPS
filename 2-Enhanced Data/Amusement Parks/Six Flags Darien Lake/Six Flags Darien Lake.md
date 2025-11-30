@@ -1,19 +1,23 @@
 # Six Flags Darien Lake
 
-**Location:** United States
+**Address:** 9993 Allegheny Rd, Corfu, NY 14036 [42.9304, -78.3844]
 
-## Address
+## Park Information
 
-9993 Alleghany Rd, Darien Center, NY 14040
-## Operating Hours
+*Research needed: Operating hours, admission prices, parking, season dates*
 
-Varies by season - check park website before visiting
+## Notable Coasters
 
-## Operating Seasons
+*See user-data.md for complete coaster checklist*
 
-Typically April-October, with weekend operations in early/late season and Halloween events
+## Planning Tips
 
-## Coasters at This Park
+*Research needed: Best visiting times, fast pass options, food recommendations*
 
+## Nearby Attractions
 
-- [Ride of Steel](Ride of Steel.md)
+*Research needed: Hotels, restaurants, other activities*
+
+---
+
+**Last Updated:** 2025-11-26

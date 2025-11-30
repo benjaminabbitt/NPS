@@ -22,9 +22,9 @@
 
 ## Also Nearby
 
-- **Shaker Village of Pleasant Hill** (2-3 hours, 15 miles northeast) - Tour restored Shaker community with 34 original buildings, demonstrations, and riverboat rides; 3501 Lexington Road, Harrodsburg, KY 40330; open daily 10:00 AM - 5:00 PM [Source: [Shaker Village](https://shakervillageky.org/)]
+- **Shaker Village of Pleasant Hill** (2-3 hours, 15 miles northeast) - Tour restored Shaker community with 34 original buildings, demonstrations, and riverboat rides; 3501 Lexington Road, Harrodsburg, KY 40330 (37.8188327, -84.7384129); open daily 10:00 AM - 5:00 PM [Source: [Shaker Village](https://shakervillageky.org/)]
 
-- **Kentucky Horse Park** (2-3 hours, 25 miles north) - Experience equestrian heritage with horse shows, museum, and trail rides; 4089 Iron Works Parkway, Lexington, KY 40511; hours vary seasonally [Source: [Kentucky Horse Park](https://kyhorsepark.com/)]
+- **Kentucky Horse Park** (2-3 hours, 25 miles north) - Experience equestrian heritage with horse shows, museum, and trail rides; 4089 Iron Works Parkway, Lexington, KY 40511 (38.14715, -84.517169); hours vary seasonally [Source: [Kentucky Horse Park](https://kyhorsepark.com/)]
 
 ---
 

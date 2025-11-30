@@ -40,12 +40,24 @@
 - [ ] Cody, Wyoming (1 full day, 46 miles west)
 
 
+
 ## Amber's Data (from spreadsheet)
 
-**Visitor Center:** Yellowtail Dam Visitor Center
+*This section preserves the original data from the source spreadsheet.*
 
-**Address:** 2222 Access Rd, Fort Smith, Montana 59050
+**Main Address:** 2222 Access Rd, Fort Smith, Montana 59050
 
-**Hours:** Hours not available
+**Operating Hours (from source):**
+- **Sunday:** 8:30 AM-4:30 PM
+- **Monday:** 8:30 AM-4:30 PM
+- **Tuesday:** 8:30 AM-4:30 PM
+- **Wednesday:** 8:30 AM-4:30 PM
+- **Thursday:** 8:30 AM-4:30 PM
+- **Friday:** 8:30 AM-4:30 PM
+- **Saturday:** 8:30 AM-4:30 PM
+
+**Visitor Center (from source):**
+- **Name:** Yellowtail Dam Visitor Center
+- **Address:** 2222 Access Rd
 
 ## Review / Personal Notes

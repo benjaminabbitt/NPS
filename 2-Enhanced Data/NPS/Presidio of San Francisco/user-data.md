@@ -9,9 +9,20 @@ No activities found. See [Presidio of San Francisco.md](Presidio of San Francisc
 
 ## Amber's Data (from spreadsheet)
 
-**Visitor Center:** Presidio Visitor Center
+*This section preserves the original data from the source spreadsheet.*
 
-**Address:** 210 Lincoln Blvd, San Francisco, California 94129 (37.8019747, -122.4568312)
+**Main Address:** 210 Lincoln Boulevard, San Francisco, California 94129 (37.8019747, -122.4568312)
 
-**Hours:** Hours not available
+**Operating Hours (from source):**
+- **Sunday:** 10:00 AM–5:00 PM
+- **Monday:** 10:00 AM–5:00 PM
+- **Tuesday:** 10:00 AM–5:00 PM
+- **Wednesday:** 10:00 AM–5:00 PM
+- **Thursday:** 10:00 AM–5:00 PM
+- **Friday:** 10:00 AM–5:00 PM
+- **Saturday:** 10:00 AM–5:00 PM
+
+**Visitor Center (from source):**
+- **Name:** Presidio Visitor Center
+- **Address:** 210 Lincoln Blvd
 

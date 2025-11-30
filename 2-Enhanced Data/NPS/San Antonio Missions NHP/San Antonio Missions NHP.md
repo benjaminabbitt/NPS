@@ -1,33 +1,57 @@
-# San Antonio Missions NHP
+# San Antonio Missions NHP (National Historical Park)
 
-## Cancellation Stamp Locations:
+## Cancellation Stamp Locations
 
-- [ ] San Antonio Missions NHP Visitor Center (6701 San Jose Drive, San Antonio, Texas, 78214; 9:00 AM-5:00 PM)
+- **Mission San José Visitor Center** (6701 San Jose Dr, San Antonio, TX 78214 (29.3621, -98.4789); Daily 9:00 AM - 5:00 PM, often closed for lunch hour, closed Thanksgiving, December 25, and January 1; 210-932-1001) - National Park Service passport cancellation stamps available at four mission locations; each mission has unique stamp shaped like its façade; collect all four stamps for your passport book. [Source: [NPS Basic Info](https://www.nps.gov/saan/planyourvisit/basicinfo.htm), [NPS Visitor Centers](https://www.nps.gov/saan/planyourvisit/visitorcenters.htm), [America's National Parks](https://americasnationalparks.org/passport-to-your-national-parks/passport-cancellation-locations/)]
 
-## Key Activities:
+- **Mission Concepción** (807 Mission Rd, San Antonio, TX 78210 (29.3974233, -98.4891611); Daily during park hours) - Unique cancellation stamp shaped like mission façade; oldest unrestored stone church in United States. [Source: [NPS Basic Info](https://www.nps.gov/saan/planyourvisit/basicinfo.htm), [WNPA Store](https://store.wnpa.org/products/san-antonio-missions-national-hist-park-travel-stamp-concepcion)]
 
-- [ ] Visitor Center Experience (1-2 hours) - Explore exhibits and learn about San Antonio Missions NHP; 6701 San Jose Drive, San Antonio, Texas, 78214; 9:00 AM-5:00 PM [[Source](https://www.nps.gov/sam)]
+- **Mission San Juan** (9101 Graf Rd, San Antonio, TX 78214 (29.3339626, -98.4545534); Daily during park hours) - Unique cancellation stamp shaped like mission façade; features demonstration farm showing historical acequia irrigation. [Source: [NPS Basic Info](https://www.nps.gov/saan/planyourvisit/basicinfo.htm), [WNPA Store](https://store.wnpa.org/products/san-antonio-missions-national-hist-park-travel-stamp-san-juan)]
 
-## Hidden Gems:
+- **Mission Espada** (10040 Espada Rd, San Antonio, TX 78214 (29.3174109, -98.4515244); Daily during park hours) - Unique cancellation stamp shaped like mission façade; southernmost mission in the park. [Source: [NPS Basic Info](https://www.nps.gov/saan/planyourvisit/basicinfo.htm)]
 
-## Also Nearby:
+**Note:** Call 210-932-1001 to confirm stamp locations before visiting. The Alamo does NOT have NPS stamps as it is not part of the National Park. FREE admission to all missions and grounds.
 
+## Key Activities
 
-## Amber's Data
+- **Ranger-Guided Mission Tours** (45-60 minutes) - Join daily ranger-led programs departing at 10:00 AM and 11:00 AM from Mission San José Visitor Center patio; limited to 50 people first come, first served; wheelchair accessible; learn mission history, architecture, and cultural significance; comprehensive introduction to mission system; Mission San José; daily except first Wednesday of each month; FREE [Source: [NPS Guided Programs](https://www.nps.gov/saan/planyourvisit/guided-programs.htm), [NPS Plan Visit](https://www.nps.gov/saan/planyourvisit/plan-your-visit.htm), [San Antonio River Walk Blog](https://www.thesanantonioriverwalk.com/blog/post/hidden-gems-at-san-antonio-missions-national-historical-park/)]
 
-*This section preserves the original data from the source spreadsheet.*
+- **Mission San José Self-Guided Tour** (1-1.5 hours) - Explore largest mission in San Antonio established 1720; view famous "Rose Window" carvings, flying buttresses, quatrefoil patterns, polychromatic plaster; walk granary, convento ruins, and beautifully restored church; most complete mission complex; 6701 San Jose Dr; Daily 9:00 AM - 5:00 PM; FREE [Source: [NPS Mission San José](https://www.nps.gov/saan/planyourvisit/sanjose.htm), [Visit San Antonio](https://www.visitsanantonio.com/things-to-do/san-antonio-missions/), [The San Antonio Things](https://thesanantoniothings.com/guide-to-san-antonio-missions/)]
 
-**Main Address:** 6701 San Jose Drive, San Antonio, Texas 78214
+- **Mission Concepción Tour** (30-45 minutes) - Visit oldest unrestored stone church in United States dedicated 1755; see original frescoes and geometric designs on walls; remains true to original design; exceptional example of Spanish Colonial architecture; 807 Mission Rd; Daily during park hours; FREE [Source: [TripAdvisor Mission Concepción](https://www.tripadvisor.com/Attraction_Review-g60956-d146232-Reviews-Mission_Concepcion-San_Antonio_Texas.html), [Visit San Antonio](https://www.visitsanantonio.com/things-to-do/san-antonio-missions/), [The San Antonio Things](https://thesanantoniothings.com/guide-to-san-antonio-missions/)]
 
-**Operating Hours (from source):**
-- **Sunday:** 9:00 AM-5:00 PM [ff436f]
-- **Monday:** 9:00 AM-5:00 PM [942cba]
-- **Tuesday:** 9:00 AM-5:00 PM [3fa55c]
-- **Wednesday:** 9:00 AM-5:00 PM [56d1cd]
-- **Thursday:** 9:00 AM-5:00 PM [ccffe9]
-- **Friday:** 9:00 AM-5:00 PM [d1ffbd]
-- **Saturday:** 9:00 AM-5:00 PM [23c4af]
+- **Mission San Juan Exploration** (20-30 minutes) - Visit smaller mission featuring working demonstration farm showing historical acequia (irrigation ditch) farming methods; peaceful grounds with original structures; 9101 Graf Rd; Daily during park hours; FREE [Source: [Visit San Antonio](https://www.visitsanantonio.com/things-to-do/san-antonio-missions/), [San Antonio River Walk Blog](https://www.thesanantonioriverwalk.com/blog/post/hidden-gems-at-san-antonio-missions-national-historical-park/)]
 
-**Visitor Center (from source):**
-- **Name:** Visitor Center at Mission San José [2683ca]
-- **Address:** 6701 San Jose Drive [fa0882]
+- **Mission Espada Visit** (20-30 minutes) - Explore southernmost mission in park; see working aqueduct still carrying water after 250+ years; peaceful setting away from crowds; 10040 Espada Rd; Daily during park hours; FREE [Source: [Visit San Antonio](https://www.visitsanantonio.com/things-to-do/san-antonio-missions/), [TripAdvisor Forum](https://www.tripadvisor.com/ShowTopic-g60956-i76-k13970456-SA_Missions_how_long_to_see_them-San_Antonio_Texas.html)]
+
+- **Visitor Center Film "Gente de Razón"** (20-30 minutes) - Watch rotating orientation film shown hourly 10:00 AM - 4:00 PM in English and Spanish; learn mission history and cultural context; Mission San José Visitor Center; Daily; FREE [Source: [NPS Plan Visit](https://www.nps.gov/saan/planyourvisit/plan-your-visit.htm), [The San Antonio Things](https://thesanantoniothings.com/guide-to-san-antonio-missions/)]
+
+- **Mission Reach Trail Biking/Walking** (2-4 hours) - Bike or walk 8-mile Mission Reach trail connecting all four missions along San Antonio River; electric assist bike rentals available at each mission; beautiful riverside views; scenic alternative to driving between missions; trail accessible during daylight; bike rentals vary [Source: [NPS Things to Do](https://www.nps.gov/saan/planyourvisit/things2do.htm), [Visit San Antonio](https://www.visitsanantonio.com/things-to-do/san-antonio-missions/), [San Antonio River Walk Blog](https://www.thesanantonioriverwalk.com/blog/post/hidden-gems-at-san-antonio-missions-national-historical-park/)]
+
+- **Free Cell Phone Audio Tours** (included in visit) - Download free audio tour guides available at all four missions; self-paced exploration with detailed historical information; accessible via cell phone; all missions; during park hours; FREE [Source: [NPS Plan Visit](https://www.nps.gov/saan/planyourvisit/plan-your-visit.htm), [Visit San Antonio](https://www.visitsanantonio.com/things-to-do/san-antonio-missions/)]
+
+## Hidden Gems
+
+- **Historic Acequias Exploration** (15-20 minutes) - Discover remnants of original 1700s acequia irrigation canal system; still-functioning water management infrastructure from Spanish Colonial period; engineering marvel that sustained mission communities; visible at multiple mission locations; during park hours; FREE [Source: [San Antonio River Walk Blog](https://www.thesanantonioriverwalk.com/blog/post/hidden-gems-at-san-antonio-missions-national-historical-park/), [NPS Things to Do](https://www.nps.gov/saan/planyourvisit/things2do.htm)]
+
+- **Demonstration Farm at Mission San Juan** (15-20 minutes) - Visit working farm showing how mission fields were irrigated by acequias; see historical farming techniques; crops grown using traditional methods; educational and often overlooked; Mission San Juan grounds; during park hours; FREE [Source: [San Antonio River Walk Blog](https://www.thesanantonioriverwalk.com/blog/post/hidden-gems-at-san-antonio-missions-national-historical-park/), [NPS Things to Do](https://www.nps.gov/saan/planyourvisit/things2do.htm)]
+
+- **Underground Railroad Network Connection** (integrated throughout visit) - Learn about Mission San José's 2024 addition to National Underground Railroad Network to Freedom; discover lesser-known history of enslaved people and freedom seekers in Texas; interpretive information available at visitor center; Mission San José; Daily 9:00 AM - 5:00 PM; FREE [Source: [NPS Plan Visit](https://www.nps.gov/saan/planyourvisit/plan-your-visit.htm)]
+
+- **Espada Aqueduct** (10-15 minutes) - View still-functioning 250+ year old aqueduct carrying water across Piedras Creek; oldest Spanish aqueduct in United States; impressive engineering feat often missed by visitors; near Mission Espada; accessible during daylight; FREE [Source: [Trolley Tours Guide](https://www.trolleytours.com/san-antonio/san-antonio-missions-national-historical-park), [Visit San Antonio](https://www.visitsanantonio.com/things-to-do/san-antonio-missions/)]
+
+- **Traditional Dance and Reenactment Events** (timing varies) - Attend seasonal festivals, traditional dances, and historical reenactments bringing mission history to life; check park calendar for special events throughout year; various locations; times vary; FREE [Source: [San Antonio River Walk Blog](https://www.thesanantonioriverwalk.com/blog/post/hidden-gems-at-san-antonio-missions-national-historical-park/), [NPS Calendar](https://www.nps.gov/saan/planyourvisit/calendar.htm)]
+
+## Also Nearby
+
+- **The Alamo** (30-60 minutes, 5 miles north) - Visit most famous Texas mission and site of legendary 1836 battle; explore mission chapel, Long Barracks Museum, beautiful grounds; steeped in Texas Revolution history; directly tied to legacy of San Antonio missions; 300 Alamo Plaza, San Antonio, TX 78205; hours vary; FREE grounds, museum admission charged [Source: [NPS Nearby Attractions](https://www.nps.gov/saan/planyourvisit/nearbyattractions.htm), [Visit San Antonio](https://www.visitsanantonio.com/things-to-do/san-antonio-missions/)]
+
+- **San Antonio River Walk** (2-4 hours, 3-5 miles) - Stroll famous 15-mile urban waterway featuring dining, shopping, entertainment along San Antonio River; boat tours available; connects to Mission Reach trail; vibrant atmosphere day and night; Downtown San Antonio; accessible 24/7; FREE to walk, dining/activities vary [Source: [NPS Nearby Attractions](https://www.nps.gov/saan/planyourvisit/nearbyattractions.htm), [San Antonio River Walk Blog](https://www.thesanantonioriverwalk.com/blog/post/hidden-gems-at-san-antonio-missions-national-historical-park/)]
+
+- **San Antonio Museum of Art** (2-3 hours, 5 miles north) - Explore impressive collection spanning 5,000 years including Latin American art, Asian art, contemporary works; housed in historic Lone Star Brewery; 200 W Jones Ave, San Antonio, TX 78215 (29.437278, -98.4821415); hours vary; admission charged [Source: [Visit San Antonio Free Activities](https://www.visitsanantonio.com/blog/post/100-free-things-to-do-in-san-antonio-texas/)]
+
+- **Natural Bridge Caverns** (2-3 hours, 25 miles northeast) - Tour stunning underground cave formations on guided tours; adventure activities including zip lines, ropes course; largest commercial caverns in Texas; 26495 Natural Bridge Caverns Rd, San Antonio, TX 78266 (29.6952636, -98.3444147); hours vary seasonally; admission charged [Source: [NPS Nearby Attractions](https://www.nps.gov/saan/planyourvisit/nearbyattractions.htm)]
+
+---
+
+**Total Recommended Time at San Antonio Missions NHP (National Historical Park):** Minimum 3-4 hours for all four missions by car (75 minutes at San José, 30-45 at Concepción, under 30 each at San Juan and Espada); half-day to full day recommended for comprehensive experience including ranger programs, film, and leisurely exploration; full day if biking Mission Reach trail between missions. Missions are 2-3 miles apart along Mission Road. [Source: [TripAdvisor Forum](https://www.tripadvisor.com/ShowTopic-g60956-i76-k13970456-SA_Missions_how_long_to_see_them-San_Antonio_Texas.html), [Visit San Antonio](https://www.visitsanantonio.com/things-to-do/san-antonio-missions/), [The San Antonio Things](https://thesanantoniothings.com/guide-to-san-antonio-missions/)]

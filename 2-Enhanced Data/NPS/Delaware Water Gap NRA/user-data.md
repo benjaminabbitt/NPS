@@ -9,9 +9,11 @@ No activities found. See [Delaware Water Gap NRA.md](Delaware Water Gap NRA.md) 
 
 ## Amber's Data (from spreadsheet)
 
-**Visitor Center:** Park Headquarters
+*This section preserves the original data from the source spreadsheet.*
 
-**Address:** 1978 River Road, Bushkill, Pennsylvania 18324 (41.0706397, -75.0170041)
+**Main Address:** 1978 River Road, Bushkill, Pennsylvania 18324 (41.0706397, -75.0170041)
 
-**Hours:** Hours not available
+**Visitor Center (from source):**
+- **Name:** Park Headquarters
+- **Address:** 1978 River Road
 

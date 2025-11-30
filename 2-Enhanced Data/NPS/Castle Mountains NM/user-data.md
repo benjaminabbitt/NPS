@@ -6,9 +6,9 @@
 
 ## Cancellation Stamps
 
-- [ ] Kelso Depot Visitor Center (90942 Kelso Cima Road, Kelso, CA 92309) - Call ahead: 760-252-6108
+- [ ] Kelso Depot Visitor Center (90942 Kelso Cima Road, Kelso, CA 92309 (35.0522038, -115.6019778)) - Call ahead: 760-252-6108
 - [x] Hole-in-the-Wall Information Center (Black Canyon Road, Mojave National Preserve, CA 92332)
-- [ ] Mojave National Preserve Headquarters (2701 Barstow Road, Barstow, CA 92311) (34.8713498, -117.0202737)
+- [ ] Mojave National Preserve Headquarters (2701 Barstow Road, Barstow, CA 92311 (34.8713498, -117.0202737)) (34.8713498, -117.0202737)
 
 ## Key Activities
 
@@ -32,14 +32,4 @@
 - [ ] Searchlight Museum (30 minutes-1 hour, approximately 20 miles)
 
 
-## Amber's Data (from spreadsheet)
-
-**Visitor Center:** Hole-in-the-Wall Information Center
-
-**Address:** 2 Black Canyon Road, Essex, California 92332 (35.0464427, -115.3935286)
-
-**Hours:** Hours not available
-
 ## Review / Personal Notes
-
-

@@ -1,19 +1,23 @@
 # Silverwood Theme Park
 
-**Location:** United States
+**Address:** 27843 N Hwy 95, Athol, ID 83801 [47.9085, -116.705]
 
-## Address
+## Park Information
 
-27843 N Highway 95, Athol, ID 83801
-## Operating Hours
+*Research needed: Operating hours, admission prices, parking, season dates*
 
-Varies by season - check park website before visiting
+## Notable Coasters
 
-## Operating Seasons
+*See user-data.md for complete coaster checklist*
 
-Seasonal operation - typically May-September, check website for specific dates
+## Planning Tips
 
-## Coasters at This Park
+*Research needed: Best visiting times, fast pass options, food recommendations*
 
+## Nearby Attractions
 
-- [Stunt Pilot](Stunt Pilot.md)
+*Research needed: Hotels, restaurants, other activities*
+
+---
+
+**Last Updated:** 2025-11-26

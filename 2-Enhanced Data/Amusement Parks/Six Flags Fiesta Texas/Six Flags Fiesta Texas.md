@@ -1,21 +1,23 @@
 # Six Flags Fiesta Texas
 
-**Location:** United States
+**Address:** 17000 IH 10 W, San Antonio, TX 78257 [29.5994, -98.609]
 
-## Address
+## Park Information
 
-17000 I-10 West, San Antonio, TX 78257
-## Operating Hours
+*Research needed: Operating hours, admission prices, parking, season dates*
 
-Varies by season - check park website before visiting
+## Notable Coasters
 
-## Operating Seasons
+*See user-data.md for complete coaster checklist*
 
-Typically April-October, with weekend operations in early/late season and Halloween events
+## Planning Tips
 
-## Coasters at This Park
+*Research needed: Best visiting times, fast pass options, food recommendations*
 
+## Nearby Attractions
 
-- [Iron Rattler](Iron Rattler.md)
-- [Superman Krypton Coaster](Superman Krypton Coaster.md)
-- [Wonder Woman Golden Lasso](Wonder Woman Golden Lasso.md)
+*Research needed: Hotels, restaurants, other activities*
+
+---
+
+**Last Updated:** 2025-11-26

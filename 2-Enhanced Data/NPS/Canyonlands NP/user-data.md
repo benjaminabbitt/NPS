@@ -30,12 +30,4 @@
 - [ ] Fisher Towers (2-3 hours, near Moab)
 
 
-## Amber's Data (from spreadsheet)
-
-**Visitor Center:** Island in the Sky Visitor Center
-
-**Address:** Grand View Point Rd, Moab, Utah 84532
-
-**Hours:** Hours not available
-
 ## Review / Personal Notes

@@ -9,9 +9,20 @@ No activities found. See [Washington Monument.md](Washington Monument.md) for de
 
 ## Amber's Data (from spreadsheet)
 
-**Visitor Center:** Washington Monument Lodge
+*This section preserves the original data from the source spreadsheet.*
 
-**Address:** 2 15th Street NW, Washington DC, DC 20024 (38.8894754, -77.0352426)
+**Main Address:** 2 15th St. NW, Washington, DC 20024
 
-**Hours:** Hours not available
+**Operating Hours (from source):**
+- **Sunday:** 8:45 AM-6:00 PM
+- **Monday:** 8:45 AM-6:00 PM
+- **Tuesday:** 8:45 AM-6:00 PM
+- **Wednesday:** 8:45 AM-6:00 PM
+- **Thursday:** 8:45 AM-6:00 PM
+- **Friday:** 8:45 AM-6:00 PM
+- **Saturday:** 10:00 AM-6:00 PM
+
+**Visitor Center (from source):**
+- **Name:** Washington Monument Lodge
+- **Address:** 2 15th Street NW
 

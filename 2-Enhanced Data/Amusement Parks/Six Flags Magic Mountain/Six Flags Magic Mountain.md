@@ -1,22 +1,23 @@
 # Six Flags Magic Mountain
 
-**Location:** United States
+**Address:** 26101 Magic Mountain Pkwy, Valencia, CA 91355 [34.4244, -118.5967]
 
-## Address
+## Park Information
 
-26101 Magic Mountain Pkwy, Valencia, CA 91355
-## Operating Hours
+*Research needed: Operating hours, admission prices, parking, season dates*
 
-Varies by season - check park website before visiting
+## Notable Coasters
 
-## Operating Seasons
+*See user-data.md for complete coaster checklist*
 
-Typically April-October, with weekend operations in early/late season and Halloween events
+## Planning Tips
 
-## Coasters at This Park
+*Research needed: Best visiting times, fast pass options, food recommendations*
 
+## Nearby Attractions
 
-- [Full Throttle](Full Throttle.md)
-- [Tatsu](Tatsu.md)
-- [Twisted Colossus](Twisted Colossus.md)
-- [Wonder Woman Flight of Courage](Wonder Woman Flight of Courage.md)
+*Research needed: Hotels, restaurants, other activities*
+
+---
+
+**Last Updated:** 2025-11-26

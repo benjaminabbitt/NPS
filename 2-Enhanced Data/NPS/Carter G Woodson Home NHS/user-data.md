@@ -35,12 +35,4 @@
 - [ ] National Museum of African American History and Culture (4-6 hours, 1.5 miles)
 
 
-## Amber's Data (from spreadsheet)
-
-**Visitor Center:** Frederick Douglass NHS Visitor Center
-
-**Address:** 1411 W Street, S.E., Washington DC, DC 20020
-
-**Hours:** Hours not available
-
 ## Review / Personal Notes
