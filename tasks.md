@@ -4,11 +4,36 @@
 
 ## To Do
 
+- [ ] Research and complete: Blackwell School NHS
+- [ ] Research and complete: Chickasaw NRA
+- [ ] Research and complete: El Malpais NM
+- [ ] Research and complete: El Morro NM
+- [ ] Research and complete: Fort Davis NHS
+- [ ] Research and complete: Fort Union NM
+- [ ] Research and complete: Gila Cliff Dwellings NM
+- [ ] Research and complete: Guadalupe Mountains NP
+- [ ] Research and complete: Lake Meredith NRA
+- [ ] Research and complete: Lyndon B. Johnson NHP
+- [ ] Research and complete: Manhattan Project NHP
+- [ ] Research and complete: Oklahoma City N MEM
+- [ ] Research and complete: Padre Island NS
+- [ ] Research and complete: Palo Alto Battlefield NHP
+- [ ] Research and complete: Pecos NHP
+- [ ] Research and complete: Petroglyph NM
+- [ ] Research and complete: Rio Grande WSR
+- [ ] Research and complete: Salinas Pueblo Missions NM
+- [ ] Research and complete: San Antonio Missions NHP
+- [ ] Research and complete: Valles Caldera N PRES
+- [ ] Research and complete: Waco Mammoth National Monument
+- [ ] Research and complete: Washita Battlefield NHS
+- [ ] Research and complete: White Sands NP
+
+# --- Other Sites ---
+
 - [ ] Research and complete: Belmont-Paul Women's Equality NM
 - [ ] Research and complete: Bent's Old Fort NHS
 - [ ] Research and complete: Black Canyon of the Gunnison NP
 - [ ] Research and complete: Blackstone River Valley NHP
-- [ ] Research and complete: Blackwell School NHS
 - [ ] Research and complete: Blue Ridge Parkway
 - [ ] Research and complete: Bluestone NSR
 - [ ] Research and complete: Booker T. Washington NM
@@ -23,7 +48,6 @@
 - [ ] Research and complete: Chattahoochee River NRA
 - [ ] Research and complete: Chesapeake & Ohio Canal NHP
 - [ ] Research and complete: Chickamauga & Chattanooga NMP
-- [ ] Research and complete: Chickasaw NRA
 - [ ] Research and complete: Chiricahua NM
 - [ ] Research and complete: City of Rocks N RES
 - [ ] Research and complete: Civil War Defenses of Washington
@@ -57,8 +81,6 @@
 - [ ] Research and complete: Edgar Allan Poe NHS
 - [ ] Research and complete: Effigy Mounds NM
 - [ ] Research and complete: Eisenhower NHS
-- [ ] Research and complete: El Malpais NM
-- [ ] Research and complete: El Morro NM
 - [ ] Research and complete: Eleanor Roosevelt NHS
 - [ ] Research and complete: Ellis Island
 - [ ] Research and complete: Emmett Till and Mamie Till-Mobley NM
@@ -75,7 +97,6 @@
 - [ ] Research and complete: Ford’s Theatre NHS
 - [ ] Research and complete: Fort Bowie NHS
 - [ ] Research and complete: Fort Caroline N MEM
-- [ ] Research and complete: Fort Davis NHS
 - [ ] Research and complete: Fort Donelson NB
 - [ ] Research and complete: Fort DuPont Park
 - [ ] Research and complete: Fort Foote Park
@@ -93,7 +114,6 @@
 - [ ] Research and complete: Fort Smith NHS
 - [ ] Research and complete: Fort Stanwix NM
 - [ ] Research and complete: Fort Sumter & Fort Moultrie NHP
-- [ ] Research and complete: Fort Union NM
 - [ ] Research and complete: Fort Vancouver NHS
 - [ ] Research and complete: Fort Washington Park
 - [ ] Research and complete: Fossil Butte NM
@@ -116,7 +136,6 @@
 - [ ] Research and complete: George Washington Carver NM
 - [ ] Research and complete: George Washington MEM PKWY
 - [ ] Research and complete: Gettysburg NMP
-- [ ] Research and complete: Gila Cliff Dwellings NM
 - [ ] Research and complete: Glacier Bay NP & PRES
 - [ ] Research and complete: Glacier NP
 - [ ] Research and complete: Glen Canyon NRA
@@ -135,7 +154,6 @@
 - [ ] Research and complete: Great Sand Dunes NP & PRES
 - [ ] Research and complete: Great Smoky Mountains NP
 - [ ] Research and complete: Greenbelt Park
-- [ ] Research and complete: Guadalupe Mountains NP
 - [ ] Research and complete: Guilford Courthouse NMP
 - [ ] Research and complete: Gulf Islands NS
 - [ ] Research and complete: Hagerman Fossil Beds NM
@@ -194,7 +212,6 @@
 - [ ] Research and complete: Lake Chelan NRA
 - [ ] Research and complete: Lake Clark NP & PRES
 - [ ] Research and complete: Lake Mead NRA
-- [ ] Research and complete: Lake Meredith NRA
 - [ ] Research and complete: Lake Roosevelt NRA
 - [ ] Research and complete: Lassen Volcanic NP
 - [ ] Research and complete: Lava Beds NM
@@ -210,12 +227,10 @@
 - [ ] Research and complete: Lowell NHP
 - [ ] Research and complete: Lower East Side Tenement Museum NHS
 - [ ] Research and complete: Lyndon B. Johnson Memorial Grove on the Potomac
-- [ ] Research and complete: Lyndon B. Johnson NHP
 - [ ] Research and complete: Maggie L. Walker NHS
 - [ ] Research and complete: Maine Acadian Culture
 - [ ] Research and complete: Mammoth Cave NP
 - [ ] Research and complete: Manassas NBP
-- [ ] Research and complete: Manhattan Project NHP
 - [ ] Research and complete: Manzanar NHS
 - [ ] Research and complete: Marsh-Billings-Rockefeller NHP
 - [ ] Research and complete: Martin Luther King Jr. Memorial
@@ -254,23 +269,18 @@
 - [ ] Research and complete: North Cascades NP
 - [ ] Research and complete: Obed WSR
 - [ ] Research and complete: Ocmulgee NHP
-- [ ] Research and complete: Oklahoma City N MEM
 - [ ] Research and complete: Olympic NP
 - [ ] Research and complete: Oregon Caves NM & PRES
 - [ ] Research and complete: Organ Pipe Cactus NM
 - [ ] Research and complete: Oxon Cover Park & Oxon Hill Farm
-- [ ] Research and complete: Padre Island NS
-- [ ] Research and complete: Palo Alto Battlefield NHP
 - [ ] Research and complete: Paterson Great Falls NHP
 - [ ] Research and complete: Pea Ridge NMP
 - [ ] Research and complete: Pearl Harbor N MEM
-- [ ] Research and complete: Pecos NHP
 - [ ] Research and complete: Pennsylvania Avenue NHS
 - [ ] Research and complete: Perry’s Victory & International Peace MEM
 - [ ] Research and complete: Petersburg NB
 - [ ] Research and complete: Petersen House
 - [ ] Research and complete: Petrified Forest NP
-- [ ] Research and complete: Petroglyph NM
 - [ ] Research and complete: Pictured Rocks NL
 - [ ] Research and complete: Pinnacles NP
 - [ ] Research and complete: Pipe Spring NM
@@ -291,7 +301,6 @@
 - [ ] Research and complete: Reconstruction Era NHP
 - [ ] Research and complete: Redwood National and State Parks
 - [ ] Research and complete: Richmond NBP
-- [ ] Research and complete: Rio Grande WSR
 - [ ] Research and complete: River Raisin NBP
 - [ ] Research and complete: Rock Creek Park
 - [ ] Research and complete: Rocky Mountain NP
@@ -306,8 +315,6 @@
 - [ ] Research and complete: Saint Paul’s Church NHS
 - [ ] Research and complete: Saint-Gaudens NHS
 - [ ] Research and complete: Salem Maritime NHP
-- [ ] Research and complete: Salinas Pueblo Missions NM
-- [ ] Research and complete: San Antonio Missions NHP
 - [ ] Research and complete: San Francisco Maritime NHP
 - [ ] Research and complete: San Juan Island NHP
 - [ ] Research and complete: Sand Creek Massacre NHS
@@ -357,21 +364,17 @@
 - [ ] Research and complete: Ulysses S Grant MEM
 - [ ] Research and complete: Ulysses S. Grant MEM
 - [ ] Research and complete: Upper Delaware SRR
-- [ ] Research and complete: Valles Caldera N PRES
 - [ ] Research and complete: Valley Forge NHP
 - [ ] Research and complete: Vanderbilt Mansion NHS
 - [ ] Research and complete: Vietnam Veterans MEM
 - [ ] Research and complete: Vietnam Women's MEM
 - [ ] Research and complete: Vietnam Women’s MEM
 - [ ] Research and complete: Voyageurs NP
-- [ ] Research and complete: Waco Mammoth National Monument
 - [ ] Research and complete: Walnut Canyon NM
 - [ ] Research and complete: Washington Monument
-- [ ] Research and complete: Washita Battlefield NHS
 - [ ] Research and complete: Weir Farm NHP
 - [ ] Research and complete: West Potomac Park
 - [ ] Research and complete: Whiskeytown NRA
-- [ ] Research and complete: White Sands NP
 - [ ] Research and complete: Whitman Mission NHS
 - [ ] Research and complete: William Howard Taft NHS
 - [ ] Research and complete: William J. Clinton Birthplace Home NHS
