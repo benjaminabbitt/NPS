@@ -1,16 +1,33 @@
 # El Morro NM
 
+[View Full Research Report](El%20Morro%20NM.md)
+
 - [ ] Visited
 
-## Activities
+## Cancellation Stamps
 
-No activities found. See [El Morro NM.md](El Morro NM.md) for details.
+- [ ] El Morro Visitor Center (HC 61 Box 43, Ramah, NM 87321)
 
+## Key Activities
 
-## Amber's Data (from spreadsheet)
+- [ ] Inscription Loop Trail (45-50 minutes)
+- [ ] Headland Trail (2 hours)
+- [ ] Visitor Center Museum and Video (30 minutes)
+- [ ] Junior Ranger Program (30-60 minutes)
 
-**Visitor Center:** El Morro Visitor Center
+## Hidden Gems
 
-**Address:** NM-53, Ramah, New Mexico 87321 (35.120638, -108.484254)
+- [ ] Atsinna Pueblo Hand and Toe Holds (included in Headland Trail)
+- [ ] Lava Tube Cave Exploration (2-4 hours) **Requires permit**
+- [ ] Campground Dark Sky Viewing (1-2 hours, evening)
+- [ ] Picnic Area (flexible timing)
 
-**Hours:** Daily: 9:00 AM-5:00 PM
+## Also Nearby
+
+- [ ] Ancient Way Cafe (1-2 hours, 2 miles east)
+- [ ] Ice Cave and Bandera Volcano (1 hour, 25 miles east)
+- [ ] El Malpais National Monument (3-6 hours, 25 miles east)
+- [ ] Zuni Pueblo (2-4 hours, 34 miles southwest)
+
+## Review / Personal Notes
+
