@@ -104,13 +104,13 @@ def update_tasks(tasks_file: Path, completed_sites: list[str]):
 def main():
     tasks_file = Path("tasks.md")
 
-    # Batch 2 completed sites
+    # Batch 3 completed sites
     completed_sites = [
-        "San Antonio Missions NHP",
-        "Lyndon B. Johnson NHP",
-        "Palo Alto Battlefield NHP",
-        "Blackwell School NHS",
-        "Fort Union NM",
+        "El Malpais NM",
+        "El Morro NM",
+        "Gila Cliff Dwellings NM",
+        "Petroglyph NM",
+        "Valles Caldera N PRES",
     ]
 
     print("Updating tasks.md...")
