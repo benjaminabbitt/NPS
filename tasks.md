@@ -3,9 +3,6 @@
 ## In Progress
 
 ## To Do
-- [ ] Research and complete: Fort Davis NHS
-- [ ] Research and complete: Oklahoma City N MEM
-- [ ] Research and complete: Washita Battlefield NHS
 - [ ] Research and complete: Belmont-Paul Women's Equality NM
 - [ ] Research and complete: Bent's Old Fort NHS
 - [ ] Research and complete: Black Canyon of the Gunnison NP
@@ -373,6 +370,9 @@
 
 ## Done
 
+- [x] Research and complete: Fort Davis NHS
+- [x] Research and complete: Oklahoma City N MEM
+- [x] Research and complete: Washita Battlefield NHS
 - [x] Research and complete: Manhattan Project NHP
 - [x] Research and complete: Pecos NHP
 - [x] Research and complete: Rio Grande WSR
