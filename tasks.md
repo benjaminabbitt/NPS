@@ -3,22 +3,16 @@
 ## In Progress
 
 ## To Do
-
-- [ ] Research and complete: Blackwell School NHS
 - [ ] Research and complete: El Malpais NM
 - [ ] Research and complete: El Morro NM
 - [ ] Research and complete: Fort Davis NHS
-- [ ] Research and complete: Fort Union NM
 - [ ] Research and complete: Gila Cliff Dwellings NM
-- [ ] Research and complete: Lyndon B. Johnson NHP
 - [ ] Research and complete: Manhattan Project NHP
 - [ ] Research and complete: Oklahoma City N MEM
-- [ ] Research and complete: Palo Alto Battlefield NHP
 - [ ] Research and complete: Pecos NHP
 - [ ] Research and complete: Petroglyph NM
 - [ ] Research and complete: Rio Grande WSR
 - [ ] Research and complete: Salinas Pueblo Missions NM
-- [ ] Research and complete: San Antonio Missions NHP
 - [ ] Research and complete: Valles Caldera N PRES
 - [ ] Research and complete: Waco Mammoth National Monument
 - [ ] Research and complete: Washita Battlefield NHS
@@ -389,6 +383,11 @@
 
 ## Done
 
+- [x] Research and complete: Blackwell School NHS
+- [x] Research and complete: Fort Union NM
+- [x] Research and complete: Lyndon B. Johnson NHP
+- [x] Research and complete: Palo Alto Battlefield NHP
+- [x] Research and complete: San Antonio Missions NHP
 - [x] Research and complete: Chickasaw NRA
 - [x] Research and complete: Guadalupe Mountains NP
 - [x] Research and complete: Lake Meredith NRA
