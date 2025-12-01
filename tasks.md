@@ -5,18 +5,14 @@
 ## To Do
 
 - [ ] Research and complete: Blackwell School NHS
-- [ ] Research and complete: Chickasaw NRA
 - [ ] Research and complete: El Malpais NM
 - [ ] Research and complete: El Morro NM
 - [ ] Research and complete: Fort Davis NHS
 - [ ] Research and complete: Fort Union NM
 - [ ] Research and complete: Gila Cliff Dwellings NM
-- [ ] Research and complete: Guadalupe Mountains NP
-- [ ] Research and complete: Lake Meredith NRA
 - [ ] Research and complete: Lyndon B. Johnson NHP
 - [ ] Research and complete: Manhattan Project NHP
 - [ ] Research and complete: Oklahoma City N MEM
-- [ ] Research and complete: Padre Island NS
 - [ ] Research and complete: Palo Alto Battlefield NHP
 - [ ] Research and complete: Pecos NHP
 - [ ] Research and complete: Petroglyph NM
@@ -26,10 +22,6 @@
 - [ ] Research and complete: Valles Caldera N PRES
 - [ ] Research and complete: Waco Mammoth National Monument
 - [ ] Research and complete: Washita Battlefield NHS
-- [ ] Research and complete: White Sands NP
-
-# --- Other Sites ---
-
 - [ ] Research and complete: Belmont-Paul Women's Equality NM
 - [ ] Research and complete: Bent's Old Fort NHS
 - [ ] Research and complete: Black Canyon of the Gunnison NP
@@ -397,6 +389,11 @@
 
 ## Done
 
+- [x] Research and complete: Chickasaw NRA
+- [x] Research and complete: Guadalupe Mountains NP
+- [x] Research and complete: Lake Meredith NRA
+- [x] Research and complete: Padre Island NS
+- [x] Research and complete: White Sands NP
 ## Backlog
 
 ## Reminders
