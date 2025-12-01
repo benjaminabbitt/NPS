@@ -1,3 +1,8 @@
+---
+geocode:
+  visitor_center: [32.779621, -106.1722449]
+---
+
 # White Sands NP (National Park)
 
 ## Cancellation Stamp Locations

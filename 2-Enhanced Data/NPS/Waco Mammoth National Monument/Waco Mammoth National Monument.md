@@ -1,3 +1,8 @@
+---
+geocode:
+  visitor_center: [31.6015045, -97.2116372]
+---
+
 # Waco Mammoth National Monument
 
 ## Cancellation Stamp Locations
