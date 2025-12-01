@@ -3,6 +3,32 @@
 ## In Progress
 
 ## To Do
+
+### Priority: Missouri, Illinois, Tennessee, Arkansas, Kansas (30 sites)
+
+- [ ] Research and complete: Fort Smith NHS
+- [ ] Research and complete: Hot Springs NP
+- [ ] Research and complete: Little Rock Central High School NHS
+- [ ] Research and complete: Pea Ridge NMP
+- [ ] Research and complete: William J. Clinton Birthplace Home NHS
+- [ ] Research and complete: Emmett Till and Mamie Till-Mobley NM
+- [ ] Research and complete: Lincoln Home NHS
+- [ ] Research and complete: New Philadelphia NHS
+- [ ] Research and complete: Pullman NHP
+- [ ] Research and complete: Springfield 1908 Race Riot National Monument
+- [ ] Research and complete: Fort Larned NHS
+- [ ] Research and complete: Fort Scott NHS
+- [ ] Research and complete: Nicodemus NHS
+- [ ] Research and complete: Tallgrass Prairie N PRES
+- [ ] Research and complete: George Washington Carver NM
+- [ ] Research and complete: Harry S Truman NHS
+- [ ] Research and complete: Fort Donelson NB
+- [ ] Research and complete: Great Smoky Mountains NP
+- [ ] Research and complete: Obed WSR
+- [ ] Research and complete: Stones River NB
+
+### Other Sites
+
 - [ ] Research and complete: Belmont-Paul Women's Equality NM
 - [ ] Research and complete: Bent's Old Fort NHS
 - [ ] Research and complete: Black Canyon of the Gunnison NP
@@ -56,7 +82,6 @@
 - [ ] Research and complete: Eisenhower NHS
 - [ ] Research and complete: Eleanor Roosevelt NHS
 - [ ] Research and complete: Ellis Island
-- [ ] Research and complete: Emmett Till and Mamie Till-Mobley NM
 - [ ] Research and complete: Eugene O'Neill NHS
 - [ ] Research and complete: Eugene O’Neill NHS
 - [ ] Research and complete: Everglades NP
@@ -70,12 +95,10 @@
 - [ ] Research and complete: Ford’s Theatre NHS
 - [ ] Research and complete: Fort Bowie NHS
 - [ ] Research and complete: Fort Caroline N MEM
-- [ ] Research and complete: Fort Donelson NB
 - [ ] Research and complete: Fort DuPont Park
 - [ ] Research and complete: Fort Foote Park
 - [ ] Research and complete: Fort Frederica NM
 - [ ] Research and complete: Fort Laramie NHS
-- [ ] Research and complete: Fort Larned NHS
 - [ ] Research and complete: Fort Matanzas NM
 - [ ] Research and complete: Fort McHenry NM & HS
 - [ ] Research and complete: Fort Monroe NM
@@ -83,8 +106,6 @@
 - [ ] Research and complete: Fort Point NHS
 - [ ] Research and complete: Fort Pulaski NM
 - [ ] Research and complete: Fort Raleigh NHS
-- [ ] Research and complete: Fort Scott NHS
-- [ ] Research and complete: Fort Smith NHS
 - [ ] Research and complete: Fort Stanwix NM
 - [ ] Research and complete: Fort Sumter & Fort Moultrie NHP
 - [ ] Research and complete: Fort Vancouver NHS
@@ -106,7 +127,6 @@
 - [ ] Research and complete: George Mason MEM
 - [ ] Research and complete: George Rogers Clark NHP
 - [ ] Research and complete: George Washington Birthplace NM
-- [ ] Research and complete: George Washington Carver NM
 - [ ] Research and complete: George Washington MEM PKWY
 - [ ] Research and complete: Gettysburg NMP
 - [ ] Research and complete: Glacier Bay NP & PRES
@@ -125,7 +145,6 @@
 - [ ] Research and complete: Great Egg Harbor River
 - [ ] Research and complete: Great Falls Park
 - [ ] Research and complete: Great Sand Dunes NP & PRES
-- [ ] Research and complete: Great Smoky Mountains NP
 - [ ] Research and complete: Greenbelt Park
 - [ ] Research and complete: Guilford Courthouse NMP
 - [ ] Research and complete: Gulf Islands NS
@@ -137,7 +156,6 @@
 - [ ] Research and complete: Harpers Ferry NHP
 - [ ] Research and complete: Harriet Tubman National Historical Park
 - [ ] Research and complete: Harriet Tubman Underground Railroad NHP
-- [ ] Research and complete: Harry S Truman NHS
 - [ ] Research and complete: Hawaii Volcanoes NP
 - [ ] Research and complete: Herbert Hoover NHS
 - [ ] Research and complete: Historic Jamestowne
@@ -148,7 +166,6 @@
 - [ ] Research and complete: Hopewell Culture NHP
 - [ ] Research and complete: Hopewell Furnace NHS
 - [ ] Research and complete: Horseshoe Bend NMP
-- [ ] Research and complete: Hot Springs NP
 - [ ] Research and complete: Hovenweep NM
 - [ ] Research and complete: Hubbell Trading Post NHS
 - [ ] Research and complete: Ice Age National Scenic Trail
@@ -191,11 +208,9 @@
 - [ ] Research and complete: Lewis & Clark NHP
 - [ ] Research and complete: Lewis & Clark Nat’l & State Historical Parks
 - [ ] Research and complete: Lincoln Boyhood N MEM
-- [ ] Research and complete: Lincoln Home NHS
 - [ ] Research and complete: Lincoln MEM
 - [ ] Research and complete: Little Bighorn Battlefield
 - [ ] Research and complete: Little River Canyon N PRES
-- [ ] Research and complete: Little Rock Central High School NHS
 - [ ] Research and complete: Longfellow House Washington’s Headquarters NHS
 - [ ] Research and complete: Lowell NHP
 - [ ] Research and complete: Lower East Side Tenement Museum NHS
@@ -233,21 +248,17 @@
 - [ ] Research and complete: New Bedford Whaling NHP
 - [ ] Research and complete: New Jersey Pinelands NR
 - [ ] Research and complete: New Orleans Jazz NHP
-- [ ] Research and complete: New Philadelphia NHS
 - [ ] Research and complete: New River Gorge NP & PRES
 - [ ] Research and complete: Nez Perce NHP
-- [ ] Research and complete: Nicodemus NHS
 - [ ] Research and complete: Ninety Six NHS
 - [ ] Research and complete: Noatak N PRES
 - [ ] Research and complete: North Cascades NP
-- [ ] Research and complete: Obed WSR
 - [ ] Research and complete: Ocmulgee NHP
 - [ ] Research and complete: Olympic NP
 - [ ] Research and complete: Oregon Caves NM & PRES
 - [ ] Research and complete: Organ Pipe Cactus NM
 - [ ] Research and complete: Oxon Cover Park & Oxon Hill Farm
 - [ ] Research and complete: Paterson Great Falls NHP
-- [ ] Research and complete: Pea Ridge NMP
 - [ ] Research and complete: Pearl Harbor N MEM
 - [ ] Research and complete: Pennsylvania Avenue NHS
 - [ ] Research and complete: Perry’s Victory & International Peace MEM
@@ -267,7 +278,6 @@
 - [ ] Research and complete: Prince William Forest Park
 - [ ] Research and complete: Pu'uhonua o Honaunau NHP
 - [ ] Research and complete: Pu'ukohola Heiau NHS
-- [ ] Research and complete: Pullman NHP
 - [ ] Research and complete: Pu’uhonua o Honaunau NHP
 - [ ] Research and complete: Pu’ukohola Heiau NHS
 - [ ] Research and complete: Rainbow Bridge NM
@@ -301,15 +311,12 @@
 - [ ] Research and complete: Signers of the Dec of Ind MEM
 - [ ] Research and complete: Sitka NHP
 - [ ] Research and complete: Sleeping Bear Dunes NL
-- [ ] Research and complete: Springfield 1908 Race Riot National Monument
 - [ ] Research and complete: Springfield Armory NHS
 - [ ] Research and complete: St. Croix NSR
 - [ ] Research and complete: Statue of Liberty NM
 - [ ] Research and complete: Steamtown NHS
-- [ ] Research and complete: Stones River NB
 - [ ] Research and complete: Stonewall NM
 - [ ] Research and complete: Sunset Crater Volcano NM
-- [ ] Research and complete: Tallgrass Prairie N PRES
 - [ ] Research and complete: Thaddeus Kosciuszko N MEM
 - [ ] Research and complete: The Lockkeeper's House
 - [ ] Research and complete: The Lockkeeper’s House
@@ -350,7 +357,6 @@
 - [ ] Research and complete: Whiskeytown NRA
 - [ ] Research and complete: Whitman Mission NHS
 - [ ] Research and complete: William Howard Taft NHS
-- [ ] Research and complete: William J. Clinton Birthplace Home NHS
 - [ ] Research and complete: Wing Luke Museum
 - [ ] Research and complete: Wolf Trap NP for the Performing Arts
 - [ ] Research and complete: Women's Rights NHP
