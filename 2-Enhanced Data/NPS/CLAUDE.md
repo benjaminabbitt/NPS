@@ -1,0 +1,1 @@
+Some NPS sites have invalid characters in their names.  Ensure that you normalize and find the existing directory and file name.  Create a new site only with permission.
