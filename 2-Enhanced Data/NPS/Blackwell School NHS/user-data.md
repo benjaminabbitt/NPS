@@ -1,16 +1,34 @@
 # Blackwell School NHS
 
+[View Full Research Report](Blackwell%20School%20NHS.md)
+
 - [ ] Visited
 
-## Activities
+## Cancellation Stamps
 
-No activities found. See [Blackwell School NHS.md](Blackwell School NHS.md) for details.
+- [ ] Blackwell School Visitor Center (501 South Abbott Street, Marfa, Texas 79843)
 
+## Key Activities
 
-## Amber's Data (from spreadsheet)
+- [ ] Self-Guided Museum Tour (30-60 minutes)
+- [ ] Building Exterior Viewing (15-30 minutes)
+- [ ] Historic Walking Tour (30-45 minutes)
 
-**Visitor Center:** Visitor Center
+## Hidden Gems
 
-**Address:** 501 South Abbott Street, Marfa, Texas 79843 (31.2638905, -98.5456116)
+- [ ] Virtual Collection Exploration (flexible timing)
+- [ ] Playground Area (15-30 minutes)
+- [ ] Educational History Context (included in museum tour)
 
-**Hours:** Sunday, Saturday: 12:00 PM-4:00 PM
+## Also Nearby
+
+- [ ] Chinati Foundation (3-6 hours, in Marfa)
+- [ ] Prada Marfa (15-30 minutes, 30 minutes west)
+- [ ] Marfa Mystery Lights Viewing Area (1-2 hours, 9 miles east)
+- [ ] Ballroom Marfa (30-60 minutes, in Marfa)
+- [ ] Fort Davis National Historic Site (2-3 hours, 20-minute drive north)
+- [ ] McDonald Observatory (1.5-6 hours, 37-minute drive via Fort Davis)
+- [ ] Davis Mountains State Park (2-4 hours, 37-minute drive)
+- [ ] Big Bend National Park (full day, 2-3 hour drive south)
+
+## Review / Personal Notes

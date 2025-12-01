@@ -1,7 +1,37 @@
-# Lyndon B_ Johnson NHP
+# Lyndon B. Johnson NHP
+
+[View Full Research Report](Lyndon%20B.%20Johnson%20NHP.md)
 
 - [ ] Visited
 
-## Activities
+## Cancellation Stamps
 
-No activities found. See [Lyndon B_ Johnson NHP.md](Lyndon B_ Johnson NHP.md) for details.
+- [ ] Visitor Center and Park Headquarters (Intersection of Ladybird Lane and Avenue G, Johnson City, TX 78636)
+- [ ] LBJ State Park and Historic Site Visitor Center (199 Park Rd 52, Stonewall, TX 78671)
+
+## Key Activities
+
+- [ ] LBJ Boyhood Home Guided Tour (30-45 minutes)
+- [ ] LBJ Ranch Self-Guided Driving Tour (1.5-2 hours)
+- [ ] Johnson Settlement Trail (45 minutes - 1 hour)
+- [ ] Visitor Center Exhibits and Films (1-2 hours)
+- [ ] Sauer-Beckmann Living History Farm (1-2 hours)
+
+## Hidden Gems
+
+- [ ] Dark Sky Stargazing (2-3 hours)
+- [ ] Presidential Phone Calls Film (14 minutes)
+- [ ] "Mr. Jellybean" Story at Family Cemetery (15-20 minutes)
+- [ ] Wildlife Viewing Along Settlement Trail (30 minutes - 1 hour)
+- [ ] Aircraft Hangar Display (30 minutes)
+
+## Also Nearby
+
+- [ ] National Museum of the Pacific War (2-6 hours, 13 miles from Johnson City)
+- [ ] Pedernales Falls State Park (2-4 hours, Johnson City)
+- [ ] Enchanted Rock State Natural Area (2-4 hours, 30 miles from Johnson City)
+- [ ] Becker Vineyards (1-2 hours, between Fredericksburg and Stonewall)
+- [ ] Luckenbach Texas (1-2 hours, 13 miles from LBJ Ranch)
+
+## Review / Personal Notes
+

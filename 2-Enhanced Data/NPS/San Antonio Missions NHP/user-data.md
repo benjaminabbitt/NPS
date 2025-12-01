@@ -1,16 +1,35 @@
 # San Antonio Missions NHP
 
+[View Full Research Report](San%20Antonio%20Missions%20NHP.md)
+
 - [ ] Visited
 
-## Activities
+## Cancellation Stamps
 
-No activities found. See [San Antonio Missions NHP.md](San Antonio Missions NHP.md) for details.
+- [ ] Visitor Center at Mission San José (2202 Roosevelt Avenue, San Antonio, TX 78210)
 
+## Key Activities
 
-## Amber's Data (from spreadsheet)
+- [ ] Mission San José Tour (1.5-2 hours)
+- [ ] Mission Concepción Tour (30 minutes)
+- [ ] Mission San Juan Capistrano Tour (30 minutes)
+- [ ] Mission Espada Tour (30 minutes)
+- [ ] Mission Hike & Bike Trail (4-5 hours full trail, or shorter sections)
+- [ ] Self-Guided Audio Tours (varies by mission)
+- [ ] Church Service Attendance (1 hour)
 
-**Visitor Center:** Visitor Center at Mission San José
+## Hidden Gems
 
-**Address:** 6701 San Jose Drive, San Antonio, Texas 78214 (29.3603458, -98.4788872)
+- [ ] Espada Aqueduct (15-20 minutes)
+- [ ] Mission Reach Paddling (3-5 hours)
+- [ ] Rose Window Photography (30 minutes)
+- [ ] Mission San Juan Peaceful Exploration (45 minutes)
 
-**Hours:** Daily: 9:00 AM-5:00 PM
+## Also Nearby
+
+- [ ] Japanese Tea Garden (1 hour, free admission)
+- [ ] San Antonio Zoo (3-4 hours, 5 miles north)
+- [ ] Witte Museum (2-3 hours, Brackenridge Park)
+- [ ] Natural Bridge Caverns (3-4 hours, 30 minutes north)
+
+## Review / Personal Notes
