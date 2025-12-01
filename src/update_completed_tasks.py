@@ -3,6 +3,7 @@
 Update tasks.md to mark completed sites as done
 """
 from pathlib import Path
+import sys
 
 
 def update_tasks(tasks_file: Path, completed_sites: list[str]):
@@ -104,14 +105,14 @@ def update_tasks(tasks_file: Path, completed_sites: list[str]):
 def main():
     tasks_file = Path("tasks.md")
 
-    # Batch 3 completed sites
-    completed_sites = [
-        "El Malpais NM",
-        "El Morro NM",
-        "Gila Cliff Dwellings NM",
-        "Petroglyph NM",
-        "Valles Caldera N PRES",
-    ]
+    # Get completed sites from command-line arguments
+    if len(sys.argv) < 2:
+        print("Usage: update_completed_tasks.py <site1> <site2> ...")
+        print("\nExample:")
+        print('  python3 update_completed_tasks.py "Pecos NHP" "Manhattan Project NHP"')
+        sys.exit(1)
+
+    completed_sites = sys.argv[1:]
 
     print("Updating tasks.md...")
     print(f"Moving {len(completed_sites)} completed sites to Done section:")

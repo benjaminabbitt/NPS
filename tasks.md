@@ -4,12 +4,7 @@
 
 ## To Do
 - [ ] Research and complete: Fort Davis NHS
-- [ ] Research and complete: Manhattan Project NHP
 - [ ] Research and complete: Oklahoma City N MEM
-- [ ] Research and complete: Pecos NHP
-- [ ] Research and complete: Rio Grande WSR
-- [ ] Research and complete: Salinas Pueblo Missions NM
-- [ ] Research and complete: Waco Mammoth National Monument
 - [ ] Research and complete: Washita Battlefield NHS
 - [ ] Research and complete: Belmont-Paul Women's Equality NM
 - [ ] Research and complete: Bent's Old Fort NHS
@@ -378,6 +373,11 @@
 
 ## Done
 
+- [x] Research and complete: Manhattan Project NHP
+- [x] Research and complete: Pecos NHP
+- [x] Research and complete: Rio Grande WSR
+- [x] Research and complete: Salinas Pueblo Missions NM
+- [x] Research and complete: Waco Mammoth National Monument
 - [x] Research and complete: El Malpais NM
 - [x] Research and complete: El Morro NM
 - [x] Research and complete: Gila Cliff Dwellings NM
