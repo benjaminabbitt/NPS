@@ -1,3 +1,8 @@
+---
+geocode:
+  visitor_center: [40.6991311, -74.0395482]
+---
+
 # Ellis Island
 
 ## Cancellation Stamp Locations:

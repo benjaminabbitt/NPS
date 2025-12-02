@@ -26,5 +26,21 @@
 - [ ] City of Rocks State Park (2-3 hours, 33 miles south of Silver City)
 - [ ] Western New Mexico University Museum (1-2 hours, in Silver City, 44 miles south)
 
+## Amber's Data (from spreadsheet)
+
+### Visitor Center
+
+**Name:** Gila Visitor Center
+
+**Address:** Gila National Forest, Silver City, New Mexico, 88061
+
+**Hours:** Daily: 9:00 AM-4:00 PM
+
+### Park
+
+**Address:** 26 Jim Bradford Trail, Mimbres, New Mexico, 88049
+
+**Hours:** Daily: 9:00 AM-4:00 PM
+
 ## Review / Personal Notes
 

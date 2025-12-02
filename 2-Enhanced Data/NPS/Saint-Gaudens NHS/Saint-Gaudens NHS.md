@@ -1,3 +1,8 @@
+---
+geocode:
+  visitor_center: [43.500658, -72.3656917]
+---
+
 # Saint-Gaudens NHS
 
 ## Cancellation Stamp Locations:

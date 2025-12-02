@@ -1,3 +1,8 @@
+---
+geocode:
+  visitor_center: [21.1886423, -156.9824482]
+---
+
 # Kalaupapa NHP
 
 ## Cancellation Stamp Locations:

@@ -28,9 +28,18 @@
 
 ## Amber's Data (from spreadsheet)
 
-**Visitor Center:** Tyler Bend Visitor Center
+### Visitor Center
 
-**Address:** 170 Ranger Road, St. Joe, Arkansas 72675 (35.2048883, -92.4479108)
+**Name:** Tyler Bend Visitor Center
 
-**Hours:** 8:30 AM–4:00 PM (check website for specific days)
+**Address:** 170 Ranger Road, St. Joe, Arkansas, 72675
+
+**Hours:** Sun-Mon: 8:30 AM–4:00 PM; Tue-Wed: Closed; Thu-Sat: 8:30 AM–4:00 PM
+
+### Park
+
+**Address:** 170 Ranger Road, St. Joe, Arkansas, 72675
+
+**Hours:** Open 24 hours
+
 ## Review / Personal Notes

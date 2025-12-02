@@ -1,3 +1,8 @@
+---
+geocode:
+  visitor_center: [45.640789, -113.6433]
+---
+
 # Big Hole NB (National Battlefield)
 
 ## Cancellation Stamp Locations

@@ -37,10 +37,19 @@
 
 ## Amber's Data (from spreadsheet)
 
-**Visitor Center:** Bering Land Bridge Heritage Center
+### Visitor Center
 
-**Address:** 214 Front St., Nome, Alaska 99762 (64.4980814, -165.4101566)
+**Name:** Bering Land Bridge Heritage Center
 
-**Hours:** 10:00 AM–5:00 PM (check website for specific days)
+**Address:** 214 Front St., Nome, Alaska, 99762 (64.498081, -165.410157)
+
+**Hours:** Sun-Mon: Closed; Tue-Sat: 10:00 AM–5:00 PM
+
+### Park
+
+**Address:** 214 Front St., Nome, Alaska, 99762 (64.498081, -165.410157)
+
+**Hours:** Open 24 hours
+
 ## Review / Personal Notes
 

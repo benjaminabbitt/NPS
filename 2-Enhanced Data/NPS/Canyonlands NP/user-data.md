@@ -32,9 +32,18 @@
 
 ## Amber's Data (from spreadsheet)
 
-**Visitor Center:** Island in the Sky Visitor Center
+### Visitor Center
 
-**Address:** Grand View Point Rd, Moab, Utah 84532
+**Name:** Island in the Sky Visitor Center
+
+**Address:** Grand View Point Rd, Moab, Utah, 84532
 
 **Hours:** Daily: 8:00 AM-5:00 PM
+
+### Park
+
+**Address:** Grand View Point Rd, Moab, Utah, 84532
+
+**Hours:** Open 24 hours
+
 ## Review / Personal Notes

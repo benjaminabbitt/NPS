@@ -1,3 +1,8 @@
+---
+geocode:
+  visitor_center: [36.7828, -103.9703]
+---
+
 # Capulin Volcano NM (National Monument)
 
 ## Cancellation Stamp Locations

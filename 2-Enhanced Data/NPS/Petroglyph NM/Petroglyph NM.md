@@ -1,3 +1,8 @@
+---
+geocode:
+  visitor_center: [35.138878, -106.711297]
+---
+
 # Petroglyph NM (National Monument)
 
 ## Cancellation Stamp Locations

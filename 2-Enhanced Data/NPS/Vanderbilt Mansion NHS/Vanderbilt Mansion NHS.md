@@ -1,3 +1,8 @@
+---
+geocode:
+  visitor_center: [41.7939221, -73.9378168]
+---
+
 # Vanderbilt Mansion NHS
 
 ## Cancellation Stamp Locations:

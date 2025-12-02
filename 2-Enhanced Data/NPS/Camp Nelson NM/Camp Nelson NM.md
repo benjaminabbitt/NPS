@@ -1,3 +1,8 @@
+---
+geocode:
+  visitor_center: [37.8936, -84.5958]
+---
+
 # Camp Nelson NM (National Monument)
 
 ## Cancellation Stamp Locations

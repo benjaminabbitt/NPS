@@ -1,3 +1,8 @@
+---
+geocode:
+  visitor_center: [29.466018, -100.98844]
+---
+
 # Amistad NRA (National Recreation Area)
 
 ## Cancellation Stamp Locations

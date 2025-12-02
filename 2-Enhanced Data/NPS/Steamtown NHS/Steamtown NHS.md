@@ -1,3 +1,8 @@
+---
+geocode:
+  visitor_center: [41.4089919, -75.6738549]
+---
+
 # Steamtown NHS
 
 ## Cancellation Stamp Locations:

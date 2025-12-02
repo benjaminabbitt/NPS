@@ -1,3 +1,8 @@
+---
+geocode:
+  visitor_center: [40.4377802, -121.5338321]
+---
+
 # Lassen Volcanic NP
 
 ## Cancellation Stamp Locations:

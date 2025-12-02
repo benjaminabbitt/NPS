@@ -1,3 +1,8 @@
+---
+geocode:
+  visitor_center: [43.1700264, -107.568534]
+---
+
 # Fort Laramie NHS
 
 ## Cancellation Stamp Locations:

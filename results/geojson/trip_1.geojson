@@ -1,0 +1,247 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -90.4068,
+            38.5831
+          ],
+          [
+            -89.6448765,
+            39.7973527
+          ],
+          [
+            -87.6096053,
+            41.6928561
+          ],
+          [
+            -87.5360877,
+            38.6775722
+          ],
+          [
+            -85.7346486,
+            37.5503915
+          ],
+          [
+            -85.1697211,
+            37.5524796
+          ],
+          [
+            -86.434846,
+            35.881861
+          ],
+          [
+            -86.2820081,
+            35.7730076
+          ],
+          [
+            -86.2820081,
+            35.7730076
+          ],
+          [
+            -86.2820081,
+            35.7730076
+          ],
+          [
+            -87.0878382,
+            35.1813118
+          ],
+          [
+            -90.4068,
+            38.5831
+          ]
+        ]
+      },
+      "properties": {
+        "trip_number": 1,
+        "total_sites": 10,
+        "total_distance_miles": 1132.2,
+        "total_days": 4
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.4068,
+          38.5831
+        ]
+      },
+      "properties": {
+        "name": "Kirkwood, MO",
+        "arrival_day": 1,
+        "arrival_time": "06:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.6448765,
+          39.7973527
+        ]
+      },
+      "properties": {
+        "name": "Springfield 1908 Race Riot National Monument, Springfield, Illinois",
+        "arrival_day": 1,
+        "arrival_time": "10:41"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.6096053,
+          41.6928561
+        ]
+      },
+      "properties": {
+        "name": "Pullman NHP, Chicago, Illinois",
+        "arrival_day": 1,
+        "arrival_time": "15:45"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.5360877,
+          38.6775722
+        ]
+      },
+      "properties": {
+        "name": "George Rogers Clark NHP, Vincennes, Indiana",
+        "arrival_day": 1,
+        "arrival_time": "21:32"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.7346486,
+          37.5503915
+        ]
+      },
+      "properties": {
+        "name": "Abraham Lincoln Birthplace NHP, Hodgenville, Kentucky",
+        "arrival_day": 2,
+        "arrival_time": "10:48"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.1697211,
+          37.5524796
+        ]
+      },
+      "properties": {
+        "name": "George Washington Birthplace NM, Colonial Beach, 22443",
+        "arrival_day": 2,
+        "arrival_time": "13:21"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.434846,
+          35.881861
+        ]
+      },
+      "properties": {
+        "name": "Stones River NB, Murfreesboro, Tennessee",
+        "arrival_day": 2,
+        "arrival_time": "17:48"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.2820081,
+          35.7730076
+        ]
+      },
+      "properties": {
+        "name": "Big South Fork NRRA, Oneida, Tennessee",
+        "arrival_day": 2,
+        "arrival_time": "20:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.2820081,
+          35.7730076
+        ]
+      },
+      "properties": {
+        "name": "Obed WSR, Wartburg, Tennessee",
+        "arrival_day": 3,
+        "arrival_time": "09:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.2820081,
+          35.7730076
+        ]
+      },
+      "properties": {
+        "name": "Great Smoky Mountains NP, Gatlinburg, Tennessee",
+        "arrival_day": 3,
+        "arrival_time": "11:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.0878382,
+          35.1813118
+        ]
+      },
+      "properties": {
+        "name": "Fossil Butte NM, Kemmerer, 83101",
+        "arrival_day": 3,
+        "arrival_time": "14:06"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.4068,
+          38.5831
+        ]
+      },
+      "properties": {
+        "name": "Kirkwood, MO",
+        "arrival_day": 1,
+        "arrival_time": "06:00"
+      }
+    }
+  ]
+}

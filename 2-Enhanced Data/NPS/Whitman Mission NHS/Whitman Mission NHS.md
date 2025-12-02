@@ -1,3 +1,8 @@
+---
+geocode:
+  visitor_center: [46.0414711, -118.4644921]
+---
+
 # Whitman Mission NHS
 
 ## Cancellation Stamp Locations:

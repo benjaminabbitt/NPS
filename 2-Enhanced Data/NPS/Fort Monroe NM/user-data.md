@@ -8,8 +8,19 @@ No activities found. See [Fort Monroe NM.md](Fort Monroe NM.md) for details.
 
 ## Amber's Data (from spreadsheet)
 
-**Visitor Center:** Fort Monroe Visitor & Education Center
+### Visitor Center
 
-**Address:** 30 Ingalls Rd, Fort Monroe,  23651 (-37.8879493, 144.5924777)
+**Name:** Fort Monroe Visitor & Education Center
 
-**Hours:** 9:30 AM-4:30 PM (check website for specific days)
+**Address:** 30 Ingalls Rd, Fort Monroe, 23651 (37.002701, -76.311253)
+
+**Hours:** Sun: 9:30 AM-4:30 PM; Mon: Closed; Tue-Sat: 9:30 AM-4:30 PM
+
+### Park
+
+**Address:** 30 Ingalls Road, Fort Monroe, Virginia, 23651 (37.002701, -76.311253)
+
+**Hours:** Open 24 hours
+
+## Review / Personal Notes
+

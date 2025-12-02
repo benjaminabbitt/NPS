@@ -1,3 +1,8 @@
+---
+geocode:
+  visitor_center: [42.4685934, -71.0088876]
+---
+
 # Saugus Iron Works NHS
 
 ## Cancellation Stamp Locations:

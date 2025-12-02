@@ -6,11 +6,21 @@
 
 No activities found. See [Walnut Canyon NM.md](Walnut Canyon NM.md) for details.
 
-
 ## Amber's Data (from spreadsheet)
 
-**Visitor Center:** Walnut Canyon Visitor Center
+### Visitor Center
 
-**Address:** 3 Walnut Canyon Road, Flagstaff, Arizona 86004 (35.2027331, -111.5147395)
+**Name:** Walnut Canyon Visitor Center
+
+**Address:** 3 Walnut Canyon Road, Flagstaff, Arizona, 86004 (35.202733, -111.51474)
 
 **Hours:** Daily: 9:00 AM–5:00 PM
+
+### Park
+
+**Address:** 3 Walnut Canyon Road, Flagstaff, Arizona, 86004 (35.202733, -111.51474)
+
+**Hours:** Daily: 9:00 AM–5:00 PM
+
+## Review / Personal Notes
+

@@ -6,11 +6,21 @@
 
 No activities found. See [New Orleans Jazz NHP.md](New Orleans Jazz NHP.md) for details.
 
-
 ## Amber's Data (from spreadsheet)
 
-**Visitor Center:** New Orleans Jazz National Historical Park
+### Visitor Center
 
-**Address:** 419 Decatur St, New Orleans, Louisiana 70130 (29.9548546, -90.0647995)
+**Name:** New Orleans Jazz National Historical Park
 
-**Hours:** 9:30 AM-4:30 PM (check website for specific days)
+**Address:** 419 Decatur St, New Orleans, Louisiana, 70130 (29.954855, -90.0648)
+
+**Hours:** Sun-Mon: Closed; Tue-Sat: 9:30 AM-4:30 PM
+
+### Park
+
+**Address:** 419 Decatur St, New Orleans, Louisiana, 70130 (29.954855, -90.0648)
+
+**Hours:** Sun-Mon: Closed; Tue-Sat: 9:30 AM-4:30 PM
+
+## Review / Personal Notes
+

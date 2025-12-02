@@ -1,15 +1,54 @@
-# Obed WSR
+---
+geocode:
+  visitor_center: [36.0892, -84.92806]
+---
 
-## Cancellation Stamp Locations:
+# Obed WSR (Wild and Scenic River)
 
-- [ ] Obed WSR Visitor Center (208 N. Maiden Street, Wartburg, Tennessee, 37887; 9:00 AM-5:00 PM)
+## Cancellation Stamp Locations
 
-## Key Activities:
+- **Obed Wild & Scenic River Visitor Center** - The visitor center features exhibits on the river, its inhabitants, cultural history, and recreational opportunities, plus an award-winning orientation film and small bookstore; 208 North Maiden Street, Wartburg, TN 37887 (36.0892, -84.92806); 9:00 AM-5:00 PM daily (closed Thanksgiving, December 25, January 1); 423-346-6294 [Source: [NPS Visitor Centers](https://www.nps.gov/obed/planyourvisit/visitorcenters.htm), [Recreation.gov](https://www.recreation.gov/camping/poi/259080), [MountainZone](https://www.mountainzone.com/natparks/64/location.html)]
 
-- [ ] Visitor Center Experience (1-2 hours) - Explore exhibits and learn about Obed WSR; 208 N. Maiden Street, Wartburg, Tennessee, 37887; 9:00 AM-5:00 PM [[Source](https://www.nps.gov/ow)]
+**Note:** Call 423-346-6294 to confirm current stamp locations before visiting.
 
-## Hidden Gems:
+## Key Activities
 
-## Also Nearby:
+- **Obed River Point Trail** (3-4 hours) - The most popular hike leads to a dramatic overlook where the Obed River and Clear Creek converge, winding through forests that look like something out of The Hobbit; hikers may spot seasonal waterfalls at Milton Branch or explore natural arch formations along this 3.6-mile trail with 698 feet of elevation gain; Lilly Bluff Picnic Area trailhead; open 24 hours [Source: [AllTrails](https://www.alltrails.com/parks/us/tennessee/obed-wild-and-scenic-river--2), [Adventure and the Girl](https://adventureandthegirl.com/2019/08/26/a-hidden-gem-in-east-tennessee-obed-wild-scenic-river/), [CircaWanderlust](https://circawanderlust.com/obed-wild-and-scenic-river/)]
 
+- **Lilly Bluff Overlook Trail** (30-45 minutes) - An extremely short and easy handicap-accessible hike perfect for families, leading 0.2-0.3 miles through a hemlock forest to a boardwalk with stunning views of the river and cliffs; Lilly Bluff parking area (second lot); open 24 hours [Source: [TouristSecrets](https://www.touristsecrets.com/destinations/united-states/tennessee/tennessees-obed-wild-and-scenic-river-secrets/), [CircaWanderlust](https://circawanderlust.com/obed-wild-and-scenic-river/)]
 
+- **Rock Climbing** (3-6 hours) - The Obed is the premiere source for rock climbing in Tennessee with more than 350 established routes along sandstone cliffs throughout the park, featuring Cumberland Plateau sandstone with the largest collection of horizontal roofs equipped for climbing anywhere in North America; routes range up to 200 feet in length from beginner to world-class sport routes; six separate crags including The Obed, Y-12, Lilly Bluff, North Clear Creek, and South Clear Creek; multiple access points via Highway 62 and Ridge Road; open 24 hours [Source: [NPS Rock Climbing](https://www.nps.gov/obed/planyourvisit/rockclimbing.htm), [Mountain Project](https://www.mountainproject.com/area/105891970/obed-clear-creek), [SoutheasternOutdoors](http://www.southeasternoutdoors.com/public-lands/national-parks/obed-river/obed-river-climbing.html)]
+
+- **Bouldering at Lilly Boulders** (2-4 hours) - The largest and most popular bouldering area in Northeastern Tennessee, featuring massive sandstone boulders scattered along Boulder Field Trail; bullet-hard rock provides good friction with huge horizontal roofs, jugs, and slopers formed by sedimentary layering; accessible from Boulder Trail off Lilly Bluff area; open 24 hours [Source: [NPS Boulder Climbing](https://www.nps.gov/obed/planyourvisit/boulder-climbing.htm), [Mountain Project](https://www.mountainproject.com/area/105891970/obed-clear-creek)]
+
+- **Whitewater Kayaking/Paddling** (6-8 hours for full day trip) - Expert-level whitewater paddling on the Obed River and tributaries Clear Creek and Daddy's Creek, featuring Class II-IV rapids in deep gorges carved 500 feet into the Cumberland Plateau; approximately 19-mile day combining routes with rapids including the challenging Rock Garden (approaching Class IV); best season December-April when water levels are consistently high; multiple put-in/take-out points including Daddy's Creek (2.3-mile paddle-in), Nemo site off Catoosa Road [Source: [Cumberland Trails Conference](https://cumberlandtrail.org/trail-segments/obed-wild-and-scenic-river-segment/emory-river-gorge-section/paddling-the-obed-wild-and-scenic-river/), [NPS Paddling](https://www.nps.gov/obed/planyourvisit/paddling.htm), [A Wet State](http://www.awetstate.com/ObedC.html)]
+
+- **Alley Ford Trail** (4-5 hours) - The longest trail in the park at 4.8 miles with 803 feet of elevation gain, offering backcountry hiking through rugged terrain; various trailheads accessible from park roads; open 24 hours [Source: [AllTrails](https://www.alltrails.com/parks/us/tennessee/obed-wild-and-scenic-river--2)]
+
+- **Emory River Nature Trail** (2-3 hours) - A family-friendly 2.6-mile loop meandering through lush forests and along the riverbank with plenty of opportunities to spot wildlife including deer, otters, and beavers; trailhead near Nemo Bridge area; open 24 hours [Source: [TouristSecrets](https://www.touristsecrets.com/destinations/united-states/tennessee/tennessees-obed-wild-and-scenic-river-secrets/)]
+
+- **Fishing** (2-4 hours) - Forty-five miles of streams within the park offer fishing opportunities for bass, bluegill, catfish, and muskellunge; multiple river access points; open 24 hours, Tennessee fishing license required [Source: [NPS](https://www.nps.gov/obed/), [Visit Knoxville](https://www.visitknoxville.com/listing/obed-wild-and-scenic-river/1046/)]
+
+- **Night Sky Programs** (2-3 hours) - Ranger-guided night sky programs taking advantage of the park's designation as an International Dark Sky Park in 2017, offering exceptional stargazing opportunities; normally runs Memorial Day to Labor Day, free; check with visitor center at 423-346-6294 for current schedule [Source: [NPS](https://www.nps.gov/obed/), [DarkSky International](https://darksky.org/places/obed-wild-and-scenic-river-dark-sky-park/)]
+
+## Hidden Gems
+
+- **Birdwatching at Lilly Bridge** (1-2 hours) - A hotspot for birdwatching with opportunities to spot bald eagles, ospreys, and a variety of songbirds; the river gorge is seasonally home to more than 100 species of birds as well as bobcats, beavers, raccoons, minks, otters and white-tailed deer; Lilly Bridge area; open 24 hours [Source: [TouristSecrets](https://www.touristsecrets.com/destinations/united-states/tennessee/tennessees-obed-wild-and-scenic-river-secrets/), [Visit Knoxville](https://www.visitknoxville.com/listing/obed-wild-and-scenic-river/1046/)]
+
+- **Clear Creek Wildlife Viewing** (1-2 hours) - A tributary of the Obed River and great place to spot river otters and beavers in their natural habitat, along with excellent opportunities to observe the area's diverse wildlife; accessible from various points along Clear Creek; open 24 hours [Source: [TouristSecrets](https://www.touristsecrets.com/destinations/united-states/tennessee/tennessees-obed-wild-and-scenic-river-secrets/)]
+
+- **Point Trail Side Views** (add 30 minutes to Point Trail hike) - Lesser-known viewpoints near the rock formation area before the main overlook at Point Trail's end, offering excellent views of the river that many hikers miss; look for side trails in the rock formation area; open 24 hours [Source: [TouristSecrets](https://www.touristsecrets.com/destinations/united-states/tennessee/tennessees-obed-wild-and-scenic-river-secrets/)]
+
+- **Nemo River Access for Families** (1-2 hours) - A quieter spot off Catoosa Road south of Wartburg where kids can play in the river and fish in a more relaxed setting away from the main hiking areas; Nemo site, Catoosa Road; open 24 hours [Source: [TouristSecrets](https://www.touristsecrets.com/destinations/united-states/tennessee/tennessees-obed-wild-and-scenic-river-secrets/)]
+
+## Also Nearby
+
+- **Frozen Head State Park** (half-day to full-day, 15-20 minutes from Wartburg) - Encompasses more than 24,000 acres of wilderness in the Crab Orchard Mountains with about 80 miles of hiking trails through dense forests full of spring wildflowers, remote waterfalls, and abundant wildlife; features a 3,324-foot peak often shrouded in ice or snow in winter, with a scenic 7-mile trail to an observation deck offering 360-degree views; Emory Gap Falls Trail (4.7-star rating, 2.4 miles, 413 ft elevation gain) is the most popular hike; hosts the famous Barkley Marathons ultra-marathon; 964 Flat Fork Road, Wartburg, TN; 8:00 AM-sunset daily; camping available [Source: [TN State Parks](https://tnstateparks.com/parks/frozen-head), [AllTrails](https://www.alltrails.com/parks/us/tennessee/frozen-head-state-park), [Backyard Knoxville](https://backyardknoxville.com/frozen-head-state-park-tennessee/), [Verdant Traveler](https://verdanttraveler.com/frozen-head-state-park/)]
+
+- **Historic Rugby** (2-3 hours, 20-25 minutes from Wartburg) - Nationally recognized authentically restored Victorian village founded in 1880 by British author Thomas Hughes as a cooperative, class-free agricultural community; twenty original buildings still stand including the 1882 Thomas Hughes Free Public Library (the South's oldest lending library), 1884 Kingstone Lisle (founder's home), 1887 Christ Church Episcopal, and 1907 Schoolhouse; guided walking tours available daily; surrounded by Rugby State Natural Area with additional hiking trails; 5517 Rugby Highway, Rugby, TN 37733; visitor hours vary seasonally [Source: [Historic Rugby](https://historicrugby.org/), [Morgan County Chamber](https://morgancountychamber.com/tourism/historic-rugby/), [TN Encyclopedia](https://tennesseeencyclopedia.net/entries/rugby/)]
+
+- **Big South Fork National River & Recreation Area** (half-day to full-day, 30-45 minutes from Wartburg) - Massive 125,000-acre park protecting the free-flowing Big South Fork of the Cumberland River with miles of scenic gorges and sandstone bluffs; known as the "secret alternative of the Smokies"; features the Honey Creek Loop (recognized as one of the Top 10 day hikes in America), 300 miles of trails for hiking and horseback riding, whitewater rafting, rock climbing, fishing, and hunting; encompasses the John Muir Trail and Sheltowee Trace National Recreation Trail; multiple access points from I-40 and I-75; visitor centers in Oneida, TN and Stearns, KY; 8:00 AM-4:30 PM daily at visitor centers, park open 24 hours [Source: [NPS Big South Fork](https://www.nps.gov/biso), [Morgan County Chamber](https://morgancountychamber.com/tourism/big-south-fork/), [Backyard Knoxville](https://backyardknoxville.com/things-to-do-in-big-south-fork/)]
+
+---
+
+**Total Recommended Time:** A day trip of 4-6 hours is sufficient for casual visitors exploring the main highlights like Lilly Bluff Overlook and Point Trail with time at the visitor center, though serious backcountry hikers, rock climbers, or whitewater paddlers may want to spend 1-2 full days to fully experience the park's offerings [Source: [TripAdvisor](https://www.tripadvisor.com/Attraction_Review-g60919-d3238383-Reviews-Obed_Wild_Scenic_River-Wartburg_Tennessee.html), [NPS](https://www.nps.gov/obed/)]

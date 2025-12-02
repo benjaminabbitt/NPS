@@ -33,10 +33,19 @@
 
 ## Amber's Data (from spreadsheet)
 
-**Visitor Center:** The Visitor Center at Kenilworth Aquatic Gardens
+### Visitor Center
 
-**Address:** 1550 Anacostia Ave. NE, Washington DC, DC 20019 (38.912614, -76.9393031)
+**Name:** The Visitor Center at Kenilworth Aquatic Gardens
+
+**Address:** 1550 Anacostia Ave. NE, Washington DC, DC, 20019 (38.912614, -76.939303)
 
 **Hours:** Daily: 9:00 AM-3:00 PM
+
+### Park
+
+**Address:** 1900 Anacostia Drive SE, Washington, DC, 20020 (38.879541, -76.969559)
+
+**Hours:** Daily: 6:00 AM-10:00 PM
+
 ## Review / Personal Notes
 

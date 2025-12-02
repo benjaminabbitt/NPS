@@ -1,3 +1,8 @@
+---
+geocode:
+  visitor_center: [38.4666356, -107.1656373]
+---
+
 # Curecanti NRA
 
 ## Cancellation Stamp Locations:

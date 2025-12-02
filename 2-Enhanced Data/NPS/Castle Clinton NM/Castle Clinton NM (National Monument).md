@@ -1,3 +1,8 @@
+---
+geocode:
+  visitor_center: [40.702856, -74.0172629]
+---
+
 # Castle Clinton NM (National Monument)
 
 ## Cancellation Stamp Locations

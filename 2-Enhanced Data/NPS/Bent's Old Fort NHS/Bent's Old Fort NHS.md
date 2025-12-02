@@ -1,3 +1,8 @@
+---
+geocode:
+  visitor_center: [38.0397748, -103.42665]
+---
+
 # Bent's Old Fort NHS (National Historic Site)
 
 ## Cancellation Stamp Locations

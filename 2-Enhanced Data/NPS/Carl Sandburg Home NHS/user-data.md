@@ -28,10 +28,19 @@
 
 ## Amber's Data (from spreadsheet)
 
-**Visitor Center:** Visitor Center/Park Store and Information
+### Visitor Center
 
-**Address:** 81 Carl Sandburg Lane, Flat Rock, North Carolina 28731 (35.2727825, -82.4528575)
+**Name:** Visitor Center/Park Store and Information
 
-**Hours:** Sunday, Thursday, Friday, Saturday: 10:0 AM-4:00 PM
+**Address:** 81 Carl Sandburg Lane, Flat Rock, North Carolina, 28731 (35.272782, -82.452857)
+
+**Hours:** Sun: 10:0 AM-4:00 PM; Mon-Wed: Closed; Thu-Sat: 10:0 AM-4:00 PM
+
+### Park
+
+**Address:** 81 Carl Sandburg Lane, Flat Rock, North Carolina, 28731 (35.272782, -82.452857)
+
+**Hours:** Sun: 10:0 AM-4:00 PM; Mon-Wed: Closed; Thu-Sat: 10:0 AM-4:00 PM
+
 ## Review / Personal Notes
 

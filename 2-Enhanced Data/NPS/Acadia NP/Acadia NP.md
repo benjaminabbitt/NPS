@@ -1,3 +1,8 @@
+---
+geocode:
+  visitor_center: [44.4084838, -68.2459958]
+---
+
 # Acadia NP (National Park)
 
 ## Cancellation Stamp Locations

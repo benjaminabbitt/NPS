@@ -1,3 +1,8 @@
+---
+geocode:
+  visitor_center: [37.223011, -76.784161]
+---
+
 # Historic Jamestowne
 
 ## Cancellation Stamp Locations:

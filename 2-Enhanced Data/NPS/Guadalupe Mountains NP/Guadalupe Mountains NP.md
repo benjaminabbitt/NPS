@@ -1,3 +1,8 @@
+---
+geocode:
+  visitor_center: [31.8933, -104.8252]
+---
+
 # Guadalupe Mountains NP (National Park)
 
 ## Cancellation Stamp Locations

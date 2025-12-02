@@ -1,3 +1,8 @@
+---
+geocode:
+  visitor_center: [41.8316898, -71.4105407]
+---
+
 # Roger Williams N MEM
 
 ## Cancellation Stamp Locations:

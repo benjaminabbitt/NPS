@@ -26,9 +26,18 @@
 
 ## Amber's Data (from spreadsheet)
 
-**Visitor Center:** Cabrillo NM
+### Visitor Center
 
-**Address:** 1800 Cabrillo Memorial Dr, San Diego, California 92106 (32.6922209, -117.2451694)
+**Name:** Cabrillo NM
+
+**Address:** 1800 Cabrillo Memorial Dr, San Diego, California, 92106 (32.692221, -117.245169)
 
 **Hours:** Daily: 9:00 AM–5:00 PM
+
+### Park
+
+**Address:** 1800 Cabrillo Memorial Dr, San Diego, California, 92106 (32.692221, -117.245169)
+
+**Hours:** Daily: 9:00 AM–5:00 PM
+
 ## Review / Personal Notes

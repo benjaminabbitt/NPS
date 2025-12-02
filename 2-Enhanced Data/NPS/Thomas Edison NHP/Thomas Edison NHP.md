@@ -1,3 +1,8 @@
+---
+geocode:
+  visitor_center: [40.7851176, -74.2333435]
+---
+
 # Thomas Edison NHP
 
 ## Cancellation Stamp Locations:

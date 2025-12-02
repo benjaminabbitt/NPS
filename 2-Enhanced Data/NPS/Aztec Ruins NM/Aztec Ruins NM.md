@@ -1,3 +1,8 @@
+---
+geocode:
+  visitor_center: [36.837209, -108.000093]
+---
+
 # Aztec Ruins NM (National Monument)
 
 ## Cancellation Stamp Locations

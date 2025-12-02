@@ -1,3 +1,8 @@
+---
+geocode:
+  visitor_center: [32.673543, -117.242519]
+---
+
 # Cabrillo NM (National Monument)
 
 ## Cancellation Stamp Locations

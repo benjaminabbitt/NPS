@@ -1,3 +1,8 @@
+---
+geocode:
+  visitor_center: [35.0464427, -115.3935286]
+---
+
 # Castle Mountains NM (National Monument)
 
 ## Cancellation Stamp Locations

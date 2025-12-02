@@ -1,3 +1,8 @@
+---
+geocode:
+  visitor_center: [42.2521246, -71.0032995]
+---
+
 # Adams NHP (National Historical Park)
 
 ## Cancellation Stamp Locations

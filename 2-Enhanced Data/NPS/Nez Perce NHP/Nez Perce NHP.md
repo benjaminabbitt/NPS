@@ -1,3 +1,8 @@
+---
+geocode:
+  visitor_center: [46.447474, -116.8227749]
+---
+
 # Nez Perce NHP
 
 ## Cancellation Stamp Locations:

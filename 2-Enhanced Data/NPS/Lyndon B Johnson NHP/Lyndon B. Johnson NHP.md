@@ -1,3 +1,8 @@
+---
+geocode:
+  visitor_center: [30.237656, -98.626279]
+---
+
 # Lyndon B. Johnson NHP (National Historical Park)
 
 ## Cancellation Stamp Locations

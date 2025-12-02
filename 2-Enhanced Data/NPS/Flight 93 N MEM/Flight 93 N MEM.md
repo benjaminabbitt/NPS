@@ -1,3 +1,8 @@
+---
+geocode:
+  visitor_center: [40.0985388, -78.9520453]
+---
+
 # Flight 93 N MEM
 
 ## Cancellation Stamp Locations:

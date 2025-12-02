@@ -39,4 +39,20 @@
 - [ ] Don Harrington Discovery Center (2-3 hours, 40 miles)
 - [ ] Buffalo Lake National Wildlife Refuge (2-3 hours, 35 miles)
 
+## Amber's Data (from spreadsheet)
+
+### Visitor Center
+
+**Name:** Lake Meredith National Recreation Area Headquarters
+
+**Address:** 419 E Broadway St, Fritch, Texas, 79036 (35.643267, -101.586279)
+
+**Hours:** Mon-Fri: 9:00 AM-4:00 PM; Sat-Sun: Closed
+
+### Park
+
+**Address:** 419 E Broadway St, Fritch, Texas, 79036 (35.643267, -101.586279)
+
+**Hours:** Open 24 hours
+
 ## Review / Personal Notes

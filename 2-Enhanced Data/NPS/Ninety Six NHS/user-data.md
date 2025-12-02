@@ -6,11 +6,21 @@
 
 No activities found. See [Ninety Six NHS.md](Ninety Six NHS.md) for details.
 
-
 ## Amber's Data (from spreadsheet)
 
-**Visitor Center:** Ninety Six National Historic Site
+### Visitor Center
 
-**Address:** 1103 Hwy 248, Ninety Six, South Carolina 29666 (34.1678411, -82.0256516)
+**Name:** Ninety Six National Historic Site
 
-**Hours:** 9:00 AM-4:30 PM (check website for specific days)
+**Address:** 1103 Hwy 248, Ninety Six, South Carolina, 29666 (34.167841, -82.025652)
+
+**Hours:** Sun: 9:00 AM-4:30 PM; Mon-Tue: Closed; Wed-Sat: 9:00 AM-4:30 PM
+
+### Park
+
+**Address:** 1103 Hwy 248, Ninety Six, South Carolina, 29666 (34.167841, -82.025652)
+
+**Hours:** Daily: 7:00 AM-6:00 PM
+
+## Review / Personal Notes
+

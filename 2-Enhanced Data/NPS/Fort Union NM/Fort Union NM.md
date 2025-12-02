@@ -1,3 +1,8 @@
+---
+geocode:
+  visitor_center: [35.903755, -105.010803]
+---
+
 # Fort Union NM (National Monument)
 
 ## Cancellation Stamp Locations

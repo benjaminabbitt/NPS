@@ -1,3 +1,8 @@
+---
+geocode:
+  visitor_center: [46.9463335, -90.8887619]
+---
+
 # Apostle Islands NL (National Lakeshore)
 
 ## Cancellation Stamp Locations

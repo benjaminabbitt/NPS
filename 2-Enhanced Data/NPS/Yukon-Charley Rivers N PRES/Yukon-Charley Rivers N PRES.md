@@ -1,3 +1,8 @@
+---
+geocode:
+  visitor_center: [64.845898, -147.7119211]
+---
+
 # Yukon-Charley Rivers N PRES
 
 ## Cancellation Stamp Locations:

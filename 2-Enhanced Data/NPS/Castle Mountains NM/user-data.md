@@ -34,11 +34,20 @@
 
 ## Amber's Data (from spreadsheet)
 
-**Visitor Center:** Hole-in-the-Wall Information Center
+### Visitor Center
 
-**Address:** 2 Black Canyon Road, Essex, California 92332 (35.0464427, -115.3935286)
+**Name:** Hole-in-the-Wall Information Center
 
-**Hours:** Sunday, Monday, Friday, Saturday: 10:00 AM-4:00 PM
+**Address:** 2 Black Canyon Road, Essex, California, 92332 (35.046443, -115.393529)
+
+**Hours:** Sun-Mon: 10:00 AM-4:00 PM; Tue-Thu: Closed; Fri-Sat: 10:00 AM-4:00 PM
+
+### Park
+
+**Address:** 2701 Barstow Road, Barstow, California, 92311 (34.87135, -117.020274)
+
+**Hours:** Open 24 hours
+
 ## Review / Personal Notes
 
 

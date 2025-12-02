@@ -2,7 +2,19 @@
 
 ## Cancellation Stamp Locations
 
-- **National Prisoner of War Museum** (496 Cemetery Road, Andersonville, GA 31711 (32.2036997, -84.1330628); Museum: 9:30 AM - 4:30 PM daily, Park grounds: 8:00 AM - 5:00 PM daily, closed Thanksgiving, Christmas, and New Year's Day; 229-924-0343) [Source: [NPS Passport Stamps](https://home.nps.gov/ande/planyourvisit/passport_stamps.htm), [NPS Operating Hours](https://www.nps.gov/ande/planyourvisit/hours.htm), [NPS Basic Information](https://www.nps.gov/ande/planyourvisit/basicinfo.htm)]
+### Main Site
+**Address:** 760 POW Rd, Andersonville, Georgia 31711
+**Geocoordinates:** (32.2036997, -84.1330628)
+**Hours:** 8:00 AM - 5:00 PM daily (grounds), closed Thanksgiving, Christmas, and New Year's Day
+**Phone:** 229-924-0343
+
+### Visitor Center (National Prisoner of War Museum)
+**Address:** 496 Cemetery Road, Andersonville, GA 31711
+**Geocoordinates:** (32.1974968, -84.1308544)
+**Hours:** 9:30 AM - 4:30 PM daily, closed Thanksgiving, Christmas, and New Year's Day
+**Phone:** 229-924-0343
+
+[Source: [NPS Passport Stamps](https://home.nps.gov/ande/planyourvisit/passport_stamps.htm), [NPS Operating Hours](https://www.nps.gov/ande/planyourvisit/hours.htm), [NPS Basic Information](https://www.nps.gov/ande/planyourvisit/basicinfo.htm)]
 
 **Note:** Call 229-924-0343 to confirm current stamp locations before visiting. Stamps may also be requested by email, mail, or through the park's Facebook page if you cannot visit in person.
 

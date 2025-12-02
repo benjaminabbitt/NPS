@@ -29,5 +29,21 @@
 - [ ] Monastery of Christ in the Desert (2-3 hours, 1.5 hours north)
 - [ ] Pecos River and Pecos Canyon State Park (1-2 hours, adjacent)
 
+## Amber's Data (from spreadsheet)
+
+### Visitor Center
+
+**Name:** E. E. Fogelson Visitor Center
+
+**Address:** 1 Peach Drive, Pecos, New Mexico, 87552
+
+**Hours:** Daily: 8:00 AM-4:30 PM
+
+### Park
+
+**Address:** 1 Peach Drive, Pecos, New Mexico, 87552
+
+**Hours:** Daily: 8:00 AM-4:30 PM
+
 ## Review / Personal Notes
 

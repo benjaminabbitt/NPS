@@ -1,3 +1,8 @@
+---
+geocode:
+  visitor_center: [42.6790604, -114.2436604]
+---
+
 # Minidoka NHS
 
 ## Cancellation Stamp Locations:

@@ -32,10 +32,19 @@
 
 ## Amber's Data (from spreadsheet)
 
-**Visitor Center:** Martin Luther King, Jr. Memorial Bookstore
+### Visitor Center
 
-**Address:** 121 West Basin Dr SW, Washington, DC, DC 20004 (38.8818503, -77.0339422)
+**Name:** Martin Luther King, Jr. Memorial Bookstore
+
+**Address:** 121 West Basin Dr SW, Washington, DC, DC, 20004 (38.88185, -77.033942)
 
 **Hours:** Daily: 10:00 AM-6:00 PM
+
+### Park
+
+**Address:** 1925 Vermont Avenue Northwest, Washington, DC, 20001 (38.915736, -77.026166)
+
+**Hours:** Open 24 hours
+
 ## Review / Personal Notes
 

@@ -1,3 +1,8 @@
+---
+geocode:
+  visitor_center: [36.7920681, -118.1926066]
+---
+
 # Manzanar NHS
 
 ## Cancellation Stamp Locations:

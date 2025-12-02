@@ -1,3 +1,8 @@
+---
+geocode:
+  visitor_center: [37.9912921, -122.1313223]
+---
+
 # Port Chicago Naval Magazine N MEM
 
 ## Cancellation Stamp Locations:

@@ -1,3 +1,8 @@
+---
+geocode:
+  visitor_center: [37.9185315, -75.3512123]
+---
+
 # Assateague Island NS (National Seashore)
 
 ## Cancellation Stamp Locations

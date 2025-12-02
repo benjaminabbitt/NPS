@@ -1,3 +1,8 @@
+---
+geocode:
+  visitor_center: [44.5529761, -119.6461435]
+---
+
 # John Day Fossil Beds NM
 
 ## Cancellation Stamp Locations:

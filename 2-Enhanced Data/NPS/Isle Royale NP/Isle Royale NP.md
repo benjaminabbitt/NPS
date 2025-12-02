@@ -1,3 +1,8 @@
+---
+geocode:
+  visitor_center: [47.1229405, -88.5637537]
+---
+
 # Isle Royale NP
 
 ## Cancellation Stamp Locations:

@@ -1,3 +1,8 @@
+---
+geocode:
+  visitor_center: [53.8845151, -166.5545882]
+---
+
 # Aleutian World War II NHA (National Heritage Area)
 
 ## Cancellation Stamp Locations

@@ -30,5 +30,21 @@
 - [ ] Albuquerque BioPark (Aquarium & Botanic Garden) (2-3 hours, 12 miles southeast)
 - [ ] Indian Pueblo Cultural Center (1.5-2 hours, 8 miles southeast)
 
+## Amber's Data (from spreadsheet)
+
+### Visitor Center
+
+**Name:** Petroglyph NM Visitor Center
+
+**Address:** Western Trail NW, Albuquerque, New Mexico, 87120 (35.134485, -106.710628)
+
+**Hours:** Daily: 8:30 AM-4:30 PM
+
+### Park
+
+**Address:** Western Trail NW, Albuquerque, New Mexico, 87120 (35.134485, -106.710628)
+
+**Hours:** Daily: 8:30 AM-4:30 PM
+
 ## Review / Personal Notes
 

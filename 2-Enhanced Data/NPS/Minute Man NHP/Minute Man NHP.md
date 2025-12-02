@@ -1,3 +1,8 @@
+---
+geocode:
+  visitor_center: [42.4490425, -71.2769212]
+---
+
 # Minute Man NHP
 
 ## Cancellation Stamp Locations:

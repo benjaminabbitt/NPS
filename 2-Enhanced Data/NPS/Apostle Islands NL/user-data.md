@@ -33,9 +33,18 @@
 
 ## Amber's Data (from spreadsheet)
 
-**Visitor Center:** Little Sand Bay Visitor Center
+### Visitor Center
 
-**Address:** 32660 Little Sand Bay Rd, Bayfield, Wisconsin 54814 (46.9463335, -90.8887619)
+**Name:** Little Sand Bay Visitor Center
+
+**Address:** 32660 Little Sand Bay Rd, Bayfield, Wisconsin, 54814 (46.946334, -90.888762)
 
 **Hours:** Daily: 9:00 AM-5:00 PM
+
+### Park
+
+**Address:** 415 Washington Avenue, Bayfield, Wisconsin, 54814 (46.813015, -90.820528)
+
+**Hours:** Open 24 hours
+
 ## Review / Personal Notes

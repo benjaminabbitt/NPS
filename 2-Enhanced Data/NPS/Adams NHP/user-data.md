@@ -31,9 +31,18 @@
 
 ## Amber's Data (from spreadsheet)
 
-**Visitor Center:** Adams National Historical Park Visitor Center
+### Visitor Center
 
-**Address:** 1250 Hancock St, Quincy, Massachusetts 02169 (42.2517569, -71.0033967)
+**Name:** Adams National Historical Park Visitor Center
 
-**Hours:** 9:00 AM-5:00 PM (check website for specific days)
+**Address:** 1250 Hancock St, Quincy, Massachusetts, 02169 (42.251757, -71.003397)
+
+**Hours:** Sun: 9:00 AM-5:00 PM; Mon-Tue: Closed; Wed-Sat: 9:00 AM-5:00 PM
+
+### Park
+
+**Address:** 141 Franklin Street, Quincy, Massachusetts, 02169 (42.233524, -70.997587)
+
+**Hours:** Sun: 9:00 AM-5:00 PM; Mon-Tue: Closed; Wed-Sat: 9:00 AM-5:00 PM
+
 ## Review / Personal Notes

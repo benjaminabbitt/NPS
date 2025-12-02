@@ -6,11 +6,21 @@
 
 No activities found. See [Harriet Tubman National Historical Park.md](Harriet Tubman National Historical Park.md) for details.
 
-
 ## Amber's Data (from spreadsheet)
 
-**Visitor Center:** Thompson Memorial A.M.E. Zion Church and Parsonage
+### Visitor Center
 
-**Address:** 47 Parker Street, Auburn, New York 13021 (42.923399, -76.5758105)
+**Name:** Thompson Memorial A.M.E. Zion Church and Parsonage
 
-**Hours:** Friday, Saturday: 10:00 AM-4:00 PM
+**Address:** 47 Parker Street, Auburn, New York, 13021 (42.923399, -76.575811)
+
+**Hours:** Sun-Thu: Closed; Fri-Sat: 10:00 AM-4:00 PM
+
+### Park
+
+**Address:** 47 Parker Street, Auburn, New York, 13021 (42.923399, -76.575811)
+
+**Hours:** Sun-Thu: Closed; Fri-Sat: 10:00 AM-4:00 PM
+
+## Review / Personal Notes
+

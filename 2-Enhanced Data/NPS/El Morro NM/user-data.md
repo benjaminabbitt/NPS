@@ -29,5 +29,21 @@
 - [ ] El Malpais National Monument (3-6 hours, 25 miles east)
 - [ ] Zuni Pueblo (2-4 hours, 34 miles southwest)
 
+## Amber's Data (from spreadsheet)
+
+### Visitor Center
+
+**Name:** El Morro Visitor Center
+
+**Address:** NM-53, Ramah, New Mexico, 87321 (35.120638, -108.484254)
+
+**Hours:** Daily: 9:00 AM-5:00 PM
+
+### Park
+
+**Address:** Mile Marker 44.6 Hwy 53, Ramah, New Mexico, 87321
+
+**Hours:** Daily: 9:00 AM-5:00 PM
+
 ## Review / Personal Notes
 

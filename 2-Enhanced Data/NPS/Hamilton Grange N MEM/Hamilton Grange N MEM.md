@@ -1,3 +1,8 @@
+---
+geocode:
+  visitor_center: [40.8213589, -73.9473012]
+---
+
 # Hamilton Grange N MEM
 
 ## Cancellation Stamp Locations:

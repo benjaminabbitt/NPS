@@ -1,3 +1,8 @@
+---
+geocode:
+  visitor_center: [35.2865526, -116.0808486]
+---
+
 # Death Valley NP
 
 ## Cancellation Stamp Locations:

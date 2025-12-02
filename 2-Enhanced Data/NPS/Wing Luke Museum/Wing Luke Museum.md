@@ -1,3 +1,8 @@
+---
+geocode:
+  visitor_center: [47.5982461, -122.3228705]
+---
+
 # Wing Luke Museum
 
 ## Cancellation Stamp Locations:

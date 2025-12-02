@@ -1,3 +1,8 @@
+---
+geocode:
+  visitor_center: [38.8639, -76.9854]
+---
+
 # Capitol Hill Parks
 
 ## Cancellation Stamp Locations

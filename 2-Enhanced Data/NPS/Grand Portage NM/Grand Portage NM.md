@@ -1,3 +1,8 @@
+---
+geocode:
+  visitor_center: [47.9609724, -89.6857677]
+---
+
 # Grand Portage NM
 
 ## Cancellation Stamp Locations:

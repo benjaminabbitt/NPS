@@ -1,3 +1,8 @@
+---
+geocode:
+  visitor_center: [35.2027331, -111.5147395]
+---
+
 # Walnut Canyon NM
 
 ## Cancellation Stamp Locations:

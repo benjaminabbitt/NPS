@@ -1,3 +1,8 @@
+---
+geocode:
+  visitor_center: [46.4237239, -86.6238153]
+---
+
 # Pictured Rocks NL
 
 ## Cancellation Stamp Locations:

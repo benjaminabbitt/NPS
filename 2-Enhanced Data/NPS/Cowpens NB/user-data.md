@@ -6,11 +6,21 @@
 
 No activities found. See [Cowpens NB.md](Cowpens NB.md) for details.
 
-
 ## Amber's Data (from spreadsheet)
 
-**Visitor Center:** Cowpens National Battlefield
+### Visitor Center
 
-**Address:** 4001 Chesnee Hwy, Gaffney, South Carolina 29341 (35.1037677, -81.6911511)
+**Name:** Cowpens National Battlefield
 
-**Hours:** 9:00 AM-5:00 PM (check website for specific days)
+**Address:** 4001 Chesnee Hwy, Gaffney, South Carolina, 29341 (35.103768, -81.691151)
+
+**Hours:** Sun: 9:00 AM-5:00 PM; Mon-Tue: Closed; Wed-Sat: 9:00 AM-5:00 PM
+
+### Park
+
+**Address:** 4001 Chesnee Hwy, Gaffney, South Carolina, 29341 (35.103768, -81.691151)
+
+**Hours:** Daily: 9:00 AM-5:00 PM
+
+## Review / Personal Notes
+

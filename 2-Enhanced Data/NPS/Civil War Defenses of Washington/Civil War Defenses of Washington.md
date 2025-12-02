@@ -1,3 +1,8 @@
+---
+geocode:
+  visitor_center: [38.912614, -76.9393031]
+---
+
 # Civil War Defenses of Washington
 
 ## Cancellation Stamp Locations:

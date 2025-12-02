@@ -1,3 +1,8 @@
+---
+geocode:
+  visitor_center: [61.836564, -145.2257613]
+---
+
 # Wrangell-St. Elias NP & PRES
 
 ## Cancellation Stamp Locations:

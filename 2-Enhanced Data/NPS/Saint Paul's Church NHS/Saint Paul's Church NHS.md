@@ -1,3 +1,8 @@
+---
+geocode:
+  visitor_center: [40.8935185, -73.8253367]
+---
+
 # Saint Paul’s Church NHS
 
 ## Cancellation Stamp Locations:

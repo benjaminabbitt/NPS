@@ -31,10 +31,19 @@
 
 ## Amber's Data (from spreadsheet)
 
-**Visitor Center:** Antietam National Battlefield Visitor Center
+### Visitor Center
 
-**Address:** 5831 Dunker Church Rd., Sharpsburg, Maryland 21782 (39.4591562, -77.7411521)
+**Name:** Antietam National Battlefield Visitor Center
+
+**Address:** 5831 Dunker Church Rd., Sharpsburg, Maryland, 21782 (39.459156, -77.741152)
 
 **Hours:** Daily: 9:00 AM-5:00 PM
+
+### Park
+
+**Address:** 5831 Dunker Church Rd., Sharpsburg, Maryland, 21782 (39.459156, -77.741152)
+
+**Hours:** Daily: 9:00 AM-5:00 PM
+
 ## Review / Personal Notes
 

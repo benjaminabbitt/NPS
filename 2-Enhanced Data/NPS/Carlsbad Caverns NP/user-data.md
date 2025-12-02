@@ -28,10 +28,19 @@
 
 ## Amber's Data (from spreadsheet)
 
-**Visitor Center:** Carlsbad Caverns NP Visitor Center
+### Visitor Center
 
-**Address:** 727 Carlsbad Caverns Highway, Carlsbad, New Mexico 88220 (32.175424, -104.4445002)
+**Name:** Carlsbad Caverns NP Visitor Center
+
+**Address:** 727 Carlsbad Caverns Highway, Carlsbad, New Mexico, 88220 (32.175424, -104.4445)
 
 **Hours:** Daily: 9:00 AM-2:30 PM
+
+### Park
+
+**Address:** 727 Carlsbad Caverns Highway, Carlsbad, New Mexico, 88220 (32.175424, -104.4445)
+
+**Hours:** Open 24 hours
+
 ## Review / Personal Notes
 

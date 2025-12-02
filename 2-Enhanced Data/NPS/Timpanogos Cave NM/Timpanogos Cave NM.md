@@ -1,3 +1,8 @@
+---
+geocode:
+  visitor_center: [40.4507397, -111.7580279]
+---
+
 # Timpanogos Cave NM
 
 ## Cancellation Stamp Locations:

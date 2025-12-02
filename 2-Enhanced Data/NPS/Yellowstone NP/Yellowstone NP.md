@@ -1,3 +1,8 @@
+---
+geocode:
+  visitor_center: [44.9626801, -110.7045459]
+---
+
 # Yellowstone NP
 
 ## Cancellation Stamp Locations:

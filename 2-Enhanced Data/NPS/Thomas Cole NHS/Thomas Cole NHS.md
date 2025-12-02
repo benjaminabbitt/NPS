@@ -1,3 +1,8 @@
+---
+geocode:
+  visitor_center: [42.225766, -73.8615472]
+---
+
 # Thomas Cole NHS
 
 ## Cancellation Stamp Locations:

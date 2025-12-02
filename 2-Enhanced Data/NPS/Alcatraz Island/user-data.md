@@ -32,9 +32,18 @@
 
 ## Amber's Data (from spreadsheet)
 
-**Visitor Center:** Dock Ranger Station
+### Visitor Center
 
-**Address:** Alcatraz Island, San Francisco Bay, California 94133
+**Name:** Dock Ranger Station
+
+**Address:** Alcatraz Island, San Francisco Bay, California, 94133
 
 **Hours:** Daily: 9:00 AM-4:00 PM
+
+### Park
+
+**Address:** Alcatraz Island, San Francisco Bay, California, 94133
+
+**Hours:** Daily: 9:00 AM-4:00 PM
+
 ## Review / Personal Notes

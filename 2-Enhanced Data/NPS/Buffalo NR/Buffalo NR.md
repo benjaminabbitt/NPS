@@ -1,3 +1,8 @@
+---
+geocode:
+  visitor_center: [36.0097, -92.7447]
+---
+
 # Buffalo NR (National River)
 
 ## Cancellation Stamp Locations

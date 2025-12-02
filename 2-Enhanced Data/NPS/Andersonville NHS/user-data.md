@@ -4,9 +4,22 @@
 
 - [ ] Visited
 
+## Operating Hours
+
+- **Monday:** 8:00 AM - 5:00 PM (grounds), 9:30 AM - 4:30 PM (museum)
+- **Tuesday:** 8:00 AM - 5:00 PM (grounds), 9:30 AM - 4:30 PM (museum)
+- **Wednesday:** 8:00 AM - 5:00 PM (grounds), 9:30 AM - 4:30 PM (museum)
+- **Thursday:** 8:00 AM - 5:00 PM (grounds), 9:30 AM - 4:30 PM (museum)
+- **Friday:** 8:00 AM - 5:00 PM (grounds), 9:30 AM - 4:30 PM (museum)
+- **Saturday:** 8:00 AM - 5:00 PM (grounds), 9:30 AM - 4:30 PM (museum)
+- **Sunday:** 8:00 AM - 5:00 PM (grounds), 9:30 AM - 4:30 PM (museum)
+
+Closed Thanksgiving, Christmas, and New Year's Day
+
 ## Cancellation Stamps
 
-- [x] National Prisoner of War Museum (496 Cemetery Road, Andersonville, GA 31711)
+- [ ] Main Site (760 POW Rd, Andersonville, Georgia 31711)
+- [ ] National Prisoner of War Museum (496 Cemetery Road, Andersonville, GA 31711)
 
 ## Key Activities
 
@@ -31,9 +44,18 @@
 
 ## Amber's Data (from spreadsheet)
 
-**Visitor Center:** National Prisoner of War Museum
+### Visitor Center
 
-**Address:** 5VWF+X6, Andersonville, Georgia 31711
+**Name:** National Prisoner of War Museum
+
+**Address:** 5VWF+X6, Andersonville, Georgia, 31711
 
 **Hours:** Daily: 9:30 AM-4:30 PM
+
+### Park
+
+**Address:** 760 POW Rd, Andersonville, Georgia, 31711
+
+**Hours:** Daily: 8:00 AM-5:00 PM
+
 ## Review / Personal Notes

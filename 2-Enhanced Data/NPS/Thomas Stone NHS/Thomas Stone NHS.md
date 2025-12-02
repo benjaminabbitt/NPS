@@ -1,3 +1,8 @@
+---
+geocode:
+  visitor_center: [38.5302228, -77.0360484]
+---
+
 # Thomas Stone NHS
 
 ## Cancellation Stamp Locations:

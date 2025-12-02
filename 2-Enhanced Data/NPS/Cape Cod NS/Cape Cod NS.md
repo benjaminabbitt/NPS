@@ -1,3 +1,8 @@
+---
+geocode:
+  visitor_center: [41.8356, -69.9686]
+---
+
 # Cape Cod NS (National Seashore)
 
 ## Cancellation Stamp Locations

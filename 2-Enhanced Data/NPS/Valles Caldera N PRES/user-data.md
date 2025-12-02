@@ -43,5 +43,21 @@
 - [ ] Jemez Springs Bath House (1-2 hours, 20 minutes south)
 - [ ] Los Alamos Museums (2-3 hours, 40 minutes northeast)
 
+## Amber's Data (from spreadsheet)
+
+### Visitor Center
+
+**Name:** Valles Caldera National Preserve Welcome Center
+
+**Address:** 39201 New Mexico Highway 4, Jemez Springs, New Mexico, 87025
+
+**Hours:** Daily: 9:00 AM-4:45 PM
+
+### Park
+
+**Address:** 39201 New Mexico Highway 4, Jemez Springs, New Mexico, 87025
+
+**Hours:** Daily: 9:00 AM-5:00 PM
+
 ## Review / Personal Notes
 

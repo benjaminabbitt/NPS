@@ -2,9 +2,18 @@
 
 ## Cancellation Stamp Locations
 
-- **Washita Battlefield National Historic Site Visitor Center** (18555 Hwy 47A, Ste. A, Cheyenne, OK 73628; Daily 8:00 AM-4:30 PM, closed Thanksgiving, Christmas, and New Year's Day; 580-497-2742; Free admission) [[Source](https://www.nps.gov/waba/planyourvisit/hours.htm), [Source](https://www.nps.gov/waba/planyourvisit/basicinfo.htm)]
+### Main Site
+- **Address:** 18555 Hwy 47A, Ste. A, Cheyenne, OK 73628 (35.6208396, -99.7044514)
+- **Hours:** Daily 7:00 AM-6:00 PM
+- **Phone:** 580-497-2742
 
-**Note:** National Park Passport stamps available in visitor center. The overlook and trail are open daily from dawn until dusk. Call to confirm current stamp locations before visiting. [[Source](https://www.recreation.gov/camping/poi/259276), [Source](https://www.nps.gov/waba/planyourvisit/the-washita-battlefield-national-historic-site-visitor-center.htm)]
+### Visitor Center
+- **Address:** 18555 OK-47 Alt, Cheyenne, OK 73628 (35.6208396, -99.7044514)
+- **Hours:** Daily 8:00 AM-4:30 PM (closed Thanksgiving, Christmas, and New Year's Day)
+- **Phone:** 580-497-2742
+- **Admission:** Free
+
+**Note:** National Park Passport stamps available in visitor center. The overlook and trail are open daily from dawn until dusk. Call to confirm current stamp locations before visiting. [[Source](https://www.nps.gov/waba/planyourvisit/hours.htm), [Source](https://www.nps.gov/waba/planyourvisit/basicinfo.htm), [Source](https://www.nps.gov/waba/planyourvisit/directions.htm)]
 
 ## Key Activities
 
@@ -26,11 +35,11 @@
 
 ## Also Nearby
 
-- **Black Kettle Museum** (1-2 hours, 1 mile north in Cheyenne) - Explore additional exhibits and artifacts related to the Battle of the Washita and Southern Plains Indian culture in this small local museum; 101 S. L.L. Males Avenue, Cheyenne, OK 73628; Tuesday-Saturday 9:00 AM-5:00 PM; Free (donations welcome) [[Source](https://www.travelok.com/listings/view.profile/id.8400)]
+- **Black Kettle Museum** (Historical Note) - The former Black Kettle Museum at 101 S. L.L. Males Avenue in Cheyenne has closed, and its collection has been moved to the Washita Battlefield National Historic Site Visitor Center; the building now houses the Cheyenne Chamber of Commerce [[Source](http://blogoklahoma.us/place.aspx?id=384)]
 
-- **Washita National Wildlife Refuge** (2-3 hours, 40 miles northeast) - Observe migratory waterfowl, wildlife, and prairie landscapes along the Washita River; excellent for birding, hiking, and photography; Refuge headquarters near Butler, OK; Dawn to dusk; Free [[Source](https://www.fws.gov/refuge/washita)]
+- **Washita National Wildlife Refuge** (2-3 hours, 40 miles northeast) - Observe migratory waterfowl, wildlife, and prairie landscapes along the Washita River; excellent for birding, hiking, and photography; Refuge headquarters 5 miles west of Butler, OK on State Highway 33, then 1 mile north and one-half mile west (35.6149357, -99.2626646); Dawn to dusk; Free [[Source](https://www.fws.gov/refuge/washita), [Source](https://www.topozone.com/oklahoma/custer-ok/park/washita-national-wildlife-refuge/)]
 
-- **Antelope Hills** (1-2 hours, 20 miles south) - Explore scenic red rock formations and canyons where Custer's forces camped before the attack; hiking and photography opportunities in unique Oklahoma landscape; Near Cheyenne; Accessible during daylight; Free [[Source](https://www.travelok.com/listings/view.profile/id.8400)]
+- **Antelope Hills** (1-2 hours, 20 miles south) - Explore scenic red rock formations and canyons in the bend of the Canadian River where Custer's forces camped before the attack; these low hills were a major landmark for Plains Indians and early travelers; hiking and photography opportunities in unique Oklahoma landscape (35.9042117, -99.8845604); Accessible during daylight; Free [[Source](https://www.travelok.com/listings/view.profile/id.8400), [Source](https://latitude.to/satellite-map/us/united-states/217158/antelope-hills-oklahoma)]
 
 ---
 

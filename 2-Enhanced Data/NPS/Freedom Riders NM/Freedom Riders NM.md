@@ -1,3 +1,8 @@
+---
+geocode:
+  visitor_center: [33.6581699, -85.83128]
+---
+
 # Freedom Riders NM
 
 ## Cancellation Stamp Locations:

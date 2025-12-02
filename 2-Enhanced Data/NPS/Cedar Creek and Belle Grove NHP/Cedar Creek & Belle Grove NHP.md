@@ -1,3 +1,8 @@
+---
+geocode:
+  visitor_center: [39.0159, -78.3104]
+---
+
 # Cedar Creek & Belle Grove NHP (National Historical Park)
 
 ## Cancellation Stamp Locations

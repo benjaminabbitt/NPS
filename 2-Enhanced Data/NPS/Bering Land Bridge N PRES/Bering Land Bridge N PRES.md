@@ -1,3 +1,8 @@
+---
+geocode:
+  visitor_center: [64.4980814, -165.4101566]
+---
+
 # Bering Land Bridge N PRES (National Preserve)
 
 ## Cancellation Stamp Locations

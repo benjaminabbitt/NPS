@@ -39,4 +39,20 @@
 - [ ] Port Aransas (varies, 45 minutes north)
 - [ ] Selena Memorial (30 minutes, downtown Corpus Christi)
 
+## Amber's Data (from spreadsheet)
+
+### Visitor Center
+
+**Name:** Malaquite Visitor Center
+
+**Address:** 20420 Park Rd 22, Corpus Christi, Texas, 78418 (27.424367, -97.299008)
+
+**Hours:** Daily: 9:00 AM-5:00 PM
+
+### Park
+
+**Address:** 20420 Park Road 22, Corpus Christi, Texas, 78418 (27.424367, -97.299008)
+
+**Hours:** Open 24 hours
+
 ## Review / Personal Notes

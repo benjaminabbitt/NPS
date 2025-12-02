@@ -1,3 +1,8 @@
+---
+geocode:
+  visitor_center: [34.5177349, -106.241929]
+---
+
 # Salinas Pueblo Missions NM (National Monument)
 
 ## Cancellation Stamp Locations

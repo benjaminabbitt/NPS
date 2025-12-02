@@ -1,3 +1,8 @@
+---
+geocode:
+  visitor_center: [41.4740544, -71.3104743]
+---
+
 # Touro Synagogue NHS
 
 ## Cancellation Stamp Locations:

@@ -1,3 +1,8 @@
+---
+geocode:
+  visitor_center: [35.2727825, -82.4528575]
+---
+
 # Carl Sandburg Home NHS (National Historic Site)
 
 ## Cancellation Stamp Locations

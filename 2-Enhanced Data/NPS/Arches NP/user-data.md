@@ -26,12 +26,12 @@
 - [ ] Canyonlands National Park - Island in the Sky District with Mesa Arch (3-4 hours, 40-50 minutes drive from Moab)
 - [ ] Mill Canyon Dinosaur Trail (30-60 minutes, 15 miles north of Moab)
 
-## Review / Personal Notes
-
 ## Amber's Data (from spreadsheet)
 
-**Visitor Center:** 
+### Visitor Center
 
-**Address:** 
+**Name:** Arches Visitor Center
 
-**Hours:** Hours not available
+**Hours:** Daily: 8:00 AM-4:30 PM
+
+## Review / Personal Notes

@@ -1,3 +1,8 @@
+---
+geocode:
+  visitor_center: [38.887486, -77.0192369]
+---
+
 # Japanese American Memorial
 
 ## Cancellation Stamp Locations:

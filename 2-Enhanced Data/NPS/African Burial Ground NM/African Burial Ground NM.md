@@ -1,3 +1,8 @@
+---
+geocode:
+  visitor_center: [40.7145252, -74.0044657]
+---
+
 # African Burial Ground NM (National Monument)
 
 ## Cancellation Stamp Locations

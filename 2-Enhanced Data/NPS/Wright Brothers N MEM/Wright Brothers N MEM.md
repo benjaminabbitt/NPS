@@ -1,3 +1,8 @@
+---
+geocode:
+  visitor_center: [36.02064, -75.6677117]
+---
+
 # Wright Brothers N MEM
 
 ## Cancellation Stamp Locations:

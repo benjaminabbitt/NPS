@@ -1,3 +1,8 @@
+---
+geocode:
+  visitor_center: [32.3265073, -109.4841684]
+---
+
 # Fort Bowie NHS
 
 ## Cancellation Stamp Locations:

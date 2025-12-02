@@ -1,3 +1,8 @@
+---
+geocode:
+  visitor_center: [37.8071685, -122.475654]
+---
+
 # Golden Gate NRA
 
 ## Cancellation Stamp Locations:

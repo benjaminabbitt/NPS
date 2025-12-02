@@ -1,3 +1,8 @@
+---
+geocode:
+  visitor_center: [41.756704, -72.6630899]
+---
+
 # Coltsville NHP
 
 ## Cancellation Stamp Locations:

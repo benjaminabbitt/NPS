@@ -23,12 +23,20 @@
 - [ ] First Landing State Park (15 minutes, adjacent)
 - [ ] Virginia Beach Oceanfront (20 minutes)
 
-## Review / Personal Notes
-
 ## Amber's Data (from spreadsheet)
 
-**Visitor Center:** Cape Henry Memorial
+### Visitor Center
 
-**Address:** Atlantic Ave, Fort Story,  23459
+**Name:** Cape Henry Memorial
+
+**Address:** Atlantic Ave, Fort Story, 23459
 
 **Hours:** Daily: 7:00 AM-6:00 PM
+
+### Park
+
+**Address:** Atlantic Ave, Fort Story, Virginia, 23459
+
+**Hours:** Daily: 7:00 AM-6:00 PM
+
+## Review / Personal Notes

@@ -1,3 +1,8 @@
+---
+geocode:
+  visitor_center: [39.4591562, -77.7411521]
+---
+
 # Antietam NB (National Battlefield)
 
 ## Cancellation Stamp Locations

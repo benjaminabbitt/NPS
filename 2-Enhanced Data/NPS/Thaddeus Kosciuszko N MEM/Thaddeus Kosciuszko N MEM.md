@@ -1,3 +1,8 @@
+---
+geocode:
+  visitor_center: [39.9514534, -75.1499193]
+---
+
 # Thaddeus Kosciuszko N MEM
 
 ## Cancellation Stamp Locations:

@@ -1,3 +1,8 @@
+---
+geocode:
+  visitor_center: [44.0052552, -69.5564193]
+---
+
 # Frances Perkins NM
 
 ## Cancellation Stamp Locations:

@@ -6,11 +6,21 @@
 
 No activities found. See [Clara Barton NHS.md](Clara Barton NHS.md) for details.
 
-
 ## Amber's Data (from spreadsheet)
 
-**Visitor Center:** Clara Barton NHS
+### Visitor Center
 
-**Address:** 5801 Oxford Road, Glen Echo, Maryland 20812 (38.967745, -77.140882)
+**Name:** Clara Barton NHS
 
-**Hours:** Friday, Saturday: 1:00 PM-5:00 PM
+**Address:** 5801 Oxford Road, Glen Echo, Maryland, 20812 (38.967745, -77.140882)
+
+**Hours:** Sun-Thu: Closed; Fri-Sat: 1:00 PM-5:00 PM
+
+### Park
+
+**Address:** 5801 Oxford Road, Glen Echo, Maryland, 20812 (38.967745, -77.140882)
+
+**Hours:** Sun-Thu: Closed; Fri-Sat: 1:00 PM-5:00 PM
+
+## Review / Personal Notes
+

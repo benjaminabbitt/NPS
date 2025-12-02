@@ -1,3 +1,8 @@
+---
+geocode:
+  visitor_center: [40.6898508, -74.0476674]
+---
+
 # Statue of Liberty NM
 
 ## Cancellation Stamp Locations:

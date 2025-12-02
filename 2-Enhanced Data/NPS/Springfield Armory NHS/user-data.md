@@ -6,11 +6,21 @@
 
 No activities found. See [Springfield Armory NHS.md](Springfield Armory NHS.md) for details.
 
-
 ## Amber's Data (from spreadsheet)
 
-**Visitor Center:** Springfield Armory National Historic Site Visitor Center and Museum
+### Visitor Center
 
-**Address:** 1 Armory Square, 1 Armory Square, Springfield, Massachusetts 01105
+**Name:** Springfield Armory National Historic Site Visitor Center and Museum
 
-**Hours:** 9:30 AM-4:30 PM (check website for specific days)
+**Address:** 1 Armory Square, 1 Armory Square, Springfield, Massachusetts, 01105
+
+**Hours:** Sun: 9:30 AM-4:30 PM; Mon-Tue: Closed; Wed-Sat: 9:30 AM-4:30 PM
+
+### Park
+
+**Address:** 1 Armory Square, 1 Armory Square, Springfield, Massachusetts, 01105
+
+**Hours:** Sun: 9:30 AM-4:30 PM; Mon-Tue: Closed; Wed-Sat: 9:30 AM-4:30 PM
+
+## Review / Personal Notes
+

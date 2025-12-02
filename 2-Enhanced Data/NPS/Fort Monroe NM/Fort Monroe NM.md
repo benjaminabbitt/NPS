@@ -1,3 +1,8 @@
+---
+geocode:
+  visitor_center: [-37.8879493, 144.5924777]
+---
+
 # Fort Monroe NM
 
 ## Cancellation Stamp Locations:

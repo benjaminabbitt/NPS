@@ -1,3 +1,8 @@
+---
+geocode:
+  visitor_center: [37.8075021, -122.420543]
+---
+
 # San Francisco Maritime NHP
 
 ## Cancellation Stamp Locations:

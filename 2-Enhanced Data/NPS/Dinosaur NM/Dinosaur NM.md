@@ -1,3 +1,8 @@
+---
+geocode:
+  visitor_center: [40.2436171, -108.972499]
+---
+
 # Dinosaur NM
 
 ## Cancellation Stamp Locations:

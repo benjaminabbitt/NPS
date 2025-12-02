@@ -1,3 +1,8 @@
+---
+geocode:
+  visitor_center: [40.7075171, -74.0100604]
+---
+
 # Federal Hall N MEM
 
 ## Cancellation Stamp Locations:

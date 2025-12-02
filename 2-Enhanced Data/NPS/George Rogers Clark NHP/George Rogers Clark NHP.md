@@ -1,3 +1,8 @@
+---
+geocode:
+  visitor_center: [38.6775722, -87.5360877]
+---
+
 # George Rogers Clark NHP
 
 ## Cancellation Stamp Locations:

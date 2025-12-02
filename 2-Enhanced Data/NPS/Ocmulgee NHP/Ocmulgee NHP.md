@@ -1,3 +1,8 @@
+---
+geocode:
+  visitor_center: [32.837227, -83.6018436]
+---
+
 # Ocmulgee NHP
 
 ## Cancellation Stamp Locations:

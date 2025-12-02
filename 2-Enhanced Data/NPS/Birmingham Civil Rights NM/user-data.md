@@ -33,10 +33,19 @@
 
 ## Amber's Data (from spreadsheet)
 
-**Visitor Center:** A.G. Gaston Motel
+### Visitor Center
 
-**Address:** 1510 5th Avenue N, Birmingham, Alabama 35203 (33.5153921, -86.8144977)
+**Name:** A.G. Gaston Motel
 
-**Hours:** Thursday, Friday, Saturday: 10:00 AM–4:00 PM
+**Address:** 1510 5th Avenue N, Birmingham, Alabama, 35203 (33.515392, -86.814498)
+
+**Hours:** Sun-Wed: Closed; Thu-Sat: 10:00 AM–4:00 PM
+
+### Park
+
+**Address:** 1510 5th Ave N,, Birmingham, Alabama, 35203 (33.515392, -86.814498)
+
+**Hours:** Sun-Wed: Closed; Thu-Sat: 10:00 AM–5:00 PM
+
 ## Review / Personal Notes
 

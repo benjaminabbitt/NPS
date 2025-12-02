@@ -1,3 +1,8 @@
+---
+geocode:
+  visitor_center: [33.5153921, -86.8144977]
+---
+
 # Birmingham Civil Rights NM (National Monument)
 
 ## Cancellation Stamp Locations

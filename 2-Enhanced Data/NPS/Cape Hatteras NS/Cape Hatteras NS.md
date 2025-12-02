@@ -1,3 +1,8 @@
+---
+geocode:
+  visitor_center: [35.2519, -75.5267]
+---
+
 # Cape Hatteras NS (National Seashore)
 
 ## Cancellation Stamp Locations

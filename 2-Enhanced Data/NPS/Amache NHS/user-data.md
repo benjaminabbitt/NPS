@@ -30,10 +30,19 @@
 
 ## Amber's Data (from spreadsheet)
 
-**Visitor Center:** Amache Museum
+### Visitor Center
 
-**Address:** 205 E Goff Ave, Granada, Colorado 81041 (38.0624519, -102.3087324)
+**Name:** Amache Museum
 
-**Hours:** Tuesday, Wednesday, Thursday, Friday: 9:00 AM-4:00 PM
+**Address:** 205 E Goff Ave, Granada, Colorado, 81041 (38.062452, -102.308732)
+
+**Hours:** Sun-Mon: Closed; Tue-Fri: 9:00 AM-4:00 PM; Sat: Closed
+
+### Park
+
+**Address:** County Rd 23 5/10, Granada, Colorado, 81041
+
+**Hours:** Daily: 8:00 AM-7:30 PM
+
 ## Review / Personal Notes
 

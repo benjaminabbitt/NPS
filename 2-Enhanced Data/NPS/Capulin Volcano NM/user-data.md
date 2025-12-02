@@ -28,10 +28,19 @@
 
 ## Amber's Data (from spreadsheet)
 
-**Visitor Center:** Capulin Volcano Visitor Center
+### Visitor Center
 
-**Address:** 44 Volcano Road, Capulin, New Mexico 88414 (36.7787156, -103.9803504)
+**Name:** Capulin Volcano Visitor Center
+
+**Address:** 44 Volcano Road, Capulin, New Mexico, 88414 (36.778716, -103.98035)
 
 **Hours:** Daily: 8:30 AM-4:30 PM
+
+### Park
+
+**Address:** 46 Volcano Highway, Capulin, New Mexico, 88414
+
+**Hours:** Daily: 7:00 AM-5:00 PM
+
 ## Review / Personal Notes
 

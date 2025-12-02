@@ -1,3 +1,8 @@
+---
+geocode:
+  visitor_center: [42.8663425, -106.3371601]
+---
+
 # Mormon Pioneer NHT
 
 ## Cancellation Stamp Locations:

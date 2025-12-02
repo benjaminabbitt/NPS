@@ -1,3 +1,8 @@
+---
+geocode:
+  visitor_center: [42.5226304, -70.8919882]
+---
+
 # Salem Maritime NHP
 
 ## Cancellation Stamp Locations:

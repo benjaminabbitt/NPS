@@ -1,3 +1,8 @@
+---
+geocode:
+  visitor_center: [40.7339151, -74.0020726]
+---
+
 # Stonewall NM
 
 ## Cancellation Stamp Locations:

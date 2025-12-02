@@ -1,3 +1,8 @@
+---
+geocode:
+  visitor_center: [37.6383, -112.1667]
+---
+
 # Bryce Canyon NP (National Park)
 
 ## Cancellation Stamp Locations

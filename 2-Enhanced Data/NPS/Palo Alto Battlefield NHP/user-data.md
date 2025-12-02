@@ -33,4 +33,20 @@
 - [ ] Stillman House Museum (1 hour, 12 miles)
 - [ ] SpaceX Starbase at Boca Chica (1-2 hours, 25 miles)
 
+## Amber's Data (from spreadsheet)
+
+### Visitor Center
+
+**Name:** Palo Alto Visitor Center
+
+**Address:** 7200 Paredes Line Road, Brownsville, Texas, 78526 (26.004997, -97.481761)
+
+**Hours:** Daily: 8:00 AM-5:00 PM
+
+### Park
+
+**Address:** 7200 Paredes Line Road, Brownsville, Texas, 78526 (26.004997, -97.481761)
+
+**Hours:** Daily: 8:00 AM-5:00 PM
+
 ## Review / Personal Notes

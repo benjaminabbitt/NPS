@@ -33,10 +33,19 @@
 
 ## Amber's Data (from spreadsheet)
 
-**Visitor Center:** Castle Clinton NM
+### Visitor Center
 
-**Address:** Battery Park, New York, New York 10004 (40.702856, -74.0172629)
+**Name:** Castle Clinton NM
+
+**Address:** Battery Park, New York, New York, 10004 (40.702856, -74.017263)
 
 **Hours:** Daily: 7:45 AM-5:00 PM
+
+### Park
+
+**Address:** Battery Park, New York, New York, 10004 (40.702856, -74.017263)
+
+**Hours:** Daily: 7:45 AM-5:00 PM
+
 ## Review / Personal Notes
 

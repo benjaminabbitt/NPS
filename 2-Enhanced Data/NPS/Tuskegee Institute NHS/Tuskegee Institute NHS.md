@@ -1,3 +1,8 @@
+---
+geocode:
+  visitor_center: [32.4288729, -85.7084448]
+---
+
 # Tuskegee Institute NHS
 
 ## Cancellation Stamp Locations:

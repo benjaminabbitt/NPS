@@ -11,104 +11,36 @@
             38.5831
           ],
           [
+            -89.6448765,
+            39.7973527
+          ],
+          [
             -87.5360877,
             38.6775722
-          ],
-          [
-            -87.8625811,
-            36.4831363
-          ],
-          [
-            -86.434846,
-            35.881861
-          ],
-          [
-            -86.2820081,
-            35.7730076
-          ],
-          [
-            -86.2820081,
-            35.7730076
-          ],
-          [
-            -86.2820081,
-            35.7730076
-          ],
-          [
-            -87.0878382,
-            35.1813118
-          ],
-          [
-            -86.8144977,
-            33.5153921
-          ],
-          [
-            -85.83128,
-            33.6581699
-          ],
-          [
-            -85.7084448,
-            32.4288729
-          ],
-          [
-            -85.6849644,
-            32.4579178
-          ],
-          [
-            -84.3734662,
-            33.7563822
-          ],
-          [
-            -84.324584,
-            33.9872732
-          ],
-          [
-            -82.4528575,
-            35.2727825
-          ],
-          [
-            -82.8295399,
-            36.1629401
-          ],
-          [
-            -85.1697211,
-            37.5524796
           ],
           [
             -85.7346486,
             37.5503915
           ],
           [
+            -85.1697211,
+            37.5524796
+          ],
+          [
+            -84.5958,
+            37.8936
+          ],
+          [
             -84.508528,
             39.119899
-          ],
-          [
-            -84.2119654,
-            39.7553856
-          ],
-          [
-            -81.3748608,
-            40.7975362
-          ],
-          [
-            -81.560308,
-            41.2625954
-          ],
-          [
-            -83.3782184,
-            41.9159374
-          ],
-          [
-            -86.0547162,
-            44.8111976
           ],
           [
             -87.6096053,
             41.6928561
           ],
           [
-            -89.6448765,
-            39.7973527
+            -89.6118533,
+            43.0817879
           ],
           [
             -90.4068,
@@ -118,9 +50,9 @@
       },
       "properties": {
         "trip_number": 3,
-        "total_sites": 26,
-        "total_distance_miles": 2408.5,
-        "total_days": 9.47
+        "total_sites": 8,
+        "total_distance_miles": 1205.4,
+        "total_days": 4
       }
     },
     {
@@ -143,6 +75,21 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -89.6448765,
+          39.7973527
+        ]
+      },
+      "properties": {
+        "name": "Springfield 1908 Race Riot National Monument, Springfield, Illinois",
+        "arrival_day": 1,
+        "arrival_time": "10:41"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -87.5360877,
           38.6775722
         ]
@@ -150,232 +97,7 @@
       "properties": {
         "name": "George Rogers Clark NHP, Vincennes, Indiana",
         "arrival_day": 1,
-        "arrival_time": "10:49"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -87.8625811,
-          36.4831363
-        ]
-      },
-      "properties": {
-        "name": "Fort Donelson NB, Dover, Tennessee",
-        "arrival_day": 1,
-        "arrival_time": "15:35"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -86.434846,
-          35.881861
-        ]
-      },
-      "properties": {
-        "name": "Stones River NB, Murfreesboro, Tennessee",
-        "arrival_day": 2,
-        "arrival_time": "19:12"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -86.2820081,
-          35.7730076
-        ]
-      },
-      "properties": {
-        "name": "Obed WSR, Wartburg, Tennessee",
-        "arrival_day": 2,
-        "arrival_time": "21:24"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -86.2820081,
-          35.7730076
-        ]
-      },
-      "properties": {
-        "name": "Big South Fork NRRA, Oneida, Tennessee",
-        "arrival_day": 2,
-        "arrival_time": "23:24"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -86.2820081,
-          35.7730076
-        ]
-      },
-      "properties": {
-        "name": "Great Smoky Mountains NP, Gatlinburg, Tennessee",
-        "arrival_day": 2,
-        "arrival_time": "01:24"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -87.0878382,
-          35.1813118
-        ]
-      },
-      "properties": {
-        "name": "Fossil Butte NM, Kemmerer, 83101",
-        "arrival_day": 3,
-        "arrival_time": "04:30"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -86.8144977,
-          33.5153921
-        ]
-      },
-      "properties": {
-        "name": "Birmingham Civil Rights NM, Birmingham, Alabama",
-        "arrival_day": 3,
-        "arrival_time": "08:36"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -85.83128,
-          33.6581699
-        ]
-      },
-      "properties": {
-        "name": "Freedom Riders NM, Anniston, Alabama",
-        "arrival_day": 3,
-        "arrival_time": "11:38"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -85.7084448,
-          32.4288729
-        ]
-      },
-      "properties": {
-        "name": "Tuskegee Institute NHS, Tuskegee, 36088",
-        "arrival_day": 4,
         "arrival_time": "15:10"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -85.6849644,
-          32.4579178
-        ]
-      },
-      "properties": {
-        "name": "Tuskegee Airmen NHS, Tuskegee, 36083",
-        "arrival_day": 4,
-        "arrival_time": "17:12"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -84.3734662,
-          33.7563822
-        ]
-      },
-      "properties": {
-        "name": "Martin Luther King, Jr NHP, Atlanta, Georgia",
-        "arrival_day": 4,
-        "arrival_time": "21:20"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -84.324584,
-          33.9872732
-        ]
-      },
-      "properties": {
-        "name": "Chattahoochee River NRA, Sandy Springs, Georgia",
-        "arrival_day": 5,
-        "arrival_time": "23:37"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -82.4528575,
-          35.2727825
-        ]
-      },
-      "properties": {
-        "name": "Carl Sandburg Home NHS, Flat Rock, North Carolina",
-        "arrival_day": 5,
-        "arrival_time": "04:08"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -82.8295399,
-          36.1629401
-        ]
-      },
-      "properties": {
-        "name": "Andrew Johnson NHS, Greeneville, Tennessee",
-        "arrival_day": 5,
-        "arrival_time": "07:18"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -85.1697211,
-          37.5524796
-        ]
-      },
-      "properties": {
-        "name": "George Washington Birthplace NM, Colonial Beach, 22443",
-        "arrival_day": 6,
-        "arrival_time": "12:13"
       }
     },
     {
@@ -389,8 +111,38 @@
       },
       "properties": {
         "name": "Abraham Lincoln Birthplace NHP, Hodgenville, Kentucky",
-        "arrival_day": 6,
-        "arrival_time": "14:46"
+        "arrival_day": 2,
+        "arrival_time": "08:26"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.1697211,
+          37.5524796
+        ]
+      },
+      "properties": {
+        "name": "George Washington Birthplace NM, Colonial Beach, 22443",
+        "arrival_day": 2,
+        "arrival_time": "10:59"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.5958,
+          37.8936
+        ]
+      },
+      "properties": {
+        "name": "Camp Nelson NM, Nicholasville, Kentucky",
+        "arrival_day": 2,
+        "arrival_time": "13:41"
       }
     },
     {
@@ -404,83 +156,8 @@
       },
       "properties": {
         "name": "William Howard Taft NHS, Cincinnati, Ohio",
-        "arrival_day": 7,
-        "arrival_time": "19:04"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -84.2119654,
-          39.7553856
-        ]
-      },
-      "properties": {
-        "name": "Dayton Aviation Heritage NHP, Dayton, Ohio",
-        "arrival_day": 7,
-        "arrival_time": "21:54"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -81.3748608,
-          40.7975362
-        ]
-      },
-      "properties": {
-        "name": "First Ladies NHS, Canton, Ohio",
-        "arrival_day": 7,
-        "arrival_time": "02:55"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -81.560308,
-          41.2625954
-        ]
-      },
-      "properties": {
-        "name": "Cuyahoga Valley NP, Peninsula, Ohio",
-        "arrival_day": 8,
-        "arrival_time": "05:31"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -83.3782184,
-          41.9159374
-        ]
-      },
-      "properties": {
-        "name": "River Raisin NBP, Monroe, Michigan",
-        "arrival_day": 8,
-        "arrival_time": "09:24"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -86.0547162,
-          44.8111976
-        ]
-      },
-      "properties": {
-        "name": "Sleeping Bear Dunes NL, Empire, Michigan",
-        "arrival_day": 9,
-        "arrival_time": "15:46"
+        "arrival_day": 3,
+        "arrival_time": "08:13"
       }
     },
     {
@@ -494,8 +171,8 @@
       },
       "properties": {
         "name": "Pullman NHP, Chicago, Illinois",
-        "arrival_day": 9,
-        "arrival_time": "21:56"
+        "arrival_day": 3,
+        "arrival_time": "14:36"
       }
     },
     {
@@ -503,14 +180,14 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -89.6448765,
-          39.7973527
+          -89.6118533,
+          43.0817879
         ]
       },
       "properties": {
-        "name": "Springfield 1908 Race Riot National Monument, Springfield, Illinois",
-        "arrival_day": 10,
-        "arrival_time": "03:00"
+        "name": "Ice Age National Scenic Trail, Cross Plains, Wisconsin",
+        "arrival_day": 4,
+        "arrival_time": "08:08"
       }
     },
     {
@@ -524,8 +201,8 @@
       },
       "properties": {
         "name": "Kirkwood, MO",
-        "arrival_day": 10,
-        "arrival_time": "04:41"
+        "arrival_day": 1,
+        "arrival_time": "06:00"
       }
     }
   ]

@@ -1,3 +1,8 @@
+---
+geocode:
+  visitor_center: [38.967745, -77.140882]
+---
+
 # Clara Barton NHS
 
 ## Cancellation Stamp Locations:

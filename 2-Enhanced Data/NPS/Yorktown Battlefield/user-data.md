@@ -8,8 +8,19 @@ No activities found. See [Yorktown Battlefield.md](Yorktown Battlefield.md) for 
 
 ## Amber's Data (from spreadsheet)
 
-**Visitor Center:** Visitor Center
+### Visitor Center
 
-**Address:** 1000 Colonial Nat'l Historical Pkwy, Yorktown,  23690
+**Name:** Visitor Center
+
+**Address:** 1000 Colonial Nat'l Historical Pkwy, Yorktown, 23690
 
 **Hours:** Daily: 9:00 AM-5:00 PM
+
+### Park
+
+**Address:** 1000 Colonial Nat'l Historical Pkwy, Yorktown, Virginia, 23690
+
+**Hours:** Daily: 9:00 AM-5:00 PM
+
+## Review / Personal Notes
+

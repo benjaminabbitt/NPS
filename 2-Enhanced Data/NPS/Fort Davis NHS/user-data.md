@@ -29,5 +29,21 @@
 - [ ] Chihuahuan Desert Nature Center (1-2 hours, 5 miles south)
 - [ ] Balmorhea State Park (1-2 hours, 35 miles east)
 
+## Amber's Data (from spreadsheet)
+
+### Visitor Center
+
+**Name:** Visitor Center
+
+**Address:** 101 Lt. Flipper Dr. #1379, Fort Davis, Texas, 79734
+
+**Hours:** Daily: 8:00 AM-4:30 PM
+
+### Park
+
+**Address:** 101 Lt. Flipper Dr. #1379, Fort Davis, Texas, 79734
+
+**Hours:** Daily: 8:00 AM-5:00 PM
+
 ## Review / Personal Notes
 

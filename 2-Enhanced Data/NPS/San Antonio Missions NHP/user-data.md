@@ -32,4 +32,20 @@
 - [ ] Witte Museum (2-3 hours, Brackenridge Park)
 - [ ] Natural Bridge Caverns (3-4 hours, 30 minutes north)
 
+## Amber's Data (from spreadsheet)
+
+### Visitor Center
+
+**Name:** Visitor Center at Mission San José
+
+**Address:** 6701 San Jose Drive, San Antonio, Texas, 78214 (29.360346, -98.478887)
+
+**Hours:** Daily: 9:00 AM-5:00 PM
+
+### Park
+
+**Address:** 6701 San Jose Drive, San Antonio, Texas, 78214 (29.360346, -98.478887)
+
+**Hours:** Daily: 6:00 AM-8:00 PM
+
 ## Review / Personal Notes

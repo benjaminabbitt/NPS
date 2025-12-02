@@ -27,12 +27,6 @@
 - [ ] Minuteman Missile National Historic Site (30 minutes tour, 4 miles north)
 - [ ] Custer State Park Wildlife Loop Road (1.5-2 hours, 70 miles/1 hour 15 minutes southwest)
 
-## Review / Personal Notes
-
 ## Amber's Data (from spreadsheet)
 
-**Visitor Center:** 
-
-**Address:** 
-
-**Hours:** Hours not available
+## Review / Personal Notes

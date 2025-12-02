@@ -43,9 +43,18 @@
 
 ## Amber's Data (from spreadsheet)
 
-**Visitor Center:** Big Thicket Visitor Center
+### Visitor Center
 
-**Address:** 6102 FM 420, Kountze, Texas 77625 (31.2638905, -98.5456116)
+**Name:** Big Thicket Visitor Center
+
+**Address:** 6102 FM 420, Kountze, Texas, 77625
 
 **Hours:** Daily: 9:00 AM-5:00 PM
+
+### Park
+
+**Address:** 6102 FM 420, Kountze, Texas, 77625
+
+**Hours:** Open 24 hours
+
 ## Review / Personal Notes

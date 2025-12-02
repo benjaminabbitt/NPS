@@ -1,3 +1,8 @@
+---
+geocode:
+  visitor_center: [29.8993771, -81.3143815]
+---
+
 # Castillo de San Marcos NM
 
 ## Cancellation Stamp Locations:

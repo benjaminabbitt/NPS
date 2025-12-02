@@ -1,3 +1,8 @@
+---
+geocode:
+  visitor_center: [32.1478, -104.5567]
+---
+
 # Carlsbad Caverns NP (National Park)
 
 ## Cancellation Stamp Locations

@@ -1,3 +1,8 @@
+---
+geocode:
+  visitor_center: [34.1678411, -82.0256516]
+---
+
 # Ninety Six NHS
 
 ## Cancellation Stamp Locations:

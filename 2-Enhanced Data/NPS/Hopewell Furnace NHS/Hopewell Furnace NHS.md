@@ -1,3 +1,8 @@
+---
+geocode:
+  visitor_center: [40.9699889, -77.7278831]
+---
+
 # Hopewell Furnace NHS
 
 ## Cancellation Stamp Locations:

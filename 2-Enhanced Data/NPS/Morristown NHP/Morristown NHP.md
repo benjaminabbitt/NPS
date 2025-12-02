@@ -1,3 +1,8 @@
+---
+geocode:
+  visitor_center: [40.7973298, -74.4671071]
+---
+
 # Morristown NHP
 
 ## Cancellation Stamp Locations:

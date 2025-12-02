@@ -1,3 +1,8 @@
+---
+geocode:
+  visitor_center: [43.6311669, -72.517908]
+---
+
 # Marsh-Billings-Rockefeller NHP
 
 ## Cancellation Stamp Locations:

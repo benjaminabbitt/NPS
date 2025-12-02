@@ -35,10 +35,19 @@
 
 ## Amber's Data (from spreadsheet)
 
-**Visitor Center:** Chaco Culture National Historical Park Visitor Center
+### Visitor Center
 
-**Address:** 1808 County Road 7950, Nageezi, New Mexico 87037
+**Name:** Chaco Culture National Historical Park Visitor Center
+
+**Address:** 1808 County Road 7950, Nageezi, New Mexico, 87037
 
 **Hours:** Daily: 9:00 AM-5:00 PM
+
+### Park
+
+**Address:** 1808 CR 7950, Nageezi, New Mexico, 87037
+
+**Hours:** Daily: 7:00 AM-9:00 PM
+
 ## Review / Personal Notes
 

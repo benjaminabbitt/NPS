@@ -6,11 +6,21 @@
 
 No activities found. See [Cumberland Gap NHP.md](Cumberland Gap NHP.md) for details.
 
-
 ## Amber's Data (from spreadsheet)
 
-**Visitor Center:** Cumberland Gap National Historical Park Visitor Center
+### Visitor Center
 
-**Address:** 100 Pinnacle View Rd., Middlesboro, Kentucky 40965
+**Name:** Cumberland Gap National Historical Park Visitor Center
+
+**Address:** 100 Pinnacle View Rd., Middlesboro, Kentucky, 40965
 
 **Hours:** Daily: 9:00 AM-4:00 PM
+
+### Park
+
+**Address:** 100 Pinnacle View Rd., Middlesboro, Kentucky, 40965
+
+**Hours:** Open 24 hours
+
+## Review / Personal Notes
+

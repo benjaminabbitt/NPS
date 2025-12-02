@@ -6,11 +6,21 @@
 
 No activities found. See [Arkansas Post N MEM.md](Arkansas Post N MEM.md) for details.
 
-
 ## Amber's Data (from spreadsheet)
 
-**Visitor Center:** Arkansas Post Visitor Center
+### Visitor Center
 
-**Address:** 1741 Old Post Rd, Gillett, Arkansas 72055 (35.2048883, -92.4479108)
+**Name:** Arkansas Post Visitor Center
 
-**Hours:** 8:30 AM–5:00 PM (check website for specific days)
+**Address:** 1741 Old Post Rd, Gillett, Arkansas, 72055
+
+**Hours:** Sun-Mon: 8:30 AM–5:00 PM; Tue-Wed: Closed; Thu-Sat: 8:30 AM–5:00 PM
+
+### Park
+
+**Address:** 1741 Old Post Rd, Gillett, Arkansas, 72055
+
+**Hours:** Sun-Mon: 8:00 AM–5:00 PM; Tue-Wed: Closed; Thu-Sat: 8:00 AM–5:00 PM
+
+## Review / Personal Notes
+

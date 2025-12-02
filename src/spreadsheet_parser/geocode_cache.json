@@ -1,0 +1,2446 @@
+{
+  "1510 5th ave n,, birmingham, alabama, 35203": {
+    "lat": 33.515392,
+    "lon": -86.814498
+  },
+  "1510 5th avenue n, birmingham, alabama, 35203": {
+    "lat": 33.515392,
+    "lon": -86.814498
+  },
+  "1031 gurnee ave, anniston, alabama, 36201": {
+    "lat": 33.65817,
+    "lon": -85.83128
+  },
+  "11288 horseshoe bend rd, daviston, alabama, 36256": {
+    "lat": null,
+    "lon": null
+  },
+  "4322 little river trail #100, fort payne, alabama, 35967": {
+    "lat": null,
+    "lon": null
+  },
+  "4322 little river canyon rim pkwy, fort payne, alabama, 35967": {
+    "lat": null,
+    "lon": null
+  },
+  "3729 co rd 98, bridgeport, alabama, 35740": {
+    "lat": null,
+    "lon": null
+  },
+  "1616 chappie james ave, tuskegee, alabama, 36083": {
+    "lat": 32.457918,
+    "lon": -85.684964
+  },
+  "1616 chappie james ave, tuskegee, 36083": {
+    "lat": 32.457918,
+    "lon": -85.684964
+  },
+  "1212 w montgomery rd, tuskegee, alabama, 36088": {
+    "lat": 32.428873,
+    "lon": -85.708445
+  },
+  "1212 w montgomery rd, tuskegee, 36088": {
+    "lat": 32.428873,
+    "lon": -85.708445
+  },
+  "1000 silver st., bldg. 603, king salmon, alaska, 99613": {
+    "lat": null,
+    "lon": null
+  },
+  "1 king salmon airport rd, king salmon, alaska, 99613": {
+    "lat": 58.682674,
+    "lon": -156.668242
+  },
+  "2716 airport beach road, unalaska, alaska, 99692": {
+    "lat": 53.884515,
+    "lon": -166.554588
+  },
+  "2716 airport beach rd, unalaska, alaska, 99692": {
+    "lat": 53.884515,
+    "lon": -166.554588
+  },
+  "king salmon airport rd, king salmon, alaska, 99613": {
+    "lat": 58.682674,
+    "lon": -156.668242
+  },
+  "214 front st., nome, alaska, 99762": {
+    "lat": 64.498081,
+    "lon": -165.410157
+  },
+  "171 third ave, kotzebue, alaska, 99752": {
+    "lat": null,
+    "lon": null
+  },
+  "mile 237 highway 3, denali park, alaska, 99755": {
+    "lat": null,
+    "lon": null
+  },
+  "park rd, denali national park and preserve, alaska, 99755": {
+    "lat": null,
+    "lon": null
+  },
+  "101 dunkel st, fairbanks, alaska, 99701": {
+    "lat": 64.845898,
+    "lon": -147.711921
+  },
+  "1 park road, gustavus, alaska, 99826": {
+    "lat": 58.451265,
+    "lon": -135.829998
+  },
+  "179 barlett cove road, gustavus, alaska, 99826": {
+    "lat": null,
+    "lon": null
+  },
+  "5421 north star street, barrow, alaska, 99723": {
+    "lat": 71.298213,
+    "lon": -156.753988
+  },
+  "1212 4th ave, seward, alaska, 99664": {
+    "lat": null,
+    "lon": null
+  },
+  "291 broadway, skagway, alaska, 99840": {
+    "lat": 59.453466,
+    "lon": -135.31849
+  },
+  "171 3rd ave, kotzebue, alaska, 99752": {
+    "lat": 66.89697,
+    "lon": -162.593044
+  },
+  "1 park place, port alsworth, alaska, 99653": {
+    "lat": null,
+    "lon": null
+  },
+  "103 monastery st, sitka, alaska, 99835": {
+    "lat": 57.052027,
+    "lon": -135.331966
+  },
+  "501 lincoln st, sitka, alaska, 99835": {
+    "lat": 57.051431,
+    "lon": -135.331223
+  },
+  "4175 geist rd, fairbanks, alaska, 99709": {
+    "lat": 64.848592,
+    "lon": -147.836082
+  },
+  "indn rte 7, chinle, arizona, 86503": {
+    "lat": null,
+    "lon": null
+  },
+  "1100 w ruins dr, coolidge, arizona, 85128": {
+    "lat": 32.994686,
+    "lon": -111.536662
+  },
+  "13063 e bonita canyon rd, willcox, arizona, 85643": {
+    "lat": null,
+    "lon": null
+  },
+  "12856 e rhyolite creek rd, willcox, arizona, 85643": {
+    "lat": null,
+    "lon": null
+  },
+  "4101 w montezuma canyon rd, hereford, arizona, 85615": {
+    "lat": null,
+    "lon": null
+  },
+  "3500 s apache pass rd, bowie, arizona, 85605": {
+    "lat": 32.326507,
+    "lon": -109.484168
+  },
+  "littlefield, arizona, 86432": {
+    "lat": 36.887199,
+    "lon": -113.929688
+  },
+  "4001 east aviator drive, st. george, utah, 84790": {
+    "lat": null,
+    "lon": null
+  },
+  "691 scenic view rd dr, page, arizona, 86040": {
+    "lat": null,
+    "lon": null
+  },
+  "hwy 89 at glen canyon dam, page, arizona, 86040": {
+    "lat": null,
+    "lon": null
+  },
+  "20 south entrance road, grand canyon, arizona, 86023": {
+    "lat": 36.055761,
+    "lon": -112.129291
+  },
+  "s entrance rd, grand canyon village, arizona, 86023": {
+    "lat": 36.055761,
+    "lon": -112.129291
+  },
+  "chandler, arizona, 85249": {
+    "lat": 33.306203,
+    "lon": -111.841185
+  },
+  "1/2 mile w, hwy. 191, ganado, arizona, 86505": {
+    "lat": null,
+    "lon": null
+  },
+  "2800 montezuma castle rd, camp verde, arizona, 86322": {
+    "lat": 34.614388,
+    "lon": -111.845751
+  },
+  "az-564, shonto, arizona, 86054": {
+    "lat": null,
+    "lon": null
+  },
+  "kayenta, arizona, 86033": {
+    "lat": 36.721846,
+    "lon": -110.253872
+  },
+  "10 organ pipe dr, ajo, arizona, 85321": {
+    "lat": 31.954814,
+    "lon": -112.801135
+  },
+  "exit 311 interstate 40, petrified forest, arizona, 86028": {
+    "lat": null,
+    "lon": null
+  },
+  "1 park rd, petrified forest national park, arizona, 86028": {
+    "lat": 35.065864,
+    "lon": -109.781483
+  },
+  "406 n pipe spring rd, fredonia, arizona, 86022": {
+    "lat": null,
+    "lon": null
+  },
+  "3693 s old spanish trail, tucson, arizona, 85730": {
+    "lat": 32.180218,
+    "lon": -110.73626
+  },
+  "6082 sunset crater road, flagstaff, arizona, 86004": {
+    "lat": null,
+    "lon": null
+  },
+  "6082 forest service rd 545, flagstaff, arizona, 86004": {
+    "lat": null,
+    "lon": null
+  },
+  "26260 az-188, roosevelt, arizona, 85545": {
+    "lat": 33.664623,
+    "lon": -111.126248
+  },
+  "1895 e i-19 frontage rd, tumacacori, arizona, 85640": {
+    "lat": null,
+    "lon": null
+  },
+  "1891 i-19 frontage rd, tumacacori, arizona, 85640": {
+    "lat": null,
+    "lon": null
+  },
+  "25 tuzigoot rd, clarkdale, arizona, 86324": {
+    "lat": 34.771077,
+    "lon": -112.025338
+  },
+  "3 walnut canyon road, flagstaff, arizona, 86004": {
+    "lat": 35.202733,
+    "lon": -111.51474
+  },
+  "25137 n. sunset crater-wupatki loop rd., flagstaff, arizona, 86004": {
+    "lat": null,
+    "lon": null
+  },
+  "1741 old post rd, gillett, arkansas, 72055": {
+    "lat": null,
+    "lon": null
+  },
+  "170 ranger road, st. joe, arkansas, 72675": {
+    "lat": null,
+    "lon": null
+  },
+  "301 parker ave, fort smith, arkansas, 72901": {
+    "lat": 35.388505,
+    "lon": -94.431073
+  },
+  "arkansas": {
+    "lat": 35.204888,
+    "lon": -92.447911
+  },
+  "2120 w daisy l gatson bates dr, little rock, arkansas, 72202": {
+    "lat": 34.738135,
+    "lon": -92.297383
+  },
+  "15930 national park dr, garfield, arkansas, 72732": {
+    "lat": null,
+    "lon": null
+  },
+  "117 s hervey st, hope, arkansas, 71801": {
+    "lat": 33.667276,
+    "lon": -93.596517
+  },
+  "alcatraz island, san francisco bay, california, 94133": {
+    "lat": null,
+    "lon": null
+  },
+  "1800 cabrillo memorial dr, san diego, california, 92106": {
+    "lat": 32.692221,
+    "lon": -117.245169
+  },
+  "2701 barstow road, barstow, california, 92311": {
+    "lat": 34.87135,
+    "lon": -117.020274
+  },
+  "2 black canyon road, essex, california, 92332": {
+    "lat": 35.046443,
+    "lon": -115.393529
+  },
+  "29700 woodford-tehachapi rd, keene, california, 93531": {
+    "lat": 35.223976,
+    "lon": -118.559613
+  },
+  "1901 spinnaker drive, ventura, california, 93001": {
+    "lat": 34.248465,
+    "lon": -119.266556
+  },
+  "death valley, california, 92328": {
+    "lat": 36.458736,
+    "lon": -116.871391
+  },
+  "airport rd, death valley, california, 92328": {
+    "lat": 35.286553,
+    "lon": -116.080849
+  },
+  "devils postpile road, mammoth lakes, california, 93546": {
+    "lat": null,
+    "lon": null
+  },
+  "1000 kuss rd, danville, california, 94526": {
+    "lat": 37.825425,
+    "lon": -122.022197
+  },
+  "201 marine dr, san francisco, california, 94129": {
+    "lat": 37.809009,
+    "lon": -122.474392
+  },
+  "201 fort mason, san francisco, california, 94123": {
+    "lat": 37.803882,
+    "lon": -122.4285
+  },
+  "golden gate bridge plaza, san francisco, california, 94129": {
+    "lat": 37.807169,
+    "lon": -122.475654
+  },
+  "4202 alhambra ave, martinez, california, 94553": {
+    "lat": 37.991292,
+    "lon": -122.131322
+  },
+  "74485 national park drive, twentynine palms, california, 92277": {
+    "lat": 34.128688,
+    "lon": -116.037625
+  },
+  "6533 freedom wy, twentynine palms, california, 92277": {
+    "lat": 34.134827,
+    "lon": -116.056809
+  },
+  "47050 generals highway, three rivers, california, 93271": {
+    "lat": null,
+    "lon": null
+  },
+  "83918 ca-180, grant grove village, california, 93633": {
+    "lat": 36.739922,
+    "lon": -118.963255
+  },
+  "38050 highway 36 east, mineral, california, 96063": {
+    "lat": null,
+    "lon": null
+  },
+  "21820 lassen peak hwy, mineral, california, 96063": {
+    "lat": 40.43778,
+    "lon": -121.533832
+  },
+  "1 indian well, tulelake, california, 96134": {
+    "lat": null,
+    "lon": null
+  },
+  "5001 highway 395, independence, california, 93526": {
+    "lat": 36.79497,
+    "lon": -118.194734
+  },
+  "90942 kelso cima rd, essex, california, 92332": {
+    "lat": null,
+    "lon": null
+  },
+  "1 muir woods rd, mill valley, california, 94941": {
+    "lat": null,
+    "lon": null
+  },
+  "5000 east entrance road, paicines, california, 95043": {
+    "lat": null,
+    "lon": null
+  },
+  "5000 ca-146, paicines, california, 95043": {
+    "lat": null,
+    "lon": null
+  },
+  "1 bear valley road, point reyes station, california, 94956": {
+    "lat": 38.041118,
+    "lon": -122.800336
+  },
+  "210 lincoln boulevard, san francisco, california, 94129": {
+    "lat": 37.801975,
+    "lon": -122.456831
+  },
+  "210 lincoln blvd, san francisco, california, 94129": {
+    "lat": 37.801975,
+    "lon": -122.456831
+  },
+  "1111 second street, crescent city, california, 95531": {
+    "lat": null,
+    "lon": null
+  },
+  "us-101 & redwood hwy, us-101, orick, california, 95555": {
+    "lat": null,
+    "lon": null
+  },
+  "1414 harbour way s #3000, richmond, california, 94804": {
+    "lat": null,
+    "lon": null
+  },
+  "2905 hyde street, san francisco, california, 94109": {
+    "lat": 37.807727,
+    "lon": -122.420876
+  },
+  "499 jefferson st, san francisco, california, 94109": {
+    "lat": 37.807502,
+    "lon": -122.420543
+  },
+  "26876 mulholland highway, calabasas, california, 91302": {
+    "lat": 34.135161,
+    "lon": -118.644768
+  },
+  "44340 ca-139, tulelake, california, 96134": {
+    "lat": null,
+    "lon": null
+  },
+  "14412 kennedy memorial drive, whiskeytown, california, 96095": {
+    "lat": null,
+    "lon": null
+  },
+  "14412 jfk mem dr, whiskeytown, california, 96095": {
+    "lat": null,
+    "lon": null
+  },
+  "9007 village dr, yosemite national park, california, 95389": {
+    "lat": null,
+    "lon": null
+  },
+  "county rd 23 5/10, granada, colorado, 81041": {
+    "lat": null,
+    "lon": null
+  },
+  "205 e goff ave, granada, colorado, 81041": {
+    "lat": 38.062452,
+    "lon": -102.308732
+  },
+  "35110 co-194, la junta, colorado, 81050": {
+    "lat": 38.040532,
+    "lon": -103.429389
+  },
+  "9800 highway 347, montrose, colorado, 81401": {
+    "lat": null,
+    "lon": null
+  },
+  "1750 rim rock drive, fruita, colorado, 81521": {
+    "lat": 39.100854,
+    "lon": -108.734423
+  },
+  "1750 rimrock dr, fruita, colorado, 81521": {
+    "lat": null,
+    "lon": null
+  },
+  "102 elk creek, gunnison, colorado, 81230": {
+    "lat": 38.466636,
+    "lon": -107.165637
+  },
+  "11625 e 1500 s, jensen, utah, 84035": {
+    "lat": null,
+    "lon": null
+  },
+  "4545 us-40, dinosaur, colorado, 81610": {
+    "lat": 40.243617,
+    "lon": -108.972499
+  },
+  "15807 co rd 1, florissant, colorado, 80816": {
+    "lat": null,
+    "lon": null
+  },
+  "11999 state highway 150, mosca, colorado, 81146": {
+    "lat": null,
+    "lon": null
+  },
+  "hovenweep rd, montezuma creek, utah, 84534": {
+    "lat": null,
+    "lon": null
+  },
+  "34840 hwy 160, mancos, colorado, 81328": {
+    "lat": null,
+    "lon": null
+  },
+  "35853 rd h.5, mancos, colorado, 81328": {
+    "lat": null,
+    "lon": null
+  },
+  "1000 us hwy 36, estes park, colorado, 80517": {
+    "lat": null,
+    "lon": null
+  },
+  "1000 us-36, estes park, colorado, 80517": {
+    "lat": 40.375336,
+    "lon": -105.5059
+  },
+  "55411 county rd w, eads, colorado, 81036": {
+    "lat": null,
+    "lon": null
+  },
+  "55411 county rd w, chivington, colorado, 81036": {
+    "lat": null,
+    "lon": null
+  },
+  "county rd 20.5, cortez, colorado, 81321": {
+    "lat": null,
+    "lon": null
+  },
+  "120 huyshope ave, hartford, connecticut, 06106": {
+    "lat": 41.756704,
+    "lon": -72.66309
+  },
+  "735 nod hill rd, wilton, connecticut, 06897": {
+    "lat": 41.257755,
+    "lon": -73.456928
+  },
+  "211 delaware st, new castle, delaware, 19720": {
+    "lat": 39.659799,
+    "lon": -75.563582
+  },
+  "10 market st, new castle, delaware, 19720": {
+    "lat": 39.659868,
+    "lon": -75.56338
+  },
+  "33100 tamiami trail e, ochopee, florida, 34141": {
+    "lat": 25.900584,
+    "lon": -81.322299
+  },
+  "33000 tamiami trail east, ochopee, florida, 34141": {
+    "lat": 25.898894,
+    "lon": -81.288386
+  },
+  "9700 sw 328th street, homestead, florida, 33033": {
+    "lat": 25.464396,
+    "lon": -80.334736
+  },
+  "9700 sw 328th st, homestead, florida, 33033": {
+    "lat": 25.464396,
+    "lon": -80.334736
+  },
+  "7611 atlantic ave s, new smyrna beach, florida, 32169": {
+    "lat": 28.927222,
+    "lon": -80.824397
+  },
+  "7611 s. atlantic ave, new smyrna beach, florida, 32169": {
+    "lat": 28.927222,
+    "lon": -80.824397
+  },
+  "11 s castillo dr, st. augustine, florida, 32084": {
+    "lat": 29.899377,
+    "lon": -81.314381
+  },
+  "8300 desoto memorial hwy, bradenton, florida, 34209": {
+    "lat": null,
+    "lon": null
+  },
+  "40001 sr-9336, homestead, florida, 33034": {
+    "lat": null,
+    "lon": null
+  },
+  "fort jefferson, key west, florida, 33040": {
+    "lat": null,
+    "lon": null
+  },
+  "12713 fort caroline rd, jacksonville, florida, 32225": {
+    "lat": 30.382666,
+    "lon": -81.497167
+  },
+  "12751 fort caroline rd, jacksonville, florida, 32225": {
+    "lat": 30.384847,
+    "lon": -81.495984
+  },
+  "8635 a1a s, st. augustine, florida, 32080": {
+    "lat": 29.861187,
+    "lon": -81.278035
+  },
+  "1400 fort pickens rd, pensacola beach, florida, 32561": {
+    "lat": 30.331916,
+    "lon": -87.142852
+  },
+  "12713 ft caroline rd, jacksonville, florida, 32225": {
+    "lat": 30.382666,
+    "lon": -81.497167
+  },
+  "760 pow rd, andersonville, georgia, 31711": {
+    "lat": null,
+    "lon": null
+  },
+  "5vwf+x6, andersonville, georgia, 31711": {
+    "lat": null,
+    "lon": null
+  },
+  "8800 roberts drive, sandy springs, georgia, 30350": {
+    "lat": 34.003734,
+    "lon": -84.335359
+  },
+  "1978 island ford pkwy, sandy springs, georgia, 30350": {
+    "lat": 33.987273,
+    "lon": -84.324584
+  },
+  "3370 lafayette road, fort oglethorpe, georgia, 30742": {
+    "lat": 34.951535,
+    "lon": -85.259017
+  },
+  "3370 lafayette rd, fort oglethorpe, georgia, 30742": {
+    "lat": 34.951535,
+    "lon": -85.259017
+  },
+  "113 st. marys st w, st marys, georgia, 31558": {
+    "lat": null,
+    "lon": null
+  },
+  "6515 frederica rd., st. simons island, georgia, 31522": {
+    "lat": 31.160099,
+    "lon": -81.388438
+  },
+  "101 fort pulaski rd, savannah, georgia, 31410": {
+    "lat": null,
+    "lon": null
+  },
+  "300 north bond street, plains, georgia, 31780": {
+    "lat": 32.036584,
+    "lon": -84.39256
+  },
+  "900 kennesaw mountain dr, kennesaw, georgia, 30152": {
+    "lat": null,
+    "lon": null
+  },
+  "450 auburn ave ne, atlanta, georgia, 30312": {
+    "lat": 33.756382,
+    "lon": -84.373466
+  },
+  "1207 emery hwy, macon, georgia, 31217": {
+    "lat": 32.837227,
+    "lon": -83.601844
+  },
+  "hawaii": {
+    "lat": 19.593802,
+    "lon": -155.42837
+  },
+  "haleakala hwy, kula, hawaii, 96790": {
+    "lat": null,
+    "lon": null
+  },
+  "1 crater rim drive, hawaii national park, hawaii, 96718": {
+    "lat": 19.428712,
+    "lon": -155.258324
+  },
+  "1 crater rim drive, volcano, hawaii, 96785": {
+    "lat": null,
+    "lon": null
+  },
+  "waipahu, hawaii, 96797": {
+    "lat": 21.386667,
+    "lon": -158.009166
+  },
+  "7 puahi street, kalaupapa, hawaii, 96742": {
+    "lat": 21.185734,
+    "lon": -156.983926
+  },
+  "7 bishop rd, kalaupapa, hawaii, 96742": {
+    "lat": 21.188642,
+    "lon": -156.982448
+  },
+  "73-4786 kanalani st. #14, kailua-kona, hawaii, 96740": {
+    "lat": null,
+    "lon": null
+  },
+  "74-4968 queen ka'ahumanu hwy, kailua-kona, hawaii, 96740": {
+    "lat": null,
+    "lon": null
+  },
+  "1 arizona memorial pl, honolulu, hawaii, 96818": {
+    "lat": null,
+    "lon": null
+  },
+  "84-5559 keala o keawe rd. hwy 160, h\u014dnaunau, hawaii, 96726": {
+    "lat": null,
+    "lon": null
+  },
+  "state hwy 160, h\u014dnaunau, hawaii, 96726": {
+    "lat": null,
+    "lon": null
+  },
+  "62-3601 kawaihae road, kawaihae, hawaii, 96743": {
+    "lat": 20.038908,
+    "lon": -155.830324
+  },
+  "3035 elba-almo road, almo, idaho, 83312": {
+    "lat": 42.091368,
+    "lon": -113.632527
+  },
+  "1266 craters loop road, arco, idaho, 83213": {
+    "lat": null,
+    "lon": null
+  },
+  "17970 u.s. hwy 30, hagerman, idaho, 83332": {
+    "lat": null,
+    "lon": null
+  },
+  "1428 hunt rd, jerome, idaho, 83338": {
+    "lat": 42.67906,
+    "lon": -114.24366
+  },
+  "39063 us hwy 95, lapwai, idaho, 83540": {
+    "lat": 46.405852,
+    "lon": -116.801768
+  },
+  "39063 us-95, lapwai, idaho, 83540": {
+    "lat": 46.447474,
+    "lon": -116.822775
+  },
+  "4005 s state st, chicago, illinois, 60609": {
+    "lat": 41.821613,
+    "lon": -87.626502
+  },
+  "610 e 111th st, chicago, illinois, 60628": {
+    "lat": 41.692856,
+    "lon": -87.609605
+  },
+  "illinois": {
+    "lat": 40.079661,
+    "lon": -89.433729
+  },
+  "400 n. 9th st., springfield, illinois, 62702": {
+    "lat": 39.805074,
+    "lon": -89.643389
+  },
+  "413 s 8th st, springfield, illinois, 62701": {
+    "lat": 39.797353,
+    "lon": -89.644876
+  },
+  "401 s 2nd st, vincennes, indiana, 47591": {
+    "lat": 38.677722,
+    "lon": -87.535404
+  },
+  "425 s 2nd st, vincennes, indiana, 47591": {
+    "lat": 38.677572,
+    "lon": -87.536088
+  },
+  "1215 in-49, porter, indiana, 46304": {
+    "lat": null,
+    "lon": null
+  },
+  "3027 east south street, lincoln city, indiana, 47552": {
+    "lat": null,
+    "lon": null
+  },
+  "151 hwy 76, harpers ferry, iowa, 52146": {
+    "lat": null,
+    "lon": null
+  },
+  "110 parkside dr., west branch, iowa, 52358": {
+    "lat": 41.670749,
+    "lon": -91.345469
+  },
+  "104 parkside dr, west branch, iowa, 52358": {
+    "lat": 41.670749,
+    "lon": -91.345469
+  },
+  "1515 se monroe street, topeka, kansas, 66612": {
+    "lat": 39.037955,
+    "lon": -95.676489
+  },
+  "1767 ks-156, larned, kansas, 67550": {
+    "lat": 38.188153,
+    "lon": -99.10186
+  },
+  "1 old fort blvd., fort scott, kansas, 66701": {
+    "lat": 37.841972,
+    "lon": -94.704776
+  },
+  "199 old fort blvd, fort scott, kansas, 66701": {
+    "lat": 37.843676,
+    "lon": -94.7066
+  },
+  "304 washington ave., nicodemus, kansas, 67625": {
+    "lat": null,
+    "lon": null
+  },
+  "2480b ks hwy 177, strong city, kansas, 66869": {
+    "lat": null,
+    "lon": null
+  },
+  "2995 lincoln farm road, hodgenville, kentucky, 42748": {
+    "lat": 37.550392,
+    "lon": -85.734649
+  },
+  "6614 old danville loop 2 road, nicholasville, kentucky, 40356": {
+    "lat": null,
+    "lon": null
+  },
+  "100 pinnacle view rd., middlesboro, kentucky, 40965": {
+    "lat": null,
+    "lon": null
+  },
+  "1 visitor center parkway, mammoth cave, kentucky, 42259": {
+    "lat": null,
+    "lon": null
+  },
+  "quarters 43, 1 mammoth cave pkwy, mammoth cave, kentucky, 42259": {
+    "lat": null,
+    "lon": null
+  },
+  "9020 west highway 80, nancy, kentucky, 42544": {
+    "lat": null,
+    "lon": null
+  },
+  "400 rapides dr, natchitoches, louisiana, 71457": {
+    "lat": 31.7426,
+    "lon": -93.085687
+  },
+  "4386 la-494, natchez, louisiana, 71456": {
+    "lat": 31.665541,
+    "lon": -93.002414
+  },
+  "419 decatur street, new orleans, louisiana, 70130": {
+    "lat": 29.954855,
+    "lon": -90.0648
+  },
+  "501 fisher rd, lafayette, louisiana, 70508": {
+    "lat": 30.213544,
+    "lon": -91.9941
+  },
+  "419 decatur st, new orleans, louisiana, 70130": {
+    "lat": 29.954855,
+    "lon": -90.0648
+  },
+  "6859 hwy. 577, pioneer, louisiana, 71266": {
+    "lat": null,
+    "lon": null
+  },
+  "6859 la-577, pioneer, louisiana, 71266": {
+    "lat": null,
+    "lon": null
+  },
+  "25 visitor center road, bar harbor, maine, 04609": {
+    "lat": 44.408484,
+    "lon": -68.245996
+  },
+  "478 river road, newcastle, maine, 4553": {
+    "lat": 44.005255,
+    "lon": -69.556419
+  },
+  "swift brook rd, stacyville, maine, 04777": {
+    "lat": 45.863801,
+    "lon": -68.506686
+  },
+  "w99x+jf, stacyville, maine, 04765": {
+    "lat": null,
+    "lon": null
+  },
+  "st. john valley, maine": {
+    "lat": 45.060977,
+    "lon": -70.337103
+  },
+  "859 main st./u.s. route one, van buren, maine, 4785": {
+    "lat": null,
+    "lon": null
+  },
+  "84 saint croix drive, calais, maine, 04619": {
+    "lat": 45.123926,
+    "lon": -67.148316
+  },
+  "84 st croix dr, calais, maine, 4619": {
+    "lat": 45.123926,
+    "lon": -67.148316
+  },
+  "5831 dunker church rd., sharpsburg, maryland, 21782": {
+    "lat": 39.459156,
+    "lon": -77.741152
+  },
+  "7206 national seashore lane, berlin, maryland, 21811": {
+    "lat": null,
+    "lon": null
+  },
+  "11800 marsh view ln, berlin, maryland, 21811": {
+    "lat": null,
+    "lon": null
+  },
+  "baltimore washington parkway, greenbelt, maryland, 20770": {
+    "lat": 39.003069,
+    "lon": -76.865109
+  },
+  "1550 anacostia ave. ne, washington dc, maryland, 20019": {
+    "lat": null,
+    "lon": null
+  },
+  "14707 park central road, thurmont, maryland, 21788": {
+    "lat": null,
+    "lon": null
+  },
+  "142 w. potomac st., williamsport, maryland, 21795": {
+    "lat": 39.600325,
+    "lon": -77.824319
+  },
+  "13 canal st, cumberland, maryland, 21502": {
+    "lat": 39.649616,
+    "lon": -78.763514
+  },
+  "5801 oxford road, glen echo, maryland, 20812": {
+    "lat": 38.967745,
+    "lon": -77.140882
+  },
+  "8915 fort foote road, oxon hill, maryland, 20745": {
+    "lat": null,
+    "lon": null
+  },
+  "13551 fort washington rd, fort washington, maryland, 20744": {
+    "lat": 38.712614,
+    "lon": -77.033159
+  },
+  "2400 east fort avenue, baltimore, maryland, 21230": {
+    "lat": 39.26324,
+    "lon": -76.579789
+  },
+  "13551 fort washington road, fort washington, maryland, 20744": {
+    "lat": 38.712614,
+    "lon": -77.033159
+  },
+  "7300 macarthur boulevard, glen echo, maryland, 20812": {
+    "lat": 38.966906,
+    "lon": -77.139451
+  },
+  "6565 greenbelt road, greenbelt, maryland, 20770": {
+    "lat": 38.994956,
+    "lon": -76.892485
+  },
+  "535 hampton lane, towson, maryland, 21286": {
+    "lat": 39.41633,
+    "lon": -76.587682
+  },
+  "10702 livingston road, fort washington, maryland, 20744": {
+    "lat": 38.744484,
+    "lon": -77.00002
+  },
+  "4068 golden hill road, church creek, maryland, 21622": {
+    "lat": 38.500068,
+    "lon": -76.150297
+  },
+  "5201 urbana pike, frederick, maryland, 21704": {
+    "lat": 39.377972,
+    "lon": -77.397741
+  },
+  "1967 bald eagle road, oxon hill, maryland, 20745": {
+    "lat": 38.80222,
+    "lon": -77.002269
+  },
+  "bald eagle road, oxon hill, maryland, 20745": {
+    "lat": 38.80222,
+    "lon": -77.002269
+  },
+  "3400 bryan point road, accokeek, maryland, 20607": {
+    "lat": 38.686231,
+    "lon": -77.041429
+  },
+  "6655 rose hill road, port tobacco, maryland, 20677": {
+    "lat": 38.530223,
+    "lon": -77.036048
+  },
+  "141 franklin street, quincy, massachusetts, 02169": {
+    "lat": 42.233524,
+    "lon": -70.997587
+  },
+  "1250 hancock st, quincy, massachusetts, 02169": {
+    "lat": 42.251757,
+    "lon": -71.003397
+  },
+  "67 roosevelt ave, pawtucket, rhode island, 02860": {
+    "lat": 41.877738,
+    "lon": -71.382965
+  },
+  "50 hopedale street, hopedale, massachusetts, 01747": {
+    "lat": 42.130147,
+    "lon": -71.541151
+  },
+  "21 second avenue, charlestown, massachusetts, 02129": {
+    "lat": 42.376659,
+    "lon": -71.052412
+  },
+  "1 faneuil hall sq, boston, massachusetts, 02109": {
+    "lat": 42.360034,
+    "lon": -71.056234
+  },
+  "151 w atlantic avenue, boston, massachusetts, 02110": {
+    "lat": 42.355761,
+    "lon": -71.050883
+  },
+  "50 nauset road, eastham, massachusetts, 02642": {
+    "lat": 41.838232,
+    "lon": -69.972319
+  },
+  "99 warren street, brookline, massachusetts, 02445": {
+    "lat": 42.325368,
+    "lon": -71.132309
+  },
+  "83 beals street, brookline, massachusetts, 02446": {
+    "lat": 42.346949,
+    "lon": -71.123249
+  },
+  "105 brattle street, cambridge, massachusetts, 02138": {
+    "lat": 42.376973,
+    "lon": -71.126398
+  },
+  "115 john street, lowell, massachusetts, 01852": {
+    "lat": 42.647937,
+    "lon": -71.3064
+  },
+  "246 market st., lowell, massachusetts, 01852": {
+    "lat": 42.64429,
+    "lon": -71.312147
+  },
+  "210 north great road, lincoln, massachusetts, 01773": {
+    "lat": 42.449042,
+    "lon": -71.276921
+  },
+  "33 william street, new bedford, massachusetts, 02740": {
+    "lat": 41.635732,
+    "lon": -70.923799
+  },
+  "33 william st, new bedford, massachusetts, 02740": {
+    "lat": 41.635732,
+    "lon": -70.923799
+  },
+  "2 new liberty street, salem, massachusetts, 01970": {
+    "lat": 42.52263,
+    "lon": -70.891988
+  },
+  "2 new liberty st, salem, massachusetts, 01970": {
+    "lat": 42.52263,
+    "lon": -70.891988
+  },
+  "244 central st, saugus, massachusetts, 01906": {
+    "lat": 42.468593,
+    "lon": -71.008888
+  },
+  "1 armory square, 1 armory square, springfield, massachusetts, 01105": {
+    "lat": null,
+    "lon": null
+  },
+  "800 east lakeshore drive, houghton, michigan, 49931": {
+    "lat": 47.12294,
+    "lon": -88.563754
+  },
+  "800 e. lakeshore drive, houghton, michigan, 49931": {
+    "lat": 47.12294,
+    "lon": -88.563754
+  },
+  "25970 red jacket road, calumet, michigan, 49913": {
+    "lat": 47.242405,
+    "lon": -88.448045
+  },
+  "98 5th st, calumet, michigan, 49913": {
+    "lat": 47.244079,
+    "lon": -88.452345
+  },
+  "1505 sand point rd, munising, michigan, 49862": {
+    "lat": 46.423724,
+    "lon": -86.623815
+  },
+  "333 n dixie hwy, monroe, michigan, 48162": {
+    "lat": 41.915937,
+    "lon": -83.378218
+  },
+  "9922 w front st, empire, michigan, 49630": {
+    "lat": 44.811198,
+    "lon": -86.054716
+  },
+  "170 mile creek road, grand portage, minnesota, 55605": {
+    "lat": 47.960972,
+    "lon": -89.685768
+  },
+  "170 mile creek rd, grand portage, minnesota, 55605": {
+    "lat": 47.960972,
+    "lon": -89.685768
+  },
+  "120 w kellogg blvd, st paul, minnesota, 55102": {
+    "lat": 44.947069,
+    "lon": -93.10429
+  },
+  "36 reservation ave, pipestone, minnesota, 56164": {
+    "lat": 44.009558,
+    "lon": -96.321026
+  },
+  "360 hwy 11 east, international falls, minnesota, 56649": {
+    "lat": null,
+    "lon": null
+  },
+  "1797 ut - 342, international falls, minnesota, 56649": {
+    "lat": null,
+    "lon": null
+  },
+  "158 n court st, sumner, 38957": {
+    "lat": 33.971197,
+    "lon": -90.369774
+  },
+  "158 n court st, sumner, mississippi, 38957": {
+    "lat": 33.971197,
+    "lon": -90.369774
+  },
+  "3500 park rd, ocean springs, 39564": {
+    "lat": 30.398881,
+    "lon": -88.786517
+  },
+  "3500 park rd, ocean springs, mississippi, 39564": {
+    "lat": 30.398881,
+    "lon": -88.786517
+  },
+  "2332 margaret w alexander dr, jackson, 39213": {
+    "lat": 32.340878,
+    "lon": -90.212145
+  },
+  "2332 margaret w alexander dr, jackson, mississippi, 39213": {
+    "lat": 32.340878,
+    "lon": -90.212145
+  },
+  "210 state st, natchez, 39120": {
+    "lat": 31.560067,
+    "lon": -91.405793
+  },
+  "122 melrose ave, natchez, mississippi, 39120": {
+    "lat": 31.547083,
+    "lon": -91.385557
+  },
+  "5646 carver rd, diamond, missouri, 64840": {
+    "lat": null,
+    "lon": null
+  },
+  "219 n delaware st, independence, missouri, 64050": {
+    "lat": 39.093729,
+    "lon": -94.423345
+  },
+  "16425 highway 43 west, wisdom, montana, 59761": {
+    "lat": null,
+    "lon": null
+  },
+  "2222 access rd, fort smith, montana, 59050": {
+    "lat": null,
+    "lon": null
+  },
+  "64 grinnell drive, west glacier, montana, 59936": {
+    "lat": 48.502114,
+    "lon": -113.988387
+  },
+  "logan's pass visitor center, browning, montana, 59417": {
+    "lat": null,
+    "lon": null
+  },
+  "266 warren ln, deer lodge, montana, 59722": {
+    "lat": null,
+    "lon": null
+  },
+  "251 grant cir, deer lodge, montana, 59722": {
+    "lat": null,
+    "lon": null
+  },
+  "756 battlefield tour road, crow agency, montana, 59022": {
+    "lat": null,
+    "lon": null
+  },
+  "unnamed road, garryowen, montana, 59031": {
+    "lat": null,
+    "lon": null
+  },
+  "301 river rd, harrison, nebraska, 69346": {
+    "lat": null,
+    "lon": null
+  },
+  "8523 ne-4, beatrice, nebraska, 68310": {
+    "lat": 40.265838,
+    "lon": -96.73325
+  },
+  "190276 old oregon trail, gering, nebraska, 69341": {
+    "lat": 41.828626,
+    "lon": -103.707481
+  },
+  "nevada 488, baker, nevada, 89311": {
+    "lat": null,
+    "lon": null
+  },
+  "5500 nv-488, baker, nevada, 89311": {
+    "lat": 39.015325,
+    "lon": -114.152583
+  },
+  "10 lakeshore rd, boulder city, nevada, 89005": {
+    "lat": null,
+    "lon": null
+  },
+  "las vegas, nevada, 89143": {
+    "lat": 36.167426,
+    "lon": -115.148413
+  },
+  "8660 n decatur blvd, las vegas, nevada, 89085": {
+    "lat": 36.316658,
+    "lon": -115.207274
+  },
+  "139 st gaudens rd, cornish, new hampshire, 03745": {
+    "lat": 43.500658,
+    "lon": -72.365692
+  },
+  "26 hudson rd, highlands, new jersey, 07732": {
+    "lat": null,
+    "lon": null
+  },
+  "highlands, new jersey, 7732": {
+    "lat": 39.241862,
+    "lon": -76.631388
+  },
+  "109 route 50 south, mays landing, new jersey, 08330": {
+    "lat": null,
+    "lon": null
+  },
+  "30 washington place, morristown, new jersey, 07960": {
+    "lat": 40.79733,
+    "lon": -74.467107
+  },
+  "853 atsion rd, shamong, new jersey, 08088": {
+    "lat": 39.751156,
+    "lon": -74.750058
+  },
+  "72 mcbride avenue extension, paterson, new jersey, 07501": {
+    "lat": 40.914803,
+    "lon": -74.180975
+  },
+  "211 main street, west orange, new jersey, 07052": {
+    "lat": 40.785118,
+    "lon": -74.233344
+  },
+  "725 ruins road, aztec, new mexico, 87410": {
+    "lat": 36.834586,
+    "lon": -108.000214
+  },
+  "725 ruins rd, aztec, new mexico, 87410": {
+    "lat": 36.834586,
+    "lon": -108.000214
+  },
+  "15 entrance road, los alamos, new mexico, 87544": {
+    "lat": 35.79499,
+    "lon": -106.276101
+  },
+  "15 entrance rd, los alamos, new mexico, 87544": {
+    "lat": 35.79499,
+    "lon": -106.276101
+  },
+  "46 volcano highway, capulin, new mexico, 88414": {
+    "lat": null,
+    "lon": null
+  },
+  "44 volcano road, capulin, new mexico, 88414": {
+    "lat": 36.778716,
+    "lon": -103.98035
+  },
+  "727 carlsbad caverns highway, carlsbad, new mexico, 88220": {
+    "lat": 32.175424,
+    "lon": -104.4445
+  },
+  "1808 cr 7950, nageezi, new mexico, 87037": {
+    "lat": null,
+    "lon": null
+  },
+  "1808 county road 7950, nageezi, new mexico, 87037": {
+    "lat": null,
+    "lon": null
+  },
+  "1900 e. santa fe ave., grants, new mexico, 87020": {
+    "lat": 35.118648,
+    "lon": -107.828853
+  },
+  "1900 e santa fe ave, grants, new mexico, 87020": {
+    "lat": 35.118648,
+    "lon": -107.828853
+  },
+  "mile marker 44.6 hwy 53, ramah, new mexico, 87321": {
+    "lat": null,
+    "lon": null
+  },
+  "nm-53, ramah, new mexico, 87321": {
+    "lat": 35.120638,
+    "lon": -108.484254
+  },
+  "3115 nm highway 161, watrous, new mexico, 87753": {
+    "lat": null,
+    "lon": null
+  },
+  "26 jim bradford trail, mimbres, new mexico, 88049": {
+    "lat": null,
+    "lon": null
+  },
+  "gila national forest, silver city, new mexico, 88061": {
+    "lat": null,
+    "lon": null
+  },
+  "475 20th street suite c, los alamos, new mexico, 87544": {
+    "lat": null,
+    "lon": null
+  },
+  "1 peach drive, pecos, new mexico, 87552": {
+    "lat": null,
+    "lon": null
+  },
+  "western trail nw, albuquerque, new mexico, 87120": {
+    "lat": 35.134485,
+    "lon": -106.710628
+  },
+  "105 south ripley avenue, mountainair, new mexico, 87036": {
+    "lat": 34.517735,
+    "lon": -106.241929
+  },
+  "39201 new mexico highway 4, jemez springs, new mexico, 87025": {
+    "lat": null,
+    "lon": null
+  },
+  "19955 us-70, alamogordo, new mexico, 88310": {
+    "lat": 32.779621,
+    "lon": -106.172245
+  },
+  "290 broadway, new york, new york, 10007": {
+    "lat": 40.714525,
+    "lon": -74.004466
+  },
+  "battery park, new york, new york, 10004": {
+    "lat": 40.702856,
+    "lon": -74.017263
+  },
+  "54 valkill park road, hyde park, new york, 12538": {
+    "lat": null,
+    "lon": null
+  },
+  "ellis island national museum of immigration, new york, new york, 10004": {
+    "lat": 40.699131,
+    "lon": -74.039548
+  },
+  "15 pine street, new york, new york, 10005": {
+    "lat": 40.707517,
+    "lon": -74.01006
+  },
+  "120 laurel street, patchogue, new york, 11772": {
+    "lat": 40.755059,
+    "lon": -73.017097
+  },
+  "robert moses field #5 parking lot, fire island, new york, 11702": {
+    "lat": null,
+    "lon": null
+  },
+  "100 north james st., rome, new york, 13440": {
+    "lat": 43.210051,
+    "lon": -75.457926
+  },
+  "broad channel, new york, 11693": {
+    "lat": 40.608019,
+    "lon": -73.815801
+  },
+  "175-10 cross bay blvd, broad channel, new york, 11693": {
+    "lat": 40.598113,
+    "lon": -73.820751
+  },
+  "riverside drive and w. 122nd street, new york, new york, 10027": {
+    "lat": null,
+    "lon": null
+  },
+  "10 south st, new york, new york, 10004": {
+    "lat": 40.700988,
+    "lon": -74.011651
+  },
+  "new york, new york, 10004": {
+    "lat": 40.712728,
+    "lon": -74.006015
+  },
+  "414 west 141st street, new york, new york, 10031": {
+    "lat": 40.821359,
+    "lon": -73.947301
+  },
+  "47 parker street, auburn, new york, 13021": {
+    "lat": 42.923399,
+    "lon": -76.575811
+  },
+  "114 estates lane, hyde park, new york, 12538": {
+    "lat": null,
+    "lon": null
+  },
+  "4079 albany post rd, hyde park, new york, 12538": {
+    "lat": 41.769278,
+    "lon": -73.933933
+  },
+  "103 orchard street, new york, new york, 10002": {
+    "lat": 40.718784,
+    "lon": -73.990027
+  },
+  "1013 old post road, kinderhook, new york, 12106": {
+    "lat": 42.369822,
+    "lon": -73.704034
+  },
+  "20 sagamore hill road, oyster bay, new york, 11771": {
+    "lat": 40.885912,
+    "lon": -73.496029
+  },
+  "20 sagamore hill rd, oyster bay, new york, 11771": {
+    "lat": 40.885912,
+    "lon": -73.496029
+  },
+  "897 south columbus avenue, mount vernon, new york, 10550": {
+    "lat": 40.893518,
+    "lon": -73.825337
+  },
+  "648 route 32, stillwater, new york, 12170": {
+    "lat": null,
+    "lon": null
+  },
+  "liberty island, new york, new york, 10004": {
+    "lat": 40.689851,
+    "lon": -74.047667
+  },
+  "intersection of christopher, grove, and fourth streets., new york, new york, 10014": {
+    "lat": null,
+    "lon": null
+  },
+  "51 christopher st, new york, new york, 10014": {
+    "lat": 40.733915,
+    "lon": -74.002073
+  },
+  "28 east 20th street, new york, new york, 10003": {
+    "lat": 40.73864,
+    "lon": -73.989037
+  },
+  "641 delaware avenue, buffalo, new york, 14202": {
+    "lat": 42.901568,
+    "lon": -78.872626
+  },
+  "218 spring street, catskill, new york, 12414": {
+    "lat": 42.225766,
+    "lon": -73.861547
+  },
+  "81 vanderbilt park road, hyde park, new york, 12538": {
+    "lat": 41.796435,
+    "lon": -73.942418
+  },
+  "1 vanderbilt park rd, hyde park, new york, 12538": {
+    "lat": 41.793922,
+    "lon": -73.937817
+  },
+  "136 fall street, seneca falls, new york, 13148": {
+    "lat": 42.910827,
+    "lon": -76.800157
+  },
+  "milepost 384, asheville, north carolina, 28803": {
+    "lat": null,
+    "lon": null
+  },
+  "195 hemphill knob rd, asheville, north carolina, 28803": {
+    "lat": null,
+    "lon": null
+  },
+  "46375 lighthouse road, buxton, north carolina, 27920": {
+    "lat": 35.264791,
+    "lon": -75.525023
+  },
+  "8180 bodie island lighthouse rd, nags head, north carolina, 27959": {
+    "lat": null,
+    "lon": null
+  },
+  "1800 island rd, harkers island, north carolina, 28531": {
+    "lat": 34.697688,
+    "lon": -76.573572
+  },
+  "1800 island road, harkers island, north carolina, 28531": {
+    "lat": 34.697688,
+    "lon": -76.573572
+  },
+  "81 carl sandburg lane, flat rock, north carolina, 28731": {
+    "lat": 35.272782,
+    "lon": -82.452857
+  },
+  "1500 fort raleigh road, manteo, north carolina, 27954": {
+    "lat": null,
+    "lon": null
+  },
+  "1500 fort raleigh rd, manteo, north carolina, 27954": {
+    "lat": null,
+    "lon": null
+  },
+  "2332 new garden road, greensboro, north carolina, 27410": {
+    "lat": 36.131511,
+    "lon": -79.847432
+  },
+  "40 patriots hall dr., currie, north carolina, 28435": {
+    "lat": 34.457895,
+    "lon": -78.109623
+  },
+  "1000 north croatan highway, kill devil hills, north carolina, 27948": {
+    "lat": 36.02064,
+    "lon": -75.667712
+  },
+  "1120 u.s. route 42 e, wilberforce, ohio, 45384": {
+    "lat": null,
+    "lon": null
+  },
+  "6947 riverview road, peninsula, ohio, 44264": {
+    "lat": 41.262595,
+    "lon": -81.560308
+  },
+  "6947 riverview rd, peninsula, ohio, 44264": {
+    "lat": 41.262595,
+    "lon": -81.560308
+  },
+  "16 south williams street, dayton, ohio, 45402": {
+    "lat": 39.756079,
+    "lon": -84.2116
+  },
+  "22 s williams st, dayton, ohio, 45402": {
+    "lat": 39.755386,
+    "lon": -84.211965
+  },
+  "205 market avenue south, canton, ohio, 44702": {
+    "lat": 40.797536,
+    "lon": -81.374861
+  },
+  "16062 state route 104, chillicothe, ohio, 45601": {
+    "lat": null,
+    "lon": null
+  },
+  "16062 oh-104, chillicothe, ohio, 45601": {
+    "lat": null,
+    "lon": null
+  },
+  "8095 mentor avenue, mentor, ohio, 44060": {
+    "lat": 41.663984,
+    "lon": -81.350933
+  },
+  "93 delaware avenue, put-in-bay, ohio, 43456": {
+    "lat": 41.652792,
+    "lon": -82.81347
+  },
+  "2038 auburn avenue, cincinnati, ohio, 45219": {
+    "lat": 39.119899,
+    "lon": -84.508528
+  },
+  "901 w. 1st street, sulphur, oklahoma, 73086": {
+    "lat": 34.50651,
+    "lon": -96.968635
+  },
+  "1504 perimeter rd, sulphur, oklahoma, 73086": {
+    "lat": 34.493737,
+    "lon": -96.978969
+  },
+  "620 n. harvey ave., oklahoma city, oklahoma, 73102": {
+    "lat": 35.47372,
+    "lon": -97.517289
+  },
+  "18555 hwy 47a, ste. a, cheyenne, oklahoma, 73628": {
+    "lat": null,
+    "lon": null
+  },
+  "18555 ok-47 alt, cheyenne, oklahoma, 73628": {
+    "lat": null,
+    "lon": null
+  },
+  "1 sager building, crater lake, oregon, 97604": {
+    "lat": null,
+    "lon": null
+  },
+  "32651 highway 19, kimberly, oregon, 97848": {
+    "lat": 44.552976,
+    "lon": -119.646143
+  },
+  "32651 or-19, kimberly, oregon, 97848": {
+    "lat": 44.552976,
+    "lon": -119.646143
+  },
+  "92343 fort clatsop road, astoria, oregon, 97103": {
+    "lat": 46.134413,
+    "lon": -123.880208
+  },
+  "92345 fort clatsop rd, astoria, oregon, 97103": {
+    "lat": null,
+    "lon": null
+  },
+  "19000 caves hwy, cave junction, oregon, 97523": {
+    "lat": 42.16183,
+    "lon": -123.643673
+  },
+  "21000 caves hwy, cave junction, oregon, 97523": {
+    "lat": 42.16183,
+    "lon": -123.643673
+  },
+  "110 federal park road, gallitzin, pennsylvania, 16641": {
+    "lat": null,
+    "lon": null
+  },
+  "tunnelhill st, duncansville, pennsylvania, 16635": {
+    "lat": null,
+    "lon": null
+  },
+  "1978 river road, bushkill, pennsylvania, 18324": {
+    "lat": 41.07064,
+    "lon": -75.017004
+  },
+  "532 n. 7th street, philadelphia, pennsylvania, 19123": {
+    "lat": 39.961831,
+    "lon": -75.149859
+  },
+  "pennsylvania": {
+    "lat": 40.969989,
+    "lon": -77.727883
+  },
+  "6424 lincoln highway, stoystown, pennsylvania, 15563": {
+    "lat": 40.098539,
+    "lon": -78.952045
+  },
+  "3 washington parkway, farmington, pennsylvania, 15437": {
+    "lat": null,
+    "lon": null
+  },
+  "223 new geneva rd., point marion, pennsylvania, 15470": {
+    "lat": 39.780775,
+    "lon": -79.920073
+  },
+  "223 new geneva road, point marion, pennsylvania, 15474": {
+    "lat": 39.780775,
+    "lon": -79.920073
+  },
+  "916 s. swanson street, philadelphia, pennsylvania, 19147": {
+    "lat": 39.93568,
+    "lon": -75.143276
+  },
+  "2 mark bird lane, elverson, pennsylvania, 19520": {
+    "lat": null,
+    "lon": null
+  },
+  "2 mark bird ln, elverson, pennsylvania, 19520": {
+    "lat": null,
+    "lon": null
+  },
+  "599 market street, philadelphia, pennsylvania, 19106": {
+    "lat": 39.951453,
+    "lon": -75.149919
+  },
+  "599 market st, philadelphia, pennsylvania, 19106": {
+    "lat": 39.951453,
+    "lon": -75.149919
+  },
+  "733 lake road, south fork, pennsylvania, 15956": {
+    "lat": null,
+    "lon": null
+  },
+  "350 cliff street, scranton, pennsylvania, 18503": {
+    "lat": 41.408992,
+    "lon": -75.673855
+  },
+  "3rd and pine streets, philadelphia, pennsylvania, 19106": {
+    "lat": null,
+    "lon": null
+  },
+  "274 river road, beach lake, pennsylvania, 18405": {
+    "lat": null,
+    "lon": null
+  },
+  "1400 north outer line drive, king of prussia, pennsylvania, 19406": {
+    "lat": null,
+    "lon": null
+  },
+  "1400 n outer line dr, king of prussia, pennsylvania, 19406": {
+    "lat": null,
+    "lon": null
+  },
+  "282 north main street, providence, rhode island, 02903": {
+    "lat": 41.83169,
+    "lon": -71.410541
+  },
+  "85 touro street, newport, rhode island, 02840": {
+    "lat": 41.489433,
+    "lon": -71.311934
+  },
+  "50-52 spring st, newport, rhode island, 02840": {
+    "lat": 41.474054,
+    "lon": -71.310474
+  },
+  "1254 long point road, mount pleasant, south carolina, 29464": {
+    "lat": 32.846745,
+    "lon": -79.827895
+  },
+  "100 national park road, hopkins, south carolina, 29061": {
+    "lat": null,
+    "lon": null
+  },
+  "100 national park rd, hopkins, south carolina, 29061": {
+    "lat": null,
+    "lon": null
+  },
+  "4001 chesnee hwy, gaffney, south carolina, 29341": {
+    "lat": 35.103768,
+    "lon": -81.691151
+  },
+  "1214 middle st, sullivan's island, south carolina, 29482": {
+    "lat": 32.758727,
+    "lon": -79.843819
+  },
+  "2300 park road, blacksburg, south carolina, 29702": {
+    "lat": null,
+    "lon": null
+  },
+  "1103 hwy 248, ninety six, south carolina, 29666": {
+    "lat": 34.167841,
+    "lon": -82.025652
+  },
+  "706 craven street, beaufort, south carolina, 29902": {
+    "lat": 32.432537,
+    "lon": -80.67009
+  },
+  "121 monument ave., greeneville, tennessee, 37743": {
+    "lat": 36.156958,
+    "lon": -82.836932
+  },
+  "101 n. college street, greeneville, tennessee, 37743": {
+    "lat": 36.16294,
+    "lon": -82.82954
+  },
+  "4564 leatherwood road, oneida, tennessee, 37841": {
+    "lat": null,
+    "lon": null
+  },
+  "151 stable rd, oneida, tennessee, 37841": {
+    "lat": null,
+    "lon": null
+  },
+  "po box 434, dover, tennessee, 37058": {
+    "lat": null,
+    "lon": null
+  },
+  "120 fort donelson park road, dover, tennessee, 37058": {
+    "lat": 36.483136,
+    "lon": -87.862581
+  },
+  "107 park headquarters road, gatlinburg, tennessee, 37738": {
+    "lat": null,
+    "lon": null
+  },
+  "1420 fighting creek gap rd, gatlinburg, tennessee, 37738": {
+    "lat": null,
+    "lon": null
+  },
+  "461 w. outer drive, oak ridge, tennessee, 37830": {
+    "lat": 36.02315,
+    "lon": -84.272003
+  },
+  "208 n. maiden street, wartburg, tennessee, 37887": {
+    "lat": 36.104663,
+    "lon": -84.598424
+  },
+  "208 north maiden street, wartburg, tennessee, 37887": {
+    "lat": null,
+    "lon": null
+  },
+  "tennessee": {
+    "lat": 35.773008,
+    "lon": -86.282008
+  },
+  "1563 north thompson lane, murfreesboro, tennessee, 37129": {
+    "lat": 35.891387,
+    "lon": -86.423481
+  },
+  "3501 old nashville hwy, murfreesboro, tennessee, 37129": {
+    "lat": 35.881861,
+    "lon": -86.434846
+  },
+  "37084 alibates rd., potter county, texas, 79036": {
+    "lat": 35.561499,
+    "lon": -101.696006
+  },
+  "37084 alibates rd, fritch, texas, 79036": {
+    "lat": null,
+    "lon": null
+  },
+  "10477 highway 90 west, del rio, texas, 78840": {
+    "lat": 29.466018,
+    "lon": -100.98844
+  },
+  "10477 us-90, del rio, texas, 78840": {
+    "lat": 29.466018,
+    "lon": -100.98844
+  },
+  "1 panther junction, big bend national park, texas, 79834": {
+    "lat": 29.327961,
+    "lon": -103.206057
+  },
+  "1 alsate dr, big bend national park, texas, 79834": {
+    "lat": null,
+    "lon": null
+  },
+  "6102 fm 420, kountze, texas, 77625": {
+    "lat": null,
+    "lon": null
+  },
+  "501 south abbott street, marfa, texas, 79843": {
+    "lat": null,
+    "lon": null
+  },
+  "800 south san marcial street, el paso, texas, 79905": {
+    "lat": 31.767929,
+    "lon": -106.453878
+  },
+  "800 s san marcial st, el paso, texas, 79905": {
+    "lat": 31.767929,
+    "lon": -106.453878
+  },
+  "101 lt. flipper dr. #1379, fort davis, texas, 79734": {
+    "lat": null,
+    "lon": null
+  },
+  "400 pine canyon, salt flat, texas, 79847": {
+    "lat": 31.894302,
+    "lon": -104.821743
+  },
+  "v5vh+p6, 400 pine canyon dr, salt flat, texas, 79847": {
+    "lat": null,
+    "lon": null
+  },
+  "419 e broadway st, fritch, texas, 79036": {
+    "lat": 35.643267,
+    "lon": -101.586279
+  },
+  "100 ladybird lane, johnson city, texas, 78636": {
+    "lat": 30.274855,
+    "lon": -98.40905
+  },
+  "20420 park road 22, corpus christi, texas, 78418": {
+    "lat": 27.424367,
+    "lon": -97.299008
+  },
+  "20420 park rd 22, corpus christi, texas, 78418": {
+    "lat": 27.424367,
+    "lon": -97.299008
+  },
+  "7200 paredes line road, brownsville, texas, 78526": {
+    "lat": 26.004997,
+    "lon": -97.481761
+  },
+  "450 rio grande road, big bend national park, texas, 79834": {
+    "lat": null,
+    "lon": null
+  },
+  "6701 san jose drive, san antonio, texas, 78214": {
+    "lat": 29.360346,
+    "lon": -98.478887
+  },
+  "texas": {
+    "lat": 31.26389,
+    "lon": -98.545612
+  },
+  "moab, utah, 84532": {
+    "lat": 38.57381,
+    "lon": -109.546214
+  },
+  "highway 63, bryce, utah, 84764": {
+    "lat": 37.685072,
+    "lon": -112.15352
+  },
+  "grand view point rd, moab, utah, 84532": {
+    "lat": null,
+    "lon": null
+  },
+  "52 west headquarters drive, torrey, utah, 84775": {
+    "lat": null,
+    "lon": null
+  },
+  "4730 south highway 148, brian head, utah, 84719": {
+    "lat": null,
+    "lon": null
+  },
+  "hwy 89 at glen canyon dam, page, utah, 86040": {
+    "lat": null,
+    "lon": null
+  },
+  "6200 north 22300 west, promontory, utah, 84307": {
+    "lat": null,
+    "lon": null
+  },
+  "natural bridges rd, lake powell, utah, 84533": {
+    "lat": null,
+    "lon": null
+  },
+  "forbidding canyon lake, powell, utah, 84533": {
+    "lat": null,
+    "lon": null
+  },
+  "2038 w. alpine loop road, american fork, utah, 84003": {
+    "lat": null,
+    "lon": null
+  },
+  "1025 e alpine dr, alpine, utah, 84004": {
+    "lat": 40.45074,
+    "lon": -111.758028
+  },
+  "1 zion park blvd., springdale, utah, 84767": {
+    "lat": 37.200107,
+    "lon": -112.986915
+  },
+  "1 zion park blvd, springdale, utah, 84767": {
+    "lat": 37.200107,
+    "lon": -112.986915
+  },
+  "69 old river rd, woodstock, vermont, 05091": {
+    "lat": 43.631256,
+    "lon": -72.514142
+  },
+  "54 elm st, woodstock, vermont, 05091": {
+    "lat": 43.631167,
+    "lon": -72.517908
+  },
+  "239 george peers drive, appomattox, virginia, 24522": {
+    "lat": null,
+    "lon": null
+  },
+  "111 national park dr, appomattox, virginia, 24522": {
+    "lat": null,
+    "lon": null
+  },
+  "321 sherman dr, fort myer, virginia, 22211": {
+    "lat": null,
+    "lon": null
+  },
+  "321 sherman dr, fort myer, 22211": {
+    "lat": null,
+    "lon": null
+  },
+  "7206 national seashore lane, berlin, virginia, 21811": {
+    "lat": null,
+    "lon": null
+  },
+  "8586 beach rd, chincoteague, 23336": {
+    "lat": 37.918532,
+    "lon": -75.351212
+  },
+  "12130 booker t. washington highway, hardy, virginia, 24101": {
+    "lat": 37.119436,
+    "lon": -79.731679
+  },
+  "12130 booker t. washington highway, hardy, 24101": {
+    "lat": 37.119436,
+    "lon": -79.731679
+  },
+  "atlantic ave, fort story, virginia, 23459": {
+    "lat": null,
+    "lon": null
+  },
+  "atlantic ave, fort story, 23459": {
+    "lat": null,
+    "lon": null
+  },
+  "7712 main street, middletown, virginia, 22645": {
+    "lat": 39.031027,
+    "lon": -78.274977
+  },
+  "7712 main street, middletown, 22645": {
+    "lat": 39.031027,
+    "lon": -78.274977
+  },
+  "1000 colonial parkway, yorktown, virginia, 23690": {
+    "lat": null,
+    "lon": null
+  },
+  "1000 colonial parkway, yorktown, 23690": {
+    "lat": null,
+    "lon": null
+  },
+  "30 ingalls road, fort monroe, virginia, 23651": {
+    "lat": 37.002701,
+    "lon": -76.311253
+  },
+  "30 ingalls rd, fort monroe, 23651": {
+    "lat": 37.002701,
+    "lon": -76.311253
+  },
+  "120 chatham ln, fredericksburg, virginia, 22405": {
+    "lat": null,
+    "lon": null
+  },
+  "1013 lafayette blvd, fredericksburg, 22401": {
+    "lat": 38.292733,
+    "lon": -77.469069
+  },
+  "1732 popes creek road, colonial beach, virginia, 22443": {
+    "lat": null,
+    "lon": null
+  },
+  "1730 popes creek rd, colonial beach, 22443": {
+    "lat": null,
+    "lon": null
+  },
+  "700 george washington memorial parkway, mclean, virginia, 22101": {
+    "lat": 38.961154,
+    "lon": -77.146399
+  },
+  "700 george washington memorial parkway, mclean, 22101": {
+    "lat": 38.961154,
+    "lon": -77.146399
+  },
+  "9200 old dominion dr., mclean, virginia, 22102": {
+    "lat": 38.935043,
+    "lon": -77.180964
+  },
+  "9200 old dominion dr, mclean, 22102": {
+    "lat": 38.935043,
+    "lon": -77.180964
+  },
+  "1368 colonial parkway, jamestown, virginia, 23081": {
+    "lat": null,
+    "lon": null
+  },
+  "1368 colonial parkway, jamestown, 23081": {
+    "lat": null,
+    "lon": null
+  },
+  "600 n. 2nd street, richmond, virginia, 23219": {
+    "lat": 37.547811,
+    "lon": -77.437254
+  },
+  "600 n. 2nd street, richmond, 23219": {
+    "lat": 37.547811,
+    "lon": -77.437254
+  },
+  "6511 sudley road, manassas, virginia, 20109": {
+    "lat": 38.813034,
+    "lon": -77.521713
+  },
+  "6511 sudley rd, manassas, 20109": {
+    "lat": 38.813034,
+    "lon": -77.521713
+  },
+  "5001 siege road, petersburg, virginia, 23803": {
+    "lat": 37.218722,
+    "lon": -77.383166
+  },
+  "5001 siege road, petersburg, 23803": {
+    "lat": 37.218722,
+    "lon": -77.383166
+  },
+  "18170 park entrance road, triangle, virginia, 22172": {
+    "lat": null,
+    "lon": null
+  },
+  "18170 park entrance road, triangle, 22172": {
+    "lat": null,
+    "lon": null
+  },
+  "3215 e. broad street, richmond, virginia, 23223": {
+    "lat": 37.526827,
+    "lon": -77.412199
+  },
+  "3215 e. broad street, richmond, 23223": {
+    "lat": 37.526827,
+    "lon": -77.412199
+  },
+  "17065 skyline drive, front royal, virginia, 22630": {
+    "lat": null,
+    "lon": null
+  },
+  "17065 skyline drive, front royal, 22630": {
+    "lat": null,
+    "lon": null
+  },
+  "1551 trap road, vienna, virginia, 22182": {
+    "lat": null,
+    "lon": null
+  },
+  "1000 colonial nat'l historical pkwy, yorktown, virginia, 23690": {
+    "lat": null,
+    "lon": null
+  },
+  "1000 colonial nat'l historical pkwy, yorktown, 23690": {
+    "lat": null,
+    "lon": null
+  },
+  "1925 vermont avenue northwest, washington, dc, 20001": {
+    "lat": 38.915736,
+    "lon": -77.026166
+  },
+  "121 west basin dr sw, washington, dc, dc, 20004": {
+    "lat": 38.88185,
+    "lon": -77.033942
+  },
+  "150 washington avenue, sw, washington, dc, 20001": {
+    "lat": 38.887305,
+    "lon": -77.013569
+  },
+  "540 independence ave sw, washington dc, dc, 20024": {
+    "lat": 38.887486,
+    "lon": -77.019237
+  },
+  "1900 anacostia drive se, washington, dc, 20020": {
+    "lat": 38.879541,
+    "lon": -76.969559
+  },
+  "1550 anacostia ave. ne, washington dc, dc, 20019": {
+    "lat": 38.912614,
+    "lon": -76.939303
+  },
+  "144 constitution ave ne, washington, dc, 20002": {
+    "lat": 38.892224,
+    "lon": -77.003759
+  },
+  "capital hill, washington, dc, 20003": {
+    "lat": 38.889957,
+    "lon": -76.995177
+  },
+  "1538 ninth street nw, washington, dc, 20001": {
+    "lat": null,
+    "lon": null
+  },
+  "1411 w street, s.e., washington dc, dc, 20020": {
+    "lat": null,
+    "lon": null
+  },
+  "6625 georgia ave nw, washington, dc, 20012": {
+    "lat": 38.970647,
+    "lon": -77.026922
+  },
+  "1850 constitution ave. nw, washington, dc, 20002": {
+    "lat": 38.892018,
+    "lon": -77.042616
+  },
+  "2 lincoln circle nw, washington, dc, dc, 20002": {
+    "lat": 38.890123,
+    "lon": -77.049551
+  },
+  "540 independence avenue sw, washington, dc, 20202": {
+    "lat": 38.887486,
+    "lon": -77.019237
+  },
+  "511 10th street nw, washington, dc, 20004": {
+    "lat": 38.896678,
+    "lon": -77.025818
+  },
+  "511 10th st nw, washington, dc, dc, 20004": {
+    "lat": 38.896678,
+    "lon": -77.025818
+  },
+  "3600 f street se, washington, dc, 20019": {
+    "lat": 38.882373,
+    "lon": -76.954673
+  },
+  "400 west basin drive sw, washington, dc, 20002": {
+    "lat": 38.883297,
+    "lon": -77.042737
+  },
+  "1850 west basin dr sw, washington dc, dc, 20242": {
+    "lat": 38.88185,
+    "lon": -77.033942
+  },
+  "1411 w street se, washington, dc, 20020": {
+    "lat": 38.863388,
+    "lon": -76.985171
+  },
+  "333 constitution ave. nw, washington, dc, 20001": {
+    "lat": 38.892867,
+    "lon": -77.016225
+  },
+  "900 ohio dr sw, washington, dc, 20024": {
+    "lat": 38.881302,
+    "lon": -77.032138
+  },
+  "washington, dc, 20001": {
+    "lat": 38.895037,
+    "lon": -77.036543
+  },
+  "17th st sw, washington, dc, 20004": {
+    "lat": 38.892022,
+    "lon": -77.039477
+  },
+  "1550 anacostia ave. ne, washington, dc, 20019": {
+    "lat": 38.912614,
+    "lon": -76.939303
+  },
+  "1550 anacostia ave ne, washington, dc, dc, 20019": {
+    "lat": 38.912614,
+    "lon": -76.939303
+  },
+  "2 lincoln memorial cir nw, washington, dc, 20002": {
+    "lat": 38.890123,
+    "lon": -77.049551
+  },
+  "george washington mem pkwy, washington, dc, 20037": {
+    "lat": 38.888527,
+    "lon": -77.060867
+  },
+  "dc": {
+    "lat": 4.283472,
+    "lon": -74.175361
+  },
+  "1964 independence ave sw, washington, dc, 20004": {
+    "lat": 38.889395,
+    "lon": -77.040308
+  },
+  "1900 anacostia dr, washington, dc, 20020": {
+    "lat": 38.879541,
+    "lon": -76.969559
+  },
+  "1 pennsylvania ave, nw, washington, dc, 20001": {
+    "lat": null,
+    "lon": null
+  },
+  "516 10th st nw, washington, dc, 20004": {
+    "lat": 38.896415,
+    "lon": -77.026084
+  },
+  "5200 glover rd, nw, washington, dc, 20015": {
+    "lat": null,
+    "lon": null
+  },
+  "5200 glover rd nw, washington dc, dc, 20015": {
+    "lat": 38.960003,
+    "lon": -77.051682
+  },
+  "constitution ave nw & 17th street northwest, washington, dc, 20006": {
+    "lat": null,
+    "lon": null
+  },
+  "2 15th street nw, washington dc, dc, 20024": {
+    "lat": 38.889475,
+    "lon": -77.035243
+  },
+  "1600 pennsylvania ave nw, washington, dc, 20500": {
+    "lat": 38.897639,
+    "lon": -77.036553
+  },
+  "1450 pennsylvania avenue, nw, washington dc, dc, 20004": {
+    "lat": null,
+    "lon": null
+  },
+  "16 east basin drive, sw, washington, dc, 20242": {
+    "lat": null,
+    "lon": null
+  },
+  "washington, dc, 20005": {
+    "lat": 38.895037,
+    "lon": -77.036543
+  },
+  "701 pennsylvania ave nw, washington, dc, 20004": {
+    "lat": 38.893682,
+    "lon": -77.021915
+  },
+  "washington, dc, 20004": {
+    "lat": 38.895037,
+    "lon": -77.036543
+  },
+  "5 henry bacon drive nw, washington, dc, 20002": {
+    "lat": 38.891941,
+    "lon": -77.048075
+  },
+  "5 henry bacon dr sw, washington, dc, 20007": {
+    "lat": null,
+    "lon": null
+  },
+  "2 15th st. nw, washington, dc, 20024": {
+    "lat": 38.889475,
+    "lon": -77.035243
+  },
+  "2912 independence ave sw, washington, dc, 20004": {
+    "lat": null,
+    "lon": null
+  },
+  "1493 pennsylvania avenue nw,, washington, dc, 20004": {
+    "lat": 38.896477,
+    "lon": -77.033395
+  },
+  "1750 independence ave. sw, washington, dc, 20024": {
+    "lat": 38.887572,
+    "lon": -77.020913
+  },
+  "162 cemetery road, coupeville, washington, 98239": {
+    "lat": null,
+    "lon": null
+  },
+  "1501 e evergreen blvd., vancouver, washington, 98661": {
+    "lat": 45.626202,
+    "lon": -122.656633
+  },
+  "319 second ave s., seattle, washington, 98104": {
+    "lat": null,
+    "lon": null
+  },
+  "stehekin, washington, 98816": {
+    "lat": 48.309303,
+    "lon": -120.656488
+  },
+  "stehekin, washington, 98852": {
+    "lat": 48.309303,
+    "lon": -120.656488
+  },
+  "1008 crest drive, coulee dam, washington, 99116": {
+    "lat": 47.969879,
+    "lon": -118.969726
+  },
+  "44150 district office ln, davenport, washington, 99122": {
+    "lat": null,
+    "lon": null
+  },
+  "2000 logston blvd, richland, washington, 99354": {
+    "lat": 46.318649,
+    "lon": -119.300217
+  },
+  "55210 238th avenue east, ashford, washington, 98304": {
+    "lat": null,
+    "lon": null
+  },
+  "ashford, washington, 98304": {
+    "lat": 46.758944,
+    "lon": -122.031623
+  },
+  "810 state route 20, sedro-woolley, washington, 98284": {
+    "lat": 48.510932,
+    "lon": -122.227551
+  },
+  "376 newhalem st, marblemount, washington, 98267": {
+    "lat": null,
+    "lon": null
+  },
+  "3002 mount angeles road, port angeles, washington, 98362": {
+    "lat": 48.098221,
+    "lon": -123.424765
+  },
+  "810 wa-20, rockport, washington, 98283": {
+    "lat": 48.491014,
+    "lon": -121.574645
+  },
+  "4668 cattle point rd., friday harbor, washington, 98250": {
+    "lat": null,
+    "lon": null
+  },
+  "328 whitman mission road, walla walla, washington, 99362": {
+    "lat": 46.041471,
+    "lon": -118.464492
+  },
+  "328 whitman mission rd, walla walla, washington, 99362": {
+    "lat": 46.041471,
+    "lon": -118.464492
+  },
+  "719 south king street, seattle, washington, 98104": {
+    "lat": 47.598246,
+    "lon": -122.32287
+  },
+  "171 shoreline dr, harpers ferry, west virginia, 25425": {
+    "lat": null,
+    "lon": null
+  },
+  "3405 pipestem drive, pipestem, west virginia, 25979": {
+    "lat": null,
+    "lon": null
+  },
+  "330 meadow creek rd, meadow bridge, 25976": {
+    "lat": null,
+    "lon": null
+  },
+  "104 main street, glen jean, west virginia, 25846": {
+    "lat": null,
+    "lon": null
+  },
+  "162 visitor center rd, lansing, 25862": {
+    "lat": null,
+    "lon": null
+  },
+  "171 shoreline drive, harpers ferry, west virginia, 25425": {
+    "lat": null,
+    "lon": null
+  },
+  "415 washington avenue, bayfield, wisconsin, 54814": {
+    "lat": 46.813015,
+    "lon": -90.820528
+  },
+  "32660 little sand bay rd, bayfield, wisconsin, 54814": {
+    "lat": 46.946334,
+    "lon": -90.888762
+  },
+  "8075 old sauk pass road, cross plains, wisconsin, 53528": {
+    "lat": 43.081788,
+    "lon": -89.611853
+  },
+  "401 north hamilton street, st. croix falls, wisconsin, 54024": {
+    "lat": 45.416216,
+    "lon": -92.646793
+  },
+  "w5483 us-63, trego, wisconsin, 54888": {
+    "lat": 45.904718,
+    "lon": -91.816633
+  },
+  "wyoming": {
+    "lat": 43.170026,
+    "lon": -107.568534
+  },
+  "965 gray rocks road, fort laramie, wyoming, 82212": {
+    "lat": null,
+    "lon": null
+  },
+  "864 chicken creek road, kemmerer, wyoming, 83101": {
+    "lat": null,
+    "lon": null
+  },
+  "864 chicken creek rd, kemmerer, 83101": {
+    "lat": null,
+    "lon": null
+  },
+  "103 headquarters loop, moose, wyoming, 83012": {
+    "lat": 43.65616,
+    "lon": -110.71487
+  },
+  "1 teton park rd, moose, 83012": {
+    "lat": 43.66033,
+    "lon": -110.721578
+  },
+  "100 grassy lakes rd, moran, wyoming, 83013": {
+    "lat": null,
+    "lon": null
+  },
+  "1501 north poplar street, casper, wyoming, 82601": {
+    "lat": 42.866343,
+    "lon": -106.33716
+  },
+  "1501 north poplar street, casper, 82601": {
+    "lat": 42.866343,
+    "lon": -106.33716
+  },
+  "2 officers row, yellowstone national park, wyoming, 82190": {
+    "lat": null,
+    "lon": null
+  },
+  "grand loop rd, mammoth, 82190": {
+    "lat": 44.949968,
+    "lon": -110.714645
+  },
+  "washington, dc, 22209": {
+    "lat": 38.895037,
+    "lon": -77.036543
+  },
+  "104 richardson hwy, copper center, alaska, 99573": {
+    "lat": 61.836564,
+    "lon": -145.225761
+  },
+  "47050 generals hwy, three rivers, california, 93271": {
+    "lat": null,
+    "lon": null
+  },
+  "1318 vermont avenue nw, washington, dc, 20005": {
+    "lat": 38.908176,
+    "lon": -77.030862
+  },
+  "1318 vermont avenue nw, washington,\u00a0dc, dc, 20005": {
+    "lat": 38.908176,
+    "lon": -77.030862
+  }
+}

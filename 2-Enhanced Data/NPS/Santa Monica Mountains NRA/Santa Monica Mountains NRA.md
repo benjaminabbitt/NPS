@@ -1,3 +1,8 @@
+---
+geocode:
+  visitor_center: [34.1351612, -118.6447676]
+---
+
 # Santa Monica Mountains NRA
 
 ## Cancellation Stamp Locations:

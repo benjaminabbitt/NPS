@@ -33,13 +33,21 @@
 - [ ] Skyline Drive, Shenandoah National Park (3+ hours, 13 miles east)
 - [ ] Hupp's Hill Civil War Park (1-1.5 hours, 7 miles south)
 
-## Review / Personal Notes
-
-
 ## Amber's Data (from spreadsheet)
 
-**Visitor Center:** NPS Visitor Center
+### Visitor Center
 
-**Address:** 7712 Main Street, Middletown,  22645 (39.0310273, -78.2749771)
+**Name:** NPS Visitor Center
 
-**Hours:** Varies by day (check website)
+**Address:** 7712 Main Street, Middletown, 22645 (39.031027, -78.274977)
+
+**Hours:** Sun-Thu: 9:00 AM-4:00 PM; Fri: 10:00 AM-4:00 PM; Sat: 9:00 AM-4:00 PM
+
+### Park
+
+**Address:** 7712 Main Street, Middletown, Virginia, 22645 (39.031027, -78.274977)
+
+**Hours:** Daily: 7:00 AM-6:00 PM
+
+## Review / Personal Notes
+

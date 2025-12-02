@@ -6,11 +6,21 @@
 
 No activities found. See [Fort Stanwix NM.md](Fort Stanwix NM.md) for details.
 
-
 ## Amber's Data (from spreadsheet)
 
-**Visitor Center:** Historic Fort Gregg Barracks
+### Visitor Center
 
-**Address:** 100 North James St., Rome, New York 13440 (43.210051, -75.457926)
+**Name:** Historic Fort Gregg Barracks
 
-**Hours:** 9:30 AM-4:00 PM (check website for specific days)
+**Address:** 100 North James St., Rome, New York, 13440 (43.210051, -75.457926)
+
+**Hours:** Sun-Mon: Closed; Tue-Sat: 9:30 AM-4:00 PM
+
+### Park
+
+**Address:** 100 North James St., Rome, New York, 13440 (43.210051, -75.457926)
+
+**Hours:** Sun-Mon: Closed; Tue-Sat: 9:00 AM-5:00 PM
+
+## Review / Personal Notes
+

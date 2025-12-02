@@ -1,3 +1,8 @@
+---
+geocode:
+  visitor_center: [41.2577549, -73.4569284]
+---
+
 # Weir Farm NHP
 
 ## Cancellation Stamp Locations:

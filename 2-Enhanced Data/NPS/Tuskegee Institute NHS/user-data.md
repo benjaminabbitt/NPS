@@ -8,8 +8,19 @@ No activities found. See [Tuskegee Institute NHS.md](Tuskegee Institute NHS.md) 
 
 ## Amber's Data (from spreadsheet)
 
-**Visitor Center:** Tuskegee Institute National Historic Site
+### Visitor Center
 
-**Address:** 1212 W Montgomery Rd, Tuskegee,  36088 (32.4288729, -85.7084448)
+**Name:** Tuskegee Institute National Historic Site
+
+**Address:** 1212 W Montgomery Rd, Tuskegee, 36088 (32.428873, -85.708445)
 
 **Hours:** Daily: 9:00 AM–4:30 PM
+
+### Park
+
+**Address:** 1212 W Montgomery Rd, Tuskegee, Alabama, 36088 (32.428873, -85.708445)
+
+**Hours:** Daily: 9:00 AM–4:30 PM
+
+## Review / Personal Notes
+

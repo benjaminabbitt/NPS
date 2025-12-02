@@ -1,3 +1,8 @@
+---
+geocode:
+  visitor_center: [38.2872, -111.2618]
+---
+
 # Capitol Reef NP (National Park)
 
 ## Cancellation Stamp Locations

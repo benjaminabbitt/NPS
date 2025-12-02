@@ -1,3 +1,8 @@
+---
+geocode:
+  visitor_center: [40.598113, -73.8207508]
+---
+
 # Gateway NRA
 
 ## Cancellation Stamp Locations:

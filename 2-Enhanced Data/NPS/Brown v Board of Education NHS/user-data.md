@@ -26,5 +26,21 @@
 - [ ] Kansas Museum of History (1-2 hours, 5 miles)
 - [ ] Topeka Zoo & Conservation Center (2-3 hours, 2 miles)
 
+## Amber's Data (from spreadsheet)
+
+### Visitor Center
+
+**Name:** Brown v. Board of Education NHS
+
+**Address:** 1515 SE Monroe Street, Topeka, Kansas, 66612 (39.037955, -95.676489)
+
+**Hours:** Sun-Mon: Closed; Tue-Sat: 9:00 AM-5:00 PM
+
+### Park
+
+**Address:** 1515 SE Monroe Street, Topeka, Kansas, 66612 (39.037955, -95.676489)
+
+**Hours:** Sun-Mon: Closed; Tue-Sat: 9:00 AM-5:00 PM
+
 ## Review / Personal Notes
 

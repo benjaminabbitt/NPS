@@ -1,3 +1,8 @@
+---
+geocode:
+  visitor_center: [45.1239264, -67.1483159]
+---
+
 # Saint Croix Island IHS
 
 ## Cancellation Stamp Locations:

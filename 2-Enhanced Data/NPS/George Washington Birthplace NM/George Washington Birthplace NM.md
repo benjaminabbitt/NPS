@@ -1,3 +1,8 @@
+---
+geocode:
+  visitor_center: [37.5524796, -85.1697211]
+---
+
 # George Washington Birthplace NM
 
 ## Cancellation Stamp Locations:

@@ -1,3 +1,8 @@
+---
+geocode:
+  visitor_center: [35.1813118, -87.0878382]
+---
+
 # Fossil Butte NM
 
 ## Cancellation Stamp Locations:

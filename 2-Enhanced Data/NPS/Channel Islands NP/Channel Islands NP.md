@@ -1,3 +1,8 @@
+---
+geocode:
+  visitor_center: [34.2484654, -119.266556]
+---
+
 # Channel Islands NP
 
 ## Cancellation Stamp Locations:

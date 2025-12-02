@@ -1,3 +1,8 @@
+---
+geocode:
+  visitor_center: [40.7975362, -81.3748608]
+---
+
 # First Ladies NHS
 
 ## Cancellation Stamp Locations:

@@ -18,14 +18,16 @@
 
 *To be researched and populated*
 
+## Amber's Data (from spreadsheet)
+
+### Visitor Center
+
+**Name:** Dwight D. Eisenhower Memorial Bookstore
+
+**Address:** 540 Independence Ave SW, Washington DC, DC, 20024 (38.887486, -77.019237)
+
+**Hours:** Daily: 10:00 AM-5:00 PM
+
 ## Review / Personal Notes
 
 
-
-## Amber's Data (from spreadsheet)
-
-**Visitor Center:** Dwight D. Eisenhower Memorial Bookstore
-
-**Address:** 540 Independence Ave SW, Washington DC, DC 20024 (38.887486, -77.0192369)
-
-**Hours:** Daily: 10:00 AM-5:00 PM

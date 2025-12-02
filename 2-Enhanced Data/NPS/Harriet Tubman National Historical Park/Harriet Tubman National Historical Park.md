@@ -1,3 +1,8 @@
+---
+geocode:
+  visitor_center: [42.923399, -76.5758105]
+---
+
 # Harriet Tubman National Historical Park
 
 ## Cancellation Stamp Locations:

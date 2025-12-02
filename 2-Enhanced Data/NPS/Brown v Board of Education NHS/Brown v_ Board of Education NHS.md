@@ -1,3 +1,8 @@
+---
+geocode:
+  visitor_center: [39.037959, -95.676382]
+---
+
 # Brown v. Board of Education NHS (National Historic Site)
 
 **Note:** This site was redesignated from National Historic Site to National Historical Park on May 13, 2022.

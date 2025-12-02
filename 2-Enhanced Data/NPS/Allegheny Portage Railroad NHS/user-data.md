@@ -32,10 +32,19 @@
 
 ## Amber's Data (from spreadsheet)
 
-**Visitor Center:** Summit Level Visitor Center
+### Visitor Center
 
-**Address:** Tunnelhill St, Duncansville, Pennsylvania 16635 (40.9699889, -77.7278831)
+**Name:** Summit Level Visitor Center
+
+**Address:** Tunnelhill St, Duncansville, Pennsylvania, 16635
 
 **Hours:** Daily: 9:00 AM-5:00 PM
+
+### Park
+
+**Address:** 110 Federal Park Road, Gallitzin, Pennsylvania, 16641
+
+**Hours:** Sun-Tue: 9:00 AM-5:00 PM; Wed-Thu: Closed; Fri-Sat: 9:00 AM-5:00 PM
+
 ## Review / Personal Notes
 

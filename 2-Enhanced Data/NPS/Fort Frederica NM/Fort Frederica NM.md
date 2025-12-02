@@ -1,3 +1,8 @@
+---
+geocode:
+  visitor_center: [31.1600988, -81.3884377]
+---
+
 # Fort Frederica NM
 
 ## Cancellation Stamp Locations:

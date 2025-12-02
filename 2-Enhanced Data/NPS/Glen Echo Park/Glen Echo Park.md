@@ -1,3 +1,8 @@
+---
+geocode:
+  visitor_center: [38.9669058, -77.1394511]
+---
+
 # Glen Echo Park
 
 ## Cancellation Stamp Locations:

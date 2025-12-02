@@ -1,3 +1,8 @@
+---
+geocode:
+  visitor_center: [38.0624519, -102.3087324]
+---
+
 # Amache NHS (National Historic Site)
 
 ## Cancellation Stamp Locations

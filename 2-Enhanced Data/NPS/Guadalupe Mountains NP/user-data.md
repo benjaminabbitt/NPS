@@ -39,4 +39,20 @@
 - [ ] Sitting Bull Falls Recreation Area (Variable, ~42 miles W of Carlsbad)
 - [ ] Hueco Tanks State Park & Historic Site (1.75 hours, 110 miles)
 
+## Amber's Data (from spreadsheet)
+
+### Visitor Center
+
+**Name:** Pine Springs Visitor Center
+
+**Address:** V5VH+P6, 400 Pine Canyon Dr, Salt Flat, Texas, 79847
+
+**Hours:** Daily: 8:00 AM-4:00 PM
+
+### Park
+
+**Address:** 400 Pine Canyon, Salt Flat, Texas, 79847 (31.894302, -104.821743)
+
+**Hours:** Open 24 hours
+
 ## Review / Personal Notes

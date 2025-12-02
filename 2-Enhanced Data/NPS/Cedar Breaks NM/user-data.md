@@ -33,10 +33,19 @@
 
 ## Amber's Data (from spreadsheet)
 
-**Visitor Center:** Cedar Breaks National Monument
+### Visitor Center
 
-**Address:** 4730 South Highway 148, Brian Head, Utah 84719
+**Name:** Cedar Breaks National Monument
+
+**Address:** 4730 South Highway 148, Brian Head, Utah, 84719
 
 **Hours:** Daily: 9:00 AM-5:00 PM
+
+### Park
+
+**Address:** 4730 South Highway 148, Brian Head, Utah, 84719
+
+**Hours:** Open 24 hours
+
 ## Review / Personal Notes
 

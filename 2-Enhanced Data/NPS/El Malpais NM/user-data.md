@@ -34,5 +34,21 @@
 - [ ] El Morro National Monument (2-3 hours, 42 miles southwest)
 - [ ] New Mexico Mining Museum (1-1.5 hours, 15 miles north in Grants)
 
+## Amber's Data (from spreadsheet)
+
+### Visitor Center
+
+**Name:** El Malpais Visitor Center
+
+**Address:** 1900 E Santa Fe Ave, Grants, New Mexico, 87020 (35.118648, -107.828853)
+
+**Hours:** Daily: 9:00 AM-5:00 PM
+
+### Park
+
+**Address:** 1900 E. Santa Fe Ave., Grants, New Mexico, 87020 (35.118648, -107.828853)
+
+**Hours:** Open 24 hours
+
 ## Review / Personal Notes
 

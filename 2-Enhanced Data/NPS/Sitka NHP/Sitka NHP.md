@@ -1,3 +1,8 @@
+---
+geocode:
+  visitor_center: [57.0514305, -135.3312227]
+---
+
 # Sitka NHP
 
 ## Cancellation Stamp Locations:

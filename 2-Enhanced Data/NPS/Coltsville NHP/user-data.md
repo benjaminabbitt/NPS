@@ -8,8 +8,11 @@ No activities found. See [Coltsville NHP.md](Coltsville NHP.md) for details.
 
 ## Amber's Data (from spreadsheet)
 
-**Visitor Center:** Coltsville NHP Visitor Center
+### Park
 
-**Address:** 120 Huyshope Ave, Hartford, Connecticut 06106 (41.756704, -72.6630899)
+**Address:** 120 Huyshope Ave, Hartford, Connecticut, 06106 (41.756704, -72.66309)
 
-**Hours:** Closed
+**Hours:** Hours not available
+
+## Review / Personal Notes
+

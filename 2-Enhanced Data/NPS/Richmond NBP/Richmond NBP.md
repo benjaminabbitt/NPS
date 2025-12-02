@@ -1,3 +1,8 @@
+---
+geocode:
+  visitor_center: [37.5268267, -77.4121995]
+---
+
 # Richmond NBP
 
 ## Cancellation Stamp Locations:

@@ -75,7 +75,7 @@ class TripParameterOptimizer:
 
         # Run trip planner with new defaults (2 hours/site, 10 hours/day)
         cmd = [
-            "python3", str(self.planner_script),
+            "uv", "run", "python3", str(self.planner_script),
             "--target-days", str(target_days),
             "--max-distance", str(max_distance),
             "--visit-hours", "2.0",

@@ -1,3 +1,8 @@
+---
+geocode:
+  visitor_center: [38.473405, -109.809587]
+---
+
 # Canyonlands NP (National Park)
 
 ## Cancellation Stamp Locations

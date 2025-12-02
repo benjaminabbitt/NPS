@@ -8,8 +8,5 @@ No activities found. See [Theodore Roosevelt Island.md](Theodore Roosevelt Islan
 
 ## Amber's Data (from spreadsheet)
 
-**Visitor Center:** 
+## Review / Personal Notes
 
-**Address:** 
-
-**Hours:** Hours not available

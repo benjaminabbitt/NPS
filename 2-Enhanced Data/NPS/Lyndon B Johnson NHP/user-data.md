@@ -33,5 +33,21 @@
 - [ ] Becker Vineyards (1-2 hours, between Fredericksburg and Stonewall)
 - [ ] Luckenbach Texas (1-2 hours, 13 miles from LBJ Ranch)
 
+## Amber's Data (from spreadsheet)
+
+### Visitor Center
+
+**Name:** Visitor Center and Park Headquarters
+
+**Address:** 100 Ladybird Lane, Johnson City, Texas, 78636 (30.274855, -98.40905)
+
+**Hours:** Daily: 9:00 AM-5:00 PM
+
+### Park
+
+**Address:** 100 Ladybird Lane, Johnson City, Texas, 78636 (30.274855, -98.40905)
+
+**Hours:** Daily: 9:00 AM-5:00 PM
+
 ## Review / Personal Notes
 

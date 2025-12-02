@@ -1,3 +1,8 @@
+---
+geocode:
+  visitor_center: [34.6953, -76.5569]
+---
+
 # Cape Lookout NS (National Seashore)
 
 ## Cancellation Stamp Locations

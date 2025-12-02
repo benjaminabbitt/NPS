@@ -30,9 +30,18 @@
 
 ## Amber's Data (from spreadsheet)
 
-**Visitor Center:** Bodie Island Visitor Center
+### Visitor Center
 
-**Address:** 8180 Bodie Island Lighthouse Rd, Nags Head, North Carolina 27959
+**Name:** Bodie Island Visitor Center
+
+**Address:** 8180 Bodie Island Lighthouse Rd, Nags Head, North Carolina, 27959
 
 **Hours:** Daily: 9:00 AM-5:00 PM
+
+### Park
+
+**Address:** 46375 Lighthouse Road, Buxton, North Carolina, 27920 (35.264791, -75.525023)
+
+**Hours:** Open 24 hours
+
 ## Review / Personal Notes

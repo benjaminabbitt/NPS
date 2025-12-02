@@ -1,3 +1,8 @@
+---
+geocode:
+  visitor_center: [39.7553856, -84.2119654]
+---
+
 # Dayton Aviation Heritage NHP
 
 ## Cancellation Stamp Locations:

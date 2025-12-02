@@ -1,16 +1,50 @@
 # Pea Ridge NMP
 
+[View Full Research Report](Pea%20Ridge%20NMP.md)
+
 - [ ] Visited
 
-## Activities
+## Cancellation Stamps
 
-No activities found. See [Pea Ridge NMP.md](Pea Ridge NMP.md) for details.
+- [ ] Pea Ridge NMP Visitor Center (15930 National Park Dr, Garfield, AR 72732)
 
+## Key Activities
+
+- [ ] Visitor Center and Museum Experience (1-1.5 hours)
+- [ ] Self-Guided Driving Tour (1.5-2 hours)
+- [ ] Pea Ridge National Military Battlefield Loop Trail (1.5-2 hours)
+- [ ] Trail of Tears National Historic Trail Segment (1-1.5 hours)
+- [ ] Elkhorn Tavern Historic Site and Exhibit (30-45 minutes)
+
+## Hidden Gems
+
+- [ ] East Overlook Vista (20-30 minutes)
+- [ ] Little Sugar Creek Trenches (45-60 minutes)
+- [ ] Williams Hollow Loop and Hospital Site (1-1.5 hours)
+- [ ] Junior Ranger Program (2-3 hours)
+
+## Also Nearby
+
+- [ ] War Eagle Cavern on Beaver Lake (1-1.5 hours, 18-22 miles south)
+- [ ] Beaver Lake Recreation Area (variable, 10-15 miles south)
+- [ ] Daisy Airgun Museum (1-1.5 hours, 10 miles south)
+- [ ] Tanyard Creek Nature Trail (1.5-2 hours, 11-13 miles south)
 
 ## Amber's Data (from spreadsheet)
 
-**Visitor Center:** Pea Ridge National Military Park
+### Visitor Center
 
-**Address:** 15930 National Park Dr, Garfield, Arkansas 72732 (35.2048883, -92.4479108)
+**Name:** Pea Ridge National Military Park
+
+**Address:** 15930 National Park Dr, Garfield, Arkansas, 72732
 
 **Hours:** Daily: 9:00 AM–5:00 PM
+
+### Park
+
+**Address:** 15930 National Park Dr, Garfield, Arkansas, 72732
+
+**Hours:** Daily: 9:00 AM–5:00 PM
+
+## Review / Personal Notes
+

@@ -1,3 +1,8 @@
+---
+geocode:
+  visitor_center: [34.771077, -112.0253378]
+---
+
 # Tuzigoot NM
 
 ## Cancellation Stamp Locations:

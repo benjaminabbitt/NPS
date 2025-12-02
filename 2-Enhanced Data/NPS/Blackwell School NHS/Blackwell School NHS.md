@@ -1,10 +1,32 @@
+---
+geocode:
+  main_site: [30.3058, -104.0224]
+  visitor_center: [30.3058, -104.0224]
+---
+
 # Blackwell School NHS (National Historic Site)
+
+## Main Site
+
+**Address:** 501 South Abbott Street, Marfa, Texas 79843
+**Geocoordinates:** (30.3058, -104.0224)
+**Hours:** Saturday-Sunday 12:00 PM-4:00 PM CST; Weekdays 10:00 AM-4:00 PM CST by advance request (contact at least one month in advance)
+**Phone:** 432-426-3224 ext 223
+[Source: [NPS Basic Info](https://www.nps.gov/blsc/planyourvisit/basicinfo.htm), [Visit Blackwell](https://www.theblackwellschool.org/visit)]
+
+**Note:** As of July 2024, the National Park Service has assumed operations of Blackwell School NHS. For weekday tours, contact the park at least one month in advance. [Source: [Texas Time Travel](https://texastimetravel.com/directory/blackwell-school/)]
+
+## Visitor Center
+
+**Address:** 501 South Abbott Street, Marfa, Texas 79843
+**Geocoordinates:** (30.3058, -104.0224)
+**Hours:** Saturday-Sunday 12:00 PM-4:00 PM CST; Weekdays 10:00 AM-4:00 PM CST by advance request (contact at least one month in advance)
+**Phone:** 432-426-3224 ext 223
+[Source: [NPS Basic Info](https://www.nps.gov/blsc/planyourvisit/basicinfo.htm), [Visit Blackwell](https://www.theblackwellschool.org/visit)]
 
 ## Cancellation Stamp Locations
 
-- **Blackwell School Visitor Center** (501 South Abbott Street, Marfa, Texas 79843 (31.2638905, -98.5456116); Saturday-Sunday 12:00 PM-4:00 PM CST, Weekdays 10:00 AM-4:00 PM CST by advance request; 432-426-3224 ext 223) [Source: [NPS Basic Info](https://www.nps.gov/blsc/planyourvisit/basicinfo.htm), [Visit Blackwell](https://www.theblackwellschool.org/visit)]
-
-**Note:** For weekday tours, contact the park at least one month in advance at 432-426-3224 ext 223. As of July 2024, the National Park Service has assumed operations of Blackwell School NHS. [Source: [Texas Time Travel](https://texastimetravel.com/directory/blackwell-school/)]
+- **Blackwell School Visitor Center** - Available at the visitor center located at the main site address above. [Source: [NPS Basic Info](https://www.nps.gov/blsc/planyourvisit/basicinfo.htm), [Visit Blackwell](https://www.theblackwellschool.org/visit)]
 
 ## Key Activities
 

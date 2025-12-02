@@ -1,3 +1,8 @@
+---
+geocode:
+  visitor_center: [35.0658636, -109.7814829]
+---
+
 # Petrified Forest NP
 
 ## Cancellation Stamp Locations:

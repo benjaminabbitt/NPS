@@ -8,8 +8,5 @@ No activities found. See [Gettysburg NMP.md](Gettysburg NMP.md) for details.
 
 ## Amber's Data (from spreadsheet)
 
-**Visitor Center:** 
+## Review / Personal Notes
 
-**Address:** 
-
-**Hours:** Hours not available

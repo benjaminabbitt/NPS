@@ -1,3 +1,8 @@
+---
+geocode:
+  visitor_center: [38.8894754, -77.0352426]
+---
+
 # Washington Monument
 
 ## Cancellation Stamp Locations:

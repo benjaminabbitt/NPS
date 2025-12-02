@@ -53,9 +53,18 @@
 
 ## Amber's Data (from spreadsheet)
 
-**Visitor Center:** Panther Junction Visitor Center
+### Visitor Center
 
-**Address:** 1 Alsate Dr, Big Bend National Park, Texas 79834 (31.2638905, -98.5456116)
+**Name:** Panther Junction Visitor Center
+
+**Address:** 1 Alsate Dr, Big Bend National Park, Texas, 79834
 
 **Hours:** Daily: 8:30 AM-5:00 PM
+
+### Park
+
+**Address:** 1 Panther Junction, Big Bend National Park, Texas, 79834 (29.327961, -103.206057)
+
+**Hours:** Open 24 hours
+
 ## Review / Personal Notes

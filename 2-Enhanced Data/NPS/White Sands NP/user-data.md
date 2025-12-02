@@ -37,5 +37,21 @@
 - [ ] Alameda Park Zoo (1-2 hours, 20 minutes from White Sands)
 - [ ] White Sands Missile Range Museum (1-2 hours, 45 minutes from White Sands)
 
+## Amber's Data (from spreadsheet)
+
+### Visitor Center
+
+**Name:** White Sands NP Visitor Center
+
+**Address:** 19955 US-70, Alamogordo, New Mexico, 88310 (32.779621, -106.172245)
+
+**Hours:** Daily: 9:00 AM-5:00 PM
+
+### Park
+
+**Address:** 19955 US-70, Alamogordo, New Mexico, 88310 (32.779621, -106.172245)
+
+**Hours:** Daily: 9:00 AM-5:00 PM
+
 ## Review / Personal Notes
 

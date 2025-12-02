@@ -8,8 +8,5 @@ No activities found. See [Eisenhower NHS.md](Eisenhower NHS.md) for details.
 
 ## Amber's Data (from spreadsheet)
 
-**Visitor Center:** 
+## Review / Personal Notes
 
-**Address:** 
-
-**Hours:** Hours not available

@@ -1,13 +1,58 @@
-# Booker T. Washington NM
+---
+geocode:
+  visitor_center: [37.1236, -79.7650]
+---
 
-## Cancellation Stamp Locations:
+# Booker T. Washington NM (National Monument)
 
-- [ ] Booker T. Washington NM Visitor Center (12130 Booker T. Washington Highway, Hardy, Virginia, 24101; Closed)
+## Cancellation Stamp Locations
 
-## Key Activities:
+- **Booker T. Washington Visitor Center** (12130 Booker T. Washington Highway, Hardy, VA 24101; 37.1236, -79.7650; Daily 9:00 AM - 5:00 PM; Phone: 540-682-0173) - Visitor center with exhibits on Booker T. Washington's life and legacy. Film "Measure of a Man" shown regularly. Bookstore featuring African American history. Passport stamps available. [Source: [NPS Booker T. Washington](https://www.nps.gov/bowa/planyourvisit/index.htm)]
 
-- [ ] Visitor Center Experience (1-2 hours) - Explore exhibits and learn about Booker T. Washington NM; 12130 Booker T. Washington Highway, Hardy, Virginia, 24101; Closed [[Source](https://www.nps.gov/btw)]
+**Note:** Call 540-682-0173 to confirm current hours and program schedules.
 
-## Hidden Gems:
+## Key Activities
 
-## Also Nearby:
+- **Visitor Center Exhibits** (30-45 minutes) - Explore exhibits chronicling Booker T. Washington's journey from slavery to becoming one of America's most influential educators and leaders. Interactive displays and historical artifacts. Audiovisual presentation available. [Source: [NPS Booker T. Washington](https://www.nps.gov/bowa/planyourvisit/things2do.htm)]
+
+- **"Measure of a Man" Film** (20-30 minutes) - Documentary film about Booker T. Washington's life, from his birth into slavery on the Burroughs Plantation to founding Tuskegee Institute. Shown regularly at the visitor center. [Source: [NPS Booker T. Washington](https://www.nps.gov/bowa/planyourvisit/things2do.htm)]
+
+- **Plantation Trail** (30-45 minutes) - Quarter-mile loop walk through the reconstructed 1850s tobacco farm where Washington lived as an enslaved child. Pass reconstructed cabin, kitchen, smokehouse, horse barn, tobacco barn, and other period buildings. Self-guided with interpretive brochure. [Source: [NPS Booker T. Washington](https://www.nps.gov/bowa/planyourvisit/things2do.htm)]
+
+- **Jack-O-Lantern Branch Heritage Trail** (1-1.5 hours) - 1.5-mile walking trail through the fields and forests of the historic plantation landscape. Longer interpretive experience with trail guide available at visitor center. [Source: [NPS Booker T. Washington](https://www.nps.gov/bowa/planyourvisit/things2do.htm)]
+
+- **Farm Area** (30-45 minutes) - Experience the recreated 1850s tobacco farm with heritage breed animals including horses and chickens. Learn about the agricultural work performed by enslaved people on Virginia plantations. [Source: [NPS Booker T. Washington](https://www.nps.gov/bowa/planyourvisit/things2do.htm)]
+
+- **Garden Area** (15-30 minutes) - Subsistence garden demonstrating 1850s Piedmont Virginia farming techniques used by both plantation owners and enslaved people. Seasonal plantings of historic vegetable varieties. [Source: [NPS Booker T. Washington](https://www.nps.gov/bowa/planyourvisit/things2do.htm)]
+
+- **Junior Ranger Program** (45-60 minutes) - Activity booklet for young visitors to learn about Booker T. Washington's life and the history of slavery. Complete activities to earn a Junior Ranger badge. Available at visitor center. [Source: [NPS Booker T. Washington](https://www.nps.gov/bowa/index.htm)]
+
+## Hidden Gems
+
+- **Picnic Area** (30-60 minutes) - Shaded picnic area adjacent to the visitor center with tables and restrooms. Peaceful setting for lunch in the historic landscape. [Source: [NPS Booker T. Washington](https://www.nps.gov/bowa/planyourvisit/things2do.htm)]
+
+- **Living History Programs** (30-60 minutes, seasonal) - Interpretive programs and demonstrations of 1850s plantation life. Check park calendar for special events and scheduled programs. [Source: [NPS Booker T. Washington](https://www.nps.gov/bowa/index.htm)]
+
+- **Booker T. Washington's Birthplace Cabin Site** (15-20 minutes) - Marked location on the Plantation Trail where Washington was born into slavery in 1856. Interpretive signage explains the conditions of enslaved people's lives. [Source: [NPS Booker T. Washington](https://www.nps.gov/bowa/index.htm)]
+
+- **Anniversary Events** (April) - Special programming around Booker T. Washington's birthday (April 5, 1856). Enhanced interpretive programs and activities. Check park website for schedule. [Source: [NPS Booker T. Washington](https://www.nps.gov/bowa/index.htm)]
+
+## Also Nearby
+
+- **Blue Ridge Parkway** (variable, 15 miles) - "America's Favorite Drive" with scenic overlooks, hiking trails, and visitor centers. Access at multiple points in the region. [Source: [NPS Blue Ridge Parkway](https://www.nps.gov/blri/index.htm)]
+
+- **Smith Mountain Lake** (2-4 hours, 15 miles) - Virginia's second-largest lake with boating, fishing, swimming, and dining. Smith Mountain Lake State Park offers camping and swimming beach. [Source: Visit Smith Mountain Lake]
+
+- **Roanoke** (2-4 hours, 25 miles) - Largest city in the region with Mill Mountain Star, museums, Taubman Museum of Art, and historic downtown. Full services. [Source: Visit Virginia's Blue Ridge]
+
+- **Appomattox Court House NHP** (2-4 hours, 50 miles east) - Site of Robert E. Lee's surrender to Ulysses S. Grant, ending the Civil War. Reconstructed village and visitor center. [Source: [NPS Appomattox](https://www.nps.gov/apco/index.htm)]
+
+---
+
+## Total Recommended Time
+
+**Total recommended visit time for Booker T. Washington NM: 1.5-3 hours**
+
+Allow 1.5 hours for the visitor center exhibits, film, and Plantation Trail. Add another hour for the longer Jack-O-Lantern Branch Heritage Trail and farm exploration. This intimate site offers a profound experience exploring the early life of one of America's most important African American leaders.
+
+[Sources: [NPS Booker T. Washington](https://www.nps.gov/bowa/index.htm), [NPS Plan Your Visit](https://www.nps.gov/bowa/planyourvisit/index.htm), [NPS Things to Do](https://www.nps.gov/bowa/planyourvisit/things2do.htm)]

@@ -1,3 +1,8 @@
+---
+geocode:
+  visitor_center: [41.8286261, -103.7074807]
+---
+
 # Scotts Bluff NM
 
 ## Cancellation Stamp Locations:

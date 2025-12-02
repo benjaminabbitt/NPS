@@ -1,3 +1,8 @@
+---
+geocode:
+  visitor_center: [42.9108267, -76.8001575]
+---
+
 # Women’s Rights NHP
 
 ## Cancellation Stamp Locations:

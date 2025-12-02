@@ -18,14 +18,22 @@
 
 *To be researched and populated*
 
+## Amber's Data (from spreadsheet)
+
+### Visitor Center
+
+**Name:** Medgar and Myrlie Evers Home NM
+
+**Address:** 2332 Margaret W Alexander Dr, Jackson, Mississippi, 39213 (32.340878, -90.212145)
+
+**Hours:** Sun-Mon: Closed; Tue-Sat: 9:00 AM-4:00 PM
+
+### Park
+
+**Address:** 2332 Margaret W Alexander Dr, Jackson, 39213 (32.340878, -90.212145)
+
+**Hours:** Sun-Mon: Closed; Tue-Sat: 9:00 AM-4:00 PM
+
 ## Review / Personal Notes
 
 
-
-## Amber's Data (from spreadsheet)
-
-**Visitor Center:** Medgar and Myrlie Evers Home NM
-
-**Address:** 2332 Margaret W Alexander Dr, Jackson, Mississippi 39213 (32.340878, -90.212145)
-
-**Hours:** 9:00 AM-4:00 PM (check website for specific days)

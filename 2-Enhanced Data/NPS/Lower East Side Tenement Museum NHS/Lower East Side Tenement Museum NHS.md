@@ -1,3 +1,8 @@
+---
+geocode:
+  visitor_center: [40.7187837, -73.9900266]
+---
+
 # Lower East Side Tenement Museum NHS
 
 ## Cancellation Stamp Locations:

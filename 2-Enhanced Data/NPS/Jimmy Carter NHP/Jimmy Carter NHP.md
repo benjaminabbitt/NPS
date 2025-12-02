@@ -1,3 +1,8 @@
+---
+geocode:
+  visitor_center: [32.0365845, -84.3925601]
+---
+
 # Jimmy Carter NHP
 
 ## Cancellation Stamp Locations:

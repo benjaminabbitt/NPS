@@ -1,3 +1,8 @@
+---
+geocode:
+  visitor_center: [34.439407, -103.194174]
+---
+
 # Colonial NHP
 
 ## Cancellation Stamp Locations:

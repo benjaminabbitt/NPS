@@ -1,3 +1,8 @@
+---
+geocode:
+  visitor_center: [44.83752, -108.37672]
+---
+
 # Bighorn Canyon NRA (National Recreation Area)
 
 ## Cancellation Stamp Locations

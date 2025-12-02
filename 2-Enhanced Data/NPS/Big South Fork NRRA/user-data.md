@@ -44,10 +44,19 @@
 
 ## Amber's Data (from spreadsheet)
 
-**Visitor Center:** Bandy Creek Visitor Center
+### Visitor Center
 
-**Address:** 151 Stable Rd, Oneida, Tennessee 37841 (35.7730076, -86.2820081)
+**Name:** Bandy Creek Visitor Center
+
+**Address:** 151 Stable Rd, Oneida, Tennessee, 37841
 
 **Hours:** Daily: 9:00 AM-5:00 PM
+
+### Park
+
+**Address:** 4564 Leatherwood Road, Oneida, Tennessee, 37841
+
+**Hours:** Open 24 hours
+
 ## Review / Personal Notes
 

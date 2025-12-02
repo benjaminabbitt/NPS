@@ -1,3 +1,8 @@
+---
+geocode:
+  visitor_center: [71.2982129, -156.7539881]
+---
+
 # Inupiat Heritage Center
 
 ## Cancellation Stamp Locations:

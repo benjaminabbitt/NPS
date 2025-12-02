@@ -1,3 +1,8 @@
+---
+geocode:
+  visitor_center: [44.8111976, -86.0547162]
+---
+
 # Sleeping Bear Dunes NL
 
 ## Cancellation Stamp Locations:

@@ -4,9 +4,21 @@
 
 - [ ] Visited
 
+## Operating Hours
+
+**Main Site:**
+- Saturday-Sunday: 12:00 PM-4:00 PM CST
+- Monday-Friday: 10:00 AM-4:00 PM CST (by advance request only - contact at least one month in advance)
+- Phone: 432-426-3224 ext 223
+
+**Visitor Center:**
+- Saturday-Sunday: 12:00 PM-4:00 PM CST
+- Monday-Friday: 10:00 AM-4:00 PM CST (by advance request only - contact at least one month in advance)
+- Phone: 432-426-3224 ext 223
+
 ## Cancellation Stamps
 
-- [ ] Blackwell School Visitor Center (501 South Abbott Street, Marfa, Texas 79843)
+- [ ] Blackwell School Visitor Center (501 South Abbott Street, Marfa, Texas 79843 (30.3058, -104.0224))
 
 ## Key Activities
 
@@ -30,5 +42,21 @@
 - [ ] McDonald Observatory (1.5-6 hours, 37-minute drive via Fort Davis)
 - [ ] Davis Mountains State Park (2-4 hours, 37-minute drive)
 - [ ] Big Bend National Park (full day, 2-3 hour drive south)
+
+## Amber's Data (from spreadsheet)
+
+### Visitor Center
+
+**Name:** Visitor Center
+
+**Address:** 501 South Abbott Street, Marfa, Texas, 79843
+
+**Hours:** Mon-Fri: Closed; Sat-Sun: 12:00 PM-4:00 PM
+
+### Park
+
+**Address:** 501 South Abbott Street, Marfa, Texas, 79843
+
+**Hours:** Mon-Fri: Closed; Sat-Sun: 12:00 PM-4:00 PM
 
 ## Review / Personal Notes

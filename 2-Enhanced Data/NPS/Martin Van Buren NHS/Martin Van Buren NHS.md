@@ -1,3 +1,8 @@
+---
+geocode:
+  visitor_center: [42.3698216, -73.7040339]
+---
+
 # Martin Van Buren NHS
 
 ## Cancellation Stamp Locations:

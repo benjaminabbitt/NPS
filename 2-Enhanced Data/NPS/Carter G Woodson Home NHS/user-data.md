@@ -37,9 +37,18 @@
 
 ## Amber's Data (from spreadsheet)
 
-**Visitor Center:** Frederick Douglass NHS Visitor Center
+### Visitor Center
 
-**Address:** 1411 W Street, S.E., Washington DC, DC 20020
+**Name:** Frederick Douglass NHS Visitor Center
 
-**Hours:** 9:00 AM-5:00 PM (check website for specific days)
+**Address:** 1411 W Street, S.E., Washington DC, DC, 20020
+
+**Hours:** Sun-Mon: Closed; Tue-Sat: 9:00 AM-5:00 PM
+
+### Park
+
+**Address:** 1538 Ninth Street NW, Washington, DC, 20001
+
+**Hours:** Hours not available
+
 ## Review / Personal Notes

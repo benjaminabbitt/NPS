@@ -1,3 +1,8 @@
+---
+geocode:
+  visitor_center: [38.896678, -77.0258178]
+---
+
 # U.S. Navy MEM
 
 ## Cancellation Stamp Locations:

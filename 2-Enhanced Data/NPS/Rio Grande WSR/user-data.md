@@ -30,5 +30,21 @@
 - [ ] Terlingua Ghost Town (1-2 hours, 30 miles west)
 - [ ] McDonald Observatory (3-4 hours, 90 miles north)
 
+## Amber's Data (from spreadsheet)
+
+### Visitor Center
+
+**Name:** Rio Grande Village Visitor Center
+
+**Address:** 450 Rio Grande Road, Big Bend National Park, Texas, 79834
+
+**Hours:** Daily: 9:00 AM-4:30 PM
+
+### Park
+
+**Address:** 1 Panther Junction, Big Bend National Park, Texas, 79834 (29.327961, -103.206057)
+
+**Hours:** Open 24 hours
+
 ## Review / Personal Notes
 

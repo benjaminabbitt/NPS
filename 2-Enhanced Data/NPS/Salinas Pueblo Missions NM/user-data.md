@@ -28,5 +28,21 @@
 - [ ] Mountainair Arts and Galleries (1-2 hours, in Mountainair)
 - [ ] Albuquerque (Full day, 75 miles northwest)
 
+## Amber's Data (from spreadsheet)
+
+### Visitor Center
+
+**Name:** Salinas Pueblo Missions NM Visitor Center
+
+**Address:** 105 South Ripley Avenue, Mountainair, New Mexico, 87036 (34.517735, -106.241929)
+
+**Hours:** Daily: 10:00 AM-5:00 PM
+
+### Park
+
+**Address:** 105 South Ripley Avenue, Mountainair, New Mexico, 87036 (34.517735, -106.241929)
+
+**Hours:** Daily: 10:00 AM-5:00 PM
+
 ## Review / Personal Notes
 

@@ -1,3 +1,8 @@
+---
+geocode:
+  visitor_center: [33.9872732, -84.324584]
+---
+
 # Chattahoochee River NRA
 
 ## Cancellation Stamp Locations:

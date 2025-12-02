@@ -1,3 +1,8 @@
+---
+geocode:
+  visitor_center: [39.4163298, -76.5876824]
+---
+
 # Hampton NHS
 
 ## Cancellation Stamp Locations:

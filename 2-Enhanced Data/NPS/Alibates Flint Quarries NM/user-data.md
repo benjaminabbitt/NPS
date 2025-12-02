@@ -31,10 +31,19 @@
 
 ## Amber's Data (from spreadsheet)
 
-**Visitor Center:** Alibates Visitor Center
+### Visitor Center
 
-**Address:** 37084 Alibates Rd, Fritch, Texas 79036 (31.2638905, -98.5456116)
+**Name:** Alibates Visitor Center
+
+**Address:** 37084 Alibates Rd, Fritch, Texas, 79036
 
 **Hours:** Daily: 9:00 AM-4:00 PM
+
+### Park
+
+**Address:** 37084 Alibates Rd., Potter County, Texas, 79036 (35.561499, -101.696006)
+
+**Hours:** Daily: 9:00 AM-4:00 PM
+
 ## Review / Personal Notes
 

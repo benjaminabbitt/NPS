@@ -1,3 +1,8 @@
+---
+geocode:
+  visitor_center: [42.0913683, -113.632527]
+---
+
 # City of Rocks N RES
 
 ## Cancellation Stamp Locations:

@@ -31,9 +31,18 @@
 
 ## Amber's Data (from spreadsheet)
 
-**Visitor Center:** Agate Fossil Beds National Monument Visitor Center
+### Visitor Center
 
-**Address:** 301 River Rd, Harrison, Nebraska 69346
+**Name:** Agate Fossil Beds National Monument Visitor Center
+
+**Address:** 301 River Rd, Harrison, Nebraska, 69346
 
 **Hours:** Daily: 9:00 AM-5:00 PM
+
+### Park
+
+**Address:** 301 River Rd, Harrison, Nebraska, 69346
+
+**Hours:** Daily: 7:30 AM-5:00 PM
+
 ## Review / Personal Notes

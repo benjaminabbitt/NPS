@@ -1,3 +1,8 @@
+---
+geocode:
+  visitor_center: [66.8969703, -162.5930442]
+---
+
 # Kobuk Valley NP
 
 ## Cancellation Stamp Locations:

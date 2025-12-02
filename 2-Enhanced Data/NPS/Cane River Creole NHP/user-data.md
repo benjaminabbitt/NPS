@@ -28,9 +28,18 @@
 
 ## Amber's Data (from spreadsheet)
 
-**Visitor Center:** Oakland Plantation Store
+### Visitor Center
 
-**Address:** 4386 LA-494, Natchez, Louisiana 71456 (31.6655406, -93.0024144)
+**Name:** Oakland Plantation Store
+
+**Address:** 4386 LA-494, Natchez, Louisiana, 71456 (31.665541, -93.002414)
 
 **Hours:** Daily: 9:00 AM-3:30 PM
+
+### Park
+
+**Address:** 400 Rapides Dr, Natchitoches, Louisiana, 71457 (31.7426, -93.085687)
+
+**Hours:** Daily: 9:00 AM-3:30 PM
+
 ## Review / Personal Notes

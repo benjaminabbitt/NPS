@@ -1,3 +1,8 @@
+---
+geocode:
+  visitor_center: [29.0339, -80.9098]
+---
+
 # Canaveral NS (National Seashore)
 
 ## Cancellation Stamp Locations

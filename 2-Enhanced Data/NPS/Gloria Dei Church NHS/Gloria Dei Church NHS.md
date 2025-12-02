@@ -1,3 +1,8 @@
+---
+geocode:
+  visitor_center: [39.9356801, -75.1432756]
+---
+
 # Gloria Dei Church NHS
 
 ## Cancellation Stamp Locations:

@@ -1,3 +1,8 @@
+---
+geocode:
+  visitor_center: [48.0982206, -123.4247649]
+---
+
 # Olympic NP
 
 ## Cancellation Stamp Locations:

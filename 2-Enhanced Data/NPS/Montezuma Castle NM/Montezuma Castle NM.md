@@ -1,3 +1,8 @@
+---
+geocode:
+  visitor_center: [34.6143878, -111.845751]
+---
+
 # Montezuma Castle NM
 
 ## Cancellation Stamp Locations:

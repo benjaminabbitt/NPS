@@ -31,10 +31,19 @@
 
 ## Amber's Data (from spreadsheet)
 
-**Visitor Center:** Chamizal National Memorial Cultural Center
+### Visitor Center
 
-**Address:** 800 S San Marcial St, El Paso, Texas 79905 (31.7679289, -106.4538777)
+**Name:** Chamizal National Memorial Cultural Center
 
-**Hours:** 10:00 AM-5:00 PM (check website for specific days)
+**Address:** 800 S San Marcial St, El Paso, Texas, 79905 (31.767929, -106.453878)
+
+**Hours:** Sun-Mon: Closed; Tue-Sat: 10:00 AM-5:00 PM
+
+### Park
+
+**Address:** 800 South San Marcial Street, El Paso, Texas, 79905 (31.767929, -106.453878)
+
+**Hours:** Daily: 7:00 AM-7:00 PM
+
 ## Review / Personal Notes
 

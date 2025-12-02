@@ -31,4 +31,20 @@
 - [ ] Cleveland Roller Mill Museum (1 hour, ~35 miles northwest)
 - [ ] Fort Union Drive-In Theatre (2-3 hours, 25-30 miles south)
 
+## Amber's Data (from spreadsheet)
+
+### Visitor Center
+
+**Name:** Fort Union NM Visitor Center
+
+**Address:** 3115 NM Highway 161, Watrous, New Mexico, 87753
+
+**Hours:** Daily: 8:00 AM-4:00 PM
+
+### Park
+
+**Address:** 3115 NM Highway 161, Watrous, New Mexico, 87753
+
+**Hours:** Daily: 8:00 AM-4:00 PM
+
 ## Review / Personal Notes

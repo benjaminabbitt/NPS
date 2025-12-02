@@ -29,10 +29,19 @@
 
 ## Amber's Data (from spreadsheet)
 
-**Visitor Center:** Visitor Center
+### Visitor Center
 
-**Address:** Highway 63, Bryce, Utah 84764 (37.685072, -112.1535205)
+**Name:** Visitor Center
+
+**Address:** Highway 63, Bryce, Utah, 84764 (37.685072, -112.15352)
 
 **Hours:** Daily: 8:00 AM-8:00 PM
+
+### Park
+
+**Address:** Highway 63, Bryce, Utah, 84764 (37.685072, -112.15352)
+
+**Hours:** Open 24 hours
+
 ## Review / Personal Notes
 

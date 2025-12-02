@@ -1,3 +1,8 @@
+---
+geocode:
+  visitor_center: [40.2658382, -96.7332497]
+---
+
 # Homestead NHP
 
 ## Cancellation Stamp Locations:

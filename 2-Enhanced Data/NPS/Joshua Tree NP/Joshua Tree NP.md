@@ -1,3 +1,8 @@
+---
+geocode:
+  visitor_center: [34.134827, -116.0568095]
+---
+
 # Joshua Tree NP
 
 ## Cancellation Stamp Locations:

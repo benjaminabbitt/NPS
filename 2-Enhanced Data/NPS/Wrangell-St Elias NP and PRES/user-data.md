@@ -18,14 +18,22 @@
 
 *To be researched and populated*
 
+## Amber's Data (from spreadsheet)
+
+### Visitor Center
+
+**Name:** Wrangell-St. Elias Visitor Center
+
+**Address:** 104 Richardson Hwy, Copper Center, Alaska, 99573 (61.836564, -145.225761)
+
+**Hours:** Daily: 9:00 AM–5:00 PM
+
+### Park
+
+**Address:** 104 Richardson Hwy, Copper Center, Alaska, 99573 (61.836564, -145.225761)
+
+**Hours:** Open 24 hours
+
 ## Review / Personal Notes
 
 
-
-## Amber's Data (from spreadsheet)
-
-**Visitor Center:** Wrangell-St. Elias Visitor Center
-
-**Address:** 104 Richardson Hwy, Copper Center, Alaska 99573 (61.836564, -145.2257613)
-
-**Hours:** Daily: 9:00 AM–5:00 PM

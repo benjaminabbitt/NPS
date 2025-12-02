@@ -1,3 +1,8 @@
+---
+geocode:
+  visitor_center: [19.5938015, -155.4283701]
+---
+
 # Pearl Harbor N MEM
 
 ## Cancellation Stamp Locations:

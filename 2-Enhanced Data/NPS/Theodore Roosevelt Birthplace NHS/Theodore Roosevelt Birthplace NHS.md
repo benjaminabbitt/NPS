@@ -1,3 +1,8 @@
+---
+geocode:
+  visitor_center: [40.7386402, -73.9890373]
+---
+
 # Theodore Roosevelt Birthplace NHS
 
 ## Cancellation Stamp Locations:

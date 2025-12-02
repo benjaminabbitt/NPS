@@ -27,9 +27,18 @@
 
 ## Amber's Data (from spreadsheet)
 
-**Visitor Center:** Camp Nelson National Monument Visitor Center, Museum, and Barracks
+### Visitor Center
 
-**Address:** 6614 Old Danville Loop 2 Road, Nicholasville, Kentucky 40356
+**Name:** Camp Nelson National Monument Visitor Center, Museum, and Barracks
 
-**Hours:** 9:00 AM-5:00 PM (check website for specific days)
+**Address:** 6614 Old Danville Loop 2 Road, Nicholasville, Kentucky, 40356
+
+**Hours:** Sun: 9:00 AM-5:00 PM; Mon-Tue: Closed; Wed-Sat: 9:00 AM-5:00 PM
+
+### Park
+
+**Address:** 6614 Old Danville Loop 2 Road, Nicholasville, Kentucky, 40356
+
+**Hours:** Daily: 7:00 AM-5:00 PM
+
 ## Review / Personal Notes

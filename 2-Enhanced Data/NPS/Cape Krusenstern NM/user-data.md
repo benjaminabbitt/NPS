@@ -27,10 +27,19 @@
 
 ## Amber's Data (from spreadsheet)
 
-**Visitor Center:** Northwest Arctic Heritage Center
+### Visitor Center
 
-**Address:** 171 Third Ave, Kotzebue, Alaska 99752
+**Name:** Northwest Arctic Heritage Center
 
-**Hours:** 9:00 AM–5:30 PM (check website for specific days)
+**Address:** 171 Third Ave, Kotzebue, Alaska, 99752
+
+**Hours:** Mon-Fri: 9:00 AM–5:30 PM; Sat-Sun: Closed
+
+### Park
+
+**Address:** 171 Third Ave, Kotzebue, Alaska, 99752
+
+**Hours:** Mon-Fri: 9:00 AM–5:30 PM; Sat-Sun: Closed
+
 ## Review / Personal Notes
 

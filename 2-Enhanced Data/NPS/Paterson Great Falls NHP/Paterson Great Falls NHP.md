@@ -1,3 +1,8 @@
+---
+geocode:
+  visitor_center: [40.9148026, -74.1809754]
+---
+
 # Paterson Great Falls NHP
 
 ## Cancellation Stamp Locations:

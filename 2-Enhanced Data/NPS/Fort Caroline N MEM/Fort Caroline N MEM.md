@@ -1,3 +1,8 @@
+---
+geocode:
+  visitor_center: [30.3848466, -81.4959844]
+---
+
 # Fort Caroline N MEM
 
 ## Cancellation Stamp Locations:

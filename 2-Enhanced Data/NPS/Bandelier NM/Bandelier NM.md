@@ -1,3 +1,8 @@
+---
+geocode:
+  visitor_center: [35.778175, -106.269608]
+---
+
 # Bandelier NM (National Monument)
 
 ## Cancellation Stamp Locations

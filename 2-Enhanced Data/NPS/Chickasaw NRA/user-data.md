@@ -32,4 +32,20 @@
 - [ ] Chickasaw Cultural Center (2-3 hours, 10 minutes from Sulphur)
 - [ ] Arbuckle Wilderness Park (1-1.5 hours, 25 minutes from Sulphur)
 
+## Amber's Data (from spreadsheet)
+
+### Visitor Center
+
+**Name:** Travertine Nature Center
+
+**Address:** 1504 Perimeter Rd, Sulphur, Oklahoma, 73086 (34.493737, -96.978969)
+
+**Hours:** Sun-Mon: 9:00 AM-4:30 PM; Tue-Wed: Closed; Thu-Sat: 9:00 AM-4:30 PM
+
+### Park
+
+**Address:** 901 W. 1st Street, Sulphur, Oklahoma, 73086 (34.50651, -96.968635)
+
+**Hours:** Open 24 hours
+
 ## Review / Personal Notes

@@ -1,3 +1,8 @@
+---
+geocode:
+  visitor_center: [34.4578949, -78.1096233]
+---
+
 # Moores Creek NB
 
 ## Cancellation Stamp Locations:

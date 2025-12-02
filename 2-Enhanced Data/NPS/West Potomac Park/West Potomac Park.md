@@ -1,3 +1,8 @@
+---
+geocode:
+  visitor_center: [38.8818503, -77.0339422]
+---
+
 # West Potomac Park
 
 ## Cancellation Stamp Locations:

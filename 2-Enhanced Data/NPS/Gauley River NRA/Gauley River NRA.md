@@ -1,3 +1,8 @@
+---
+geocode:
+  visitor_center: [34.2939248, -94.1798525]
+---
+
 # Gauley River NRA
 
 ## Cancellation Stamp Locations:

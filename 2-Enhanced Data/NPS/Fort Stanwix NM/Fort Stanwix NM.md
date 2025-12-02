@@ -1,3 +1,8 @@
+---
+geocode:
+  visitor_center: [43.210051, -75.457926]
+---
+
 # Fort Stanwix NM
 
 ## Cancellation Stamp Locations:

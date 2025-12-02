@@ -35,9 +35,18 @@
 
 ## Amber's Data (from spreadsheet)
 
-**Visitor Center:** Catoctin Mountain Park Visitor Center
+### Visitor Center
 
-**Address:** 14707 Park Central Road, Thurmont, Maryland 21788
+**Name:** Catoctin Mountain Park Visitor Center
+
+**Address:** 14707 Park Central Road, Thurmont, Maryland, 21788
 
 **Hours:** Daily: 9:00 AM-4:30 PM
+
+### Park
+
+**Address:** 14707 Park Central Road, Thurmont, Maryland, 21788
+
+**Hours:** Daily: 7:00 AM-5:00 PM
+
 ## Review / Personal Notes

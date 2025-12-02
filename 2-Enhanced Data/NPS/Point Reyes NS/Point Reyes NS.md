@@ -1,3 +1,8 @@
+---
+geocode:
+  visitor_center: [38.0411184, -122.8003358]
+---
+
 # Point Reyes NS
 
 ## Cancellation Stamp Locations:

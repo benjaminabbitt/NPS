@@ -6,11 +6,21 @@
 
 No activities found. See [Hampton NHS.md](Hampton NHS.md) for details.
 
-
 ## Amber's Data (from spreadsheet)
 
-**Visitor Center:** Hampton Visitor Center
+### Visitor Center
 
-**Address:** 535 Hampton Lane, Towson, Maryland 21286 (39.4163298, -76.5876824)
+**Name:** Hampton Visitor Center
 
-**Hours:** Sunday, Thursday, Friday, Saturday: 9:00 AM-4:00 PM
+**Address:** 535 Hampton Lane, Towson, Maryland, 21286 (39.41633, -76.587682)
+
+**Hours:** Sun: 9:00 AM-4:00 PM; Mon-Wed: Closed; Thu-Sat: 9:00 AM-4:00 PM
+
+### Park
+
+**Address:** 535 Hampton Lane, Towson, Maryland, 21286 (39.41633, -76.587682)
+
+**Hours:** Sun: 9:00 AM-4:00 PM; Mon-Wed: Closed; Thu-Sat: 9:00 AM-4:00 PM
+
+## Review / Personal Notes
+

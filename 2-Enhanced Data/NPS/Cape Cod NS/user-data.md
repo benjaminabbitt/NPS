@@ -29,9 +29,18 @@
 
 ## Amber's Data (from spreadsheet)
 
-**Visitor Center:** Salt Pond Visitor Center
+### Visitor Center
 
-**Address:** 50 Nauset Road, Eastham, Massachusetts 02642 (41.8382325, -69.9723193)
+**Name:** Salt Pond Visitor Center
+
+**Address:** 50 Nauset Road, Eastham, Massachusetts, 02642 (41.838232, -69.972319)
 
 **Hours:** Daily: 9:00 AM-5:00 PM
+
+### Park
+
+**Address:** 50 Nauset Road, Eastham, Massachusetts, 02642 (41.838232, -69.972319)
+
+**Hours:** Daily: 9:00 AM-5:00 PM
+
 ## Review / Personal Notes

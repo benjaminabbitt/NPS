@@ -1,3 +1,8 @@
+---
+geocode:
+  visitor_center: [47.2440788, -88.4523448]
+---
+
 # Keweenaw NHP
 
 ## Cancellation Stamp Locations:

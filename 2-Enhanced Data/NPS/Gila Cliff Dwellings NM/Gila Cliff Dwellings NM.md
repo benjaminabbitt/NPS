@@ -1,3 +1,8 @@
+---
+geocode:
+  visitor_center: [33.227161, -108.270647]
+---
+
 # Gila Cliff Dwellings NM (National Monument)
 
 ## Cancellation Stamp Locations

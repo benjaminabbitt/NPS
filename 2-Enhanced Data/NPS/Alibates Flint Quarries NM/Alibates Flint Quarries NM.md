@@ -1,3 +1,8 @@
+---
+geocode:
+  visitor_center: [35.561499, -101.6960061]
+---
+
 # Alibates Flint Quarries NM (National Monument)
 
 ## Cancellation Stamp Locations

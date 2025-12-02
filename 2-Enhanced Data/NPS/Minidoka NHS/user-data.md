@@ -6,11 +6,21 @@
 
 No activities found. See [Minidoka NHS.md](Minidoka NHS.md) for details.
 
-
 ## Amber's Data (from spreadsheet)
 
-**Visitor Center:** Minidoka Visitor Center
+### Visitor Center
 
-**Address:** 1428 Hunt Rd, Jerome, Idaho 83338 (42.6790604, -114.2436604)
+**Name:** Minidoka Visitor Center
 
-**Hours:** Sunday, Friday, Saturday: 10:00 AM-500 PM
+**Address:** 1428 Hunt Rd, Jerome, Idaho, 83338 (42.67906, -114.24366)
+
+**Hours:** Sun: 10:00 AM-500 PM; Mon-Thu: Closed; Fri-Sat: 10:00 AM-500 PM
+
+### Park
+
+**Address:** 1428 Hunt Rd, Jerome, Idaho, 83338 (42.67906, -114.24366)
+
+**Hours:** Sun: 10:00 AM-500 PM; Mon-Thu: Closed; Fri-Sat: 10:00 AM-500 PM
+
+## Review / Personal Notes
+

@@ -1,3 +1,8 @@
+---
+geocode:
+  visitor_center: [42.9015679, -78.8726259]
+---
+
 # Theodore Roosevelt Inaugural NHS
 
 ## Cancellation Stamp Locations:

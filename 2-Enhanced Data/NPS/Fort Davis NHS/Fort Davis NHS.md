@@ -1,3 +1,8 @@
+---
+geocode:
+  visitor_center: [30.5989809, -103.8866542]
+---
+
 # Fort Davis NHS (National Historic Site)
 
 ## Cancellation Stamp Locations

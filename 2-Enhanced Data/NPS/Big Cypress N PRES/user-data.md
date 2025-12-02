@@ -44,10 +44,19 @@
 
 ## Amber's Data (from spreadsheet)
 
-**Visitor Center:** Nathaniel P. Reed Visitor Center
+### Visitor Center
 
-**Address:** 33000 Tamiami Trail East, Ochopee, Florida 34141 (25.8988938, -81.2883856)
+**Name:** Nathaniel P. Reed Visitor Center
+
+**Address:** 33000 Tamiami Trail East, Ochopee, Florida, 34141 (25.898894, -81.288386)
 
 **Hours:** Daily: 9:00 AM-4:30 PM
+
+### Park
+
+**Address:** 33100 Tamiami Trail E, Ochopee, Florida, 34141 (25.900584, -81.322299)
+
+**Hours:** Open 24 hours
+
 ## Review / Personal Notes
 

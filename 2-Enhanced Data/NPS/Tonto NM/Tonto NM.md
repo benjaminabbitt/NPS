@@ -1,3 +1,8 @@
+---
+geocode:
+  visitor_center: [33.6646232, -111.1262476]
+---
+
 # Tonto NM
 
 ## Cancellation Stamp Locations:

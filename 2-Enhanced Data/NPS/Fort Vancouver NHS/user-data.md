@@ -6,11 +6,21 @@
 
 No activities found. See [Fort Vancouver NHS.md](Fort Vancouver NHS.md) for details.
 
-
 ## Amber's Data (from spreadsheet)
 
-**Visitor Center:** Fort Vancouver Visitor Center
+### Visitor Center
 
-**Address:** 1501 E Evergreen Blvd., Vancouver, Washington 98661 (45.6262017, -122.6566331)
+**Name:** Fort Vancouver Visitor Center
 
-**Hours:** 9:00 AM-4:00 PM (check website for specific days)
+**Address:** 1501 E Evergreen Blvd., Vancouver, Washington, 98661 (45.626202, -122.656633)
+
+**Hours:** Sun-Mon: Closed; Tue-Sat: 9:00 AM-4:00 PM
+
+### Park
+
+**Address:** 1501 E Evergreen Blvd., Vancouver, Washington, 98661 (45.626202, -122.656633)
+
+**Hours:** Sun-Mon: Closed; Tue-Sat: 9:00 AM-4:00 PM
+
+## Review / Personal Notes
+

@@ -1,3 +1,8 @@
+---
+geocode:
+  visitor_center: [37.2187215, -77.383166]
+---
+
 # Petersburg NB
 
 ## Cancellation Stamp Locations:

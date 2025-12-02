@@ -1,3 +1,8 @@
+---
+geocode:
+  visitor_center: [32.995459, -111.535528]
+---
+
 # Casa Grande Ruins NM (National Monument)
 
 ## Cancellation Stamp Locations

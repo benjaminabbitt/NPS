@@ -1,3 +1,8 @@
+---
+geocode:
+  visitor_center: [36.3166581, -115.207274]
+---
+
 # Tule Springs Fossil Beds NM
 
 ## Cancellation Stamp Locations:

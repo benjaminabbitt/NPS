@@ -1,3 +1,8 @@
+---
+geocode:
+  visitor_center: [38.7126138, -77.0331588]
+---
+
 # Fort Foote Park
 
 ## Cancellation Stamp Locations:

@@ -89,55 +89,82 @@ class NPSDataLoader:
 
     def _load_site(self, site_dir: Path) -> Optional[NPSSite]:
         """Load a single site from its directory"""
-        ambers_data_file = site_dir / "ambers-data.md"
+        # Find the main site .md file (not user-data.md or CLAUDE.md)
+        site_file = None
+        for md_file in site_dir.glob("*.md"):
+            if md_file.name not in ["user-data.md", "CLAUDE.md"]:
+                site_file = md_file
+                break
 
-        if not ambers_data_file.exists():
+        if not site_file:
             return None
 
         try:
-            content = ambers_data_file.read_text()
+            content = site_file.read_text()
 
-            # Extract visitor center
-            vc_match = re.search(r'\*\*Visitor Center:\*\*\s*(.+)', content)
-            visitor_center = vc_match.group(1).strip() if vc_match else ""
-
-            # Extract address with geocode (required)
-            addr_match = re.search(r'\*\*Address:\*\*\s*(.+)\s*\((-?\d+\.?\d*),\s*(-?\d+\.?\d*)\)', content)
-            if not addr_match:
+            # Extract geocode from YAML frontmatter
+            if not content.startswith('---\n'):
                 return None
 
-            address = addr_match.group(1).strip()
-            lat = float(addr_match.group(2))
-            lon = float(addr_match.group(3))
+            parts = content.split('---\n', 2)
+            if len(parts) < 3:
+                return None
 
-            # Extract city and state from address
-            addr_parts = [p.strip() for p in address.split(',')]
-            if len(addr_parts) >= 3:
-                city = addr_parts[-2]
-                # State with zip code - remove 5-digit zip
-                state_part = addr_parts[-1]
-                state = re.sub(r'\s+\d{5}(-\d{4})?$', '', state_part).strip()
-            else:
-                city = "Unknown"
-                state = "Unknown"
+            yaml_content = parts[1]
 
-            # Extract operating hours
-            hours_match = re.search(r'\*\*Hours:\*\*\s*(.+)', content)
+            # Extract geocode
+            geocode_match = re.search(r'visitor_center:\s*\[([0-9.-]+),\s*([0-9.-]+)\]', yaml_content)
+            if not geocode_match:
+                return None
+
+            lat = float(geocode_match.group(1))
+            lon = float(geocode_match.group(2))
+
+            # Try to get additional info from user-data.md if it exists
+            user_data_file = site_dir / "user-data.md"
+            visitor_center = ""
+            address = ""
+            city = "Unknown"
+            state = "Unknown"
             operating_hours = None
-            if hours_match:
-                hours_text = hours_match.group(1)
-                if "not available" not in hours_text.lower() and "closed" not in hours_text.lower():
-                    operating_hours = self._parse_hours(hours_text)
+            always_available = False
+
+            if user_data_file.exists():
+                user_content = user_data_file.read_text()
+
+                # Extract visitor center
+                vc_match = re.search(r'\*\*Visitor Center:\*\*\s*(.+)', user_content)
+                if vc_match:
+                    visitor_center = vc_match.group(1).strip()
+
+                # Extract address
+                addr_match = re.search(r'\*\*Address:\*\*\s*(.+?)(?:\s*\([0-9.-]+,\s*[0-9.-]+\))?$', user_content, re.MULTILINE)
+                if addr_match:
+                    address = addr_match.group(1).strip()
+
+                    # Extract city and state from address
+                    addr_parts = [p.strip() for p in address.split(',')]
+                    if len(addr_parts) >= 3:
+                        city = addr_parts[-2]
+                        # State with zip code - remove 5-digit zip
+                        state_part = addr_parts[-1]
+                        state = re.sub(r'\s+\d{5}(-\d{4})?$', '', state_part).strip()
+
+                # Extract operating hours
+                hours_match = re.search(r'\*\*Hours:\*\*\s*(.+)', user_content)
+                if hours_match:
+                    hours_text = hours_match.group(1)
+                    if "not available" not in hours_text.lower() and "closed" not in hours_text.lower():
+                        operating_hours = self._parse_hours(hours_text)
+
+                # Check for always_stamp_available flag
+                always_match = re.search(r'\*\*Always Stamp Available:\*\*\s*(true|yes|1)', user_content, re.IGNORECASE)
+                if always_match:
+                    always_available = True
 
             # Use default hours (8:00 AM - 5:00 PM) if not specified
             if not operating_hours:
                 operating_hours = OperatingHours(opens=8*60, closes=17*60)  # 8 AM to 5 PM
-
-            # Check for always_stamp_available flag
-            always_available = False
-            always_match = re.search(r'\*\*Always Stamp Available:\*\*\s*(true|yes|1)', content, re.IGNORECASE)
-            if always_match:
-                always_available = True
 
             return NPSSite(
                 name=site_dir.name,

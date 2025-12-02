@@ -1,3 +1,8 @@
+---
+geocode:
+  visitor_center: [36.7399215, -118.9632552]
+---
+
 # Kings Canyon NP
 
 ## Cancellation Stamp Locations:

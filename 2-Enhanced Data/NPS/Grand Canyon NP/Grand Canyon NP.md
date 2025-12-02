@@ -1,3 +1,8 @@
+---
+geocode:
+  visitor_center: [36.0557614, -112.1292908]
+---
+
 # Grand Canyon NP
 
 ## Cancellation Stamp Locations:

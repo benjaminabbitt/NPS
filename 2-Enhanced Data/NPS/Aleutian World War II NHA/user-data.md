@@ -30,10 +30,19 @@
 
 ## Amber's Data (from spreadsheet)
 
-**Visitor Center:** Aleutian Islands WWII National Historic Area - Visitor Center
+### Visitor Center
 
-**Address:** 2716 Airport Beach Rd, Unalaska, Alaska 99692 (53.8845151, -166.5545882)
+**Name:** Aleutian Islands WWII National Historic Area - Visitor Center
 
-**Hours:** Varies by day (check website)
+**Address:** 2716 Airport Beach Rd, Unalaska, Alaska, 99692 (53.884515, -166.554588)
+
+**Hours:** Sun-Mon: Closed; Tue-Fri: 8:00 AM–5:00 PM; Sat: 10:00 AM–5:00 PM
+
+### Park
+
+**Address:** 2716 Airport Beach Road, Unalaska, Alaska, 99692 (53.884515, -166.554588)
+
+**Hours:** Sun-Mon: Closed; Tue-Sat: 8:00 AM–5:00 PM
+
 ## Review / Personal Notes
 

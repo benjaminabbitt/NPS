@@ -29,9 +29,18 @@
 
 ## Amber's Data (from spreadsheet)
 
-**Visitor Center:** Apollo Beach Visitor Center
+### Visitor Center
 
-**Address:** 7611 S. Atlantic Ave, New Smyrna Beach, Florida 32169 (28.9272225, -80.8243973)
+**Name:** Apollo Beach Visitor Center
+
+**Address:** 7611 S. Atlantic Ave, New Smyrna Beach, Florida, 32169 (28.927222, -80.824397)
 
 **Hours:** Daily: 9:00 AM-5:00 PM
+
+### Park
+
+**Address:** 7611 Atlantic Ave S, New Smyrna Beach, Florida, 32169 (28.927222, -80.824397)
+
+**Hours:** Daily: 6:00 AM-8:00 PM
+
 ## Review / Personal Notes

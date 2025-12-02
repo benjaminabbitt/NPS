@@ -1,3 +1,8 @@
+---
+geocode:
+  visitor_center: [41.6707487, -91.3454687]
+---
+
 # Herbert Hoover NHS
 
 ## Cancellation Stamp Locations:

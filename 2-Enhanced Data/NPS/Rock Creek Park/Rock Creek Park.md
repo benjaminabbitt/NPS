@@ -1,3 +1,8 @@
+---
+geocode:
+  visitor_center: [38.9600035, -77.0516825]
+---
+
 # Rock Creek Park
 
 ## Cancellation Stamp Locations:

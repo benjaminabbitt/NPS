@@ -1,3 +1,8 @@
+---
+geocode:
+  visitor_center: [39.9618313, -75.1498587]
+---
+
 # Edgar Allan Poe NHS
 
 ## Cancellation Stamp Locations:

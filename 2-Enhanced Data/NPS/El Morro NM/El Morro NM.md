@@ -1,3 +1,8 @@
+---
+geocode:
+  visitor_center: [35.03838, -108.34832]
+---
+
 # El Morro NM (National Monument)
 
 ## Cancellation Stamp Locations

@@ -272,13 +272,27 @@ class VRPTripPlanner:
 
             # Prefer 9am, but adjust if needed to arrive at opening time
             if required_start_hour < self.earliest_start_hour:
-                # Would need to start too early - clamp to earliest allowed (6am)
-                # This means we'll arrive after opening time
-                return self.earliest_start_hour
+                # Starting before 6 AM would be needed to arrive at opening
+                # Check if starting at 6 AM would arrive before opening
+                arrival_at_earliest = self.earliest_start_hour * 60 + travel_time_minutes
+
+                if arrival_at_earliest < opens_minutes:
+                    # Starting at 6 AM arrives before opening
+                    # Calculate latest start to arrive at opening (with small buffer)
+                    # Allow arriving up to 30 min early as acceptable
+                    target_arrival = opens_minutes - 30  # 30 min early buffer
+                    optimal_start_minutes = target_arrival - travel_time_minutes
+                    optimal_start_hour = optimal_start_minutes / 60.0
+
+                    # Use the later of: earliest allowed (6am) or optimal
+                    return max(self.earliest_start_hour, int(optimal_start_hour))
+                else:
+                    # Starting at 6 AM arrives at or after opening - acceptable
+                    return self.earliest_start_hour
             elif required_start_hour <= self.preferred_start_hour:
                 # Need to start before or at 9am to arrive at opening time
-                # Round down to nearest hour for clean scheduling
-                return int(required_start_hour)
+                # Round to nearest hour (not down) for better arrival timing
+                return round(required_start_hour)
             else:
                 # Opening time is late enough that we can start at preferred time
                 # and still arrive after/when it opens
@@ -328,7 +342,10 @@ class VRPTripPlanner:
             start_hour: Hour when day starts (e.g., 6 or 9)
 
         Returns:
-            (fits, arrival_time_minutes) - tuple of whether it fits and arrival time if it does
+            (fits, arrival_time_minutes, reason) - tuple with:
+                fits: True if site fits in this day
+                arrival_time_minutes: arrival time from start of day
+                reason: 'ok', 'budget_exceeded', 'too_early', 'too_late'
         """
         # Calculate cumulative time to reach new site
         current_time = 0
@@ -355,7 +372,7 @@ class VRPTripPlanner:
 
         # Check if arrival + visit fits in day budget
         if arrival_time + self.visit_minutes_per_site > day_budget_minutes:
-            return False, arrival_time
+            return False, arrival_time, 'budget_exceeded'
 
         # Check operating hours if site has them
         if 'operating_hours' in new_site and new_site['operating_hours']:
@@ -363,7 +380,7 @@ class VRPTripPlanner:
 
             # Skip if stamps always available
             if new_site.get('always_stamp_available', False):
-                return True, arrival_time
+                return True, arrival_time, 'ok'
 
             # Calculate wall-clock arrival time
             arrival_minutes_of_day = (start_hour * 60) + arrival_time
@@ -388,35 +405,76 @@ class VRPTripPlanner:
 
             # Check if arrival is within operating hours
             arrival_minutes_total = arrival_hour * 60 + arrival_minute
-            if arrival_minutes_total < opens_minutes or arrival_minutes_total > closes_minutes:
-                return False, arrival_time
 
-        return True, arrival_time
+            # Allow early arrivals (before visitor center opens) - user can wait
+            # Only reject if too late (after closing)
+            if arrival_minutes_total > closes_minutes:
+                return False, arrival_time, 'too_late'
 
-    def _try_reorder_day(self, sites_in_day, new_site, start_location, day_budget_minutes, start_hour):
+        return True, arrival_time, 'ok'
+
+    def _try_reorder_day(self, sites_in_day, new_site, start_location, day_budget_minutes, start_hour,
+                         prev_day_sites=None, next_day_sites=None):
         """
-        Try to reorder sites_in_day + new_site to make them all fit.
+        Try to reorder sites across day boundaries to make them all fit.
+
+        Includes:
+        - All sites from previous day (optional)
+        - All sites in current day + new site
+        - All sites from next day (optional)
 
         Returns:
-            (success, reordered_sites) - tuple of whether reordering worked and the new order
+            (success, reordered_current_day, moved_to_prev, moved_to_next)
         """
         from itertools import permutations
 
-        all_sites = sites_in_day + [new_site]
+        # Build the pool of sites that can be reordered
+        sites_pool = []
+        if prev_day_sites:
+            for site in prev_day_sites:
+                sites_pool.append(('prev', site))
+        for site in sites_in_day:
+            sites_pool.append(('current', site))
+        sites_pool.append(('current', new_site))
+        if next_day_sites:
+            for site in next_day_sites:
+                sites_pool.append(('next', site))
 
-        # Try all permutations (limited to reasonable size)
-        if len(all_sites) > 8:
-            # Too many permutations, just return failure
-            return False, sites_in_day
+        # Limit permutations to reasonable size
+        if len(sites_pool) > 8:
+            # Fall back to simple reordering within current day only
+            all_sites = sites_in_day + [new_site]
+            if len(all_sites) > 8:
+                return False, sites_in_day, None, None
 
-        # Try all orderings
-        for perm in permutations(all_sites):
-            # Check if this ordering fits
+            for perm in permutations(all_sites):
+                all_fit = True
+                for i in range(len(perm)):
+                    sites_so_far = list(perm[:i])
+                    site_to_check = perm[i]
+                    fits, _, _ = self._check_site_fits_in_day(
+                        sites_so_far, site_to_check, start_location, day_budget_minutes, start_hour
+                    )
+                    if not fits:
+                        all_fit = False
+                        break
+
+                if all_fit:
+                    return True, list(perm), None, None
+
+            return False, sites_in_day, None, None
+
+        # Try permutations considering day boundaries
+        for perm in permutations(sites_pool):
+            # Extract sites for current day from this permutation
+            current_day_sites = [site for (day, site) in perm if day == 'current']
+
+            # Check if current day sites fit
             all_fit = True
-            for i in range(len(perm)):
-                sites_so_far = list(perm[:i])
-                site_to_check = perm[i]
-                fits, _ = self._check_site_fits_in_day(
+            for i in range(len(current_day_sites)):
+                sites_so_far = list(current_day_sites[:i])
+                site_to_check = current_day_sites[i]
+                fits, _, _ = self._check_site_fits_in_day(
                     sites_so_far, site_to_check, start_location, day_budget_minutes, start_hour
                 )
                 if not fits:
@@ -425,10 +483,21 @@ class VRPTripPlanner:
 
             if all_fit:
                 # Found a valid ordering!
-                return True, list(perm)
+                # Determine what moved to adjacent days
+                # Sites that are now in 'prev' day that weren't originally there
+                original_prev = set(prev_day_sites) if prev_day_sites else set()
+                new_prev = set(site for (day, site) in perm if day == 'prev')
+                moved_to_prev = list(new_prev - original_prev)
+
+                # Sites that are now in 'next' day that weren't originally there
+                original_next = set(next_day_sites) if next_day_sites else set()
+                new_next = set(site for (day, site) in perm if day == 'next')
+                moved_to_next = list(new_next - original_next)
+
+                return True, current_day_sites, moved_to_prev, moved_to_next
 
         # No valid ordering found
-        return False, sites_in_day
+        return False, sites_in_day, None, None
 
     def _resequence_trip_with_violations(self, trip):
         """
@@ -455,7 +524,6 @@ class VRPTripPlanner:
 
         # Constants
         DAILY_BUDGET_MINUTES = self.hours_per_day * 60
-        PREFERRED_START_HOUR = self.preferred_start_hour  # 9am
 
         # Build days
         days = []  # List of lists of sites
@@ -465,9 +533,20 @@ class VRPTripPlanner:
         print(f"\nResequencing Trip {trip['trip_number']}:")
 
         for i, site in enumerate(sites_to_schedule):
+            # Calculate optimal start hour for current day based on sites already scheduled
+            # If this is the first site of the day, calculate based on it
+            if not current_day_sites:
+                # First site of day - calculate optimal start based on this site's hours
+                temp_route = [{'lat': start_location[0], 'lon': start_location[1]}, site]
+                day_start_hour = self._calculate_optimal_start_hour(temp_route)
+            else:
+                # Mid-day - calculate based on first site in current day
+                temp_route = [{'lat': start_location[0], 'lon': start_location[1]}, current_day_sites[0]]
+                day_start_hour = self._calculate_optimal_start_hour(temp_route)
+
             # Try to fit site in current day
-            fits, arrival_time = self._check_site_fits_in_day(
-                current_day_sites, site, start_location, DAILY_BUDGET_MINUTES, PREFERRED_START_HOUR
+            fits, arrival_time, reason = self._check_site_fits_in_day(
+                current_day_sites, site, start_location, DAILY_BUDGET_MINUTES, day_start_hour
             )
 
             if fits:
@@ -475,19 +554,12 @@ class VRPTripPlanner:
                 current_day_sites.append(site)
                 print(f"  ✓ Site {i+1}/{len(sites_to_schedule)}: {site.get('site_name')} fits in day {len(days)+1}")
             else:
-                # Doesn't fit - try reordering
-                print(f"  ✗ Site {i+1}/{len(sites_to_schedule)}: {site.get('site_name')} doesn't fit, trying reorder...")
+                # Doesn't fit - check reason
+                if reason == 'too_late':
+                    # Arriving too late - roll to next day immediately (no reordering can help)
+                    print(f"  ✗ Site {i+1}/{len(sites_to_schedule)}: {site.get('site_name')} too late for day {len(days)+1}, rolling to next day...")
 
-                success, reordered = self._try_reorder_day(
-                    current_day_sites, site, start_location, DAILY_BUDGET_MINUTES, PREFERRED_START_HOUR
-                )
-
-                if success:
-                    # Reordering worked!
-                    current_day_sites = reordered
-                    print(f"    ✓ Reordering successful, site fits in day {len(days)+1}")
-                else:
-                    # Reordering failed - check if we can start a new day
+                    # Check if we can start a new day
                     if len(days) + 1 >= self.max_trip_minutes / DAILY_BUDGET_MINUTES:
                         # Trip is already at max days, reject this site
                         print(f"    ✗ Cannot fit in trip (max days reached), rejecting site")
@@ -506,9 +578,13 @@ class VRPTripPlanner:
                         last_site = current_day_sites[-1]
                         start_location = (last_site['lat'], last_site['lon'])
 
+                    # Calculate optimal start for new day based on this site
+                    temp_route = [{'lat': start_location[0], 'lon': start_location[1]}, site]
+                    new_day_start_hour = self._calculate_optimal_start_hour(temp_route)
+
                     # Check if site fits in new day
-                    fits_new_day, _ = self._check_site_fits_in_day(
-                        [], site, start_location, DAILY_BUDGET_MINUTES, PREFERRED_START_HOUR
+                    fits_new_day, _, reason_new_day = self._check_site_fits_in_day(
+                        [], site, start_location, DAILY_BUDGET_MINUTES, new_day_start_hour
                     )
 
                     if fits_new_day:
@@ -516,7 +592,7 @@ class VRPTripPlanner:
                         print(f"    ✓ Started day {len(days)+1} with this site")
                     else:
                         # Site doesn't even fit in a fresh day - reject it
-                        print(f"    ✗ Site doesn't fit even in fresh day, rejecting")
+                        print(f"    ✗ Site doesn't fit even in fresh day (reason: {reason_new_day}), rejecting")
                         rejected_sites.append({
                             'name': site.get('site_name', 'Unknown'),
                             'reason': 'Operating hours incompatible with trip schedule',
@@ -525,6 +601,72 @@ class VRPTripPlanner:
                             'operating_hours': site.get('operating_hours', {})
                         })
                         current_day_sites = []
+                else:
+                    # Other reason (budget_exceeded) - try reordering with adjacent days
+                    print(f"  ✗ Site {i+1}/{len(sites_to_schedule)}: {site.get('site_name')} doesn't fit (reason: {reason}), trying reorder...")
+
+                    # Get adjacent day sites for flexible reordering
+                    prev_day = days[-1] if days else None
+                    next_day = None  # We don't have future days built yet
+
+                    success, reordered, moved_to_prev, moved_to_next = self._try_reorder_day(
+                        current_day_sites, site, start_location, DAILY_BUDGET_MINUTES, day_start_hour,
+                        prev_day_sites=prev_day, next_day_sites=next_day
+                    )
+
+                    if success:
+                        # Reordering worked!
+                        current_day_sites = reordered
+
+                        # Update previous day if sites moved there
+                        if moved_to_prev and days:
+                            days[-1].extend(moved_to_prev)
+                            print(f"    ✓ Reordering successful, moved {len(moved_to_prev)} site(s) to day {len(days)}")
+
+                        print(f"    ✓ Reordering successful, site fits in day {len(days)+1}")
+                    else:
+                        # Reordering failed - start a new day
+                        if len(days) + 1 >= self.max_trip_minutes / DAILY_BUDGET_MINUTES:
+                            # Trip is already at max days, reject this site
+                            print(f"    ✗ Cannot fit in trip (max days reached), rejecting site")
+                            rejected_sites.append({
+                                'name': site.get('site_name', 'Unknown'),
+                                'reason': 'Could not fit within trip day limits after reordering attempts',
+                                'lat': site.get('lat'),
+                                'lon': site.get('lon')
+                            })
+                            continue
+
+                        # Start new day
+                        days.append(current_day_sites)
+                        # Update start location to last site of previous day
+                        if current_day_sites:
+                            last_site = current_day_sites[-1]
+                            start_location = (last_site['lat'], last_site['lon'])
+
+                        # Calculate optimal start for new day based on this site
+                        temp_route = [{'lat': start_location[0], 'lon': start_location[1]}, site]
+                        new_day_start_hour = self._calculate_optimal_start_hour(temp_route)
+
+                        # Check if site fits in new day
+                        fits_new_day, _, reason_new_day = self._check_site_fits_in_day(
+                            [], site, start_location, DAILY_BUDGET_MINUTES, new_day_start_hour
+                        )
+
+                        if fits_new_day:
+                            current_day_sites = [site]
+                            print(f"    ✓ Started day {len(days)+1} with this site")
+                        else:
+                            # Site doesn't even fit in a fresh day - reject it
+                            print(f"    ✗ Site doesn't fit even in fresh day (reason: {reason_new_day}), rejecting")
+                            rejected_sites.append({
+                                'name': site.get('site_name', 'Unknown'),
+                                'reason': 'Operating hours incompatible with trip schedule',
+                                'lat': site.get('lat'),
+                                'lon': site.get('lon'),
+                                'operating_hours': site.get('operating_hours', {})
+                            })
+                            current_day_sites = []
 
         # Add last day if it has sites
         if current_day_sites:
@@ -642,82 +784,92 @@ class VRPTripPlanner:
 
         time_dimension = routing.GetDimensionOrDie('Time')
 
-        # Add operating hours constraints as soft time windows
-        # For each site, we encourage arrivals during operating hours on ANY day
-        # by setting multiple soft bounds for each possible day the trip could span
-        OPERATING_HOURS_PENALTY = 500000  # High penalty for violating hours
-        DAILY_MINUTES = self.hours_per_day * 60  # Minutes per day (e.g., 900 for 15 hours)
+        # TWO-PHASE APPROACH:
+        # Phase 1 (here): Build routes based on distance/time only - NO operating hours
+        # Phase 2 (post-processing): Resequence routes to fit operating hours constraints
+
+        # DISABLED: Operating hours constraints are handled in Phase 2 resequencing
+        # The code below has been commented out to implement true two-phase routing
+
+        # # Add operating hours constraints as soft time windows
+        # # For each site, we encourage arrivals during operating hours on ANY day
+        # # by setting multiple soft bounds for each possible day the trip could span
+        # OPERATING_HOURS_PENALTY = 500000  # High penalty for violating hours
+        # DAILY_MINUTES = self.hours_per_day * 60  # Minutes per day (e.g., 900 for 15 hours)
+        #
+        # if self.verbose:
+        #     print(f"\nVerbose: Adding operating hours constraints")
+        #     print(f"  Operating hours penalty: {OPERATING_HOURS_PENALTY}")
+        #     print(f"  Daily budget: {DAILY_MINUTES} minutes")
+        #
+        # # For each site (except depot), add soft time window constraints
+        # max_possible_days = (self.max_trip_minutes // DAILY_MINUTES) + 1
+        # for i in range(1, len(self.sites)):  # Skip depot (index 0)
+        #     site = self.sites[i]
+        #
+        #     # Only add constraints if site has operating hours
+        #     if not hasattr(site, 'operating_hours') or not site.operating_hours:
+        #         continue
+        #
+        #     # Skip if stamps are always available (24/7 access)
+        #     if hasattr(site, 'always_stamp_available') and site.always_stamp_available:
+        #         continue
+        #
+        #     # Get operating hours in minutes from day start
+        #     open_minutes = site.operating_hours.opens  # e.g., 540 for 9:00 AM
+        #     close_minutes = site.operating_hours.closes  # e.g., 1020 for 5:00 PM
+        #
+        #     # Estimate which day this site will likely be visited based on distance
+        #     # This helps set appropriate time windows
+        #     dist_from_home_miles = self._haversine_distance(
+        #         self.home_base.lat, self.home_base.lon, site.lat, site.lon
+        #     )
+        #     travel_time_from_home_minutes = (dist_from_home_miles / self.avg_speed_mph) * 60
+        #     visit_time = self.visit_minutes_per_site
+        #
+        #     # Rough estimate: how much time to reach this site?
+        #     # Assume average of 1 site per 3-4 hours (including travel + visit)
+        #     estimated_time_to_reach = travel_time_from_home_minutes + visit_time
+        #     estimated_day = max(0, min(int(estimated_time_to_reach / DAILY_MINUTES), max_possible_days - 1))
+        #
+        #     if self.verbose and i <= 5:  # Show first 5 sites
+        #         print(f"  Site {i}: {site.name}")
+        #         print(f"    Operating hours: {open_minutes//60:02d}:{open_minutes%60:02d} - {close_minutes//60:02d}:{close_minutes%60:02d}")
+        #         print(f"    Distance from home: {dist_from_home_miles:.1f} mi")
+        #         print(f"    Estimated arrival day: {estimated_day + 1}")
+        #
+        #     # For the estimated day, calculate the arrival window
+        #     TRIP_START_HOUR = 6  # 6:00 AM trip start
+        #     TRIP_START_OFFSET = TRIP_START_HOUR * 60  # Convert to minutes
+        #
+        #     # Use estimated day for setting soft bounds, but show all possible days in verbose mode
+        #     for day in range(max_possible_days):
+        #         day_start_cumulative = day * DAILY_MINUTES
+        #         window_open = day_start_cumulative + (open_minutes - TRIP_START_OFFSET)
+        #         window_close = day_start_cumulative + (close_minutes - TRIP_START_OFFSET)
+        #         window_open = max(0, window_open)
+        #
+        #         if window_open < self.max_trip_minutes:
+        #             index = manager.NodeToIndex(i)
+        #
+        #             # Set soft bounds for the estimated day (most likely arrival day)
+        #             if day == estimated_day:
+        #                 time_dimension.SetCumulVarSoftLowerBound(
+        #                     index, window_open, OPERATING_HOURS_PENALTY
+        #                 )
+        #                 time_dimension.SetCumulVarSoftUpperBound(
+        #                     index, window_close, OPERATING_HOURS_PENALTY
+        #                 )
+        #
+        #                 if self.verbose and i <= 5:
+        #                     print(f"    Setting constraints for Day {day+1}: {window_open}-{window_close} min")
+        #
+        #             if self.verbose and i <= 5 and day <= 2:  # Show first few
+        #                 marker = " (ACTIVE)" if day == estimated_day else ""
+        #                 print(f"      Day {day+1}: cumulative window {window_open}-{window_close} min{marker}")
 
         if self.verbose:
-            print(f"\nVerbose: Adding operating hours constraints")
-            print(f"  Operating hours penalty: {OPERATING_HOURS_PENALTY}")
-            print(f"  Daily budget: {DAILY_MINUTES} minutes")
-
-        # For each site (except depot), add soft time window constraints
-        max_possible_days = (self.max_trip_minutes // DAILY_MINUTES) + 1
-        for i in range(1, len(self.sites)):  # Skip depot (index 0)
-            site = self.sites[i]
-
-            # Only add constraints if site has operating hours
-            if not hasattr(site, 'operating_hours') or not site.operating_hours:
-                continue
-
-            # Skip if stamps are always available (24/7 access)
-            if hasattr(site, 'always_stamp_available') and site.always_stamp_available:
-                continue
-
-            # Get operating hours in minutes from day start
-            open_minutes = site.operating_hours.opens  # e.g., 540 for 9:00 AM
-            close_minutes = site.operating_hours.closes  # e.g., 1020 for 5:00 PM
-
-            # Estimate which day this site will likely be visited based on distance
-            # This helps set appropriate time windows
-            dist_from_home_miles = self._haversine_distance(
-                self.home_base.lat, self.home_base.lon, site.lat, site.lon
-            )
-            travel_time_from_home_minutes = (dist_from_home_miles / self.avg_speed_mph) * 60
-            visit_time = self.visit_minutes_per_site
-
-            # Rough estimate: how much time to reach this site?
-            # Assume average of 1 site per 3-4 hours (including travel + visit)
-            estimated_time_to_reach = travel_time_from_home_minutes + visit_time
-            estimated_day = max(0, min(int(estimated_time_to_reach / DAILY_MINUTES), max_possible_days - 1))
-
-            if self.verbose and i <= 5:  # Show first 5 sites
-                print(f"  Site {i}: {site.name}")
-                print(f"    Operating hours: {open_minutes//60:02d}:{open_minutes%60:02d} - {close_minutes//60:02d}:{close_minutes%60:02d}")
-                print(f"    Distance from home: {dist_from_home_miles:.1f} mi")
-                print(f"    Estimated arrival day: {estimated_day + 1}")
-
-            # For the estimated day, calculate the arrival window
-            TRIP_START_HOUR = 6  # 6:00 AM trip start
-            TRIP_START_OFFSET = TRIP_START_HOUR * 60  # Convert to minutes
-
-            # Use estimated day for setting soft bounds, but show all possible days in verbose mode
-            for day in range(max_possible_days):
-                day_start_cumulative = day * DAILY_MINUTES
-                window_open = day_start_cumulative + (open_minutes - TRIP_START_OFFSET)
-                window_close = day_start_cumulative + (close_minutes - TRIP_START_OFFSET)
-                window_open = max(0, window_open)
-
-                if window_open < self.max_trip_minutes:
-                    index = manager.NodeToIndex(i)
-
-                    # Set soft bounds for the estimated day (most likely arrival day)
-                    if day == estimated_day:
-                        time_dimension.SetCumulVarSoftLowerBound(
-                            index, window_open, OPERATING_HOURS_PENALTY
-                        )
-                        time_dimension.SetCumulVarSoftUpperBound(
-                            index, window_close, OPERATING_HOURS_PENALTY
-                        )
-
-                        if self.verbose and i <= 5:
-                            print(f"    Setting constraints for Day {day+1}: {window_open}-{window_close} min")
-
-                    if self.verbose and i <= 5 and day <= 2:  # Show first few
-                        marker = " (ACTIVE)" if day == estimated_day else ""
-                        print(f"      Day {day+1}: cumulative window {window_open}-{window_close} min{marker}")
+            print(f"\nVerbose: Phase 1 - Building distance-based routes (operating hours handled in Phase 2)")
 
         # For each vehicle, add soft upper bound on trip length
         for vehicle_id in range(self.num_vehicles):
@@ -946,14 +1098,17 @@ class VRPTripPlanner:
                             stop_info['always_stamp_available'] = site.always_stamp_available
 
                         # Check if arrival is within operating hours
-                        # CRITICAL: Violations are NOT acceptable unless always_stamp_available
-                        # RELAXED: Arrival must be during hours, but visit can extend past closing
+                        # Allow early arrivals (user can wait), only flag late arrivals
                         arrival_hour_minutes = hour_of_day * 60 + minute_of_hour
-                        if arrival_hour_minutes < site.operating_hours.opens or arrival_hour_minutes > site.operating_hours.closes:
+                        if arrival_hour_minutes > site.operating_hours.closes:
+                            # Too late - after closing
                             warning_type = "INFO" if site.always_stamp_available else "VIOLATION"
                             stop_info['time_constraint_warning'] = f"[{warning_type}] Arrival at {hour_of_day:02d}:{minute_of_hour:02d} is outside operating hours ({site.operating_hours.opens//60:02d}:{site.operating_hours.opens%60:02d}-{site.operating_hours.closes//60:02d}:{site.operating_hours.closes%60:02d})"
                             if not site.always_stamp_available:
                                 stop_info['invalid_visit'] = True  # Mark as requiring manual adjustment
+                        elif arrival_hour_minutes < site.operating_hours.opens:
+                            # Early arrival - add INFO note but not a violation
+                            stop_info['time_constraint_info'] = f"[INFO] Early arrival at {hour_of_day:02d}:{minute_of_hour:02d}, site opens at {site.operating_hours.opens//60:02d}:{site.operating_hours.opens%60:02d}"
 
                     route_details.append(stop_info)
 
@@ -1083,15 +1238,24 @@ class VRPTripPlanner:
                                         closes_minutes = 17 * 60  # Default 5pm
 
                                     # Check if arrival is within operating hours
-                                    if arrival_hour_minutes < opens_minutes or arrival_hour_minutes > closes_minutes:
+                                    # Allow early arrivals (user can wait), only flag late arrivals
+                                    if arrival_hour_minutes > closes_minutes:
+                                        # Too late - after closing
                                         always_available = stop.get('always_stamp_available', False)
                                         warning_type = "INFO" if always_available else "VIOLATION"
                                         stop['time_constraint_warning'] = f"[{warning_type}] Arrival at {hour_of_day:02d}:{minute_of_hour:02d} {tz_name} is outside operating hours ({opens_str}-{closes_str})"
                                         if not always_available:
                                             stop['invalid_visit'] = True
+                                    elif arrival_hour_minutes < opens_minutes:
+                                        # Early arrival - add INFO note but not a violation
+                                        stop['time_constraint_info'] = f"[INFO] Early arrival at {hour_of_day:02d}:{minute_of_hour:02d} {tz_name}, site opens at {opens_str}"
+                                        # Remove any existing violation markers
+                                        stop.pop('time_constraint_warning', None)
+                                        stop.pop('invalid_visit', None)
                                     else:
                                         # Remove violation if it now fits
                                         stop.pop('time_constraint_warning', None)
+                                        stop.pop('time_constraint_info', None)
                                         stop.pop('invalid_visit', None)
 
                     trips.append({

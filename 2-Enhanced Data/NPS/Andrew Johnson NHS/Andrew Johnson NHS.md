@@ -1,10 +1,26 @@
+---
+geocode:
+  main_site: [36.1569581, -82.8369315]
+  visitor_center: [36.1629401, -82.8295399]
+---
+
 # Andrew Johnson NHS (National Historic Site)
 
 ## Cancellation Stamp Locations
 
-- **Andrew Johnson NHS Visitor Center** (101 N. College St., Greeneville, TN 37743 (36.1629401, -82.8295399); Summer hours April-November: Daily 9:00 AM-4:00 PM; Winter hours December-March: Wednesday-Sunday 9:00 AM-4:00 PM; 423-638-3551)
+### Main Site
+**Address:** 121 Monument Ave, Greeneville, TN 37743
+**Geocoordinates:** (36.1569581, -82.8369315)
+**Hours:** Summer (April-November): Daily 9:00 AM-4:00 PM; Winter (December-March): Wednesday-Sunday 9:00 AM-4:00 PM
+**Phone:** 423-638-3551
 
-**Note:** Call 423-638-3551 to confirm current stamp locations before visiting. The site also offers virtual passport stamps through the NPS virtual passport program [Source: [NPS Operating Hours](https://www.nps.gov/anjo/planyourvisit/hours.htm), [NPS Basic Info](https://www.nps.gov/anjo/planyourvisit/basicinfo.htm), [NPS Virtual Stamp](https://www.nps.gov/anjo/planyourvisit/virtual-passport-stamp.htm)]
+### Visitor Center
+**Address:** 101 N. College St., Greeneville, TN 37743
+**Geocoordinates:** (36.1629401, -82.8295399)
+**Hours:** Summer (April-November): Daily 9:00 AM-4:00 PM; Winter (December-March): Wednesday-Sunday 9:00 AM-4:00 PM
+**Phone:** 423-638-3551
+
+**Note:** Call 423-638-3551 to confirm current stamp locations before visiting. The site also offers virtual passport stamps through the NPS virtual passport program. The Main Site address refers to the Andrew Johnson Homestead location, while the Visitor Center is the primary contact point and houses the museum and orientation film. [Source: [NPS Operating Hours](https://www.nps.gov/anjo/planyourvisit/hours.htm), [NPS Basic Info](https://www.nps.gov/anjo/planyourvisit/basicinfo.htm), [NPS Virtual Stamp](https://www.nps.gov/anjo/planyourvisit/virtual-passport-stamp.htm)]
 
 ## Key Activities
 

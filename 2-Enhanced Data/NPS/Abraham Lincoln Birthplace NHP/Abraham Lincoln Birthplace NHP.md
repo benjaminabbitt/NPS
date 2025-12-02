@@ -1,3 +1,8 @@
+---
+geocode:
+  visitor_center: [37.5503915, -85.7346486]
+---
+
 # Abraham Lincoln Birthplace NHP (National Historical Park)
 
 ## Cancellation Stamp Locations

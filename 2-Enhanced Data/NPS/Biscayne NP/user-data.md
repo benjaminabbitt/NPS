@@ -31,10 +31,19 @@
 
 ## Amber's Data (from spreadsheet)
 
-**Visitor Center:** Dante Fascell Visitor Center
+### Visitor Center
 
-**Address:** 9700 SW 328th St, Homestead, Florida 33033 (25.4643962, -80.3347359)
+**Name:** Dante Fascell Visitor Center
+
+**Address:** 9700 SW 328th St, Homestead, Florida, 33033 (25.464396, -80.334736)
 
 **Hours:** Daily: 9:00 AM-5:00 PM
+
+### Park
+
+**Address:** 9700 SW 328th Street, Homestead, Florida, 33033 (25.464396, -80.334736)
+
+**Hours:** Open 24 hours
+
 ## Review / Personal Notes
 

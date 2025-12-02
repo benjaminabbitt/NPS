@@ -1,3 +1,8 @@
+---
+geocode:
+  visitor_center: [31.9548142, -112.8011351]
+---
+
 # Organ Pipe Cactus NM
 
 ## Cancellation Stamp Locations:

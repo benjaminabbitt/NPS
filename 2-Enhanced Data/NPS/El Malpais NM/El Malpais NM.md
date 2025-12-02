@@ -1,3 +1,8 @@
+---
+geocode:
+  visitor_center: [35.1186484, -107.828853]
+---
+
 # El Malpais NM (National Monument)
 
 ## Cancellation Stamp Locations

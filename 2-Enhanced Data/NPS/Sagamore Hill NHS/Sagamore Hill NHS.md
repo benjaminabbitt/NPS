@@ -1,3 +1,8 @@
+---
+geocode:
+  visitor_center: [40.8859117, -73.4960288]
+---
+
 # Sagamore Hill NHS
 
 ## Cancellation Stamp Locations:

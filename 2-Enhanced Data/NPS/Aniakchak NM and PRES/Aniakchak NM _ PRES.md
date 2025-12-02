@@ -1,3 +1,8 @@
+---
+geocode:
+  visitor_center: [58.6826737, -156.6682423]
+---
+
 # Aniakchak NM & PRES (National Monument & Preserve)
 
 ## Cancellation Stamp Locations

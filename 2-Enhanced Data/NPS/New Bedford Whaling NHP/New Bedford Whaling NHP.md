@@ -1,3 +1,8 @@
+---
+geocode:
+  visitor_center: [41.6357316, -70.9237988]
+---
+
 # New Bedford Whaling NHP
 
 ## Cancellation Stamp Locations:

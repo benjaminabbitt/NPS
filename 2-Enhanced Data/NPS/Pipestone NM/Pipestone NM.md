@@ -1,3 +1,8 @@
+---
+geocode:
+  visitor_center: [44.0095584, -96.3210255]
+---
+
 # Pipestone NM
 
 ## Cancellation Stamp Locations:

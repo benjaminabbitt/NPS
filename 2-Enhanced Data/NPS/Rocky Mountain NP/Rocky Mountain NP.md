@@ -1,3 +1,8 @@
+---
+geocode:
+  visitor_center: [40.375336, -105.5059]
+---
+
 # Rocky Mountain NP
 
 ## Cancellation Stamp Locations:

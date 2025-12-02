@@ -1,3 +1,8 @@
+---
+geocode:
+  visitor_center: [37.8019747, -122.4568312]
+---
+
 # Presidio of San Francisco
 
 ## Cancellation Stamp Locations:

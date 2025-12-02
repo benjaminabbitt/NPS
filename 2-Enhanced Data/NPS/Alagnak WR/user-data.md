@@ -30,10 +30,19 @@
 
 ## Amber's Data (from spreadsheet)
 
-**Visitor Center:** King Salmon Visitor Center
+### Visitor Center
 
-**Address:** 1 King Salmon Airport Rd, King Salmon, Alaska 99613 (58.6826737, -156.6682423)
+**Name:** King Salmon Visitor Center
+
+**Address:** 1 King Salmon Airport Rd, King Salmon, Alaska, 99613 (58.682674, -156.668242)
 
 **Hours:** Daily: 9:00 AM–5:00 PM
+
+### Park
+
+**Address:** 1000 Silver St., Bldg. 603, King Salmon, Alaska, 99613
+
+**Hours:** Open 24 hours
+
 ## Review / Personal Notes
 

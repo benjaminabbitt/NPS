@@ -1,3 +1,8 @@
+---
+geocode:
+  visitor_center: [35.8809693, -106.3021986]
+---
+
 # Manhattan Project NHP (National Historical Park)
 
 **Note:** Manhattan Project NHP has three geographically separate units in Los Alamos NM, Oak Ridge TN, and Hanford WA. This entry focuses on the Los Alamos unit relevant to NM/TX/OK trip planning.

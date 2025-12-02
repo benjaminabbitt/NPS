@@ -1,3 +1,8 @@
+---
+geocode:
+  visitor_center: [39.015325, -114.152583]
+---
+
 # Great Basin NP
 
 ## Cancellation Stamp Locations:

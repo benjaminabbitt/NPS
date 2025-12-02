@@ -1,3 +1,8 @@
+---
+geocode:
+  visitor_center: [43.0817879, -89.6118533]
+---
+
 # Ice Age National Scenic Trail
 
 ## Cancellation Stamp Locations:

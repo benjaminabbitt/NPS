@@ -1,3 +1,8 @@
+---
+geocode:
+  visitor_center: [41.2625954, -81.560308]
+---
+
 # Cuyahoga Valley NP
 
 ## Cancellation Stamp Locations:

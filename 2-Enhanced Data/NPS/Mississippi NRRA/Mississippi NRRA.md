@@ -1,3 +1,8 @@
+---
+geocode:
+  visitor_center: [44.9470685, -93.1042897]
+---
+
 # Mississippi NRRA
 
 ## Cancellation Stamp Locations:
