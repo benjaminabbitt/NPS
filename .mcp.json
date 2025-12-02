@@ -1,4 +1,4 @@
-l
+{
 	"mcpServers": {
 		"chroma": {
 			"command": "/home/developer/.local/bin/uvx",

@@ -4,10 +4,7 @@
       "WebSearch",
       "WebFetch(domain:www.nps.gov)",
       "WebFetch",
-      "Bash(task-master list:*)",
-      "Bash(task-master set-status:*)",
       "Bash(mkdir:*)",
-      "Bash(task-master show:*)",
       "Bash(echo $MCP_SERVERS)"
     ],
     "deny": [],
@@ -15,7 +12,6 @@
   },
   "enableAllProjectMcpServers": true,
   "enabledMcpjsonServers": [
-    "task-master-ai",
     "milvus"
   ]
 }

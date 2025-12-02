@@ -1,0 +1,52 @@
+# Fort Smith NHS (National Historic Site)
+
+## Cancellation Stamp Locations
+
+- **Fort Smith National Historic Site Visitor Center** (301 Parker Ave, Fort Smith, AR 72901 (35.3883, -94.4313); Tuesday-Saturday 9:00 AM-5:00 PM, Closed Sunday, Monday, New Year's Day, Thanksgiving Day, and Christmas Day; 479-783-3961)
+
+The site offers three cancellation stamps:
+- Fort Smith National Historic Site stamp
+- Trail of Tears stamp (Fort Smith site)
+- Butterfield Overland Trail stamp (Fort Smith site)
+
+All stamps are located at the front desk of the visitor center during normal operating hours.
+
+**Note:** Call 479-783-3961 to confirm current stamp locations before visiting.
+
+## Key Activities
+
+- **Visitor Center Exhibits** (45 minutes) - Explore exhibits housed in the historic barracks/courthouse/jail building focusing on Fort Smith's military history from 1817-1871, western expansion, Federal District Judge Isaac C. Parker and the federal courts' impact on justice in Indian Territory, the U.S. Deputy Marshals and outlaws, Federal Indian policy, and Indian Removal including the Cherokee Trail of Tears; watch a short informative video in air-conditioned theater with comfortable seating; 301 Parker Ave, Fort Smith, AR 72901 (35.3883, -94.4313); Tuesday-Saturday 9:00 AM-5:00 PM [Source: [Things To Do - Fort Smith NHS](https://www.nps.gov/fosm/planyourvisit/things2do.htm), [Fort Smith National Historic Site - Arkansas.com](https://www.arkansas.com/fort-smith/landmarks/fort-smith-national-historic-site)]
+
+- **Judge Parker's Courtroom and Jails Tour** (30-45 minutes) - Visit Judge Parker's restored courtroom where the "Hanging Judge" presided over the Federal Court for the Western District of Arkansas from 1875-1896; tour two historic jails including the notorious "Hell on the Border" dungeon and a partial reconstruction of jail cells; see exhibits on the operation of the federal court and its impact on Indian Territory, U.S. Deputy Marshals and outlaws; 301 Parker Ave, Fort Smith, AR 72901 (35.3883, -94.4313); Tuesday-Saturday 9:00 AM-5:00 PM [Source: [Fort Smith National Historic Site - TripAdvisor](https://www.tripadvisor.com/Attraction_Review-g60816-d298398-Reviews-Fort_Smith_National_Historic_Site-Fort_Smith_Arkansas.html), [Fort Smith National Historic Site - Arkansas.com](https://www.arkansas.com/fort-smith/landmarks/fort-smith-national-historic-site)]
+
+- **Grounds Walking Tour** (45-60 minutes) - Self-guided walk on paved, handicap accessible paths to the foundation of the first Fort Smith (1817-1824) at Belle Point, the Commissary building (circa 1838), and the reconstructed gallows where 79 men were hanged between 1873 and 1896; Park grounds open daily 30 minutes before sunrise to 30 minutes after sunset [Source: [Things To Do - Fort Smith NHS](https://www.nps.gov/fosm/planyourvisit/things2do.htm), [Fort Smith National Historic Site - TripAdvisor](https://www.tripadvisor.com/Attraction_Review-g60816-d298398-Reviews-Fort_Smith_National_Historic_Site-Fort_Smith_Arkansas.html)]
+
+- **Trail of Tears Overlook and River Trail** (27-45 minutes) - Walk the Fort Smith National Historic Site Loop Trail (1.4 miles) along the Arkansas River featuring wayside exhibits covering various periods of Fort Smith's history; visit the Trail of Tears overlook where Cherokee on the water route passed just before entering Indian Territory (today's eastern Oklahoma); take time to reflect on the lives of those who passed this way; see in-depth exhibits about Indian removal; Park grounds open daily 30 minutes before sunrise to 30 minutes after sunset [Source: [Fort Smith National Historic Site Loop Trail - AllTrails](https://www.alltrails.com/trail/us/arkansas/fort-smith-national-historic-site-loop-trail), [Trail of Tears Overlook - Explore Southern History](https://www.exploresouthernhistory.com/ARFSToT.html), [Fort Smith NHS Trail of Tears](https://www.nps.gov/places/fort-smith-national-historic-site-trail-of-tears.htm)]
+
+- **Junior Ranger Program** (45-60 minutes) - Kids of all ages can earn Junior Ranger badges by completing the Junior Ranger booklet available at the visitor center; explore the park, complete activities, and learn about Fort Smith's history; 301 Parker Ave, Fort Smith, AR 72901 (35.3883, -94.4313); Tuesday-Saturday 9:00 AM-5:00 PM [Source: [Become a Fort Smith Junior Ranger](https://www.nps.gov/thingstodo/become-a-fort-smith-junior-ranger.htm), [Fort Smith National Historic Site - TripAdvisor](https://www.tripadvisor.com/Attraction_Review-g60816-d298398-Reviews-Fort_Smith_National_Historic_Site-Fort_Smith_Arkansas.html)]
+
+## Hidden Gems
+
+- **Commissary Building** (15-20 minutes) - Visit the circa 1838 Commissary building, one of the few remaining original structures from the second Fort Smith; explore this historic supply building that served soldiers during the fort's military operations; located on park grounds accessible via paved paths; Park grounds open daily 30 minutes before sunrise to 30 minutes after sunset [Source: [Things To Do - Fort Smith NHS](https://www.nps.gov/fosm/planyourvisit/things2do.htm)]
+
+- **Belle Point Foundation** (10-15 minutes) - Walk to the foundation remains of the original first Fort Smith (1817-1824) at Belle Point, the strategic location where the Arkansas and Poteau Rivers meet; see archaeological remains of this important frontier military post; located on park grounds; Park grounds open daily 30 minutes before sunrise to 30 minutes after sunset [Source: [Things To Do - Fort Smith NHS](https://www.nps.gov/fosm/planyourvisit/things2do.htm)]
+
+- **Special Programs and Events** (varies) - Check the park's event calendar for ranger-led programs, living history demonstrations, and special events scheduled throughout the year; programs vary by season and include historical reenactments and educational presentations; 301 Parker Ave, Fort Smith, AR 72901 (35.3883, -94.4313); call 479-783-3961 for current schedule [Source: [Things To Do - Fort Smith NHS](https://www.nps.gov/fosm/planyourvisit/things2do.htm)]
+
+## Also Nearby
+
+- **U.S. Marshals Museum** (1.5-2 hours, 1.5 miles) - Explore five immersive galleries at this world-class museum dedicated to America's oldest federal law enforcement agency; opened July 1, 2023, featuring the Samuel M. Sicard Hall of Honor and interactive exhibits about the critical, ever-evolving role of U.S. Marshals; 789 Riverfront Dr, Fort Smith, AR 72901; Monday-Saturday 9:00 AM-5:00 PM; 479-259-2024 [Source: [U.S. Marshals Museum](https://usmmuseum.org/plan-your-visit/), [U.S. Marshals Museum - Arkansas.com](https://www.arkansas.com/fort-smith/landmarks/us-marshals-museum)]
+
+- **Fort Smith Museum of History** (1.5-2 hours, 0.5 miles) - Two floors of exhibits covering Fort Smith's history from the 1817 military fort through the 20th century; features Judge Parker's courtroom displays, old-fashioned soda fountain, and gift shop; wheelchair accessible; 320 Rogers Ave, Fort Smith, AR 72901; check fortsmithmuseum.org for current hours; $7 admission for adults [Source: [Fort Smith Museum of History - TripAdvisor](https://www.tripadvisor.com/Attraction_Review-g60816-d298613-Reviews-Fort_Smith_Museum_of_History-Fort_Smith_Arkansas.html), [Fort Smith Museum of History](https://www.fortsmithmuseum.org/visit-us)]
+
+- **Fort Smith Trolley Museum** (30-45 minutes, 0.8 miles) - Ride a restored 1926 electric Birney Streetcar on a 3/4 mile tour between historic Garrison Avenue and the National Cemetery where Confederate and Union soldiers and Judge Parker are buried; four vehicles in collection listed on National Register of Historic Places; 100 S 4th St, Fort Smith, AR 72901; May 1-October 31: Monday-Saturday 10:00 AM-5:00 PM, Sunday 1:00 PM-5:00 PM; $4 adults, $2 children [Source: [Fort Smith Trolley Museum](https://www.fstm.org/), [Fort Smith Trolley Museum - Arkansas.com](https://www.arkansas.com/fort-smith/museums-libraries/fort-smith-trolley-museum)]
+
+- **Miss Laura's Visitor Information Center** (20-30 minutes, 0.3 miles) - Free guided tours of this restored baroque Victorian home built in 1900, the only former bordello listed on the National Register of Historic Places; serves as Fort Smith's tourist information center in the 22-block Belle Grove Historic District; 2 North B St, Fort Smith, AR 72901; tours available seven days a week [Source: [Things to do in Fort Smith - Arkansas.com](https://www.arkansas.com/fort-smith/things-to-do), [Fort Smith: Where the New South Meets the Old West](https://www.arkansas.com/fort-smith-where-new-south-meets-old-west)]
+
+- **Chaffee Barbershop Museum** (45-60 minutes, 7.5 miles) - Visit the preserved 1950s-era barbershop where Elvis Presley received his famous Army buzz cut on March 25, 1958; largest collection of Fort Chaffee artifacts in the United States with extensive photographs, documents, and displays chronicling Fort Chaffee's role in five wars, multiple resettlement operations, and major motion pictures; 7313 Terry St, Building 803, Fort Smith, AR 72916; open daily except Sunday, tours by appointment, call number on door if locked; Free admission [Source: [Chaffee Barbershop Museum - Arkansas.com](https://www.arkansas.com/fort-smith/museums-libraries/chaffee-barbershop-museum), [Elvis Barbershop Museum](https://fortsmith.org/elvis-barbershop-museum)]
+
+- **Janet Huckabee Arkansas River Valley Nature Center** (1.5-2 hours, 7 miles) - Explore 170 acres of diverse landscapes including lakes, forests, and wetlands with over four miles of trails (two ADA-accessible); education center features live native snakes, turtles, fish, and hands-on Discovery Room; fish at Wells Lake (catfish in summer, rainbow trout in winter); 8300 Wells Lake Rd, Fort Smith, AR 72916; Tuesday-Saturday 8:30 AM-4:30 PM; Free admission; 479-452-3993 [Source: [Janet Huckabee Nature Center - Arkansas.com](https://www.arkansas.com/fort-smith/museums-libraries/janet-huckabee-arkansas-river-valley-nature-center), [Janet Huckabee Nature Center - Arkansas Game & Fish](https://www.agfc.com/things-to-do/nature-centers/fort-smith/)]
+
+---
+
+**Total Recommended Time:** 2-3 hours [Source: [Fort Smith National Historic Site - TripAdvisor](https://www.tripadvisor.com/Attraction_Review-g60816-d298398-Reviews-Fort_Smith_National_Historic_Site-Fort_Smith_Arkansas.html), [Fort Smith National Historic Site - Park Ranger John](https://www.parkrangerjohn.com/fort-smith-national-historic-site/)]

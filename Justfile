@@ -2,13 +2,10 @@ TOP := `git rev-parse --show-toplevel`
 
 
 claude:
-    claude --dangerously-skip-permissions
+    claude --dangerously-skip-permissions --append-system-prompt "Use mcp-tasks to track work. Run get_tasks before starting."
 
-claudeResume:
-    claude --dangerously-skip-permissions --continue
-
-claudeProcessTodo:
-    claude --dangerously-skip-permissions Use MCP todo list.  Spawn 10 subagents and process the top of the todo list.  Ensure you keep MCP todo list updated.
+claude-sonnet:
+    claude --dangerously-skip-permissions --model sonnet --append-system-prompt "Use mcp-tasks to track work. Run get_tasks before starting."
 
 # mcp-tasks
 mcp-tasks-setup:
