@@ -64,6 +64,69 @@ geocode:
 
 - Everglades City and Ten Thousand Islands (1-2 hours for boat tour, 35-45 minutes west) - Gateway to Ten Thousand Islands archipelago offering boat tours, kayaking, fishing charters, and eco-tours to see manatees (spotted 80% of the time), dolphins, osprey, and bald eagles; Gulf Coast Visitor Center and various tour operators in Everglades City, FL; tours and activities available year-round [[Source](https://visitevergladescity.com/the-ten-thousand-islands-of-florida/), [Source](https://www.visitflorida.com/places-to-go/southwest/everglades-city/), [Source](https://evergladesnationalparkadventures.com/attractions/ten-thousand-islands-boat-tour/)]
 
+
+---
+
+# User Data
+
+- [ ] Visited
+
+## Cancellation Stamps
+
+- [ ] Oasis Visitor Center (52105 Tamiami Trail E, Ochopee, FL 34141) (25.857417, -81.0335752)
+- [x] Big Cypress Swamp Welcome Center/Nathaniel P. Reed Visitor Center (33100 Tamiami Trail E, Ochopee, FL 34141) (25.900584, -81.3222993)
+
+## Key Activities
+
+- [ ] Loop Road Scenic Drive (2-4 hours)
+- [ ] Turner River Paddling Trail (5-10 hours for full trail)
+- [ ] Kirby Storter Boardwalk (20-30 minutes)
+- [ ] Oasis Visitor Center and Boardwalk (30-60 minutes)
+- [ ] Big Cypress Swamp Welcome Center (30-45 minutes)
+- [ ] Turner River Road Scenic Drive (1-2 hours)
+- [ ] Deep Lake Trail (1 hour)
+- [ ] Tree Snail Hammock Trail (15-20 minutes)
+- [ ] H.P. Williams Roadside Park Boardwalk (10-15 minutes)
+- [ ] Wildlife Viewing along Tamiami Trail (1-4 hours)
+- [ ] Swamp Buggy Tours (30 minutes to 4 hours)
+- [ ] Stargazing (1-2 hours)
+
+## Hidden Gems
+
+- [ ] Gator Hook Trail (3-4 hours)
+- [ ] Halfway Creek Paddling (3.5 hours)
+- [ ] Bear Island Backcountry Unit (half to full day)
+- [ ] Ochopee Post Office (5-10 minutes)
+- [ ] Dispersed Backcountry Camping (overnight)
+- [ ] Florida National Scenic Trail Section (6-8 hours)
+
+## Also Nearby
+
+- [ ] Fakahatchee Strand Preserve State Park - Big Cypress Bend Boardwalk (30-45 minutes, 7 miles west)
+- [ ] Clyde Butcher Big Cypress Gallery (30-60 minutes, 0.5 miles east)
+- [ ] Skunk Ape Research Headquarters (20-30 minutes, 15 miles south of I-75)
+- [ ] Everglades National Park - Shark Valley (2-3 hours, 20 miles east/25 minutes)
+- [ ] Everglades City and Ten Thousand Islands (1-2 hours for boat tour, 35-45 minutes west)
+
+
+## Amber's Data (from spreadsheet)
+
+### Visitor Center
+
+**Name:** Nathaniel P. Reed Visitor Center
+
+**Address:** 33000 Tamiami Trail East, Ochopee, Florida, 34141 (25.898894, -81.288386)
+
+**Hours:** Daily: 9:00 AM-4:30 PM
+
+### Park
+
+**Address:** 33100 Tamiami Trail E, Ochopee, Florida, 34141 (25.900584, -81.322299)
+
+**Hours:** Open 24 hours
+
+## Review / Personal Notes
+
 ---
 
 **Total Recommended Time:** 6-8 hours for a comprehensive visit including Loop Road scenic drive (2-4 hours), Kirby Storter Boardwalk (30 minutes), one visitor center (30-60 minutes), wildlife viewing stops along Tamiami Trail (1-2 hours), and short trails (1-2 hours total). A full day allows for more extensive exploration including longer hikes or paddling activities. Best visited November-April during dry season when wildlife is more concentrated and trails are accessible. [[Source](https://www.nps.gov/tripideas/full-day-in-big-cypress-national-preserve.htm), [Source](https://www.lostwithlydia.com/destinations/usa/fl/Best-Way-To-Spend-3-Days-in-the-Everglades-and-Big-Cypress/)]

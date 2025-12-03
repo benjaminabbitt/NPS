@@ -7,40 +7,89 @@ geocode:
 
 ## Cancellation Stamp Locations
 
-- **Visitor Center** (412 W. Division Street, Hope, AR 71801; 33.6671, -93.5916; Friday - Tuesday 9:00 AM - 4:30 PM CST/CDT, closed Wednesdays, Thursdays, New Year's Day, Thanksgiving Day, and Christmas Day) - Passport stamps are available at the visitor center information desk. [Source: [NPS Plan Your Visit](https://www.nps.gov/wicl/planyourvisit/index.htm)]
+- <a id="stamp-visitor-center"></a>**Visitor Center** (412 W. Division Street, Hope, AR 71801; 33.6671, -93.5916; Friday - Tuesday 9:00 AM - 4:30 PM CST/CDT, closed Wednesdays, Thursdays, New Year's Day, Thanksgiving Day, and Christmas Day) - Passport stamps are available at the visitor center information desk. [Source: [NPS Plan Your Visit](https://www.nps.gov/wicl/planyourvisit/index.htm)]
 
 **Note:** Call ahead at (870) 777-4455 to confirm current stamp availability and hours before visiting.
 
 ## Key Activities
 
-- **Guided Tour of the Birthplace Home** (25 minutes) - A ranger-led tour of the two-and-a-half-story, 2,100-square-foot home built in 1917 where President Bill Clinton spent his first four years of life. The tour covers the six rooms including the kitchen, living room, bedroom, and nursery. Tours depart every 30 minutes from the Visitor Center, with the last tour at 4:00 PM. Access to the home is by guided tour only. 412 W. Division Street, Hope, AR 71801; 9:00 AM - 4:30 PM, last tour 4:00 PM. [Source: [NPS Things to Do](https://www.nps.gov/wicl/planyourvisit/things2do.htm), [TripAdvisor](https://www.tripadvisor.com/Attraction_Review-g31675-d109327-Reviews-President_William_Jefferson_Clinton_Birthplace_Home-Hope_Arkansas.html)]
+- <a id="activity-guided-tour-of-the-birthplace-home"></a>**Guided Tour of the Birthplace Home** (25 minutes) - A ranger-led tour of the two-and-a-half-story, 2,100-square-foot home built in 1917 where President Bill Clinton spent his first four years of life. The tour covers the six rooms including the kitchen, living room, bedroom, and nursery. Tours depart every 30 minutes from the Visitor Center, with the last tour at 4:00 PM. Access to the home is by guided tour only. 412 W. Division Street, Hope, AR 71801; 9:00 AM - 4:30 PM, last tour 4:00 PM. [Source: [NPS Things to Do](https://www.nps.gov/wicl/planyourvisit/things2do.htm), [TripAdvisor](https://www.tripadvisor.com/Attraction_Review-g31675-d109327-Reviews-President_William_Jefferson_Clinton_Birthplace_Home-Hope_Arkansas.html)]
 
-- **Visitor Center Exhibits** (30-45 minutes) - Explore exhibits featuring President Clinton's early life in Hope, Arkansas, including a kiosk with digital vignettes of memorable moments in his life and information about the home's restoration. A 20-minute film documenting Bill Clinton and the home provides historical context. Browse the Jefferson National Parks Association (JNPA) bookstore for educational materials and gifts related to the site. 412 W. Division Street, Hope, AR 71801; 9:00 AM - 4:30 PM Friday - Tuesday. [Source: [NPS Things to Do](https://www.nps.gov/wicl/planyourvisit/things2do.htm), [Arkansas.com](https://www.arkansas.com/hope/museums-libraries/clinton-birthplace-home-national-historic-site)]
+- <a id="activity-visitor-center-exhibits"></a>**Visitor Center Exhibits** (30-45 minutes) - Explore exhibits featuring President Clinton's early life in Hope, Arkansas, including a kiosk with digital vignettes of memorable moments in his life and information about the home's restoration. A 20-minute film documenting Bill Clinton and the home provides historical context. Browse the Jefferson National Parks Association (JNPA) bookstore for educational materials and gifts related to the site. 412 W. Division Street, Hope, AR 71801; 9:00 AM - 4:30 PM Friday - Tuesday. [Source: [NPS Things to Do](https://www.nps.gov/wicl/planyourvisit/things2do.htm), [Arkansas.com](https://www.arkansas.com/hope/museums-libraries/clinton-birthplace-home-national-historic-site)]
 
-- **Virginia Clinton Kelley Memorial Garden Self-Guided Walk** (15-20 minutes) - A contemplative garden honoring the memory of Virginia Cassidy Blythe Clinton Kelley, President Clinton's mother. The grounds provide space for reflection and remembrance. Accessible daily from sunrise to sunset, allowing visitors flexibility for this peaceful outdoor experience. 412 W. Division Street, Hope, AR 71801; sunrise to sunset daily. [Source: [NPS Memorial Garden](https://www.nps.gov/places/memorial-garden.htm)]
+- <a id="activity-virginia-clinton-kelley-memorial-garden-self-guided-walk"></a>**Virginia Clinton Kelley Memorial Garden Self-Guided Walk** (15-20 minutes) - A contemplative garden honoring the memory of Virginia Cassidy Blythe Clinton Kelley, President Clinton's mother. The grounds provide space for reflection and remembrance. Accessible daily from sunrise to sunset, allowing visitors flexibility for this peaceful outdoor experience. 412 W. Division Street, Hope, AR 71801; sunrise to sunset daily. [Source: [NPS Memorial Garden](https://www.nps.gov/places/memorial-garden.htm)]
 
-- **Junior Ranger Activity Program** (30-60 minutes depending on age) - Complete activities designed for young visitors, including components such as touring the home, interviewing a park ranger, learning history from the visitor center, writing a journal entry, and solving word puzzles. Upon completion, participants receive a Junior Ranger Badge and certificate. The activity booklet can be completed during your visit or printed and mailed in advance. [Source: [NPS Junior Ranger](https://www.nps.gov/wicl/learn/kidsyouth/beajuniorranger.htm)]
+- <a id="activity-junior-ranger-activity-program"></a>**Junior Ranger Activity Program** (30-60 minutes depending on age) - Complete activities designed for young visitors, including components such as touring the home, interviewing a park ranger, learning history from the visitor center, writing a journal entry, and solving word puzzles. Upon completion, participants receive a Junior Ranger Badge and certificate. The activity booklet can be completed during your visit or printed and mailed in advance. [Source: [NPS Junior Ranger](https://www.nps.gov/wicl/learn/kidsyouth/beajuniorranger.htm)]
 
-- **Passport Stamping** (5 minutes) - Record your visit by stamping your National Park Passport book at the Visitor Center information desk. This is part of the official NPS Passport program and the 2023 Passport Stamp Set. 412 W. Division Street, Hope, AR 71801; 9:00 AM - 4:30 PM Friday - Tuesday. [Source: [NPS Plan Your Visit](https://www.nps.gov/wicl/planyourvisit/index.htm)]
+- <a id="activity-passport-stamping"></a>**Passport Stamping** (5 minutes) - Record your visit by stamping your National Park Passport book at the Visitor Center information desk. This is part of the official NPS Passport program and the 2023 Passport Stamp Set. 412 W. Division Street, Hope, AR 71801; 9:00 AM - 4:30 PM Friday - Tuesday. [Source: [NPS Plan Your Visit](https://www.nps.gov/wicl/planyourvisit/index.htm)]
 
 ## Hidden Gems
 
-- **Rose Hill Cemetery Family Plot Visit** (15-20 minutes, self-guided) - Pay respects at the gated family burial plot of President Clinton's parents, William Jefferson Blythe Jr. and Virginia Clinton Kelley, as well as his maternal grandparents, Edith and Eldridge Cassidy. The plot features an engraved plaque marking the burial site. William Jefferson Blythe was killed in an automobile crash in 1946 while returning from Chicago, and Virginia Clinton Kelley passed away in 1994. Eldridge Cassidy owned a neighborhood grocery store directly across from the cemetery, and Edith was a Practical Nurse. N. Hazel Street, Hope, AR; open daily 8:00 AM - 5:00 PM (city cemetery hours). [Source: [NPS Rose Hill Cemetery](https://www.nps.gov/places/rose-hill-cemetery.htm), [Encyclopedia of Arkansas](https://encyclopediaofarkansas.net/entries/clinton-birthplace-531/)]
+- <a id="gem-rose-hill-cemetery-family-plot-visit"></a>**Rose Hill Cemetery Family Plot Visit** (15-20 minutes, self-guided) - Pay respects at the gated family burial plot of President Clinton's parents, William Jefferson Blythe Jr. and Virginia Clinton Kelley, as well as his maternal grandparents, Edith and Eldridge Cassidy. The plot features an engraved plaque marking the burial site. William Jefferson Blythe was killed in an automobile crash in 1946 while returning from Chicago, and Virginia Clinton Kelley passed away in 1994. Eldridge Cassidy owned a neighborhood grocery store directly across from the cemetery, and Edith was a Practical Nurse. N. Hazel Street, Hope, AR; open daily 8:00 AM - 5:00 PM (city cemetery hours). [Source: [NPS Rose Hill Cemetery](https://www.nps.gov/places/rose-hill-cemetery.htm), [Encyclopedia of Arkansas](https://encyclopediaofarkansas.net/entries/clinton-birthplace-531/)]
 
-- **Julia Chester Hospital Birthplace Historical Marker** (5-10 minutes) - Visit the historical marker placed in November 1992 at the site where President Bill Clinton was born on August 19, 1946. The Julia Chester Hospital, which operated from 1946 until its closure in 1955 (later demolished), is now marked by a plaque on a granite block with a flagpole. While not the birthplace home itself, this marker represents the actual location of Clinton's birth and provides important historical context. 1001 South Main Street, Hope, AR; accessible during daylight hours. [Source: [Encyclopedia of Arkansas](https://encyclopediaofarkansas.net/entries/clinton-birthplace-531/), [Presidents USA](https://www.presidentsusa.net/clintonbirthplace.html)]
+- <a id="gem-julia-chester-hospital-birthplace-historical-marker"></a>**Julia Chester Hospital Birthplace Historical Marker** (5-10 minutes) - Visit the historical marker placed in November 1992 at the site where President Bill Clinton was born on August 19, 1946. The Julia Chester Hospital, which operated from 1946 until its closure in 1955 (later demolished), is now marked by a plaque on a granite block with a flagpole. While not the birthplace home itself, this marker represents the actual location of Clinton's birth and provides important historical context. 1001 South Main Street, Hope, AR; accessible during daylight hours. [Source: [Encyclopedia of Arkansas](https://encyclopediaofarkansas.net/entries/clinton-birthplace-531/), [Presidents USA](https://www.presidentsusa.net/clintonbirthplace.html)]
 
 ## Also Nearby
 
-- **Historic Washington State Park** (40-50 minutes, 20 miles) - A 101-acre restoration village preserving the 19th-century town of Washington with the largest collection of 19th-century buildings in the state. The park features historic sites including the 1874 Courthouse (visitor center), Blacksmith Shop, Weapons Museum, and Print Museum. This is where James Black forged the legendary Bowie knife. From 1863-1865, it served as the Confederate capital of Arkansas. Paid interpretive guided tours are offered daily at 9:00 AM, 10:30 AM, 2:00 PM, and 2:30 PM. 9 miles northwest of Hope on U.S. 278 (accessible via Exit 30 off I-30); 8:00 AM - 5:00 PM daily, closed New Year's Day, Thanksgiving Day, Christmas Eve, and Christmas Day; Williams Tavern Restaurant: Tuesday - Sunday 11:00 AM - 3:00 PM; (870) 983-2684 [Source: [Arkansas State Parks](https://www.arkansasstateparks.com/parks/historic-washington-state-park)]
+- <a id="nearby-historic-washington-state-park"></a>**Historic Washington State Park** (40-50 minutes, 20 miles) - A 101-acre restoration village preserving the 19th-century town of Washington with the largest collection of 19th-century buildings in the state. The park features historic sites including the 1874 Courthouse (visitor center), Blacksmith Shop, Weapons Museum, and Print Museum. This is where James Black forged the legendary Bowie knife. From 1863-1865, it served as the Confederate capital of Arkansas. Paid interpretive guided tours are offered daily at 9:00 AM, 10:30 AM, 2:00 PM, and 2:30 PM. 9 miles northwest of Hope on U.S. 278 (accessible via Exit 30 off I-30); 8:00 AM - 5:00 PM daily, closed New Year's Day, Thanksgiving Day, Christmas Eve, and Christmas Day; Williams Tavern Restaurant: Tuesday - Sunday 11:00 AM - 3:00 PM; (870) 983-2684 [Source: [Arkansas State Parks](https://www.arkansasstateparks.com/parks/historic-washington-state-park)]
 
-- **Klipsch Museum of Audio History** (60 minutes by appointment, 10 minutes drive) - Dedicated to Paul W. Klipsch, a founding father of the audio industry, this unique museum explores the achievements and legacy of audio innovation. The main museum at 136 Hempstead 278, Hope, AR 71801 is open by appointment only. A Visitor Center is located at 403 W Division Street, Hope, AR 71801 and is open Monday - Thursday 10:00 AM - 2:00 PM. Admission is $5 (or $3 for seniors, college students, and children under 12). Guided museum tours take about one hour and cover Klipsch's four previous technical careers, including ballistics work at the Southwest Proving Ground during World War II. Contact: (833) 794-5287 [Source: [Klipsch Museum](https://www.klipschmuseum.org/contact)]
+- <a id="nearby-klipsch-museum-of-audio-history"></a>**Klipsch Museum of Audio History** (60 minutes by appointment, 10 minutes drive) - Dedicated to Paul W. Klipsch, a founding father of the audio industry, this unique museum explores the achievements and legacy of audio innovation. The main museum at 136 Hempstead 278, Hope, AR 71801 is open by appointment only. A Visitor Center is located at 403 W Division Street, Hope, AR 71801 and is open Monday - Thursday 10:00 AM - 2:00 PM. Admission is $5 (or $3 for seniors, college students, and children under 12). Guided museum tours take about one hour and cover Klipsch's four previous technical careers, including ballistics work at the Southwest Proving Ground during World War II. Contact: (833) 794-5287 [Source: [Klipsch Museum](https://www.klipschmuseum.org/contact)]
 
-- **Hope Visitor Center & Museum** (20-30 minutes, adjacent location) - Set inside a restored 1912 Missouri-Pacific Railroad depot on the National Register of Historic Places and an AMTRAK stop, this museum features local history exhibits and railroad memorabilia with free admission. Interactive exhibits include life-sized cutouts of "Cool Bill" playing his saxophone in a room displaying items from his childhood with video narrative, and "Governor Bill" watching over state affairs in the main concourse. 100 E Division Street, Hope, AR; free admission. [Source: [NPS Hope Visitor Center](https://www.nps.gov/places/hope-visitor-center-and-museum.htm), [Arkansas.com](https://www.arkansas.com/hope/museums-libraries/hope-visitor-center-museum)]
+- <a id="nearby-hope-visitor-center-museum"></a>**Hope Visitor Center & Museum** (20-30 minutes, adjacent location) - Set inside a restored 1912 Missouri-Pacific Railroad depot on the National Register of Historic Places and an AMTRAK stop, this museum features local history exhibits and railroad memorabilia with free admission. Interactive exhibits include life-sized cutouts of "Cool Bill" playing his saxophone in a room displaying items from his childhood with video narrative, and "Governor Bill" watching over state affairs in the main concourse. 100 E Division Street, Hope, AR; free admission. [Source: [NPS Hope Visitor Center](https://www.nps.gov/places/hope-visitor-center-and-museum.htm), [Arkansas.com](https://www.arkansas.com/hope/museums-libraries/hope-visitor-center-museum)]
 
-- **Hope Watermelon Festival** (seasonal, 3 days in August) - If visiting in August, Hope celebrates its claim as the world's watermelon capital with the annual Hope Watermelon Festival (typically August 7-9). The festival features over 20,000 visitors enjoying three days of food, entertainment, and family activities including contests (watermelon eating, seed spitting, Watermelon Olympics, 5K race), nearly 300 arts and craft booths, inflatables and camel rides in the Kidz Zone, local civic club dinners with pulled pork and fried catfish, car shows, and live musical entertainment. The festival originated in 1926 to promote the local watermelon industry, and has been ongoing since 1977. Hope Festival Grounds; August (dates vary annually); free to enter grounds. [Source: [Hope Watermelon Festival](https://www.hopewatermelonfest.com/)]
+- <a id="nearby-hope-watermelon-festival"></a>**Hope Watermelon Festival** (seasonal, 3 days in August) - If visiting in August, Hope celebrates its claim as the world's watermelon capital with the annual Hope Watermelon Festival (typically August 7-9). The festival features over 20,000 visitors enjoying three days of food, entertainment, and family activities including contests (watermelon eating, seed spitting, Watermelon Olympics, 5K race), nearly 300 arts and craft booths, inflatables and camel rides in the Kidz Zone, local civic club dinners with pulled pork and fried catfish, car shows, and live musical entertainment. The festival originated in 1926 to promote the local watermelon industry, and has been ongoing since 1977. Hope Festival Grounds; August (dates vary annually); free to enter grounds. [Source: [Hope Watermelon Festival](https://www.hopewatermelonfest.com/)]
 
 ---
 
 ## Total Recommended Visit Time
 
 For a comprehensive visit to the President William Jefferson Clinton Birthplace Home NHS, plan **2.5 to 3 hours total**. This includes approximately 25 minutes for the guided tour of the birthplace home, 30-45 minutes for the visitor center exhibits and film, 15-20 minutes for the Virginia Clinton Kelley Memorial Garden, and 5 minutes for passport stamping. Staff recommend spending a half day exploring the site to fully appreciate the historical significance and contextual displays. [Source: [NPS Things to Do](https://www.nps.gov/wicl/planyourvisit/things2do.htm), [Park Ranger John](https://www.parkrangerjohn.com/president-william-jefferson-clinton-birthplace-home-national-historic-site/)] If including nearby attractions like Rose Hill Cemetery (15-20 minutes) or the Julia Chester Hospital historical marker (5-10 minutes), add 20-30 minutes to your total visit time.
+
+
+---
+
+# User Data
+
+- [ ] Visited
+
+## Cancellation Stamps
+
+- [ ] [Visitor Center](#stamp-visitor-center)(412 W. Division Street, Hope, AR 71801)
+
+## Key Activities
+
+- [ ] [Guided Tour of the Birthplace Home](#activity-guided-tour-of-the-birthplace-home)(25 minutes)
+- [ ] [Visitor Center Exhibits](#stamp-visitor-center)(30-45 minutes)
+- [ ] [Virginia Clinton Kelley Memorial Garden Self-Guided Walk](#activity-virginia-clinton-kelley-memorial-garden-self-guided-walk)(15-20 minutes)
+- [ ] [Junior Ranger Activity Program](#activity-junior-ranger-activity-program)(30-60 minutes)
+- [ ] [Passport Stamping](#activity-passport-stamping)(5 minutes)
+
+## Hidden Gems
+
+- [ ] [Rose Hill Cemetery Family Plot Visit](#gem-rose-hill-cemetery-family-plot-visit)(15-20 minutes)
+- [ ] [Julia Chester Hospital Birthplace Historical Marker](#gem-julia-chester-hospital-birthplace-historical-marker)(5-10 minutes)
+
+## Also Nearby
+
+- [ ] [Historic Washington State Park](#nearby-historic-washington-state-park)(40-50 minutes, 20 miles)
+- [ ] [Klipsch Museum of Audio History](#nearby-klipsch-museum-of-audio-history)(60 minutes, 10 minutes drive)
+- [ ] [Hope Visitor Center & Museum](#stamp-visitor-center)(20-30 minutes, adjacent)
+- [ ] [Hope Watermelon Festival](#nearby-hope-watermelon-festival)(seasonal, August)
+
+## Amber's Data (from spreadsheet)
+
+### Visitor Center
+
+**Name:** President William Jefferson Clinton Birthplace Home National Historic Site Visitor Center
+
+**Address:** 117 S Hervey St, Hope, Arkansas, 71801 (33.667276, -93.596517)
+
+**Hours:** Sun-Wed: 9:00 AM–4:30 PM; Thu: Closed; Fri-Sat: 9:00 AM–4:30 PM
+
+### Park
+
+**Address:** 117 S Hervey St, Hope, Arkansas, 71801 (33.667276, -93.596517)
+
+**Hours:** Sun-Wed: 9:00 AM–4:30 PM; Thu: Closed; Fri-Sat: 9:00 AM–4:30 PM
+
+## Review / Personal Notes

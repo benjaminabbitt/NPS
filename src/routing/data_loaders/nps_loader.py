@@ -99,18 +99,23 @@ class NPSSiteLoader:
         site_dir = Path(site_dir)
         site_name = site_dir.name
 
-        # Find markdown files
-        main_report = site_dir / f"{site_name}.md"
-        user_data = site_dir / "user-data.md"
+        # Find main report file (may not match site_name exactly due to special chars)
+        main_report = None
+        for f in site_dir.glob('*.md'):
+            if f.name != 'user-data.md':
+                main_report = f
+                break
 
-        if not main_report.exists():
-            raise FileNotFoundError(f"Main report not found: {main_report}")
-        if not user_data.exists():
-            raise FileNotFoundError(f"User data not found: {user_data}")
+        if not main_report or not main_report.exists():
+            raise FileNotFoundError(f"Main report not found in: {site_dir}")
 
-        # Parse both files
+        # Parse main report (contains both research and user data)
         main_data = self._parse_main_report(main_report)
-        user_checklist = self._parse_user_data(user_data)
+
+        # Read full content for user data section
+        content_str = self.file_reader.read(main_report)
+        _, content = self.frontmatter_parser.parse(content_str)
+        user_checklist = self._parse_user_data_from_content(content)
 
         # Create or use provided Site instance
         if existing_site:
@@ -146,7 +151,7 @@ class NPSSiteLoader:
             total_recommended_time_hours=main_data['total_time'],
             directory=site_dir,
             main_report_path=main_report,
-            user_data_path=user_data
+            user_data_path=None  # No longer separate file
         )
 
     def _parse_main_report(self, report_path: Path) -> Dict[str, Any]:
@@ -288,10 +293,23 @@ class NPSSiteLoader:
 
         return activities
 
-    def _parse_user_data(self, user_data_path: Path) -> Dict[str, Any]:
-        """Parse user-data.md checklist"""
-        content_str = self.file_reader.read(user_data_path)
-        _, content = self.frontmatter_parser.parse(content_str)
+    def _parse_user_data_from_content(self, content: str) -> Dict[str, Any]:
+        """Parse User Data section from main report content"""
+        # Extract "# User Data" section
+        user_data_match = re.search(r'#\s+User\s+Data\s*\n(.*)', content, re.DOTALL | re.IGNORECASE)
+
+        if not user_data_match:
+            # No user data section found, return defaults
+            return {
+                'visited': False,
+                'stamps_checked': [],
+                'activities_checked': [],
+                'gems_checked': [],
+                'nearby_checked': [],
+                'review_notes': ''
+            }
+
+        content = user_data_match.group(1)
 
         data = {
             'visited': False,
