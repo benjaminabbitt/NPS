@@ -37,6 +37,21 @@ class OperatingHours:
     opens: int  # Minutes since midnight (e.g., 540 for 9:00 AM)
     closes: int  # Minutes since midnight (e.g., 1020 for 5:00 PM)
 
+    @classmethod
+    def parse(cls, hours_str: str) -> Optional["OperatingHours"]:
+        """
+        Parse hours string to OperatingHours.
+
+        Uses RegexOperatingHoursParser internally for convenience.
+
+        Examples:
+            "9:00 AM - 5:00 PM" -> OperatingHours(540, 1020)
+            "Daily 8:00 AM - 6:00 PM" -> OperatingHours(480, 1080)
+        """
+        from .parsers import RegexOperatingHoursParser
+        parser = RegexOperatingHoursParser()
+        return parser.parse(hours_str)
+
 
 @dataclass
 class WorldsLargestAttraction:

@@ -26,6 +26,7 @@
 - [ ] Clear Creek Wildlife Viewing (1-2 hours)
 - [ ] Point Trail Side Views (add 30 minutes)
 - [ ] Nemo River Access for Families (1-2 hours)
+- [ ] Potter's Falls (30-45 minutes, waterfall & swimming)
 
 ## Also Nearby
 

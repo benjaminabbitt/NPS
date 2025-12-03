@@ -11,13 +11,13 @@
 
 ## Key Activities
 
-- [ ] Visitor Center Exhibits and Museum (1-1.5 hours)
+- [x] Visitor Center Exhibits and Museum (1-1.5 hours)
 - [ ] Free Ranger-Guided Tours (1-1.5 hours)
 - [ ] Self-Guided Walking Tour of Historic Row Houses (1.5-2 hours)
 - [ ] Hotel Florence Exterior Viewing and Grounds (30-45 minutes)
-- [ ] Greenstone Church Viewing (15-30 minutes)
+- [x] Greenstone Church Viewing (15-30 minutes)
 - [ ] Junior Ranger Program (30-60 minutes)
-- [ ] Pullman House Project Historic Home Tours (1 hour 15 minutes)
+- [x] Pullman House Project Historic Home Tours (1 hour 15 minutes)
 
 ## Hidden Gems
 

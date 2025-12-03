@@ -1,3 +1,8 @@
+---
+geocode:
+  visitor_center: [41.663984, -81.350933]
+---
+
 # James A. Garfield NHS
 
 ## Cancellation Stamp Locations:

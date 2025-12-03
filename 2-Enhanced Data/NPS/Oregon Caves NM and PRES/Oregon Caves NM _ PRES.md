@@ -1,3 +1,8 @@
+---
+geocode:
+  visitor_center: [42.16183, -123.643673]
+---
+
 # Oregon Caves NM & PRES
 
 ## Cancellation Stamp Locations:

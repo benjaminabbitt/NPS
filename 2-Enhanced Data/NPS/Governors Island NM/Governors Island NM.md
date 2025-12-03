@@ -1,3 +1,8 @@
+---
+geocode:
+  visitor_center: [40.700988, -74.011651]
+---
+
 # Governors Island NM
 
 ## Cancellation Stamp Locations:

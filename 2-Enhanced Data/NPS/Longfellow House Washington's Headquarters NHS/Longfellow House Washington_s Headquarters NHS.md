@@ -1,3 +1,8 @@
+---
+geocode:
+  visitor_center: [42.376973, -71.126398]
+---
+
 # Longfellow House Washington’s Headquarters NHS
 
 ## Cancellation Stamp Locations:

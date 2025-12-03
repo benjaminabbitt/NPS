@@ -1,3 +1,8 @@
+---
+geocode:
+  visitor_center: [38.292733, -77.469069]
+---
+
 # Fredericksburg & Spotsylvania NMP
 
 ## Cancellation Stamp Locations:

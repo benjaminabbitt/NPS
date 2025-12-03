@@ -6,26 +6,7 @@
 
 ### Priority: Missouri, Illinois, Tennessee, Arkansas, Kansas (30 sites)
 
-- [ ] Research and complete: Fort Smith NHS
-- [ ] Research and complete: Hot Springs NP
-- [ ] Research and complete: Little Rock Central High School NHS
-- [ ] Research and complete: Pea Ridge NMP
-- [ ] Research and complete: William J. Clinton Birthplace Home NHS
-- [ ] Research and complete: Emmett Till and Mamie Till-Mobley NM
-- [ ] Research and complete: Lincoln Home NHS
-- [ ] Research and complete: New Philadelphia NHS
-- [ ] Research and complete: Pullman NHP
-- [ ] Research and complete: Springfield 1908 Race Riot National Monument
-- [ ] Research and complete: Fort Larned NHS
-- [ ] Research and complete: Fort Scott NHS
-- [ ] Research and complete: Nicodemus NHS
-- [ ] Research and complete: Tallgrass Prairie N PRES
-- [ ] Research and complete: George Washington Carver NM
-- [ ] Research and complete: Harry S Truman NHS
-- [ ] Research and complete: Fort Donelson NB
-- [ ] Research and complete: Great Smoky Mountains NP
-- [ ] Research and complete: Obed WSR
-- [ ] Research and complete: Stones River NB
+**Completed 19 of 19 priority sites!**
 
 ### Other Sites
 
@@ -399,6 +380,26 @@
 - [x] Research and complete: Lake Meredith NRA
 - [x] Research and complete: Padre Island NS
 - [x] Research and complete: White Sands NP
+- [x] Research and complete: Fort Smith NHS
+- [x] Research and complete: Hot Springs NP
+- [x] Research and complete: Little Rock Central High School NHS
+- [x] Research and complete: Pea Ridge NMP
+- [x] Research and complete: William J. Clinton Birthplace Home NHS
+- [x] Research and complete: Emmett Till and Mamie Till-Mobley NM
+- [x] Research and complete: Lincoln Home NHS
+- [x] Research and complete: New Philadelphia NHS
+- [x] Research and complete: Pullman NHP
+- [x] Research and complete: Springfield 1908 Race Riot National Monument
+- [x] Research and complete: Fort Larned NHS
+- [x] Research and complete: Fort Scott NHS
+- [x] Research and complete: Nicodemus NHS
+- [x] Research and complete: Tallgrass Prairie N PRES
+- [x] Research and complete: George Washington Carver NM
+- [x] Research and complete: Harry S Truman NHS
+- [x] Research and complete: Fort Donelson NB
+- [x] Research and complete: Great Smoky Mountains NP
+- [x] Research and complete: Obed WSR
+- [x] Research and complete: Stones River NB
 ## Backlog
 
 ## Reminders

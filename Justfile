@@ -49,3 +49,27 @@ plan-trips HOME LAT LON DAYS="3":
         --target-days {{DAYS}} \
         --output results/{{HOME}}_{{DAYS}}day.yaml
 
+# Chroma Vector DB Sync
+
+# Sync NPS data to Chroma (incremental, uses content hashes)
+sync:
+    uv run python -m src.mcp.sync
+
+# Force sync all NPS data (ignores content hashes)
+sync-force:
+    uv run python -m src.mcp.sync --force
+
+# Sync with smaller batches (useful if hitting memory limits)
+sync-small:
+    uv run python -m src.mcp.sync --batch-size 20
+
+# Testing
+
+# Run all tests
+test:
+    uv run python -m pytest src/ -v
+
+# Run tests with coverage
+test-cov:
+    uv run python -m pytest src/ --cov=src --cov-report=html
+

@@ -6,7 +6,7 @@
 
 ## Cancellation Stamps
 
-- [ ] Pea Ridge NMP Visitor Center (15930 National Park Dr, Garfield, AR 72732)
+- [ ] Pea Ridge NMP Visitor Center (15930 National Park Dr, Garfield, AR 72732 (36.4547, -94.0344))
 
 ## Key Activities
 
@@ -25,10 +25,10 @@
 
 ## Also Nearby
 
-- [ ] War Eagle Cavern on Beaver Lake (1-1.5 hours, 18-22 miles south)
-- [ ] Beaver Lake Recreation Area (variable, 10-15 miles south)
-- [ ] Daisy Airgun Museum (1-1.5 hours, 10 miles south)
-- [ ] Tanyard Creek Nature Trail (1.5-2 hours, 11-13 miles south)
+- [ ] War Eagle Cavern on Beaver Lake (1-1.5 hours, 18-22 miles south) (36.2954, -93.9047)
+- [ ] Beaver Lake Recreation Area (variable, 10-15 miles south) (36.3330, -94.1176)
+- [ ] Daisy Airgun Museum (1-1.5 hours, 10 miles south) (36.3330, -94.1176)
+- [ ] Tanyard Creek Nature Trail (1.5-2 hours, 11-13 miles south) (36.4678, -94.2670)
 
 ## Amber's Data (from spreadsheet)
 

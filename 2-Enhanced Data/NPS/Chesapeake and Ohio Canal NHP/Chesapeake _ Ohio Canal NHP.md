@@ -1,3 +1,8 @@
+---
+geocode:
+  visitor_center: [39.649616, -78.763514]
+---
+
 # Chesapeake & Ohio Canal NHP
 
 ## Cancellation Stamp Locations:

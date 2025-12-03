@@ -28,7 +28,7 @@ from pathlib import Path
 from typing import Tuple
 
 from vrp.planner import VRPTripPlanner
-from unified_data_loader import UnifiedDataLoader
+from data_loaders.factory import DataLoaderFactory
 from core.distance import haversine_distance
 from export.map_links import create_osm_route_link, create_google_maps_link
 from export.geojson import create_geojson_route
@@ -106,7 +106,10 @@ def main():
     base_dir = Path(__file__).parent.parent.parent / "2-Enhanced Data"
     wl_file = Path(__file__).parent.parent.parent / "1-Raw Input Data/World's Largest/World's Largest.md"
 
-    all_data = UnifiedDataLoader.load_all(
+    # Create loader using factory (with proper dependency injection)
+    loader = DataLoaderFactory.create_unified_loader()
+
+    all_data = loader.load_all(
         nps_dir=base_dir / 'NPS' if load_nps else None,
         worlds_largest_file=wl_file if load_wl else None,
         parks_dir=base_dir / 'Amusement Parks' if load_parks else None,

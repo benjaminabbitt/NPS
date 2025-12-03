@@ -53,6 +53,10 @@ geocode:
 
 - **Precious Moments Chapel** (1-1.5 hours, 30 miles north in Carthage) - Features artwork by Samuel J. Butcher, creator of Precious Moments figurines, including a Sistine Chapel-style painted ceiling. The chapel and surrounding gardens draw visitors from around the world. 4321 S Chapel Rd, Carthage, MO 64836; Monday-Saturday 9:00 AM - 5:00 PM, Sunday 12:00 PM - 5:00 PM; Free admission. [Source: [Precious Moments Chapel](https://preciousmoments.com/chapel)]
 
+- **Neosho National Fish Hatchery** (45 minutes - 1 hour, 20 miles east in Neosho) - The oldest continuously operational federal fish hatchery in the United States, established in 1888. Walk the 1/3 mile loop around the grounds to view rainbow trout in ponds and raceways, explore exhibits in the visitor center with aquariums and a gift shop. This is where George Washington Carver received his first formal education at the nearby 1872 Neosho Colored School. 520 E Park St, Neosho, MO 64850; Visitor Center: Monday-Friday 8:00 AM - 4:30 PM, Saturday 10:00 AM - 4:00 PM, closed Sunday; Free admission. [Source: [U.S. Fish & Wildlife Service](https://www.fws.gov/fish-hatchery/neosho)]
+
+- **Wildcat Glades (Shoal Creek Conservation Education Center)** (1-1.5 hours, 20 miles west in Joplin) - Explore globally unique chert glades habitat and diverse ecosystems along scenic trails. The 60-acre conservation area features rare geological formations found only in this region, plus educational exhibits about the Ozarks ecosystem. Trails open dawn to dusk, beautiful spring wildflowers. 201 W Rivera Dr, Joplin, MO 64804; Center: Tuesday-Friday 9:00 AM - 5:00 PM, Saturday 10:00 AM - 3:00 PM; Free admission. [Source: [Missouri Department of Conservation](https://mdc.mo.gov/discover-nature/places/shoal-creek-conservation-education-center)]
+
 ---
 
 ## Total Recommended Time

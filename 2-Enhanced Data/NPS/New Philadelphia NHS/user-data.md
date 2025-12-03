@@ -2,7 +2,7 @@
 
 [View Full Research Report](New%20Philadelphia%20NHS%20(National%20Historic%20Site).md)
 
-- [ ] Visited
+- [x] Visited
 
 ## Cancellation Stamps
 

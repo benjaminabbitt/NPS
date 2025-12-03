@@ -1,3 +1,8 @@
+---
+geocode:
+  visitor_center: [38.887486, -77.019237]
+---
+
 # Dwight D. Eisenhower Memorial
 
 ## Cancellation Stamp Locations:

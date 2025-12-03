@@ -1,3 +1,8 @@
+---
+geocode:
+  visitor_center: [35.643267, -101.586279]
+---
+
 # Lake Meredith NRA (National Recreation Area)
 
 ## Cancellation Stamp Locations

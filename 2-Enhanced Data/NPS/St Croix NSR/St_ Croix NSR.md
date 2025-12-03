@@ -1,3 +1,8 @@
+---
+geocode:
+  visitor_center: [45.904718, -91.816633]
+---
+
 # St. Croix NSR
 
 ## Cancellation Stamp Locations:

@@ -1,3 +1,8 @@
+---
+geocode:
+  visitor_center: [38.896678, -77.025818]
+---
+
 # Ford's Theatre NHS (National Historic Site)
 
 ## Cancellation Stamp Locations

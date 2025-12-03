@@ -1,3 +1,8 @@
+---
+geocode:
+  visitor_center: [58.682674, -156.668242]
+---
+
 # Katmai NP & PRES
 
 ## Cancellation Stamp Locations:

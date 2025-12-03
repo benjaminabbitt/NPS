@@ -1,3 +1,8 @@
+---
+geocode:
+  visitor_center: [32.758727, -79.843819]
+---
+
 # Fort Sumter & Fort Moultrie NHP
 
 ## Cancellation Stamp Locations:

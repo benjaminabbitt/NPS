@@ -1,3 +1,8 @@
+---
+geocode:
+  visitor_center: [34.951535, -85.259017]
+---
+
 # Chickamauga & Chattanooga NMP
 
 ## Cancellation Stamp Locations:

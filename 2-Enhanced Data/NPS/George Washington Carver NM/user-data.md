@@ -10,7 +10,7 @@
 
 ## Key Activities
 
-- [ ] Carver Trail Self-Guided Walk (45 minutes - 1.5 hours)
+- [x] Carver Trail Self-Guided Walk (45 minutes - 1.5 hours)
 - [ ] Ranger-Guided Trail Tours (1 hour 15 minutes, daily 10 AM & 2 PM)
 - [ ] Museum Exhibits (45 minutes - 1 hour)
 - [ ] "Struggle and Triumph" Film (28 minutes)
@@ -31,6 +31,8 @@
 - [ ] Bonnie and Clyde Hideout (45 minutes - 1 hour, 20 miles west)
 - [ ] Route 66 Mural Park (30-45 minutes, 20 miles west)
 - [ ] Precious Moments Chapel (1-1.5 hours, 30 miles north in Carthage)
+- [ ] Neosho National Fish Hatchery (45 minutes - 1 hour, 20 miles east)
+- [ ] Wildcat Glades/Shoal Creek Conservation Center (1-1.5 hours, 20 miles west)
 
 ## Amber's Data (from spreadsheet)
 

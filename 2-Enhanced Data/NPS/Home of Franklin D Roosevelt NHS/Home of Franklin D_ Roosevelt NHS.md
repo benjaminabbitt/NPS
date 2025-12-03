@@ -1,3 +1,8 @@
+---
+geocode:
+  visitor_center: [41.769278, -73.933933]
+---
+
 # Home of Franklin D. Roosevelt NHS
 
 ## Cancellation Stamp Locations:

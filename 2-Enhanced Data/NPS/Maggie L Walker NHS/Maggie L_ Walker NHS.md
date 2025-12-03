@@ -1,3 +1,8 @@
+---
+geocode:
+  visitor_center: [37.547811, -77.437254]
+---
+
 # Maggie L. Walker NHS
 
 ## Cancellation Stamp Locations:

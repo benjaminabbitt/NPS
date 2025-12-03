@@ -1,3 +1,8 @@
+---
+geocode:
+  visitor_center: [38.88185, -77.033942]
+---
+
 # Martin Luther King Jr. Memorial
 
 ## Cancellation Stamp Locations:

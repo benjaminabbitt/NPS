@@ -1,3 +1,8 @@
+---
+geocode:
+  visitor_center: [41.652792, -82.81347]
+---
+
 # Perry’s Victory & International Peace MEM
 
 ## Cancellation Stamp Locations:

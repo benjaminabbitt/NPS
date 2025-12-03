@@ -1,3 +1,8 @@
+---
+geocode:
+  visitor_center: [41.692856, -87.609605]
+---
+
 # Pullman NHP (National Historical Park)
 
 ## Cancellation Stamp Locations

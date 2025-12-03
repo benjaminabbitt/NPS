@@ -1,3 +1,8 @@
+---
+geocode:
+  visitor_center: [38.908176, -77.030862]
+---
+
 # Mary McLeod Bethune Council House NHS;
 
 ## Cancellation Stamp Locations:

@@ -20,14 +20,19 @@
 
 ## Hidden Gems
 
-- [ ] Bryant's Grocery & Meat Market Historical Marker (30 minutes)
-- [ ] Emmett Till's Chicago Home Site (45 minutes)
-- [ ] Emmett Till Boyhood Home (1 hour)
+- [ ] Bryant's Grocery & Meat Market Historical Marker (30 minutes, MS)
+- [ ] Emmett Till Boyhood Home and Future Museum (45 minutes-1 hour, Chicago)
+- [ ] Bronzeville Neighborhood Self-Guided Walking Tour (1-2 hours, Chicago)
 
 ## Also Nearby
 
+### Illinois (Chicago Area)
+- [ ] DuSable Black History Museum and Education Center (2-2.5 hours, 2 miles)
+- [ ] Pullman National Historical Park (1.5-2 hours, adjacent to visitor center)
+
+### Mississippi (Delta Region)
 - [ ] Mississippi Civil Rights Museum (2.5-3 hours, 50 miles south of Sumner)
-- [ ] Medgar and Myrlie Evers Home National Monument (1.5 hours, 50 miles south)
+- [ ] Medgar and Myrlie Evers Home NM (1.5 hours, 50 miles south)
 - [ ] Delta Blues Museum (2 hours, 30 miles north in Clarksdale)
 - [ ] Emmett Till Statue (30 minutes, 18 miles north in Greenwood)
 - [ ] B.B. King Museum and Delta Interpretive Center (2.5 hours, 60 miles south)

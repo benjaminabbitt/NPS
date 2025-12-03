@@ -6,6 +6,7 @@ Creates data loaders with properly injected dependencies following IoC pattern.
 """
 from .nps_loader import NPSSiteLoader
 from .attraction_loader import WorldsLargestLoader, AmusementParkLoader
+from .unified_loader import UnifiedDataLoader
 from .parsers import (
     StandardFileReader,
     StandardFrontmatterParser,
@@ -72,4 +73,13 @@ class DataLoaderFactory:
         return AmusementParkLoader(
             file_reader=StandardFileReader(),
             frontmatter_parser=StandardFrontmatterParser()
+        )
+
+    @staticmethod
+    def create_unified_loader() -> UnifiedDataLoader:  # pragma: no cover
+        """Create Unified Data Loader with real dependencies"""
+        return UnifiedDataLoader(
+            nps_loader=DataLoaderFactory.create_nps_loader(),
+            worlds_largest_loader=DataLoaderFactory.create_worlds_largest_loader(),
+            park_loader=DataLoaderFactory.create_amusement_park_loader()
         )

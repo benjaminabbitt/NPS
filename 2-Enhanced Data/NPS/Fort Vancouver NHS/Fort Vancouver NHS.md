@@ -1,3 +1,8 @@
+---
+geocode:
+  visitor_center: [45.626202, -122.656633]
+---
+
 # Fort Vancouver NHS (National Historic Site)
 
 ## Cancellation Stamp Locations

@@ -1,3 +1,8 @@
+---
+geocode:
+  visitor_center: [39.119899, -84.508528]
+---
+
 # William Howard Taft NHS (National Historic Site)
 
 ## Cancellation Stamp Locations

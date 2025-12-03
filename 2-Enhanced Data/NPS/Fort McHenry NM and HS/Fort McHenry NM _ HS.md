@@ -1,3 +1,8 @@
+---
+geocode:
+  visitor_center: [39.26324, -76.579789]
+---
+
 # Fort McHenry NM & HS
 
 ## Cancellation Stamp Locations:

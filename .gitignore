@@ -23,4 +23,18 @@ node_modules/
 
 # OS specific
 .DS_Store
+
+# Output directories and files
 /solutions/
+/geojson/
+/results/
+/optimization_results/
+/optimization_results_old_params/
+*.yaml
+!tasks.yaml
+background_results.json
+
+# Python cache
+__pycache__/
+*.pyc
+*.pyo

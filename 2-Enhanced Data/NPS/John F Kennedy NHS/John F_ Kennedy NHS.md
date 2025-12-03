@@ -1,3 +1,8 @@
+---
+geocode:
+  visitor_center: [42.346949, -71.123249]
+---
+
 # John F. Kennedy NHS
 
 ## Cancellation Stamp Locations:

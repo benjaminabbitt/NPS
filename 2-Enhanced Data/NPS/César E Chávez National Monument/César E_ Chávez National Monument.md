@@ -1,3 +1,8 @@
+---
+geocode:
+  visitor_center: [35.223976, -118.559613]
+---
+
 # César E. Chávez National Monument
 
 ## Cancellation Stamp Locations:

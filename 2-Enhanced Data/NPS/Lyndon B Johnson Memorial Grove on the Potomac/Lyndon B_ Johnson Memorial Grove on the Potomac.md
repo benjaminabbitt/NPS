@@ -1,3 +1,8 @@
+---
+geocode:
+  visitor_center: [38.888527, -77.060867]
+---
+
 # Lyndon B. Johnson Memorial Grove on the Potomac
 
 ## Cancellation Stamp Locations:
