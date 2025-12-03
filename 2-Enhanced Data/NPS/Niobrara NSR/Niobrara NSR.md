@@ -44,7 +44,7 @@ coordinates: 42.872783, -100.550967
 
 # User Data
 
-- [ ] Visited
+- [x] Visited
 
 ## Cancellation Stamps
 

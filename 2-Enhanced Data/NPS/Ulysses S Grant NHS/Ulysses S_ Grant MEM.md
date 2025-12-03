@@ -19,7 +19,7 @@
 
 l# Ulysses S_ Grant MEM
 
-- [ ] Visited
+- [x] Visited
 
 ## Activities
 

@@ -48,7 +48,7 @@ coordinates: 37.9814, -90.0418
 
 [View Full Research Report](#)
 
-- [ ] Visited
+- [x] Visited
 
 ## Cancellation Stamps
 

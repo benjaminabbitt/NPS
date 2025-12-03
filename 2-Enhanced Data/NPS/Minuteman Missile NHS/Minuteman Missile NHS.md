@@ -42,7 +42,7 @@ geocode: 43.844497, -101.901236
 
 # User Data
 
-- [ ] Visited
+- [x] Visited
 
 ## Cancellation Stamps
 

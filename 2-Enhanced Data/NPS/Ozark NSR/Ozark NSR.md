@@ -52,7 +52,7 @@ state: Missouri
 
 # User Data
 
-- [ ] Visited
+- [x] Visited
 
 ## Cancellation Stamps
 

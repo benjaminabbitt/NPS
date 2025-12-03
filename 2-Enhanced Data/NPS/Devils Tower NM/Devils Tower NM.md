@@ -19,7 +19,7 @@
 
 # User Data
 
-- [ ] Visited
+- [x] Visited
 
 ## Activities
 

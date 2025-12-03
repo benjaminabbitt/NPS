@@ -41,7 +41,7 @@ geocode:
 
 # User Data
 
-- [ ] Visited
+- [x] Visited
 
 ## Cancellation Stamps
 

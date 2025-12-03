@@ -45,7 +45,7 @@ longitude: -101.3858376
 
 # User Data
 
-- [ ] Visited
+- [x] Visited
 
 ## Cancellation Stamps
 
