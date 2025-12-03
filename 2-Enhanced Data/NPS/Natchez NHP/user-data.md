@@ -1,38 +1,36 @@
 # Natchez NHP
 
+[View Full Research Report](Natchez%20NHP.md)
+
 - [ ] Visited
 
 ## Cancellation Stamps
 
-- [ ] Melrose Visitor Center (122 Melrose Ave, Natchez, Mississippi 39120 (31.5470831, -91.3855572))
+- [ ] Melrose Visitor Center (122 Melrose Ave, Natchez, MS 39120)
+- [ ] William Johnson House (210 State St, Natchez, MS 39120)
 
 ## Key Activities
 
-*To be researched and populated*
+- [ ] Melrose Estate Guided Tour (30-45 minutes)
+- [ ] William Johnson House Museum (30-45 minutes)
+- [ ] Fort Rosalie Historic Site (30 minutes)
+- [ ] Forks of the Road Slave Market Site (30-45 minutes)
+- [ ] Downtown Walking Tours (60-90 minutes, seasonal)
 
 ## Hidden Gems
 
-*To be researched and populated*
+- [ ] Melrose Estate Outbuildings Self-Guided Tour (30 minutes)
+- [ ] Melrose Landscape and Gardens (20-30 minutes)
 
 ## Also Nearby
 
-*To be researched and populated*
-
-## Amber's Data (from spreadsheet)
-
-### Visitor Center
-
-**Name:** Melrose Visitor Center
-
-**Address:** 122 Melrose Ave, Natchez, Mississippi, 39120 (31.547083, -91.385557)
-
-**Hours:** Daily: 8:30 AM-5:00 PM
-
-### Park
-
-**Address:** 210 State St, Natchez, 39120 (31.560067, -91.405793)
-
-**Hours:** Daily: 9:00 AM-5:00 PM
+- [ ] Grand Village of the Natchez Indians (1-2 hours, 3 miles south)
+- [ ] Stanton Hall (45-60 minutes, downtown)
+- [ ] Longwood (45-60 minutes, 0.5 miles south)
+- [ ] Rosalie Mansion (45-60 minutes, downtown)
+- [ ] Natchez Under-the-Hill Historic District (1-2 hours, riverfront)
+- [ ] Emerald Mound (30-45 minutes, 10 miles NE on Natchez Trace)
+- [ ] Natchez Trace Parkway Southern Terminus (anytime, downtown)
 
 ## Review / Personal Notes
 
