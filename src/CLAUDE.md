@@ -42,6 +42,10 @@
 
 **Code markers:** `TODO`, `FIXME`, `NOTE`, `HACK`
 
+**PR Review Process:**
+- `bo-review` runs automatically on Gherkin PRs
+- Ensures BDD acceptance tests are properly formatted and complete
+
 ### MCP Servers (check availability first)
 
 **mcp-tasks:** Sync task lists, track TODOs across sessions
