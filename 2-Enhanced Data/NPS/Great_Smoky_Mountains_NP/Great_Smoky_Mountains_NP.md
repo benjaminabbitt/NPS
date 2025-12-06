@@ -1,0 +1,132 @@
+# Great Smoky Mountains NP (National Park)
+
+## Cancellation Stamp Locations
+
+- <a id="stamp-sugarlands-visitor-center"></a>**Sugarlands Visitor Center** (1420 Little River Rd, Gatlinburg, TN 37738; 35.7143, -83.5101; MarchNovember: 9:00 a.m.5:00 p.m., DecemberFebruary: 9:00 a.m.4:30 p.m., closed Christmas Day; 865-436-1200) [Source: [Visitor Centers - NPS](https://www.nps.gov/grsm/planyourvisit/visitorcenters.htm), [Pigeon Forge Visitor Centers](https://www.pigeonforge.com/great-smoky-mountains-national-park/visitor-centers/)]
+
+- <a id="stamp-cades-cove-visitor-center"></a>**Cades Cove Visitor Center** (Halfway around Cades Cove Loop Road at Cable Mill historic area, near Townsend, TN; 35.5898, -83.8385; MarchNovember: 9:00 a.m.5:00 p.m., DecemberFebruary: 9:00 a.m.4:30 p.m., closed Christmas Day) [Source: [Cades Cove - NPS](https://www.nps.gov/grsm/planyourvisit/cadescove.htm), [Pigeon Forge Visitor Centers](https://www.pigeonforge.com/great-smoky-mountains-national-park/visitor-centers/)]
+
+- <a id="stamp-kuwohi-visitor-center"></a>**Kuwohi Visitor Center** (End of Kuwohi Road, 7 miles from Newfound Gap; 35.5630, -83.4985; April 11October 31: 9:30 a.m.6:00 p.m., November 1November 30: 9:30 a.m.5:00 p.m., closed December 1April 10) [Source: [Visitor Centers - NPS](https://www.nps.gov/grsm/planyourvisit/visitorcenters.htm), [Kuwohi & Newfound Gap Area - NPS](https://www.nps.gov/grsm/planyourvisit/kuwohi-nfg.htm)]
+
+**Note:** Call to confirm current stamp locations before visiting. Stamps are also available at other locations including Gatlinburg Welcome Center, Great Smokies Welcome Center in Townsend, and various locations throughout the park. [Source: [GSMNP Passport Stamps](http://nostalgia.esmartkid.com/greatsmokypassport.html)]
+
+## Key Activities
+
+- <a id="activity-cades-cove-loop-road"></a>**Cades Cove Loop Road** (2-4 hours) - Scenic 11-mile one-way loop drive through historic valley with wildlife viewing, historic buildings, and mountain views; speed limit is 20 mph to allow time for viewing bears, deer, wild turkeys, and other wildlife; halfway through the loop is the Cable Mill historic area with working gristmill, blacksmith shop, and cantilever barn (Cades Cove Loop Road, accessed from Laurel Creek Road near Townsend, TN; 35.5898, -83.8385; sunrise to sunset year-round, closed to motor vehicles Wednesday and Saturday mornings until 10:00 a.m. from early May through late September) [Source: [Cades Cove Loop](https://www.musingsofarover.com/cades-cove-loop/), [Cades Cove - NPS](https://www.nps.gov/grsm/planyourvisit/cadescove.htm), [Cades Cove Scenic Drive](https://smokymountains.com/park/cades-cove/scenic-drive)]
+
+- <a id="activity-kuwohi"></a>**Kuwohi (Clingmans Dome) Observation Tower** (1 hour) - Highest point in the park at 6,643 feet elevation offering 360-degree panoramic views extending 100 miles on clear days; steep paved half-mile trail from parking area to observation tower (End of Kuwohi Road, 7 miles from Newfound Gap; 35.5630, -83.4985; April 1November 30, road closed December 1March 31) [Source: [Kuwohi in GSMNP](https://smokymountainnationalpark.com/popular-places-smoky-mountains/clingmans-dome/), [Best Trails in GSMNP](https://smokymountains.com/park/blog/7-best-trails-hike-great-smoky-mountains)]
+
+- <a id="activity-newfound-gap-road-scenic-drive"></a>**Newfound Gap Road Scenic Drive** (1-2 hours) - 31-mile scenic byway from Gatlinburg, TN to Cherokee, NC crossing through the heart of the park, passing through unique biozones of pine-oak forest, northern hardwood and spruce-fir timberland; notable stops include Carlos Campbell Overlook and Newfound Gap at 5,046 feet elevation where President Roosevelt dedicated the park (US-441 from Gatlinburg to Cherokee; starts at Sugarlands Visitor Center; open 24 hours year-round) [Source: [Newfound Gap Road](https://www.mysmokymountainpark.com/road-trips/scenic-drives/newfound-gap-road-scenic-drive/), [Newfound Gap Road Open Round the Clock](https://www.nationalparkstraveler.org/2024/10/newfound-gap-road-across-great-smoky-mountains-national-park-open-round-clock)]
+
+- <a id="activity-roaring-fork-motor-nature-trail"></a>**Roaring Fork Motor Nature Trail** (2-3 hours) - 5.5-mile one-way scenic loop road through old-growth forest with access to historic buildings and trailheads; features rushing mountain streams, historic log cabins, and opportunities to see wildlife (Accessed via Historic Nature Trail from Traffic Light #8 in Gatlinburg; open April 10November 30 annually) [Source: [Roaring Fork Motor Nature Trail - NPS](https://www.nps.gov/grsm/planyourvisit/roaringfork.htm), [Travel Guide to Roaring Fork](https://www.roadtripsandcoffee.com/roaring-fork-motor-nature-trail/)]
+
+- <a id="activity-alum-cave-trail-to-alum-cave-bluffs"></a>**Alum Cave Trail to Alum Cave Bluffs** (3-4 hours) - 4.6-mile roundtrip moderate-to-strenuous hike gaining 1,400 feet elevation to impressive rock overhang; trail features Arch Rock, a natural tunnel formed by rock, and continues to 100-foot high Alum Cave Bluffs offering dramatic views (Newfound Gap Road, 8.7 miles south of Sugarlands Visitor Center; 35.6288, -83.4450; year-round during daylight hours) [Source: [Alum Cave Trail Guide](https://smokymountains.com/park/hikes/alum-cave-trail-mount-leconte), [Hike to Alum Cave Bluffs - NPS](https://www.nps.gov/thingstodo/alum-cave-to-the-bluffs.htm)]
+
+- <a id="activity-chimney-tops-trail"></a>**Chimney Tops Trail** (2-4 hours) - 3.5-4 mile roundtrip strenuous hike gaining 1,400 feet elevation to iconic double rock pinnacles; one of the most popular and challenging trails in the park offering panoramic views of surrounding peaks (Newfound Gap Road, 6.7 miles south of Sugarlands Visitor Center; year-round during daylight hours) [Source: [Chimney Tops Trail](https://hikinginthesmokys.com/chimney-tops-trail/), [Chimney Tops Information](https://smokymountainnationalpark.com/blog/chimney-tops-trail/)]
+
+- <a id="activity-grotto-falls-via-trillium-gap-trail"></a>**Grotto Falls via Trillium Gap Trail** (1.5-2 hours) - 2.6-mile roundtrip easy-to-moderate hike to 25-foot waterfall where the trail passes behind the cascading water; only waterfall in the park accessible from behind (Trailhead on Roaring Fork Motor Nature Trail; 35.6890, -83.4297; accessible April 10November 30 when Roaring Fork Motor Nature Trail is open) [Source: [Grotto Falls Trail](https://www.alltrails.com/trail/us/tennessee/grotto-falls-trail), [Hike to Grotto Falls - NPS](https://www.nps.gov/thingstodo/hike-to-grotto-falls.htm)]
+
+- <a id="activity-rainbow-falls-trail"></a>**Rainbow Falls Trail** (3-4 hours) - 5.4-mile roundtrip moderate hike gaining 1,500 feet elevation to the park's tallest single-drop waterfall at 80 feet; waterfall creates rainbows in the mist on sunny afternoons (Rainbow Falls Trailhead on Cherokee Orchard Road, just before Roaring Fork Motor Nature Trail entrance; 35.6973, -83.4642; year-round during daylight hours) [Source: [Best Trails in GSMNP](https://smokymountains.com/park/blog/7-best-trails-hike-great-smoky-mountains), [Day Hikes - NPS](https://www.nps.gov/grsm/planyourvisit/day-hikes.htm)]
+
+- <a id="activity-abrams-falls-trail"></a>**Abrams Falls Trail** (2-3 hours) - 5-mile roundtrip moderate hike gaining 616 feet elevation to one of the park's most powerful waterfalls; 20-foot waterfall features large volume of water creating impressive cascade and deep pool (Trailhead at west end of Cades Cove Loop Road, Abrams Falls parking area; 35.6087, -83.9333; year-round during daylight hours) [Source: [Abrams Falls Trail](https://www.alltrails.com/trail/us/tennessee/abrams-falls-trail), [Hike to Abrams Falls - NPS](https://www.nps.gov/thingstodo/hike-to-abrams-falls.htm)]
+
+- <a id="activity-cataloochee-valley-wildlife-viewing"></a>**Cataloochee Valley Wildlife Viewing** (2-3 hours) - Remote valley in the eastern section of the park offering exceptional wildlife viewing opportunities; home to reintroduced elk herd of nearly 200 animals, plus black bears, white-tailed deer, and wild turkeys; best viewing at early morning (6-10 a.m.) and late evening (3-7 p.m.), especially during spring and summer; also features historic buildings and churches (Cataloochee Valley accessed via Cove Creek Road from I-40 exit 20; 35.6425, -83.0826; year-round, 24 hours) [Source: [Elk in GSMNP - NPS](https://www.nps.gov/grsm/learn/nature/elk.htm), [Elk Watching 101](https://visithaywood.com/blog/elk-watching-101/), [Wildlife Viewing - NPS](https://www.nps.gov/grsm/planyourvisit/wildlifeviewing.htm)]
+
+- <a id="activity-ramsey-cascades-trail"></a>**Ramsey Cascades Trail** (5-6 hours) - 7.9-mile roundtrip strenuous hike gaining 2,185 feet elevation to the park's tallest waterfall at 100 feet; trail passes through old-growth forest with massive tulip poplar and hemlock trees before reaching the impressive multi-tiered cascade (Ramsey Cascades Trailhead in Greenbrier area, accessed via Greenbrier Road off US-321; 35.7141, -83.4153; year-round during daylight hours) [Source: [Ramsey Cascades Trail](https://www.alltrails.com/trail/us/tennessee/ramsey-cascades-trail), [Hiking in GSMNP](https://smokymountainnationalpark.com/things-to-do/hiking/)]
+
+- <a id="activity-andrews-bald"></a>**Andrews Bald** (2-3 hours) - 3.6-mile roundtrip moderate hike starting from Kuwohi parking area; trail descends then levels along broad ridge through spruce-fir forest to reach grassy bald at 5,900 feet elevation, the highest grassy bald in the park offering panoramic mountain views and flame azaleas in June (Forney Ridge Trail from Kuwohi parking area; 35.5630, -83.4985; accessible April 1November 30 when Kuwohi Road is open) [Source: [12 Can't-Miss Trails](https://www.visitmysmokies.com/blog/smoky-mountains/cant-miss-smoky-mountain-hiking-trails/), [Day Hikes - NPS](https://www.nps.gov/grsm/planyourvisit/day-hikes.htm)]
+
+- <a id="activity-kephart-prong-trail"></a>**Kephart Prong Trail** (2 hours) - 4-mile roundtrip easy-to-moderate hike along cascading stream with historic CCC structures including a 1930s shelter; trail features multiple stream crossings and waterfall views in peaceful setting away from crowds (Newfound Gap Road, 7 miles north of Newfound Gap; 35.5878, -83.3615; year-round during daylight hours) [Source: [Kephart Prong Trail](https://mysmokymountainguide.com/gsmnp/kephart-prong-trail/)]
+
+- <a id="activity-porters-creek-trail"></a>**Porters Creek Trail** (4-5 hours) - 7.2-mile roundtrip moderate hike gaining 1,561 feet elevation through historic area featuring old homesites, stone walls, and Fern Branch Falls; trail passes through beautiful wildflower displays in spring including trilliums and continues to more remote cascades (Porters Creek Trailhead in Greenbrier area; 35.7330, -83.4280; year-round during daylight hours) [Source: [Porters Creek Trail](https://www.alltrails.com/trail/us/tennessee/porters-creek-trail), [Hike Porters Creek - NPS](https://www.nps.gov/thingstodo/hike-porters-creek.htm)]
+
+- <a id="activity-synchronous-fireflies-at-elkmont"></a>**Synchronous Fireflies at Elkmont** (2-3 hours, seasonal) - Unique natural phenomenon where thousands of fireflies flash in synchronized patterns during late May to early June; one of only a few places in the world where synchronous fireflies occur; viewing typically from 9:30 p.m. onwards during 8-day peak period; requires lottery reservation through recreation.gov (Elkmont Campground area near Little River and Jakes Creek Trailheads; 35.6608, -83.5826; May 29June 5, 2025; 9:30 p.m.midnight) [Source: [Synchronous Firefly 2025 - NPS](https://www.nps.gov/grsm/learn/news/synchronous-firefly-lottery-and-viewing-dates-for-2025.htm), [Synchronous Fireflies - NPS](https://www.nps.gov/grsm/learn/nature/fireflies.htm)]
+
+## Hidden Gems
+
+- <a id="gem-hen-wallow-falls"></a>**Hen Wallow Falls** (3-4 hours) - 4.4-mile roundtrip moderate hike from Cosby area to 90-foot waterfall dropping over rock face; one of the park's most picturesque waterfalls with minimal visitor traffic; trail winds through quiet hemlock and rhododendron forest (Trailhead near Cosby picnic area off TN-32; 35.7594, -83.2141; year-round during daylight hours) [Source: [Hidden Gems in GSMNP](https://roadtrippers.com/magazine/great-smoky-mountains-hidden-gems/), [Secret Spots](https://wanderingsmokymountains.com/secret-spots-in-the-smokies-2025)]
+
+- <a id="gem-baskins-creek-falls"></a>**Baskins Creek Falls** (3-4 hours) - Variable distance roundtrip (4-5 miles depending on route) to 40-foot year-round waterfall; accessed via less-traveled trail offering opportunity for solitude; features lovely wildflowers in summer with high chance of having the waterfall to yourself (Trailhead at Roaring Fork Motor Nature Trail or behind Gatlinburg's Baskins Creek condos; 35.7100, -83.4900; year-round during daylight hours) [Source: [Secret Hiking Trails](https://smokymountainnationalpark.com/blog/secret-hiking-trails-smoky-mountains/), [Hidden Gems](https://www.visitmysmokies.com/blog/smoky-mountains/hidden-gems-smoky-mountain-national-park/)]
+
+- <a id="gem-spruce-flats-falls"></a>**Spruce Flats Falls** (2-3 hours) - 2-mile roundtrip easy hike to one of the park's most picturesque waterfalls not shown on any park map; accessed via Lumber Ridge Trailhead with unmarked junction 20 yards in; beautiful cascade through old-growth forest offering peaceful experience (Lumber Ridge Trailhead on Tremont Road; 35.6550, -83.6850; year-round during daylight hours) [Source: [Hidden Gems](https://www.visitmysmokies.com/blog/smoky-mountains/hidden-gems-smoky-mountain-national-park/), [Secret Spots](https://wanderingsmokymountains.com/secret-spots-in-the-smokies-2025)]
+
+- <a id="gem-cataract-falls"></a>**Cataract Falls** (1-2 hours) - Short 0.8-mile roundtrip easy hike to 25-foot waterfall; one of the park's best-kept secrets with minimal crowds despite its beauty and accessibility; features multiple cascades in peaceful forest setting (Trailhead on Cove Mountain Road; 35.7050, -83.3950; year-round during daylight hours) [Source: [Great Smoky Mountain Waterfalls](https://chasingtrailblog.com/stunning-great-smoky-mountain-waterfalls/)]
+
+- <a id="gem-whiteoak-sink"></a>**Whiteoak Sink** (3-4 hours) - 4.4-mile roundtrip moderate hike to unique geological area featuring sinkholes, caves, and waterfalls including Rainbow Cave Falls, a 40-foot waterfall that flows into a cave; unmarked trails require some exploration but reward with fascinating karst topography (Schoolhouse Gap Trailhead on Laurel Creek Road between Townsend and Cades Cove; 35.6200, -83.7800; year-round during daylight hours) [Source: [Secret Hiking Trails](https://smokymountainnationalpark.com/blog/secret-hiking-trails-smoky-mountains/), [Hidden Gems Guide](https://www.machupicchu.org/great-smoky-mountains-hidden-gems-guide-secret-trails.htm)]
+
+- <a id="gem-deep-creek-recreation-area-waterfall-loop"></a>**Deep Creek Recreation Area Waterfall Loop** (2-3 hours) - 4-5 mile loop hike visiting three waterfalls in close proximity: Juney Whank Falls, Indian Creek Falls, and Tom Branch Falls; located near Bryson City, NC in quieter section of park with opportunities for tubing and creek play (Deep Creek Trailhead off Deep Creek Road near Bryson City, NC; 35.4530, -83.4400; year-round during daylight hours) [Source: [Hidden Gems in GSMNP](https://roadtrippers.com/magazine/great-smoky-mountains-hidden-gems/), [Under-the-Radar Hikes](https://gardenandgun.com/articles/seven-under-the-radar-day-hikes-in-great-smoky-mountains-national-park/)]
+
+- <a id="gem-hemphill-bald-trail"></a>**Hemphill Bald Trail** (4-5 hours) - 7.8-mile roundtrip moderate hike along park's eastern boundary via Polls Gap on Balsam Mountain Road; remote high-elevation trail rarely crowded even during summer; offers solitude and stunning mountain views (Polls Gap parking area on Balsam Mountain Road; 35.6000, -83.1200; accessible when Balsam Mountain Road is open, typically MayNovember) [Source: [Under-the-Radar Hikes](https://gardenandgun.com/articles/seven-under-the-radar-day-hikes-in-great-smoky-mountains-national-park/)]
+
+- <a id="gem-meigs-falls-upper-meigs-falls"></a>**Meigs Falls/Upper Meigs Falls (Meigs Cascade)** (2-3 hours) - 3.5-mile roundtrip moderate hike to lesser-known 18-foot waterfall well away from typical crowds; peaceful forest hike offering escape from busier areas of the park (Access via Little River Trail; 35.6400, -83.6500; year-round during daylight hours) [Source: [Great Smoky Mountain Waterfalls](https://chasingtrailblog.com/stunning-great-smoky-mountain-waterfalls/)]
+
+## Also Nearby
+
+- <a id="nearby-dollywood-theme-park"></a>**Dollywood Theme Park** (Full day, 6-8 hours) - Major theme park featuring over 40 rides including roller coasters and family attractions, plus live shows, crafts demonstrations, and seasonal festivals; owned by Dolly Parton and showcasing Appalachian culture and entertainment (2700 Dollywood Parks Blvd, Pigeon Forge, TN 37863; 35.7958, -83.5308; hours vary seasonally, typically 10:00 a.m.7:00 p.m. or later; 800-365-5996; 26 miles/35 minutes from Sugarlands Visitor Center) [Source: [Things to Do in Pigeon Forge](https://www.pigeonforge.com/have-fun/attractions/), [Can't Miss Attractions](https://www.thiscraftymom.com/cant-miss-attractions-in-pigeon-forge-and-gatlinburg/)]
+
+- <a id="nearby-anakeesta-mountaintop-adventure-park"></a>**Anakeesta Mountaintop Adventure Park** (3-4 hours) - Mountaintop adventure park accessible by scenic chondola (combination chairlift and gondola) featuring dueling ziplines, two mountain coasters (Hellbender and Rail Runner), Treetop Skywalk with 880 feet of hanging bridges 50 feet above forest floor, AnaVista Tower with 360-degree views, and Astra Lumina nighttime experience (576 Parkway, Gatlinburg, TN 37738; 35.7150, -83.5100; 9:30 a.m.9:00 p.m. or later seasonally; 865-325-2400; adjacent to downtown Gatlinburg) [Source: [Anakeesta](https://anakeesta.com/), [Explore Gatlinburg](https://www.gatlinburg.com/)]
+
+- <a id="nearby-gatlinburg-skypark-and-skybridge"></a>**Gatlinburg SkyPark and SkyBridge** (2-3 hours) - Scenic attraction featuring record-setting 680-foot pedestrian suspension bridge spanning valley with glass floor panels in the middle; accessible via scenic chairlift to mountaintop; includes SkyDeck, SkyTrail forest walk, and SkyCenter with observation area (765 Parkway, Gatlinburg, TN 37738; 35.7108, -83.5183; 9:00 a.m.9:00 p.m. or later seasonally; 865-436-4629; in downtown Gatlinburg) [Source: [Gatlinburg SkyPark](https://www.gatlinburgskypark.com/), [Explore Gatlinburg](https://www.gatlinburg.com/)]
+
+- <a id="nearby-ripley-s-aquarium-of-the-smokies"></a>**Ripley's Aquarium of the Smokies** (2-3 hours) - Major aquarium featuring 10,000+ exotic sea creatures including sharks, stingrays, penguins, and jellyfish; highlights include 340-foot underwater tunnel through Shark Lagoon and interactive touch tanks (88 River Rd, Gatlinburg, TN 37738; 35.7115, -83.5195; 9:00 a.m.10:00 p.m. daily; 888-240-1358; in downtown Gatlinburg) [Source: [Explore Gatlinburg](https://www.gatlinburg.com/), [Smoky Mountain Attractions](https://www.visitmysmokies.com/what-to-do/attractions/)]
+
+- <a id="nearby-the-island-in-pigeon-forge"></a>**The Island in Pigeon Forge** (2-4 hours) - 23-acre entertainment destination featuring 200-foot Great Smoky Mountain Wheel providing panoramic views, live music, dancing fountains, shopping, dining, arcade games, and family attractions; free admission with pay-per-attraction pricing (131 The Island Dr, Pigeon Forge, TN 37863; 35.8100, -83.5550; hours vary by business, generally 10:00 a.m.10:00 p.m.; 23 miles/30 minutes from Sugarlands Visitor Center) [Source: [Pigeon Forge Attractions](https://www.pigeonforge.com/have-fun/attractions/), [Top Things to Do](https://www.tripadvisor.com/Attractions-g55270-Activities-Pigeon_Forge_Tennessee.html)]
+
+- <a id="nearby-ober-gatlinburg-ski-resort-and-amusement-park"></a>**Ober Gatlinburg Ski Resort and Amusement Park** (3-5 hours) - Year-round mountain resort and amusement park accessible via aerial tramway from downtown; winter skiing and snowboarding, summer activities including alpine slide, scenic chairlift, ice skating, mini golf, climbing wall, and wildlife encounter (1001 Parkway, Gatlinburg, TN 37738; 35.7085, -83.5145; hours vary seasonally, typically 10:00 a.m.8:00 p.m.; 865-436-5423; aerial tram departs from downtown Gatlinburg) [Source: [Explore Gatlinburg](https://www.gatlinburg.com/), [68 Top Things to Do](https://www.vacationsmadeeasy.com/GatlinburgPigeonForgeAreaTN/activity/)]
+
+
+---
+
+# User Data
+
+- [ ] Visited
+
+## Cancellation Stamps
+
+- [ ] [Sugarlands Visitor Center](#stamp-sugarlands-visitor-center)(1420 Little River Rd, Gatlinburg, TN 37738)
+- [ ] [Cades Cove Visitor Center](#stamp-cades-cove-visitor-center)(Halfway around Cades Cove Loop Road at Cable Mill, near Townsend, TN)
+- [ ] [Kuwohi Visitor Center](#stamp-kuwohi-visitor-center)(End of Kuwohi Road, 7 miles from Newfound Gap)
+
+## Key Activities
+
+- [ ] [Cades Cove Loop Road](#activity-cades-cove-loop-road)(2-4 hours)
+- [ ] [Kuwohi](#stamp-kuwohi-visitor-center)(Clingmans Dome) Observation Tower (1 hour)
+- [ ] [Newfound Gap Road Scenic Drive](#activity-newfound-gap-road-scenic-drive)(1-2 hours)
+- [ ] [Roaring Fork Motor Nature Trail](#activity-roaring-fork-motor-nature-trail)(2-3 hours)
+- [ ] [Alum Cave Trail to Alum Cave Bluffs](#activity-alum-cave-trail-to-alum-cave-bluffs)(3-4 hours)
+- [ ] [Chimney Tops Trail](#activity-chimney-tops-trail)(2-4 hours)
+- [ ] [Grotto Falls via Trillium Gap Trail](#activity-grotto-falls-via-trillium-gap-trail)(1.5-2 hours)
+- [ ] [Rainbow Falls Trail](#activity-rainbow-falls-trail)(3-4 hours)
+- [ ] [Abrams Falls Trail](#activity-abrams-falls-trail)(2-3 hours)
+- [ ] [Cataloochee Valley Wildlife Viewing](#activity-cataloochee-valley-wildlife-viewing)(2-3 hours)
+- [ ] [Ramsey Cascades Trail](#activity-ramsey-cascades-trail)(5-6 hours)
+- [ ] [Andrews Bald](#activity-andrews-bald)(2-3 hours)
+- [ ] [Kephart Prong Trail](#activity-kephart-prong-trail)(2 hours)
+- [ ] [Porters Creek Trail](#activity-porters-creek-trail)(4-5 hours)
+- [ ] [Synchronous Fireflies at Elkmont](#activity-synchronous-fireflies-at-elkmont)(2-3 hours, late May-early June)
+
+## Hidden Gems
+
+- [ ] [Hen Wallow Falls](#gem-hen-wallow-falls)(3-4 hours)
+- [ ] [Baskins Creek Falls](#gem-baskins-creek-falls)(3-4 hours)
+- [ ] [Spruce Flats Falls](#gem-spruce-flats-falls)(2-3 hours)
+- [ ] [Cataract Falls](#gem-cataract-falls)(1-2 hours)
+- [ ] [Whiteoak Sink](#gem-whiteoak-sink)(3-4 hours)
+- [ ] [Deep Creek Recreation Area Waterfall Loop](#gem-deep-creek-recreation-area-waterfall-loop)(2-3 hours)
+- [ ] [Hemphill Bald Trail](#gem-hemphill-bald-trail)(4-5 hours)
+- [ ] [Meigs Falls/Upper Meigs Falls](#gem-meigs-falls-upper-meigs-falls)(2-3 hours)
+
+## Also Nearby
+
+- [ ] [Dollywood Theme Park](#nearby-dollywood-theme-park)(6-8 hours, 26 miles/35 min)
+- [ ] [Anakeesta Mountaintop Adventure Park](#nearby-anakeesta-mountaintop-adventure-park)(3-4 hours, adjacent to Gatlinburg)
+- [ ] [Gatlinburg SkyPark and SkyBridge](#nearby-gatlinburg-skypark-and-skybridge)(2-3 hours, downtown Gatlinburg)
+- [ ] [Ripley's Aquarium of the Smokies](#nearby-ripley-s-aquarium-of-the-smokies)(2-3 hours, downtown Gatlinburg)
+- [ ] [The Island in Pigeon Forge](#nearby-the-island-in-pigeon-forge)(2-4 hours, 23 miles/30 min)
+- [ ] [Ober Gatlinburg Ski Resort and Amusement Park](#nearby-ober-gatlinburg-ski-resort-and-amusement-park)(3-5 hours, downtown Gatlinburg)
+
+## Review / Personal Notes
+
+---
+
+**Total Recommended Time:** 3-5 days minimum for highlights; 7 days recommended for comprehensive exploration of diverse trails, scenic drives, wildlife viewing, and historic sites [Source: [How Many Days in GSMNP](https://www.dirtinmyshoes.com/how-many-days-should-i-spend-in-great-smoky-mountains-national-park/), [Great Smoky Mountains Itinerary](https://alexysabroad.com/great-smoky-mountains-itinerary/)]

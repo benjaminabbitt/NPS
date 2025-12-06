@@ -1,35 +1,92 @@
+---
+geocode:
+  visitor_center: [40.7145252, -74.0044657]
+---
+
 # African Burial Ground NM (National Monument)
 
 ## Cancellation Stamp Locations
 
-- **Visitor Center at Ted Weiss Federal Building** (290 Broadway, New York, NY 10007; Wednesday-Sunday 10:00 AM - 4:00 PM, closed Mondays, Tuesdays, Thanksgiving, Christmas, and New Year's Day; 212-238-4367) [Source: [NPS Operating Hours](https://www.nps.gov/afbg/planyourvisit/hours.htm), [NPS Visitor Center](https://www.nps.gov/afbg/planyourvisit/visitor-center.htm), [NPS Basic Information](https://www.nps.gov/afbg/planyourvisit/basicinfo.htm)]
+- <a id="stamp-visitor-center-at-ted-weiss-federal-building"></a>**Visitor Center at Ted Weiss Federal Building** (290 Broadway, New York, NY 10007 (40.7145252, -74.0044657); Wednesday-Sunday 10:00 AM - 4:00 PM, closed Mondays, Tuesdays, Thanksgiving, Christmas, and New Year's Day; 212-238-4367) [Source: [NPS Operating Hours](https://www.nps.gov/afbg/planyourvisit/hours.htm), [NPS Visitor Center](https://www.nps.gov/afbg/planyourvisit/visitor-center.htm), [NPS Basic Information](https://www.nps.gov/afbg/planyourvisit/basicinfo.htm)]
 
 **Note:** Call 212-238-4367 to confirm current stamp locations before visiting. The visitor center entrance is at 290 Broadway (mid-block between Duane and Reade Streets). Visitors must pass through airport-style security screening and adults must present photo identification. [Source: [NPS Visitor Center](https://www.nps.gov/afbg/planyourvisit/visitor-center.htm)]
 
 ## Key Activities
 
-- **Visit the Visitor Center Museum and Exhibits** (45-60 minutes) - Explore three main exhibition areas covering archaeology, colonial enslavement, and civic engagement, featuring replica artifacts and commissioned commemorative artwork; watch a 20-25 minute film about the history of the site; 290 Broadway, New York, NY 10007; Wednesday-Sunday 10:00 AM - 4:00 PM, closed Mondays, Tuesdays, Thanksgiving, Christmas, and New Year's Day; 212-238-4367 [Source: [NPS Visitor Center](https://www.nps.gov/afbg/planyourvisit/visitor-center.htm), [TripAdvisor Reviews](https://www.tripadvisor.com/Attraction_Review-g60763-d615607-Reviews-African_Burial_Ground_National_Monument-New_York_City_New_York.html), [Recreation.gov](https://www.recreation.gov/camping/poi/10044225)]
+- <a id="activity-visit-the-visitor-center-museum-and-exhibits"></a>**Visit the Visitor Center Museum and Exhibits** (45-60 minutes) - Explore three main exhibition areas covering archaeology, colonial enslavement, and civic engagement, featuring replica artifacts and commissioned commemorative artwork; watch a 20-25 minute film about the history of the site; 290 Broadway, New York, NY 10007; Wednesday-Sunday 10:00 AM - 4:00 PM, closed Mondays, Tuesdays, Thanksgiving, Christmas, and New Year's Day; 212-238-4367 [Source: [NPS Visitor Center](https://www.nps.gov/afbg/planyourvisit/visitor-center.htm), [TripAdvisor Reviews](https://www.tripadvisor.com/Attraction_Review-g60763-d615607-Reviews-African_Burial_Ground_National_Monument-New_York_City_New_York.html), [Recreation.gov](https://www.recreation.gov/camping/poi/10044225)]
 
-- **Experience the Outdoor Memorial** (15-30 minutes) - Reflect at artist Rodney Leon's powerful 25-foot granite memorial providing tribute to the estimated 15,000 people of African descent interred beneath Lower Manhattan during the 17th and 18th centuries; located at the corner of Duane Street and African Burial Ground Way (Elk St.); Tuesday-Saturday 10:00 AM - 4:00 PM (5:00 PM Memorial Day through Labor Day), viewable from sidewalk at all times; free admission; 212-238-4367 [Source: [NPS Operating Hours](https://www.nps.gov/afbg/planyourvisit/hours.htm), [National Park Foundation](https://www.nationalparks.org/explore/parks/african-burial-ground-national-monument), [NPPlan](https://npplan.com/parks-by-state/new-york-national-parks/african-burial-ground-national-monument-park-at-a-glance/african-burial-ground-national-monument-african-burial-ground-memorial/)]
+- <a id="activity-experience-the-outdoor-memorial"></a>**Experience the Outdoor Memorial** (15-30 minutes) - Reflect at artist Rodney Leon's powerful 25-foot granite memorial providing tribute to the estimated 15,000 people of African descent interred beneath Lower Manhattan during the 17th and 18th centuries; located at the corner of Duane Street and African Burial Ground Way (Elk St.); Tuesday-Saturday 10:00 AM - 4:00 PM (5:00 PM Memorial Day through Labor Day), viewable from sidewalk at all times; free admission; 212-238-4367 [Source: [NPS Operating Hours](https://www.nps.gov/afbg/planyourvisit/hours.htm), [National Park Foundation](https://www.nationalparks.org/explore/parks/african-burial-ground-national-monument), [NPPlan](https://npplan.com/parks-by-state/new-york-national-parks/african-burial-ground-national-monument-park-at-a-glance/african-burial-ground-national-monument-african-burial-ground-memorial/)]
 
-- **Join a Guided Walking Tour** (90 minutes) - Take a seasonal 90-minute tour exploring "A Broader View: The African Presence in Early New York," learning about the social, political, cultural, and economic aspects of African life in colonial New York City; Art Tour offered fall and winter, Memorial Tour offered spring and summer; tours depart from 290 Broadway; reservations available three months in advance starting at 10:00 AM EST; free admission; 212-238-4367 [Source: [Recreation.gov Tours](https://www.recreation.gov/ticket/facility/10089005), [NPS National Park Getaway](https://home.nps.gov/articles/getaway-afbg.htm), [NPS New York Article](https://www.nps.gov/articles/afamburial.htm)]
+- <a id="activity-join-a-guided-walking-tour"></a>**Join a Guided Walking Tour** (90 minutes) - Take a seasonal 90-minute tour exploring "A Broader View: The African Presence in Early New York," learning about the social, political, cultural, and economic aspects of African life in colonial New York City; Art Tour offered fall and winter, Memorial Tour offered spring and summer; tours depart from 290 Broadway; reservations available three months in advance starting at 10:00 AM EST; free admission; 212-238-4367 [Source: [Recreation.gov Tours](https://www.recreation.gov/ticket/facility/10089005), [NPS National Park Getaway](https://home.nps.gov/articles/getaway-afbg.htm), [NPS New York Article](https://www.nps.gov/articles/afamburial.htm)]
 
 ## Hidden Gems
 
-- **Complete the Junior Ranger Program** (1 hour) - Pick up a free activity booklet at the ranger desk near the Visitor Center front entrance (or download from NPS.gov) and complete engaging activities while exploring the monument, then share answers with a ranger to receive an official Junior Ranger Badge; available for children of all ages; 290 Broadway, New York, NY 10007; Wednesday-Sunday 10:00 AM - 4:00 PM; free; 212-238-4367 [Source: [NPS Junior Ranger](https://www.nps.gov/afbg/learn/kidsyouth/beajuniorranger.htm), [Kids & Passports](https://www.kidsandpassports.com/10-junior-ranger-badges-to-earn-in-new-york-city/), [Park Chasers](https://www.parkchasers.com/2021/02/all-about-african-burial-ground-national-monument/)]
+- <a id="gem-complete-the-junior-ranger-program"></a>**Complete the Junior Ranger Program** (1 hour) - Pick up a free activity booklet at the ranger desk near the Visitor Center front entrance (or download from NPS.gov) and complete engaging activities while exploring the monument, then share answers with a ranger to receive an official Junior Ranger Badge; available for children of all ages; 290 Broadway, New York, NY 10007; Wednesday-Sunday 10:00 AM - 4:00 PM; free; 212-238-4367 [Source: [NPS Junior Ranger](https://www.nps.gov/afbg/learn/kidsyouth/beajuniorranger.htm), [Kids & Passports](https://www.kidsandpassports.com/10-junior-ranger-badges-to-earn-in-new-york-city/), [Park Chasers](https://www.parkchasers.com/2021/02/all-about-african-burial-ground-national-monument/)]
 
-- **Attend Special Cultural Programs and Events** (varies) - Participate in thoughtful observances of Juneteenth and Martin Luther King Jr. Day, joyous Kwanzaa celebrations, or National African American History Month programs featuring films, ranger-led talks, and family-friendly activities throughout the year; 290 Broadway, New York, NY 10007; event times vary, check calendar for specific dates; free admission; 212-238-4367 [Source: [NPS National Park Getaway](https://home.nps.gov/articles/getaway-afbg.htm), [NYC Tourism](https://www.nyctourism.com/attractions-tours/african-burial-ground-national-monument/), [NPS Calendar](https://www.nps.gov/afbg/planyourvisit/calendar.htm)]
+- <a id="gem-attend-special-cultural-programs-and-events"></a>**Attend Special Cultural Programs and Events** (varies) - Participate in thoughtful observances of Juneteenth and Martin Luther King Jr. Day, joyous Kwanzaa celebrations, or National African American History Month programs featuring films, ranger-led talks, and family-friendly activities throughout the year; 290 Broadway, New York, NY 10007; event times vary, check calendar for specific dates; free admission; 212-238-4367 [Source: [NPS National Park Getaway](https://home.nps.gov/articles/getaway-afbg.htm), [NYC Tourism](https://www.nyctourism.com/attractions-tours/african-burial-ground-national-monument/), [NPS Calendar](https://www.nps.gov/afbg/planyourvisit/calendar.htm)]
 
-- **View the Ted Weiss Federal Building Lobby Art** (15-20 minutes) - Arrange with a ranger to view additional commemorative artwork displayed in the Ted Weiss Federal Building's lobby, offering a deeper artistic perspective on the monument's significance; 290 Broadway, New York, NY 10007; Wednesday-Sunday during visitor center hours 10:00 AM - 4:00 PM; ranger accompaniment required for photography; free admission; 212-238-4367 [Source: [NPS Visitor Center](https://www.nps.gov/afbg/planyourvisit/visitor-center.htm)]
+- <a id="gem-view-the-ted-weiss-federal-building-lobby-art"></a>**View the Ted Weiss Federal Building Lobby Art** (15-20 minutes) - Arrange with a ranger to view additional commemorative artwork displayed in the Ted Weiss Federal Building's lobby, offering a deeper artistic perspective on the monument's significance; 290 Broadway, New York, NY 10007; Wednesday-Sunday during visitor center hours 10:00 AM - 4:00 PM; ranger accompaniment required for photography; free admission; 212-238-4367 [Source: [NPS Visitor Center](https://www.nps.gov/afbg/planyourvisit/visitor-center.htm)]
 
 ## Also Nearby
 
-- **Federal Hall National Memorial** (30-60 minutes) - Visit the site where George Washington was sworn in as the first President of the United States on April 30, 1789, and explore exhibits about the first Congress, Supreme Court, and Executive Branch offices in this Greek Revival building; 26 Wall Street, New York, NY 10005 (0.4 miles/8-minute walk from African Burial Ground); Monday-Friday 9:00 AM - 5:00 PM, closed weekends and federal holidays; free admission; 212-825-6990 [Source: [NPS Federal Hall Hours](https://www.nps.gov/feha/planyourvisit/hours.htm), [Introducing New York](https://www.introducingnewyork.com/federal-hall), [NPS Federal Hall Basic Info](https://www.nps.gov/feha/planyourvisit/basicinfo.htm)]
+- <a id="nearby-federal-hall-national-memorial"></a>**Federal Hall National Memorial** (30-60 minutes) - Visit the site where George Washington was sworn in as the first President of the United States on April 30, 1789, and explore exhibits about the first Congress, Supreme Court, and Executive Branch offices in this Greek Revival building; 26 Wall Street, New York, NY 10005 (0.4 miles/8-minute walk from African Burial Ground); Monday-Friday 9:00 AM - 5:00 PM, closed weekends and federal holidays; free admission; 212-825-6990 [Source: [NPS Federal Hall Hours](https://www.nps.gov/feha/planyourvisit/hours.htm), [Introducing New York](https://www.introducingnewyork.com/federal-hall), [NPS Federal Hall Basic Info](https://www.nps.gov/feha/planyourvisit/basicinfo.htm)]
 
-- **9/11 Memorial & Museum** (2-3 hours for comprehensive experience, 45-90 minutes minimum) - Pay tribute at the twin reflecting pools commemorating the lives lost in the September 11, 2001 and February 26, 1993 attacks, and explore museum exhibits with artifacts, testimonies, and multimedia displays about that day; 180 Greenwich Street, New York, NY 10006 (0.6 miles/12-minute walk from African Burial Ground); Memorial open daily 8:00 AM - 8:00 PM (free), Museum open Wednesday-Monday 9:00 AM - 7:00 PM (last entry 5:30 PM, closed Tuesdays); Museum admission required, Memorial free; 212-312-8800 [Source: [9/11 Memorial Visit](https://www.911memorial.org/visit), [9/11 Memorial Hours](https://www.new-york-tickets.com/911-memorial-and-museum/opening-hours/), [The Tour Guy](https://thetourguy.com/travel-blog/usa/new-york-city/911-memorial/how-to-visit-ground-zero-911-memorial-museum/)]
+- <a id="nearby-9-11-memorial-museum"></a>**9/11 Memorial & Museum** (2-3 hours for comprehensive experience, 45-90 minutes minimum) - Pay tribute at the twin reflecting pools commemorating the lives lost in the September 11, 2001 and February 26, 1993 attacks, and explore museum exhibits with artifacts, testimonies, and multimedia displays about that day; 180 Greenwich Street, New York, NY 10006 (0.6 miles/12-minute walk from African Burial Ground); Memorial open daily 8:00 AM - 8:00 PM (free), Museum open Wednesday-Monday 9:00 AM - 7:00 PM (last entry 5:30 PM, closed Tuesdays); Museum admission required, Memorial free; 212-312-8800 [Source: [9/11 Memorial Visit](https://www.911memorial.org/visit), [9/11 Memorial Hours](https://www.new-york-tickets.com/911-memorial-and-museum/opening-hours/), [The Tour Guy](https://thetourguy.com/travel-blog/usa/new-york-city/911-memorial/how-to-visit-ground-zero-911-memorial-museum/)]
 
-- **Tenement Museum** (1 hour for guided tour) - Take interactive guided tours of recreated 19th and 20th-century tenement apartments telling immigrant family stories, walk through the Lower East Side neighborhood, or experience virtual programs at this National Historic Site; 103 Orchard Street, New York, NY 10002 (1.5 miles/30-minute walk or 15-minute subway from African Burial Ground); Monday-Sunday 10:00 AM - 6:00 PM; guided tour tickets required; 877-975-3786 [Source: [Tenement Museum](https://www.tenement.org/), [NPS Tenement Hours](https://www.nps.gov/loea/planyourvisit/hours.htm), [TripAdvisor](https://www.tripadvisor.com/Attraction_Review-g60763-d104369-Reviews-Tenement_Museum-New_York_City_New_York.html)]
+- <a id="nearby-tenement-museum"></a>**Tenement Museum** (1 hour for guided tour) - Take interactive guided tours of recreated 19th and 20th-century tenement apartments telling immigrant family stories, walk through the Lower East Side neighborhood, or experience virtual programs at this National Historic Site; 103 Orchard Street, New York, NY 10002 (1.5 miles/30-minute walk or 15-minute subway from African Burial Ground); Monday-Sunday 10:00 AM - 6:00 PM; guided tour tickets required; 877-975-3786 [Source: [Tenement Museum](https://www.tenement.org/), [NPS Tenement Hours](https://www.nps.gov/loea/planyourvisit/hours.htm), [TripAdvisor](https://www.tripadvisor.com/Attraction_Review-g60763-d104369-Reviews-Tenement_Museum-New_York_City_New_York.html)]
+
+
+---
+
+# User Data
+
+- [ ] Visited
+
+## Cancellation Stamps
+
+- [x] [Visitor Center at Ted Weiss Federal Building](#stamp-visitor-center-at-ted-weiss-federal-building)(290 Broadway, New York, NY 10007)
+
+## Key Activities
+
+- [ ] [Visit the Visitor Center Museum and Exhibits](#activity-visit-the-visitor-center-museum-and-exhibits)(45-60 minutes)
+- [ ] [Experience the Outdoor Memorial](#activity-experience-the-outdoor-memorial)(15-30 minutes)
+- [ ] [Join a Guided Walking Tour](#activity-join-a-guided-walking-tour)(90 minutes)
+
+## Hidden Gems
+
+- [ ] [Complete the Junior Ranger Program](#gem-complete-the-junior-ranger-program)(1 hour)
+- [ ] [Attend Special Cultural Programs and Events](#gem-attend-special-cultural-programs-and-events)(varies)
+- [ ] [View the Ted Weiss Federal Building Lobby Art](#gem-view-the-ted-weiss-federal-building-lobby-art)(15-20 minutes)
+
+## Also Nearby
+
+- [ ] [Federal Hall National Memorial](#nearby-federal-hall-national-memorial)(30-60 minutes, 0.4 miles/8-minute walk)
+- [ ] [9/11 Memorial & Museum](#nearby-9-11-memorial-museum)(2-3 hours comprehensive, 0.6 miles/12-minute walk)
+- [ ] [Tenement Museum](#nearby-tenement-museum)(1 hour tour, 1.5 miles/30-minute walk or 15-minute subway)
+
+
+
+
+## Amber's Data (from spreadsheet)
+
+### Visitor Center
+
+**Name:** African Burial Ground Visitor Center
+
+**Address:** 290 Broadway, New York, New York, 10007 (40.714525, -74.004466)
+
+**Hours:** Daily: 10:00 AM-4:00 PM
+
+### Park
+
+**Address:** 290 Broadway, New York, New York, 10007 (40.714525, -74.004466)
+
+**Hours:** Daily: 10:00 AM-4:00 PM
+
+## Review / Personal Notes
 
 ---
 
 **Total Recommended Time at African Burial Ground NM (National Monument):** 1-2 hours for a self-guided visit (includes visitor center, video, outdoor memorial); 2.5-3 hours if taking the 90-minute guided walking tour. [Source: [TripAdvisor Reviews](https://www.tripadvisor.com/Attraction_Review-g60763-d615607-Reviews-African_Burial_Ground_National_Monument-New_York_City_New_York.html), [WhichMuseum](https://whichmuseum.com/museum/african-burial-ground-national-monument-new-york-29314)]
+
+

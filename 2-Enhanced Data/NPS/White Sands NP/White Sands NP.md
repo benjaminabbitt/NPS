@@ -1,13 +1,120 @@
-# White Sands NP
+---
+geocode:
+  visitor_center: [32.779621, -106.1722449]
+---
 
-## Cancellation Stamp Locations:
+# White Sands NP (National Park)
 
-- [ ] White Sands NP Visitor Center (19955 US-70, Alamogordo, New Mexico, 88310; 9:00 AM-5:00 PM)
+## Cancellation Stamp Locations
 
-## Key Activities:
+- <a id="stamp-white-sands-visitor-center"></a>**White Sands Visitor Center** (19955 US-70, Alamogordo, NM 88310 (32.779621, -106.1722449); Visitor Center: 9:00 AM-5:00 PM daily September-May, 9:00 AM-6:00 PM daily Memorial Day-Labor Day; 575-479-6124) - The passport cancellation stamp is located in the visitor center, typically sitting out for self-use. There are two gift shops in the visitor center; be sure to visit the one where the ranger information is located. [Source: [Passport Cancellation Locations](https://americasnationalparks.org/passport-to-your-national-parks/passport-cancellation-locations/), [11 Things to Know Before Visiting White Sands](https://we3travel.com/visiting-white-sands-national-monument/), [Contact Us - White Sands NP](https://www.nps.gov/whsa/contacts.htm), [Operating Hours & Seasons](https://www.nps.gov/whsa/planyourvisit/hours.htm)]
 
-- [ ] Visitor Center Experience (1-2 hours) - Explore exhibits and learn about White Sands NP; 19955 US-70, Alamogordo, New Mexico, 88310; 9:00 AM-5:00 PM [[Source](https://www.nps.gov/wsn)]
+**Note:** Call 575-479-6124 ext. 236 or 206 to verify current stamp locations and confirm closures are not in effect, as the park may occasionally close due to military operations or weather conditions.
 
-## Hidden Gems:
+## Key Activities
 
-## Also Nearby:
+- <a id="activity-dunes-drive-scenic-drive"></a>**Dunes Drive Scenic Drive** (45 minutes) - An 8-mile one-way (16-mile round-trip) scenic drive through the heart of the gypsum dune field, with the first five miles paved and the last three miles on hard-packed gypsum sand road; multiple scenic stops, exhibits, picnic areas, and hiking trails along the way; 19955 US-70, Alamogordo, NM 88310; Park open 7:00 AM-sunset daily [Source: [Driving Dunes Drive](https://www.nps.gov/whsa/planyourvisit/driving-dunes-drive.htm), [White Sands National Park Guide](https://www.roadtravelamerica.com/white-sands-national-park-travel.htm)]
+
+- <a id="activity-interdune-boardwalk-trail"></a>**Interdune Boardwalk Trail** (15-30 minutes) - 0.4 mile out-and-back wheelchair accessible wooden boardwalk trail, easiest hike in the park; along Dunes Drive, White Sands NP; 7:00 AM-sunset daily [Source: [Hiking - White Sands NP](https://www.nps.gov/whsa/planyourvisit/trails.htm), [Best Hikes in White Sands](https://www.alltrails.com/parks/us/new-mexico/white-sands-national-park)]
+
+- <a id="activity-playa-trail"></a>**Playa Trail** (15-30 minutes) - 0.5 mile level hike through the playa, marked with green heart symbols, showcases the transitional nature of the dunes with hit-or-miss water access; site of Ice Age footprints including bear-sized sloth prints and wooly mammoth tracks; along Dunes Drive, White Sands NP; 7:00 AM-sunset daily [Source: [Hiking - White Sands NP](https://www.nps.gov/whsa/planyourvisit/trails.htm), [15 EPIC Things to Do in White Sands](https://morethanjustparks.com/things-to-do-in-white-sands-national-park/)]
+
+- <a id="activity-dune-life-nature-trail"></a>**Dune Life Nature Trail** (1.5 hours) - 1 mile roundtrip moderate difficulty self-guided loop marked with blue club symbols, family-oriented trail showcasing dune vegetation and wildlife; along Dunes Drive, White Sands NP; 7:00 AM-sunset daily [Source: [Hiking - White Sands NP](https://www.nps.gov/whsa/planyourvisit/trails.htm), [Ultimate Guide to White Sands](https://www.shedreamsofalpine.com/blog/the-ultimate-guide-to-white-sands-national-monument-in-new-mexico)]
+
+- <a id="activity-alkali-flat-trail"></a>**Alkali Flat Trail** (3 hours) - 4.5 mile roundtrip loop, the park's most difficult and most popular hike with 4.8-star rating from 4,616 reviews; marked with red diamond symbols; traverses through some of the largest dunes in White Sands with dozens of 60-foot dunes offering the best wide-angle vistas; hiking on steep sand dunes with loose deep sand is much more challenging than normal trails; at end of Dunes Drive, White Sands NP; 7:00 AM-sunset daily [Source: [Hiking - White Sands NP](https://www.nps.gov/whsa/planyourvisit/trails.htm), [Best Hikes AllTrails](https://www.alltrails.com/parks/us/new-mexico/white-sands-national-park), [11 Amazing Things to Do](https://www.earthtrekkers.com/best-things-to-do-in-white-sands-national-park/)]
+
+- <a id="activity-sand-sledding"></a>**Sand Sledding** (1-2 hours) - Sledding on the soft, cool gypsum dunes that remain comfortable to the touch year-round; best steep dunes near middle of the park along Dunes Drive, especially at Alkali Flat Trail parking area; round disc sleds sold at visitor center ($10 used with $3 buyback, $20 new with $5 buyback), sled wax $2.99 enhances performance; various locations along Dunes Drive, White Sands NP; 7:00 AM-sunset daily [Source: [Sledding - White Sands NP](https://www.nps.gov/whsa/planyourvisit/sledding.htm), [Sand Sledding Guide](https://rvshare.com/blog/sand-sledding-in-white-sands-national-park/), [5 Incredible Things to Do](https://localadventurer.com/white-sands-national-monument-new-mexico/)]
+
+- <a id="activity-visitor-center-experience"></a>**Visitor Center Experience** (30-60 minutes) - Explore exhibits about White Sands geology, plants, and animals; includes two gift shops and ranger information desk; 19955 US-70, Alamogordo, NM 88310; 9:00 AM-5:00 PM daily September-May, 9:00 AM-6:00 PM daily Memorial Day-Labor Day [Source: [White Sands Visitor Center](https://www.nps.gov/whsa/planyourvisit/visitor-center.htm), [Things to Do](https://www.nps.gov/whsa/planyourvisit/things2do.htm)]
+
+- <a id="activity-sunset-stroll-ranger-program"></a>**Sunset Stroll Ranger Program** (1 hour) - Leisurely ranger-guided walk through sand dunes learning about geology, plants, and animals with excellent sunset photography opportunities; meets at designated trailhead along Dunes Drive; held every Friday, Saturday, and Sunday with seasonally varying start times; free with park admission, no reservations needed [Source: [Sunset Stroll](https://www.nps.gov/whsa/planyourvisit/sunset-stroll.htm), [Sunset Stroll Article](https://www.lascrucesbulletin.com/stories/sunset-stroll-full-moon-walk-white-sands-national-park-offers-the-incredible,12508)]
+
+- <a id="activity-photography-sessions"></a>**Photography Sessions** (1-2 hours) - Sunrise and sunset golden hour photography capturing dramatic shadows and dune textures; best times 1-2 hours before sunset or after sunrise; park opens 7:00 AM (sunrise not always accessible) and closes 30 minutes after sunset in most seasons; winter months provide best opportunities for both golden and blue hour; best spots include area 1 mile north of Sunset Stroll parking lot and Alkali Flat Trail for wide-angle vistas; various locations along Dunes Drive, White Sands NP; 7:00 AM-sunset daily (winter best for sunrise access) [Source: [Photography - White Sands NP](https://www.nps.gov/whsa/planyourvisit/photography.htm), [White Sands Photography Tips](https://niredonahue.com/white-sands-national-park-photography-tips/), [Chasing the Light](https://petapixel.com/2023/05/05/chasing-the-light-at-white-sands-national-park/)]
+
+## Hidden Gems
+
+- <a id="gem-backcountry-camping"></a>**Backcountry Camping** (overnight, 15-minute hike to site) - Experience the surreal white sand landscape under star-studded night sky at one of 10 primitive campsites requiring 1-mile hike with all gear; closest site 0.58 miles, farthest 0.93 miles; permits $10 per site (maximum 6 people), issued first-come/first-served at visitor center before cutoff time (varies by season); one night maximum; Backcountry Trail marked with orange spade symbols, White Sands NP; permits available during visitor center hours [Source: [Backcountry Camping](https://www.nps.gov/whsa/planyourvisit/backpackingpr.htm), [Backcountry Camping Permit](https://www.nps.gov/whsa/planyourvisit/permits-for-backcountry-camping.htm), [15 EPIC Things to Do](https://morethanjustparks.com/things-to-do-in-white-sands-national-park/)]
+
+- <a id="gem-full-moon-moonlight-hikes"></a>**Full Moon Moonlight Hikes** (1-2 hours) - Ranger-guided hikes across endless white sand dunes illuminated only by moonlight with flashlights and headlamps strictly prohibited; nine hikes between March and November; limited capacity, tickets often sell out within minutes; requires advance reservation via recreation.gov; meets at visitor center; contact 575-479-6124 ext. 236 for schedule [Source: [Full Moon Night](https://www.nps.gov/whsa/planyourvisit/full-moon-night.htm), [White Sands Announces 2024 Moonlight Hike Schedule](https://www.nps.gov/whsa/learn/news/nr01182024.htm), [11 Amazing Things to Do](https://www.earthtrekkers.com/best-things-to-do-in-white-sands-national-park/)]
+
+- <a id="gem-full-moon-events"></a>**Full Moon Events** (3-4 hours) - Free evening programs including concerts and ranger talks held June-October in amphitheater area; extended park hours, stargazing, and live entertainment; no reservations needed, park entrance fees apply; amphitheater area, White Sands NP; evening hours vary by event [Source: [Full Moon Night](https://www.nps.gov/whsa/planyourvisit/full-moon-night.htm), [Full Moon Night Events](https://www.discoverruidoso.com/calendar-of-events/full-moon-night-at-white-sands-national-park-bfnhjs)]
+
+- <a id="gem-lake-lucero-tour"></a>**Lake Lucero Tour** (3 hours, monthly November-March) - Ranger-guided tour with caravan across White Sands Missile Range to the birthplace of the dunes; 1.5 mile roundtrip moderate hike through unmaintained arroyo trail to the lakebed; learn geologic story of gypsum sand formation; $8 adults (16+), $4 children; reservations required via recreation.gov; at least 1 gallon water per person mandatory; meets at visitor center; offered once monthly November-March [Source: [Lake Lucero Tour](https://www.nps.gov/whsa/planyourvisit/lake-lucero-tour.htm), [Lake Lucero Tours Recreation.gov](https://www.recreation.gov/ticket/253503/ticket/251)]
+
+- <a id="gem-early-entry-stay-late-permits"></a>**Early Entry/Stay Late Permits** (sunrise to park opening, or sunset to late evening) - Special permits allowing access before 7:00 AM opening or after sunset closing to experience pristine wind-blown dune lines without footprints and far fewer visitors; ideal for sunrise photography and solitude; $50 per hour for early or late access; advance arrangements required; contact visitor center 575-479-6124 [Source: [White Sands Photography Tips](https://niredonahue.com/white-sands-national-park-photography-tips/), [11 Amazing Things to Do](https://www.earthtrekkers.com/best-things-to-do-in-white-sands-national-park/)]
+
+## Also Nearby
+
+- <a id="nearby-mcginn-s-pistachioland"></a>**McGinn's PistachioLand** (1 hour, 30 minutes from White Sands) - Working pistachio farm featuring the 30-foot World's Largest Pistachio monument, homemade pistachio ice cream, motorized farm tours, and country store; 7320 US-54 #70, Alamogordo, NM 88310 (32.8797, -105.9602); 9:00 AM-5:00 PM daily except Thanksgiving and Christmas; ice cream parlor 10:00 AM-5:00 PM, farm tours 10:00 AM-4:00 PM; 575-437-0602 [Source: [PistachioLand Yelp](https://www.yelp.com/biz/pistachioland-alamogordo), [McGinn's PistachioLand Official](https://pistachioland.com/), [World's Largest Pistachio Review](https://www.uponarriving.com/mcginns-pistachioland-new-mexico/)]
+
+- <a id="nearby-new-mexico-museum-of-space-history"></a>**New Mexico Museum of Space History** (1.5-2 hours, 20 minutes from White Sands) - Smithsonian-affiliate museum featuring space flight artifacts including satellite replicas, real moon rock, planetarium complex, and outdoor missile park; 3198 State Route 2001, Alamogordo, NM 88310 (32.8990, -105.9602); Monday and Wednesday-Saturday 10:00 AM-5:00 PM, Sunday 12:00 PM-5:00 PM, closed Tuesdays and holidays; Adults $8, Senior/Military/NM Resident $7, Children 4-12 $6; NM seniors 60+ free on Wednesdays; 575-437-2840 [Source: [NM Museum of Space History](https://nmspacemuseum.org/), [Museum Yelp](https://www.yelp.com/biz/new-mexico-museum-of-space-history-alamogordo), [NM Department of Cultural Affairs](https://www.newmexicoculture.org/museums/new-mexico-museum-of-space-history/)]
+
+- <a id="nearby-three-rivers-petroglyph-site"></a>**Three Rivers Petroglyph Site** (1.5-2 hours, 50 minutes from White Sands) - Over 21,000 ancient petroglyphs of birds, humans, animals, fish, insects, plants, and geometric designs scattered over 50 acres; more than 1,000 years old; includes hiking trails, camping, and picnicking; 17 miles north of Tularosa on US-54, then 4.6 miles east on Otero County Road B-030; 455 3 Rivers Rd, Tularosa, NM (33.2345, -106.0423); Visitor Center Thursday-Monday 9:00 AM-4:00 PM (closed Tuesday-Wednesday); Site hours 8:00 AM-7:00 PM April-September, 8:00 AM-5:00 PM October-March; non-campers must exit by 10:00 PM [Source: [Three Rivers Petroglyph BLM](https://www.blm.gov/visit/three-rivers-petroglyph-site), [Three Rivers NM.org](https://www.newmexico.org/places-to-visit/regions/southeast/three-rivers-petroglyph-site/), [Three Rivers Yelp](https://www.yelp.com/biz/three-rivers-petroglyph-site-tularosa)]
+
+- <a id="nearby-oliver-lee-memorial-state-park"></a>**Oliver Lee Memorial State Park** (2-3 hours, 30 minutes from White Sands) - 640-acre park featuring Dog Canyon oasis with pools under cottonwood trees, Dog Canyon National Recreational Trail with views of Tularosa Basin and Organ Mountains, historic ranch house tours, nature trails, and 48 developed campsites; 12 miles south of Alamogordo on US-54, then 4 miles east on Dog Canyon Road; 409 Dog Canyon Rd, Alamogordo, NM 88310 (32.5523, -105.9845); Open 24 hours daily; ranch house tours and visitor center hours vary; camping, hiking, picnicking, wildlife watching available [Source: [Oliver Lee Memorial State Park](https://www.emnrd.nm.gov/spd/find-a-park/oliver-lee-memorial-state-park/), [Oliver Lee Yelp](https://www.yelp.com/biz/oliver-lee-memorial-state-park-alamogordo), [Oliver Lee NM.org](https://www.newmexico.org/listing/oliver-lee-memorial-state-park/2116/)]
+
+- <a id="nearby-alameda-park-zoo"></a>**Alameda Park Zoo** (1-2 hours, 20 minutes from White Sands) - Oldest zoo in the Southwestern United States (founded 1898) featuring nearly 200 animals representing 90 species across 12 acres; includes education center, picnic area, playground, and gift shop; 1021 N White Sands Blvd, Alamogordo, NM 88310 (32.9123, -105.9602); 9:00 AM-5:00 PM daily (last entry 4:30 PM), closed Christmas and New Year's Day; 575-439-4290 [Source: [Alameda Park Zoo](https://ci.alamogordo.nm.us/816/Alameda-Park-Zoo), [Alameda Park Zoo Yelp](https://www.yelp.com/biz/alameda-park-zoo-alamogordo), [Alameda Park Zoo Wikipedia](https://en.wikipedia.org/wiki/Alameda_Park_Zoo)]
+
+- <a id="nearby-white-sands-missile-range-museum"></a>**White Sands Missile Range Museum** (1-2 hours, 45 minutes from White Sands) - Museum preserving military history artifacts including restored V-2 rocket and exhibits on missile and space testing; home to Trinity Site where first atomic bomb was detonated July 16, 1945 (National Historic Landmark, accessible twice yearly on first Saturday of April and October); off US-70 between Las Cruces and Alamogordo, 26 miles from Las Cruces; White Sands Missile Range, NM (32.3825, -106.4833); open year-round except Sundays and holidays; free admission [Source: [White Sands Missile Range Museum](https://wsmrmuseum.com/), [Trinity Site](https://wsmrmuseum.com/trinity-site/7/), [WSMR Museum Army](https://www.history.army.mil/museums/wsmr-history/index.html)]
+
+
+---
+
+# User Data
+
+- [ ] Visited
+
+## Cancellation Stamps
+
+- [ ] [White Sands Visitor Center](#stamp-white-sands-visitor-center)(19955 US-70, Alamogordo, NM 88310)
+
+## Key Activities
+
+- [ ] [Dunes Drive Scenic Drive](#activity-dunes-drive-scenic-drive)(45 minutes)
+- [ ] [Interdune Boardwalk Trail](#activity-interdune-boardwalk-trail)(15-30 minutes)
+- [ ] [Playa Trail](#activity-playa-trail)(15-30 minutes)
+- [ ] [Dune Life Nature Trail](#activity-dune-life-nature-trail)(1.5 hours)
+- [ ] [Alkali Flat Trail](#activity-alkali-flat-trail)(3 hours)
+- [ ] [Sand Sledding](#activity-sand-sledding)(1-2 hours)
+- [ ] [Visitor Center Experience](#activity-visitor-center-experience)(30-60 minutes)
+- [ ] [Sunset Stroll Ranger Program](#activity-sunset-stroll-ranger-program)(1 hour)
+- [ ] [Photography Sessions](#activity-photography-sessions)(1-2 hours)
+
+## Hidden Gems
+
+- [ ] [Backcountry Camping](#gem-backcountry-camping)(overnight)
+- [ ] [Full Moon Moonlight Hikes](#gem-full-moon-moonlight-hikes)(1-2 hours)
+- [ ] [Full Moon Events](#gem-full-moon-events)(3-4 hours)
+- [ ] [Lake Lucero Tour](#gem-lake-lucero-tour)(3 hours, monthly November-March)
+- [ ] [Early Entry/Stay Late Permits](#gem-early-entry-stay-late-permits)(sunrise/sunset special access)
+
+## Also Nearby
+
+- [ ] [McGinn's PistachioLand](#nearby-mcginn-s-pistachioland)(1 hour, 30 minutes from White Sands)
+- [ ] [New Mexico Museum of Space History](#nearby-new-mexico-museum-of-space-history)(1.5-2 hours, 20 minutes from White Sands)
+- [ ] [Three Rivers Petroglyph Site](#nearby-three-rivers-petroglyph-site)(1.5-2 hours, 50 minutes from White Sands)
+- [ ] [Oliver Lee Memorial State Park](#nearby-oliver-lee-memorial-state-park)(2-3 hours, 30 minutes from White Sands)
+- [ ] [Alameda Park Zoo](#nearby-alameda-park-zoo)(1-2 hours, 20 minutes from White Sands)
+- [ ] [White Sands Missile Range Museum](#nearby-white-sands-missile-range-museum)(1-2 hours, 45 minutes from White Sands)
+
+## Amber's Data (from spreadsheet)
+
+### Visitor Center
+
+**Name:** White Sands NP Visitor Center
+
+**Address:** 19955 US-70, Alamogordo, New Mexico, 88310 (32.779621, -106.172245)
+
+**Hours:** Daily: 9:00 AM-5:00 PM
+
+### Park
+
+**Address:** 19955 US-70, Alamogordo, New Mexico, 88310 (32.779621, -106.172245)
+
+**Hours:** Daily: 9:00 AM-5:00 PM
+
+## Review / Personal Notes
+
+---
+
+**Total Recommended Time:** 6-8 hours for comprehensive park experience including Dunes Drive, multiple trails, sledding, and ranger programs. Brief visits exploring visitor center, scenic drive, and short walks can be accomplished in 2-3 hours. [Source: [How Much Time at White Sands TripAdvisor](https://www.tripadvisor.com/FAQ_Answers-g29760-d103700-t5491906-How_much_time_should_one_expect_to_spend_here.html), [Best Time to Visit White Sands](https://brightstandards.com/what-is-the-best-time-to-visit-white-sands-national-park/), [White Sands Know Before You Go](https://www.shakaguide.com/article/white-sands/white-sands-national-park-know-before-you-go)]

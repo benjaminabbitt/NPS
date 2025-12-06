@@ -23,3 +23,29 @@ node_modules/
 
 # OS specific
 .DS_Store
+
+# Output directories and files
+/solutions/
+/geojson/
+/results/
+/optimization_results/
+/optimization_results_old_params/
+*.yaml
+!tasks.yaml
+background_results.json
+
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+
+# Intermediate data files (root only)
+/*_data.json
+/*_tasks.json
+/*_research*.json
+/*_inventory.json
+/*_itineraries.json
+/chroma_upload_data.json
+
+# Status/report files (can be regenerated)
+/incomplete_*.txt

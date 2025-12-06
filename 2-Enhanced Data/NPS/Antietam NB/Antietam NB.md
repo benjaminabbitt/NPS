@@ -1,35 +1,92 @@
+---
+geocode:
+  visitor_center: [39.4591562, -77.7411521]
+---
+
 # Antietam NB (National Battlefield)
 
 ## Cancellation Stamp Locations
 
-- **Antietam National Battlefield Visitor Center** (5831 Dunker Church Rd, Sharpsburg, MD 21782; 9:00 AM - 5:00 PM daily, closed Thanksgiving, Christmas, and New Year's Day; 301-432-5124) [Source: [NPS Visitor Center](https://www.nps.gov/anti/planyourvisit/visitorcenters.htm), [NPS Operating Hours](https://www.nps.gov/anti/planyourvisit/hours.htm)]
+- <a id="stamp-antietam-national-battlefield-visitor-center"></a>**Antietam National Battlefield Visitor Center** (5831 Dunker Church Rd, Sharpsburg, MD 21782 (39.4591562, -77.7411521); 9:00 AM - 5:00 PM daily, closed Thanksgiving, Christmas, and New Year's Day; 301-432-5124) [Source: [NPS Visitor Center](https://www.nps.gov/anti/planyourvisit/visitorcenters.htm), [NPS Operating Hours](https://www.nps.gov/anti/planyourvisit/hours.htm)]
 
 **Note:** Call 301-432-5124 to confirm current stamp locations before visiting.
 
 ## Key Activities
 
-- **Take the Self-Guided Driving Tour** (2-3 hours) - Follow the 8.5-mile driving tour with eleven stops including Dunker Church, the Cornfield, Bloody Lane, and Burnside Bridge, with audio tour available for purchase to accompany the route; begins at Antietam National Battlefield Visitor Center, 5831 Dunker Church Rd, Sharpsburg, MD 21782; battlefield grounds open during daylight hours daily; park entrance fee $10.00 per person (age 17 or older; 16 and under free) or $20.00 per vehicle, valid for three days; 301-432-5124 [Source: [NPS Driving Tour](https://www.nps.gov/anti/learn/education/driving-tour.htm), [TripAdvisor Visitor Reviews](https://www.tripadvisor.com/FAQ_Answers-g60720-d146725-t3187238-How_much_time_should_I_allot_to_visit_this_place.html), [NPPlan Battlefield Tour](https://npplan.com/parks-by-state/maryland-national-parks/antietam-national-battlefield-park-at-a-glance/antietam-national-battlefield-battlefield-tour/)]
+- <a id="activity-take-the-self-guided-driving-tour"></a>**Take the Self-Guided Driving Tour** (2-3 hours) - Follow the 8.5-mile driving tour with eleven stops including Dunker Church, the Cornfield, Bloody Lane, and Burnside Bridge, with audio tour available for purchase to accompany the route; begins at Antietam National Battlefield Visitor Center, 5831 Dunker Church Rd, Sharpsburg, MD 21782; battlefield grounds open during daylight hours daily; park entrance fee $10.00 per person (age 17 or older; 16 and under free) or $20.00 per vehicle, valid for three days; 301-432-5124 [Source: [NPS Driving Tour](https://www.nps.gov/anti/learn/education/driving-tour.htm), [TripAdvisor Visitor Reviews](https://www.tripadvisor.com/FAQ_Answers-g60720-d146725-t3187238-How_much_time_should_I_allot_to_visit_this_place.html), [NPPlan Battlefield Tour](https://npplan.com/parks-by-state/maryland-national-parks/antietam-national-battlefield-park-at-a-glance/antietam-national-battlefield-battlefield-tour/)]
 
-- **Visit the Visitor Center and Watch the Film** (45-60 minutes) - View the 26-minute orientation film narrated by James Earl Jones (shown on the hour and half-hour), explore museum exhibits about the battle through interactive displays and exhibit panels; located at 5831 Dunker Church Rd, Sharpsburg, MD 21782; 9:00 AM - 5:00 PM daily, closed Thanksgiving, Christmas, and New Year's Day; park entrance fee $10.00 per person (age 17 or older; 16 and under free) or $20.00 per vehicle; 301-432-5124 [Source: [Historica Wiki](https://historica.fandom.com/wiki/Antietam_National_Battlefield), [NPS Visitor Center](https://www.nps.gov/anti/planyourvisit/visitorcenters.htm), [NPS Fees](https://www.nps.gov/anti/planyourvisit/fees.htm)]
+- <a id="activity-visit-the-visitor-center-and-watch-the-film"></a>**Visit the Visitor Center and Watch the Film** (45-60 minutes) - View the 26-minute orientation film narrated by James Earl Jones (shown on the hour and half-hour), explore museum exhibits about the battle through interactive displays and exhibit panels; located at 5831 Dunker Church Rd, Sharpsburg, MD 21782; 9:00 AM - 5:00 PM daily, closed Thanksgiving, Christmas, and New Year's Day; park entrance fee $10.00 per person (age 17 or older; 16 and under free) or $20.00 per vehicle; 301-432-5124 [Source: [Historica Wiki](https://historica.fandom.com/wiki/Antietam_National_Battlefield), [NPS Visitor Center](https://www.nps.gov/anti/planyourvisit/visitorcenters.htm), [NPS Fees](https://www.nps.gov/anti/planyourvisit/fees.htm)]
 
-- **Hike the Cornfield Trail** (30-60 minutes) - Walk the 1.5-mile loop trail through the site where some of the bloodiest fighting of the Battle of Antietam occurred on September 17, 1862, with clearly marked directional posts; trailhead at tour stop #1 on the battlefield driving route; open during daylight hours daily; park entrance fee required; 301-432-5124 [Source: [AllTrails Cornfield Trail](https://www.alltrails.com/trail/us/maryland/cornfield-trail), [NPS Cornfield Trail Guide](https://www.nps.gov/anti/planyourvisit/cornfield-trail-guide.htm), [NPS Hiking](https://www.nps.gov/anti/planyourvisit/hiking.htm)]
+- <a id="activity-hike-the-cornfield-trail"></a>**Hike the Cornfield Trail** (30-60 minutes) - Walk the 1.5-mile loop trail through the site where some of the bloodiest fighting of the Battle of Antietam occurred on September 17, 1862, with clearly marked directional posts; trailhead at tour stop #1 on the battlefield driving route; open during daylight hours daily; park entrance fee required; 301-432-5124 [Source: [AllTrails Cornfield Trail](https://www.alltrails.com/trail/us/maryland/cornfield-trail), [NPS Cornfield Trail Guide](https://www.nps.gov/anti/planyourvisit/cornfield-trail-guide.htm), [NPS Hiking](https://www.nps.gov/anti/planyourvisit/hiking.htm)]
 
 ## Hidden Gems
 
-- **Explore the Snavely Ford Trail for Birdwatching** (1 hour) - Hike the 2-mile loop trail along Antietam Creek known as an excellent birding hotspot where you can spot woodpeckers, warblers, and other species in cooler streamside habitat; trailhead at Burnside Bridge (tour stop #9), 5831 Dunker Church Rd, Sharpsburg, MD 21782; open during daylight hours daily; moderate difficulty due to steep hills; park entrance fee required; 301-432-5124 [Source: [AllTrails Snavely Ford](https://www.alltrails.com/trail/us/maryland/snavely-ford-antietam-national-battlefield-trail), [Birding Hotspots](https://birdinghotspots.org/hotspot/L5825627), [NPS Snavely Ford Trail](https://www.nps.gov/anti/planyourvisit/snavely-ford-trail.htm)]
+- <a id="gem-explore-the-snavely-ford-trail-for-birdwatching"></a>**Explore the Snavely Ford Trail for Birdwatching** (1 hour) - Hike the 2-mile loop trail along Antietam Creek known as an excellent birding hotspot where you can spot woodpeckers, warblers, and other species in cooler streamside habitat; trailhead at Burnside Bridge (tour stop #9), 5831 Dunker Church Rd, Sharpsburg, MD 21782; open during daylight hours daily; moderate difficulty due to steep hills; park entrance fee required; 301-432-5124 [Source: [AllTrails Snavely Ford](https://www.alltrails.com/trail/us/maryland/snavely-ford-antietam-national-battlefield-trail), [Birding Hotspots](https://birdinghotspots.org/hotspot/L5825627), [NPS Snavely Ford Trail](https://www.nps.gov/anti/planyourvisit/snavely-ford-trail.htm)]
 
-- **Climb the Bloody Lane Observation Tower** (15-20 minutes) - Ascend the 67 steps of the historic observation tower built by the U.S. War Department in 1896 for panoramic views of the battlefield in all directions, located at the site where over 5,500 soldiers were killed or wounded in just three hours along an 800-yard stretch; located at tour stop #5 on the battlefield driving route; open during daylight hours daily; park entrance fee required; 301-432-5124 [Source: [AllTrails Bloody Lane](https://www.alltrails.com/trail/us/maryland/bloody-lane-observation-tower-and-antietam-educational-trail), [NPPlan Bloody Lane](https://npplan.com/parks-by-state/maryland-national-parks/antietam-national-battlefield-park-at-a-glance/antietam-national-battlefield-battlefield-tour/antietam-national-battlefield-bloody-lane/)]
+- <a id="gem-climb-the-bloody-lane-observation-tower"></a>**Climb the Bloody Lane Observation Tower** (15-20 minutes) - Ascend the 67 steps of the historic observation tower built by the U.S. War Department in 1896 for panoramic views of the battlefield in all directions, located at the site where over 5,500 soldiers were killed or wounded in just three hours along an 800-yard stretch; located at tour stop #5 on the battlefield driving route; open during daylight hours daily; park entrance fee required; 301-432-5124 [Source: [AllTrails Bloody Lane](https://www.alltrails.com/trail/us/maryland/bloody-lane-observation-tower-and-antietam-educational-trail), [NPPlan Bloody Lane](https://npplan.com/parks-by-state/maryland-national-parks/antietam-national-battlefield-park-at-a-glance/antietam-national-battlefield-battlefield-tour/antietam-national-battlefield-bloody-lane/)]
 
-- **Complete the Junior Ranger Program** (1-1.5 hours) - Pick up a free age-appropriate activity booklet (for kids under 6, ages 6-8, or ages 9-12) at the Visitor Center and complete activities while exploring the park, then share answers with a ranger to receive a Junior Ranger badge, patch, and trading card; available at Visitor Center, 5831 Dunker Church Rd, Sharpsburg, MD 21782; 9:00 AM - 5:00 PM daily; free; 301-432-5124 [Source: [NPS Junior Ranger](https://www.nps.gov/anti/learn/kidsyouth/junior-ranger.htm), [Our Kids Family-Friendly](https://our-kids.com/antietam-national-battlefield/)]
+- <a id="gem-complete-the-junior-ranger-program"></a>**Complete the Junior Ranger Program** (1-1.5 hours) - Pick up a free age-appropriate activity booklet (for kids under 6, ages 6-8, or ages 9-12) at the Visitor Center and complete activities while exploring the park, then share answers with a ranger to receive a Junior Ranger badge, patch, and trading card; available at Visitor Center, 5831 Dunker Church Rd, Sharpsburg, MD 21782; 9:00 AM - 5:00 PM daily; free; 301-432-5124 [Source: [NPS Junior Ranger](https://www.nps.gov/anti/learn/kidsyouth/junior-ranger.htm), [Our Kids Family-Friendly](https://our-kids.com/antietam-national-battlefield/)]
 
 ## Also Nearby
 
-- **Harpers Ferry National Historical Park** (3-4 hours for visit) - Explore the historic town where John Brown's famous 1859 raid took place, featuring museums, exhibits, and scenic hiking trails at the confluence of the Potomac and Shenandoah Rivers, with free shuttle service from the Visitor Center to the Lower Historic District; 171 Shoreline Drive, Harpers Ferry, WV 25425 (17 miles south, approximately 20 minutes from Antietam); 9:00 AM - 5:00 PM daily, park open sunrise to sunset, closed Thanksgiving, Christmas, and New Year's Day; entrance fee applies [Source: [NPS Harpers Ferry Hours](https://www.nps.gov/hafe/planyourvisit/hours.htm), [Free Tours by Foot](https://freetoursbyfoot.com/dc-day-trip-antietam-national-battlefield-and-harpers-ferry/), [Yelp Harpers Ferry](https://www.yelp.com/biz/harpers-ferry-national-historical-park-harpers-ferry)]
+- <a id="nearby-harpers-ferry-national-historical-park"></a>**Harpers Ferry National Historical Park** (3-4 hours for visit) - Explore the historic town where John Brown's famous 1859 raid took place, featuring museums, exhibits, and scenic hiking trails at the confluence of the Potomac and Shenandoah Rivers, with free shuttle service from the Visitor Center to the Lower Historic District; 171 Shoreline Drive, Harpers Ferry, WV 25425 (17 miles south, approximately 20 minutes from Antietam); 9:00 AM - 5:00 PM daily, park open sunrise to sunset, closed Thanksgiving, Christmas, and New Year's Day; entrance fee applies [Source: [NPS Harpers Ferry Hours](https://www.nps.gov/hafe/planyourvisit/hours.htm), [Free Tours by Foot](https://freetoursbyfoot.com/dc-day-trip-antietam-national-battlefield-and-harpers-ferry/), [Yelp Harpers Ferry](https://www.yelp.com/biz/harpers-ferry-national-historical-park-harpers-ferry)]
 
-- **Gathland State Park and War Correspondents Memorial** (30-45 minutes) - Visit the world's first monument dedicated to war correspondents, a striking 50-foot-tall arch completed in 1896 by Civil War journalist George Alfred Townsend with over 150 names inscribed, located alongside the Appalachian Trail at Crampton's Gap where a Civil War battle preceded Antietam; 900 Arnoldstown Road, Burkittsville, MD 21718 (approximately 12 miles east of Sharpsburg); park open sunrise to sunset, George Alfred Townsend Museum open weekends 12:00 PM - 5:00 PM, April-October; free admission [Source: [Visit Frederick Gathland](https://www.visitfrederick.org/listing/gathland-state-park/83/), [Maryland DNR](https://dnr.maryland.gov/publiclands/pages/western/gathland.aspx), [Atlas Obscura](https://www.atlasobscura.com/places/war-correspondents-memorial)]
+- <a id="nearby-gathland-state-park-and-war-correspondents-memorial"></a>**Gathland State Park and War Correspondents Memorial** (30-45 minutes) - Visit the world's first monument dedicated to war correspondents, a striking 50-foot-tall arch completed in 1896 by Civil War journalist George Alfred Townsend with over 150 names inscribed, located alongside the Appalachian Trail at Crampton's Gap where a Civil War battle preceded Antietam; 900 Arnoldstown Road, Burkittsville, MD 21718 (approximately 12 miles east of Sharpsburg); park open sunrise to sunset, George Alfred Townsend Museum open weekends 12:00 PM - 5:00 PM, April-October; free admission [Source: [Visit Frederick Gathland](https://www.visitfrederick.org/listing/gathland-state-park/83/), [Maryland DNR](https://dnr.maryland.gov/publiclands/pages/western/gathland.aspx), [Atlas Obscura](https://www.atlasobscura.com/places/war-correspondents-memorial)]
 
-- **Pry House Field Hospital Museum** (45-60 minutes) - Tour the historic house that served as Union General George B. McClellan's headquarters during the Battle of Antietam, with the barn used as a field hospital, now operated by the National Museum of Civil War Medicine to interpret battlefield medical practices; 18906 Shepherdstown Pike, Sharpsburg, MD 21782 (adjacent to battlefield); Saturdays from late May through October, 11:00 AM - 5:00 PM; free admission, donations appreciated; 301-416-2395 [Source: [NPS Pry House](https://www.nps.gov/anti/planyourvisit/pryhouse.htm), [Civil War Medicine Museum Plan](https://www.civilwarmed.org/pry/plan/), [TripAdvisor Pry House](https://www.tripadvisor.com/Attraction_Review-g41210-d571553-Reviews-Pry_House_Field_Hospital_Museum-Keedysville_Maryland.html)]
+- <a id="nearby-pry-house-field-hospital-museum"></a>**Pry House Field Hospital Museum** (45-60 minutes) - Tour the historic house that served as Union General George B. McClellan's headquarters during the Battle of Antietam, with the barn used as a field hospital, now operated by the National Museum of Civil War Medicine to interpret battlefield medical practices; 18906 Shepherdstown Pike, Sharpsburg, MD 21782 (adjacent to battlefield); Saturdays from late May through October, 11:00 AM - 5:00 PM; free admission, donations appreciated; 301-416-2395 [Source: [NPS Pry House](https://www.nps.gov/anti/planyourvisit/pryhouse.htm), [Civil War Medicine Museum Plan](https://www.civilwarmed.org/pry/plan/), [TripAdvisor Pry House](https://www.tripadvisor.com/Attraction_Review-g41210-d571553-Reviews-Pry_House_Field_Hospital_Museum-Keedysville_Maryland.html)]
+
+
+---
+
+# User Data
+
+- [ ] Visited
+
+## Cancellation Stamps
+
+- [x] [Antietam National Battlefield Visitor Center](#stamp-antietam-national-battlefield-visitor-center)(5831 Dunker Church Rd, Sharpsburg, MD 21782)
+
+## Key Activities
+
+- [ ] [Take the Self-Guided Driving Tour](#activity-take-the-self-guided-driving-tour)(2-3 hours)
+- [ ] [Visit the Visitor Center and Watch the Film](#activity-visit-the-visitor-center-and-watch-the-film)(45-60 minutes)
+- [ ] [Hike the Cornfield Trail](#activity-hike-the-cornfield-trail)(30-60 minutes)
+
+## Hidden Gems
+
+- [ ] [Explore the Snavely Ford Trail for Birdwatching](#gem-explore-the-snavely-ford-trail-for-birdwatching)(1 hour)
+- [ ] [Climb the Bloody Lane Observation Tower](#gem-climb-the-bloody-lane-observation-tower)(15-20 minutes)
+- [ ] [Complete the Junior Ranger Program](#gem-complete-the-junior-ranger-program)(1-1.5 hours)
+
+## Also Nearby
+
+- [ ] [Harpers Ferry National Historical Park](#nearby-harpers-ferry-national-historical-park)(3-4 hours, 17 miles/20 minutes)
+- [ ] [Gathland State Park and War Correspondents Memorial](#nearby-gathland-state-park-and-war-correspondents-memorial)(30-45 minutes, 12 miles)
+- [ ] [Pry House Field Hospital Museum](#nearby-pry-house-field-hospital-museum)(45-60 minutes, adjacent to battlefield)
+
+
+
+
+## Amber's Data (from spreadsheet)
+
+### Visitor Center
+
+**Name:** Antietam National Battlefield Visitor Center
+
+**Address:** 5831 Dunker Church Rd., Sharpsburg, Maryland, 21782 (39.459156, -77.741152)
+
+**Hours:** Daily: 9:00 AM-5:00 PM
+
+### Park
+
+**Address:** 5831 Dunker Church Rd., Sharpsburg, Maryland, 21782 (39.459156, -77.741152)
+
+**Hours:** Daily: 9:00 AM-5:00 PM
+
+## Review / Personal Notes
 
 ---
 
 **Total Recommended Time at Antietam NB (National Battlefield):** 3-4 hours minimum for driving tour and visitor center; add 2-3 hours if hiking trails; full day recommended for comprehensive experience. [Source: [TripAdvisor Visitor Reviews](https://www.tripadvisor.com/FAQ_Answers-g60720-d146725-t3187238-How_much_time_should_I_allot_to_visit_this_place.html), [American Battlefield Trust](https://www.battlefields.org/visit/itineraries/tour-antietam-battlefield-one-day)]
+
+

@@ -11,3 +11,20 @@
 ## Hidden Gems:
 
 ## Also Nearby:
+
+
+
+
+---
+
+# User Data
+
+- [x] Visited
+
+## Activities
+
+No activities found. See [Gettysburg NMP.md](Gettysburg NMP.md) for details.
+
+## Amber's Data (from spreadsheet)
+
+## Review / Personal Notes

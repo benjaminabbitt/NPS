@@ -1,13 +1,82 @@
-# Aztec Ruins NM
+---
+geocode:
+  visitor_center: [36.837209, -108.000093]
+---
 
-## Cancellation Stamp Locations:
+# Aztec Ruins NM (National Monument)
 
-- [ ] Aztec Ruins NM Visitor Center (725 Ruins Road, Aztec, New Mexico, 87410; 9:00 AM-5:00 PM)
+## Cancellation Stamp Locations
 
-## Key Activities:
+- <a id="stamp-aztec-ruins-national-monument-visitor-center"></a>**Aztec Ruins National Monument Visitor Center** (725 Ruins Road, Aztec, NM 87410 (36.837209, -108.000093); Open 9:00 AM - 5:00 PM daily, closed Thanksgiving, Christmas, and New Year's Day; 505-334-6174 x0) [Source: [NPS Operating Hours](https://www.nps.gov/azru/planyourvisit/hours.htm), [NPS Visitor Center](https://www.nps.gov/azru/planyourvisit/visitorcenters.htm)]
 
-- [ ] Visitor Center Experience (1-2 hours) - Explore exhibits and learn about Aztec Ruins NM; 725 Ruins Road, Aztec, New Mexico, 87410; 9:00 AM-5:00 PM [[Source](https://www.nps.gov/arn)]
+**Note:** Call to confirm current stamp locations before visiting.
 
-## Hidden Gems:
+## Key Activities
 
-## Also Nearby:
+- <a id="activity-self-guided-walking-trail"></a>**Self-Guided Walking Trail** (45 minutes - 1 hour) - Walk through a 900-year-old ancestral Pueblo Great House with over 400 masonry rooms, exploring well-preserved structures where you can actually walk inside the rooms; approximately half-mile paved trail winding through the West Ruin, Great Kiva, smaller kivas, the West Ruin Plaza, and the Hubbard Tri-Wall Site; 725 Ruins Road, Aztec, NM 87410 (36.837209, -108.000093); 9:00 AM - 5:00 PM daily [Source: [Ramble Around the World](https://ramblearoundtheworld.com/aztec-ruins-national-monument/), [NPS Things to Do](https://www.nps.gov/azru/planyourvisit/things2do.htm), [TripAdvisor](https://www.tripadvisor.com/Attraction_Review-g60728-d102617-Reviews-Aztec_Ruins_National_Monument-Aztec_New_Mexico.html), [American Southwest](https://www.americansouthwest.net/new_mexico/aztec_ruins/national_monument.html)]
+
+- <a id="activity-great-kiva-exploration"></a>**Great Kiva Exploration** (15-20 minutes) - Enter North America's largest reconstructed Great Kiva, an underground ceremonial structure over 40 feet in diameter where ancestral Puebloans held meetings and rituals, giving visitors a unique glimpse into spiritual and community life; 725 Ruins Road, Aztec, NM 87410 (36.837209, -108.000093); 9:00 AM - 5:00 PM daily [Source: [Beyond My Door](https://www.beyondmydoor.com/aztec-ruins-national-monument/), [Ramble Around the World](https://ramblearoundtheworld.com/aztec-ruins-national-monument/), [Farmington](https://farmingtonnm.org/news-media/blog/things-to-do-at-the-aztec-ruins-national-monument)]
+
+- <a id="activity-visitor-center-museum-and-orientation-film"></a>**Visitor Center Museum and Orientation Film** (30-45 minutes) - Explore exhibits about ancestral Puebloan culture and watch "Aztec Ruins: Footprints of the Past," a 15-minute film providing perspective on the site, people, and history; 725 Ruins Road, Aztec, NM 87410 (36.837209, -108.000093); 9:00 AM - 5:00 PM daily [Source: [TripXL](https://tripxl.com/blog/things-to-do-in-aztec-nm/), [Beyond My Door](https://www.beyondmydoor.com/aztec-ruins-national-monument/)]
+
+- <a id="activity-junior-ranger-program"></a>**Junior Ranger Program** (1-2 hours) - Kids can earn a wooden badge by completing activities that teach them about the monument's archaeology, history, and culture; available both in-person at visitor center and online; 725 Ruins Road, Aztec, NM 87410 (36.837209, -108.000093); 9:00 AM - 5:00 PM daily [Source: [NPS Kids & Youth](https://www.nps.gov/azru/learn/kidsyouth/index.htm), [Park Ranger John](https://www.parkrangerjohn.com/aztec-ruins-national-monument/)]
+
+- <a id="activity-ranger-guided-tours"></a>**Ranger-Guided Tours** (30 minutes) - Join free ranger-led tours and lectures held in the Great Kiva covering topics like astronomy, geology, engineering, and traditional American Indian arts; offered May through September at designated times (typically 10:30 AM and 2:30 PM); 725 Ruins Road, Aztec, NM 87410 (36.837209, -108.000093); May - September [Source: [Discovering Hidden Gems](https://discoveringhiddengems.com/aztec-ruins-national-monument/), [Ramble Around the World](https://ramblearoundtheworld.com/aztec-ruins-national-monument/)]
+
+## Hidden Gems
+
+- <a id="gem-heritage-garden"></a>**Heritage Garden** (15-20 minutes) - View traditional crops like corn, beans, squash, sunflowers, and gourds grown by park staff and volunteers, featuring plants that people in the Southwest have relied on for thousands of years; occasionally features ranger-led plant walks during summer months; 725 Ruins Road, Aztec, NM 87410 (36.837209, -108.000093); accessible during park hours [Source: [NPS Heritage Garden](https://www.nps.gov/azru/learn/historyculture/heritage-garden.htm), [Visit Four Corners](https://visitfourcorners.com/aztec-ruins-national-monument/)]
+
+- <a id="gem-trail-to-the-animas-river"></a>**Trail to the Animas River** (30 minutes - 1 hour roundtrip) - Walk from the picnic area to the Animas River (half-mile each way) or extend the walk all the way to Downtown Aztec (1.5 miles each way) on a lesser-known trail portion; 725 Ruins Road, Aztec, NM 87410 (36.837209, -108.000093); accessible during park hours [Source: [Discovering Hidden Gems](https://discoveringhiddengems.com/aztec-ruins-national-monument/)]
+
+- <a id="gem-full-moon-walks"></a>**Full Moon Walks** (1-2 hours) - Experience the monument at night during monthly full moon walks, offering a unique and memorable perspective on the ruins; access to the park after 5:00 PM is only available for special events like these; 725 Ruins Road, Aztec, NM 87410 (36.837209, -108.000093); check calendar for specific dates [Source: [NPS Calendar](https://www.nps.gov/azru/planyourvisit/calendar.htm), [Discovering Hidden Gems](https://discoveringhiddengems.com/aztec-ruins-national-monument/)]
+
+- <a id="gem-audio-tour-via-nps-app"></a>**Audio Tour via NPS App** (45 minutes - 1 hour) - Download the National Park Service app for an excellent audio tour that provides detailed information while following the self-guided trail; free with smartphone and internet access; available throughout the monument; accessible during park hours [Source: [Discovering Hidden Gems](https://discoveringhiddengems.com/aztec-ruins-national-monument/)]
+
+- <a id="gem-summer-evening-lecture-series"></a>**Summer Evening Lecture Series** (1 hour) - Attend evening lectures covering traditional American Indian arts and astronomy during summer months; 725 Ruins Road, Aztec, NM 87410 (36.837209, -108.000093); summer evenings, check calendar for specific dates [Source: [Park Ranger John](https://www.parkrangerjohn.com/aztec-ruins-national-monument/)]
+
+## Also Nearby
+
+- <a id="nearby-salmon-ruins-and-heritage-park"></a>**Salmon Ruins and Heritage Park** (1.5-2.5 hours, 12 miles/20 minutes) - Explore an 11th-century pueblo ruin with museum exhibits, Heritage Park featuring reconstructed dwellings from various time periods, and the preserved Salmon Family Homestead from the 1890s; self-guided trail with trail guides available; 6131 Highway 64, Bloomfield, NM 87413 (approximately 36.663, -107.979); April-October: Monday-Sunday 8:00 AM - 5:00 PM, November-March: Monday-Saturday 8:00 AM - 5:00 PM, Sunday 12:00 PM - 5:00 PM; 505-632-2013 [Source: [Salmon Ruins](https://www.salmonruins.com/), [Yelp](https://www.yelp.com/biz/salmon-ruins-museum-bloomfield), [Farmington](https://farmingtonnm.org/listings/salmon-ruins)]
+
+- <a id="nearby-chaco-culture-national-historical-park"></a>**Chaco Culture National Historical Park** (3-4 hours, 70-76 miles/1.5-2 hours) - Visit this UNESCO World Heritage Site featuring massive ancient pueblos and the center of the Chacoan cultural network that connected to Aztec Ruins; explore multiple great houses and ceremonial structures on backcountry roads (high-clearance vehicle recommended); 1808 County Rd. 7950, Nageezi, NM 87037; Park open 7:00 AM - sunset, Visitor Center open 8:00 AM - 5:00 PM daily, closed Thanksgiving, Christmas, and New Year's Day [Source: [NPS Chaco](https://www.nps.gov/chcu/), [All Distance Between](https://alldistancebetween.com/in/distance-between/chaco-culture-national-historical-park-aztec-ruins-national-monument-747b2679b0af3719f242797a58ea9c2d/), [Farmington](https://farmingtonnm.org/listings/chaco-culture-national-historic-park)]
+
+- <a id="nearby-aztec-museum-pioneer-village"></a>**Aztec Museum & Pioneer Village** (1 hour, 1 mile/5 minutes) - Explore northwest New Mexico history at this museum housed in historic Aztec City Hall and Fire Station buildings, featuring a pioneer village with 14 original and replicated structures from the 1880s including a one-room schoolhouse, caboose, church, doctor's and sheriff's offices; downtown Aztec, NM; May-October 9: Tuesday-Saturday 10:00 AM - 4:00 PM, open for off-season appointments; Adults $5, Youth/Students $3, Age 5 and under free [Source: [Aztec Museum](https://aztecmuseum.org/), [TripAdvisor](https://www.tripadvisor.com/Attraction_Review-g60728-d536241-Reviews-Aztec_Museum_and_Pioneer_Village-Aztec_New_Mexico.html), [Farmington](https://farmingtonnm.org/listings/aztec-museum-pioneer-village)]
+
+- <a id="nearby-navajo-lake-state-park"></a>**Navajo Lake State Park** (Half day to full day, 18 miles/25 minutes) - Enjoy water recreation at New Mexico's second-largest lake with 150 miles of shoreline, featuring world-class fishing (rainbow and brown trout, Kokanee salmon, northern pike, bass, bluegill, catfish), boating, water skiing, kayaking, and camping; the San Juan River has a 4.25-mile catch-and-release Quality Waters section with trout averaging over 17 inches; 1448 NM 511 NBU #6, Navajo Dam, NM 87419; open year-round [Source: [NM State Parks](https://www.emnrd.nm.gov/spd/find-a-park/navajo-lake-state-park/), [Farmington](https://farmingtonnm.org/listings/navajo-lake-state-park-1), [State Parks](https://www.stateparks.com/navajo_lake_state_park_in_new_mexico.html)]
+
+- <a id="nearby-e3-children-s-museum-science-center"></a>**E3 Children's Museum & Science Center** (1-2 hours, 15 miles/15 minutes to Farmington) - Interactive STEM exhibits and hands-on activities for children, featuring bright galleries and Tots' Turf, a dedicated space for ages 5 and under; 302 N Orchard Ave, Farmington, NM 87401 (36.732120513916, -108.2049407959); Tuesday-Friday 10:00 AM - 2:00 PM, Saturday 10:00 AM - 5:00 PM; 505-599-1425 [Source: [City of Farmington](http://www.fmtn.org/254/E3-Childrens-Museum-Science-Center), [Visit Four Corners](https://visitfourcorners.com/farmington-aztec-museums-for-kids/), [Farmington](https://farmingtonnm.org/listings/e3-childrens-museum-science-center)]
+
+
+---
+
+# User Data
+
+- [ ] Visited
+
+## Activities
+
+No activities found. See [Aztec Ruins NM.md](Aztec Ruins NM.md) for details.
+
+## Amber's Data (from spreadsheet)
+
+### Visitor Center
+
+**Name:** Aztec Ruins National Monument Visitor Center
+
+**Address:** 725 Ruins Rd, Aztec, New Mexico, 87410 (36.834586, -108.000214)
+
+**Hours:** Daily: 9:00 AM-5:00 PM
+
+### Park
+
+**Address:** 725 Ruins Road, Aztec, New Mexico, 87410 (36.834586, -108.000214)
+
+**Hours:** Daily: 7:00 AM-5:00 PM
+
+## Review / Personal Notes
+
+---
+
+**Total Recommended Time:** 1-2 hours for a comprehensive visit including the visitor center museum, orientation film, self-guided trail through the ruins and Great Kiva, and Heritage Garden [Source: [Ramble Around the World](https://ramblearoundtheworld.com/aztec-ruins-national-monument/), [TripAdvisor](https://www.tripadvisor.com/Attraction_Review-g60728-d102617-Reviews-Aztec_Ruins_National_Monument-Aztec_New_Mexico.html), [Beyond My Door](https://www.beyondmydoor.com/aztec-ruins-national-monument/)]
+

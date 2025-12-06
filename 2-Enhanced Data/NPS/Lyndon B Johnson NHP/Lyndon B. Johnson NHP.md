@@ -1,0 +1,108 @@
+---
+geocode:
+  visitor_center: [30.237656, -98.626279]
+---
+
+# Lyndon B. Johnson NHP (National Historical Park)
+
+## Cancellation Stamp Locations
+
+- <a id="stamp-visitor-center-and-park-headquarters"></a>**Visitor Center and Park Headquarters** (Intersection of Ladybird Lane and Avenue G, Johnson City, TX 78636 (30.2764, -98.4081); Daily 9:00 AM - 5:00 PM except Thanksgiving, Christmas, and New Year's Day; 830-868-7128) [Source: [NPS Visitor Centers](https://www.nps.gov/lyjo/planyourvisit/visitorcenters.htm), [NPS Basic Info](https://www.nps.gov/lyjo/planyourvisit/basicinfo.htm)]
+
+- <a id="stamp-lbj-state-park-and-historic-site-visitor-center"></a>**LBJ State Park and Historic Site Visitor Center** (199 Park Rd 52, Stonewall, TX 78671 (30.237656, -98.626279); Daily 8:30 AM - 4:00 PM except Thanksgiving, Christmas, and New Year's Day; 830-868-7128) [Source: [NPS Visitor Centers](https://www.nps.gov/lyjo/planyourvisit/visitorcenters.htm), [Texas Parks & Wildlife](https://tpwd.texas.gov/state-parks/lyndon-b-johnson)]
+
+**Note:** Call 830-868-7128 to confirm current stamp locations before visiting. There is no entrance fee to enter Lyndon B. Johnson National Historical Park. [Source: [NPS Basic Info](https://www.nps.gov/lyjo/planyourvisit/basicinfo.htm)]
+
+## Key Activities
+
+- <a id="activity-lbj-boyhood-home-guided-tour"></a>**LBJ Boyhood Home Guided Tour** (30-45 minutes) - Explore the 1880s Victorian house where Lyndon Johnson lived with his parents from age five; guided tours offered every half hour; 9th Street, Johnson City, TX 78636; Tours 9:00 AM - 4:30 PM [Source: [TripAdvisor](https://www.tripadvisor.com/Attraction_Review-g60892-d196339-Reviews-Lyndon_B_Johnson_Boyhood_Home-Johnson_City_Texas.html), [Austin Texas](https://www.austintexas.org/listings/lyndon-baines-johnson-national-historical-park/4506/)]
+
+- <a id="activity-lbj-ranch-self-guided-driving-tour"></a>**LBJ Ranch Self-Guided Driving Tour** (1.5-2 hours) - Drive the 9.3-mile loop through the Texas White House grounds, LBJ's birthplace, the one-room Junction School, and Johnson family cemetery where LBJ and Lady Bird are buried; obtain free permit at LBJ State Park Visitor Center; 199 Park Rd 52, Stonewall, TX 78671; Daily 9:00 AM - 5:30 PM (last permit at 4:15 PM) [Source: [NPS Visit LBJ Ranch](https://www.nps.gov/lyjo/planyourvisit/visitlbjranch.htm), [AllTrails](https://www.alltrails.com/trail/us/texas/lbj-ranch-driving-tour), [TripAdvisor](https://www.tripadvisor.com/Attraction_Review-g56716-d145385-Reviews-Lyndon_B_Johnson_State_Park_Historic_Site-Stonewall_Texas.html)]
+
+- <a id="activity-johnson-settlement-trail"></a>**Johnson Settlement Trail** (45 minutes - 1 hour) - Walk a leisurely one-mile loop trail to visit the 1860s-1870s homestead of LBJ's grandparents, Sam Ealy Johnson Sr. and Tom Johnson, featuring historic stone barns, furnished dogtrot house, smokehouse, windmill, and views of longhorn cattle; Visitor Center trailhead, Johnson City, TX; Dawn to dusk daily [Source: [NPS Johnson Settlement](https://www.nps.gov/lyjo/planyourvisit/visitjohnsonsettlement.htm), [NPS Trailhead](https://www.nps.gov/places/000/johnson-settlement-trailhead.htm), [TripAdvisor](https://www.tripadvisor.com/ShowUserReviews-g60892-d1167042-r620892100-Lyndon_B_Johnson_National_Historical_Park-Johnson_City_Texas.html)]
+
+- <a id="activity-visitor-center-exhibits-and-films"></a>**Visitor Center Exhibits and Films** (1-2 hours) - View permanent exhibits featuring LBJ's campaign memorabilia, gifts, ranch branding irons, and Lady Bird Johnson's crimson suit and White House china; watch two 30-minute video presentations about the Johnson Administration and Lady Bird's achievements; Intersection of Ladybird Lane and Avenue G, Johnson City, TX; Daily 9:00 AM - 5:00 PM [Source: [NPS Visitor Centers](https://www.nps.gov/lyjo/planyourvisit/visitorcenters.htm), [NPS Main Page](https://www.nps.gov/lyjo)]
+
+- <a id="activity-sauer-beckmann-living-history-farm"></a>**Sauer-Beckmann Living History Farm** (1-2 hours) - Explore a preserved 1918 Hill Country farm with rangers working as living historians cooking period-appropriate meals, blacksmithing, and seamstress demonstrations; walk 1.2 miles of trails past bison, longhorns, wildflowers, and historic cabins; 501 State Park Road 52, Stonewall, TX 78671; October-May 10:00 AM - 4:00 PM, June-September 9:00 AM - 3:00 PM (closed Thanksgiving, Christmas, New Year's Day, and last Tuesday of each month); 830-644-2252 [Source: [Texas Parks & Wildlife](https://tpwd.texas.gov/state-parks/lyndon-b-johnson/sauer-beckmann-farm), [Visit Fredericksburg](https://www.visitfredericksburgtx.com/directory/sauer-beckmann-living-history-farm-at-lyndon-b-johnson-state-park-and-historic-site/), [Backroads Texas](https://www.backroadstexas.net/hye/sauer-beckmann-living-history-farm/)]
+
+## Hidden Gems
+
+- <a id="gem-dark-sky-stargazing"></a>**Dark Sky Stargazing** (2-3 hours) - Experience exceptional night sky viewing at this International Dark Sky Park, an often-overlooked opportunity for astronomy enthusiasts; LBJ Ranch District, near Stonewall, TX; After sunset to 10:00 PM [Source: [Wander Filled Life](https://wanderfilledlife.com/lyndon-b-johnson-national-historical-park/), [WNPA](https://wnpa.org/explore-parks/lyndon-b-johnson)]
+
+- <a id="gem-presidential-phone-calls-film"></a>**Presidential Phone Calls Film** (14 minutes) - Watch "The Home of Our Heart" film featuring actual phone conversations between President Johnson and notable figures including Billy Graham and Martin Luther King Jr.; Visitor Center, Johnson City, TX; During visitor center hours [Source: [Wander Filled Life](https://wanderfilledlife.com/lyndon-b-johnson-national-historical-park/)]
+
+- <a id="gem-mr-jellybean-story-at-family-cemetery"></a>**"Mr. Jellybean" Story at Family Cemetery** (15-20 minutes) - Learn the charming story of how local children called President Johnson "Mr. Jellybean" because he loved sharing jelly beans with them; Johnson Family Cemetery on ranch tour; During ranch tour hours [Source: [Wander Filled Life](https://wanderfilledlife.com/lyndon-b-johnson-national-historical-park/)]
+
+- <a id="gem-wildlife-viewing-along-settlement-trail"></a>**Wildlife Viewing Along Settlement Trail** (30 minutes - 1 hour) - Observe bison, longhorns, wildflowers, creeks, and Hill Country wildlife along peaceful trails away from main attractions; Johnson Settlement area and LBJ State Park trails; Dawn to dusk [Source: [Frommers](https://www.frommers.com/trip-ideas/outdoor-adventure/park-of-the-week-lyndon-b-johnson-national-historical-park/), [Texas Parks & Wildlife](https://tpwd.texas.gov/state-parks/lyndon-b-johnson)]
+
+- <a id="gem-aircraft-hangar-display"></a>**Aircraft Hangar Display** (30 minutes) - Get up close to LBJ's JetStar presidential aircraft in the hangar, described by visitors as one of the best stops along the ranch tour; LBJ Ranch (access via permit from State Park Visitor Center); During ranch tour hours [Source: [Wander Filled Life](https://wanderfilledlife.com/lyndon-b-johnson-national-historical-park/)]
+
+## Also Nearby
+
+- <a id="nearby-national-museum-of-the-pacific-war"></a>**National Museum of the Pacific War** (2-6 hours, average 3 hours) - Comprehensive World War II museum dedicated to the Pacific Theater featuring multiple galleries and six-acre campus with outdoor exhibits; 328 E Main St, Fredericksburg, TX 78624; Wednesday-Monday 9:00 AM - 5:00 PM (last ticket 3:30 PM), closed Tuesday, Thanksgiving, Christmas Eve, and Christmas; Adults $24, Seniors $16, Military w/ID $14, Kids 6+/Students w/ID $10, Children 5 and under free; 830-997-8600; 13 miles from Johnson City [Source: [Visit Fredericksburg](https://www.visitfredericksburgtx.com/things-to-do/museums-history/national-museum-of-the-pacific-war/), [Pacific War Museum](https://www.pacificwarmuseum.org/), [TripAdvisor](https://www.tripadvisor.com/Attraction_Review-g55863-d106301-Reviews-National_Museum_of_the_Pacific_War-Fredericksburg_Texas.html)]
+
+- <a id="nearby-pedernales-falls-state-park"></a>**Pedernales Falls State Park** (2-4 hours for hiking/swimming) - Scenic state park featuring a beautiful stretch of the Pedernales River with swimming areas, 20+ miles of trails including the 0.5-mile Twin Falls Nature Trail and 6-mile Wolf Mountain Trail, camping, mountain biking, and wildlife viewing; 2585 Park Road 6026, Johnson City, TX 78636; Gates 8:00 AM - 10:00 PM daily; $6 per person age 13+ [Source: [Texas Parks & Wildlife](https://tpwd.texas.gov/state-parks/pedernales-falls), [Stay on Era](https://stayonera.com/travel-to-wimberley/pedernales-falls-state-park-tx/), [Parks Guidance](https://parksguidance.com/pedernales-falls-state-park-guide/)]
+
+- <a id="nearby-enchanted-rock-state-natural-area"></a>**Enchanted Rock State Natural Area** (2-4 hours) - Iconic pink granite dome with nearly 11 miles of hiking trails including the popular 1.5-mile round-trip Summit Trail with 425-foot elevation gain; 16710 Ranch Rd 965, Fredericksburg, TX 78624; Gates 6:30 AM - 10:00 PM, trails open half hour before sunrise to half hour after sunset (Loop Trail open until 10:00 PM); Reservations required on weekends, holidays, and school breaks; 830-685-3636; 30 miles from Johnson City [Source: [Texas Parks & Wildlife](https://tpwd.texas.gov/state-parks/enchanted-rock), [Visit Fredericksburg](https://www.visitfredericksburgtx.com/things-to-do/outdoors/enchanted-rock/), [Stay on Era](https://stayonera.com/travel-to-fredericksburg/enchanted-rock-state-natural-area/)]
+
+- <a id="nearby-becker-vineyards"></a>**Becker Vineyards** (1-2 hours) - Award-winning winery offering wine tasting, tours, and events in beautiful Texas Hill Country setting; 464 Becker Farms Rd, Fredericksburg, TX 78624; Monday-Thursday 10:00 AM - 5:00 PM, Friday-Saturday 10:00 AM - 6:00 PM, Sunday 11:00 AM - 6:00 PM (closed New Year's Day, Easter, Thanksgiving, Christmas Eve, and Christmas); 830-644-2681; Between Fredericksburg and Stonewall [Source: [Becker Vineyards](https://www.beckervineyards.com/), [Visit Fredericksburg](https://www.visitfredericksburgtx.com/listing/becker-vineyards/500/), [Yelp](https://www.yelp.com/biz/becker-vineyards-fredericksburg-3)]
+
+- <a id="nearby-luckenbach-texas"></a>**Luckenbach Texas** (1-2 hours) - Historic unincorporated town famous for live country music, general store, and dance hall immortalized in Waylon Jennings' song; 412 Luckenbach Town Loop, Fredericksburg, TX 78624; Monday-Wednesday 9:00 AM - 9:00 PM, Thursday-Saturday 9:00 AM - 10:00 PM, Sunday 9:00 AM - 9:00 PM; 13 miles from LBJ Ranch [Source: [Luckenbach Texas](https://www.luckenbachtexas.com/), [TripAdvisor](https://www.tripadvisor.com/Attraction_Review-g56209-d1574245-Reviews-Luckenbach_Texas-Luckenbach_Texas.html), [Yelp](https://www.yelp.com/biz/luckenbach-texas-fredericksburg)]
+
+
+---
+
+# User Data
+
+- [ ] Visited
+
+## Cancellation Stamps
+
+- [ ] [Visitor Center and Park Headquarters](#stamp-visitor-center-and-park-headquarters)(Intersection of Ladybird Lane and Avenue G, Johnson City, TX 78636)
+- [ ] [LBJ State Park and Historic Site Visitor Center](#stamp-lbj-state-park-and-historic-site-visitor-center)(199 Park Rd 52, Stonewall, TX 78671)
+
+## Key Activities
+
+- [ ] [LBJ Boyhood Home Guided Tour](#activity-lbj-boyhood-home-guided-tour)(30-45 minutes)
+- [ ] [LBJ Ranch Self-Guided Driving Tour](#activity-lbj-ranch-self-guided-driving-tour)(1.5-2 hours)
+- [ ] [Johnson Settlement Trail](#activity-johnson-settlement-trail)(45 minutes - 1 hour)
+- [ ] [Visitor Center Exhibits and Films](#activity-visitor-center-exhibits-and-films)(1-2 hours)
+- [ ] [Sauer-Beckmann Living History Farm](#activity-sauer-beckmann-living-history-farm)(1-2 hours)
+
+## Hidden Gems
+
+- [ ] [Dark Sky Stargazing](#gem-dark-sky-stargazing)(2-3 hours)
+- [ ] [Presidential Phone Calls Film](#gem-presidential-phone-calls-film)(14 minutes)
+- [ ] ["Mr. Jellybean" Story at Family Cemetery](#gem-mr-jellybean-story-at-family-cemetery)(15-20 minutes)
+- [ ] [Wildlife Viewing Along Settlement Trail](#gem-wildlife-viewing-along-settlement-trail)(30 minutes - 1 hour)
+- [ ] [Aircraft Hangar Display](#gem-aircraft-hangar-display)(30 minutes)
+
+## Also Nearby
+
+- [ ] [National Museum of the Pacific War](#nearby-national-museum-of-the-pacific-war)(2-6 hours, 13 miles from Johnson City)
+- [ ] [Pedernales Falls State Park](#nearby-pedernales-falls-state-park)(2-4 hours, Johnson City)
+- [ ] [Enchanted Rock State Natural Area](#nearby-enchanted-rock-state-natural-area)(2-4 hours, 30 miles from Johnson City)
+- [ ] [Becker Vineyards](#nearby-becker-vineyards)(1-2 hours, between Fredericksburg and Stonewall)
+- [ ] [Luckenbach Texas](#nearby-luckenbach-texas)(1-2 hours, 13 miles from LBJ Ranch)
+
+## Amber's Data (from spreadsheet)
+
+### Visitor Center
+
+**Name:** Visitor Center and Park Headquarters
+
+**Address:** 100 Ladybird Lane, Johnson City, Texas, 78636 (30.274855, -98.40905)
+
+**Hours:** Daily: 9:00 AM-5:00 PM
+
+### Park
+
+**Address:** 100 Ladybird Lane, Johnson City, Texas, 78636 (30.274855, -98.40905)
+
+**Hours:** Daily: 9:00 AM-5:00 PM
+
+## Review / Personal Notes
+
+---
+
+**Total Recommended Time:** 6-8 hours to experience the main LBJ National Historical Park sites including the Boyhood Home tour, Ranch driving tour, Johnson Settlement trail, Visitor Center exhibits, and Sauer-Beckmann Living History Farm. A full day allows for a comprehensive visit including hidden gems. [Source: [Austin Texas](https://www.austintexas.org/listings/lyndon-baines-johnson-national-historical-park/4506/), [TripAdvisor](https://www.tripadvisor.com/Attraction_Review-g60892-d1167042-Reviews-Lyndon_B_Johnson_National_Historical_Park-Johnson_City_Texas.html)]

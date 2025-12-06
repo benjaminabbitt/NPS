@@ -1,35 +1,92 @@
+---
+geocode:
+  visitor_center: [42.2521246, -71.0032995]
+---
+
 # Adams NHP (National Historical Park)
 
 ## Cancellation Stamp Locations
 
-- **Adams National Historical Park Visitor Center** (1250 Hancock Street, Quincy, MA 02169; Wednesday-Sunday 9:00 AM - 5:00 PM, closed federal holidays; 617-770-1175) [Source: [NPS Visitor Center](https://www.nps.gov/adam/planyourvisit/visitorcenters.htm), [NPS Operating Hours](https://www.nps.gov/adam/planyourvisit/hours.htm)]
+- <a id="stamp-adams-national-historical-park-visitor-center"></a>**Adams National Historical Park Visitor Center** (1250 Hancock Street, Quincy, MA 02169 (42.2521246, -71.0032995); Wednesday-Sunday 9:00 AM - 5:00 PM, closed federal holidays; 617-770-1175) [Source: [NPS Visitor Center](https://www.nps.gov/adam/planyourvisit/visitorcenters.htm), [NPS Operating Hours](https://www.nps.gov/adam/planyourvisit/hours.htm)]
 
 **Note:** Call 617-770-1175 to confirm current stamp locations before visiting. During winter 2025-2026, the Visitor Center is open 11:00 AM - 4:00 PM, Monday through Friday only, with historic homes closed for the season.
 
 ## Key Activities
 
-- **Guided Tour of Peacefield (Old House) and Stone Library** (30 minutes for tour, plus time for grounds exploration) - Take a ranger-led tour through the historic Adams family estate where four generations lived, including the presidential home of John Adams and John Quincy Adams, followed by a visit to the Stone Library containing over 14,000 historic volumes and believed to be the first presidential library; meet at 135 Adams Street, Quincy, MA 02169 (10-minute walk from Visitor Center); tours seasonally (April 19 - November 10), reservations required on day of visit at Visitor Center on first-come, first-served basis; entrance fee $15 per person (children under 16 free); 617-770-1175 [Source: [NPS Guided Tours](https://www.nps.gov/adam/planyourvisit/guidedtours.htm), [Recreation.gov](https://www.recreation.gov/ticket/300003/ticket/1022), [NPS Plan Your Visit](https://www.nps.gov/adam/planyourvisit/index.htm)]
+- <a id="activity-guided-tour-of-peacefield"></a>**Guided Tour of Peacefield (Old House) and Stone Library** (30 minutes for tour, plus time for grounds exploration) - Take a ranger-led tour through the historic Adams family estate where four generations lived, including the presidential home of John Adams and John Quincy Adams, followed by a visit to the Stone Library containing over 14,000 historic volumes and believed to be the first presidential library; meet at 135 Adams Street, Quincy, MA 02169 (10-minute walk from Visitor Center); tours seasonally (April 19 - November 10), reservations required on day of visit at Visitor Center on first-come, first-served basis; entrance fee $15 per person (children under 16 free); 617-770-1175 [Source: [NPS Guided Tours](https://www.nps.gov/adam/planyourvisit/guidedtours.htm), [Recreation.gov](https://www.recreation.gov/ticket/300003/ticket/1022), [NPS Plan Your Visit](https://www.nps.gov/adam/planyourvisit/index.htm)]
 
-- **Watch "Enduring Legacy" Film and Visit Visitor Center** (26 minutes for film, plus browsing time) - View the park's orientation film narrated by Laura Linney, Paul Giamatti, and Tom Hanks, chronicling four generations of the Adams family, and browse the bookstore featuring National Park passes, books, and souvenirs; 1250 Hancock Street, Quincy, MA 02169; Wednesday-Sunday 9:00 AM - 5:00 PM (winter hours: Monday-Friday 11:00 AM - 4:00 PM), closed federal holidays; free admission to Visitor Center; 617-770-1175 [Source: [NPS Visitor Center](https://www.nps.gov/adam/planyourvisit/visitorcenters.htm), [NPPlan Visitor Center](https://npplan.com/parks-by-state/massachusetts-national-parks/adams-national-historical-park-park-at-a-glance/adams-national-historical-park-visitor-center/), [NPS Things To Do](https://www.nps.gov/adam/planyourvisit/things2do.htm)]
+- <a id="activity-watch-enduring-legacy-film-and-visit-visitor-center"></a>**Watch "Enduring Legacy" Film and Visit Visitor Center** (26 minutes for film, plus browsing time) - View the park's orientation film narrated by Laura Linney, Paul Giamatti, and Tom Hanks, chronicling four generations of the Adams family, and browse the bookstore featuring National Park passes, books, and souvenirs; 1250 Hancock Street, Quincy, MA 02169; Wednesday-Sunday 9:00 AM - 5:00 PM (winter hours: Monday-Friday 11:00 AM - 4:00 PM), closed federal holidays; free admission to Visitor Center; 617-770-1175 [Source: [NPS Visitor Center](https://www.nps.gov/adam/planyourvisit/visitorcenters.htm), [NPPlan Visitor Center](https://npplan.com/parks-by-state/massachusetts-national-parks/adams-national-historical-park-park-at-a-glance/adams-national-historical-park-visitor-center/), [NPS Things To Do](https://www.nps.gov/adam/planyourvisit/things2do.htm)]
 
-- **Self-Guided Tour of Adams Farm at Penn's Hill (John and John Quincy Adams Birthplaces)** (30-45 minutes) - Explore the two historic saltbox homes sitting side-by-side where John Adams (born 1735) and his son John Quincy Adams (born 1767) were born, with rangers on duty to answer questions; birthplaces located on Franklin Street, Quincy, MA (accessible via complimentary trolley from Visitor Center); open seasonally May 1 - October 31, Wednesday-Sunday; entrance fee $15 per person (children under 16 free), no reservations needed for self-guided tours; 617-770-1175 [Source: [NPS Self-Guided Tours](https://www.nps.gov/adam/planyourvisit/self-guided.htm), [Recreation.gov Tours](https://www.recreation.gov/ticket/facility/300003), [TripAdvisor](https://www.tripadvisor.com/Attraction_Review-g60710-d267793-Reviews-Adams_National_Historical_Park-Quincy_Massachusetts.html)]
+- <a id="activity-self-guided-tour-of-adams-farm-at-penn-s-hill"></a>**Self-Guided Tour of Adams Farm at Penn's Hill (John and John Quincy Adams Birthplaces)** (30-45 minutes) - Explore the two historic saltbox homes sitting side-by-side where John Adams (born 1735) and his son John Quincy Adams (born 1767) were born, with rangers on duty to answer questions; birthplaces located on Franklin Street, Quincy, MA (accessible via complimentary trolley from Visitor Center); open seasonally May 1 - October 31, Wednesday-Sunday; entrance fee $15 per person (children under 16 free), no reservations needed for self-guided tours; 617-770-1175 [Source: [NPS Self-Guided Tours](https://www.nps.gov/adam/planyourvisit/self-guided.htm), [Recreation.gov Tours](https://www.recreation.gov/ticket/facility/300003), [TripAdvisor](https://www.tripadvisor.com/Attraction_Review-g60710-d267793-Reviews-Adams_National_Historical_Park-Quincy_Massachusetts.html)]
 
 ## Hidden Gems
 
-- **Explore Peacefield Gardens and Grounds** (30-60 minutes) - Wander through beautifully restored 18th-century formal English-style gardens blooming with thousands of annuals and perennials, visit the historic apple orchard with heirloom varieties, and see historic trees planted by John Adams himself including a yellowwood and black walnut; 135 Adams Street, Quincy, MA 02169; grounds open daily sunrise to sunset year-round (house tours seasonal); free to walk grounds; 617-770-1175 [Source: [TravelAwaits Gardens](https://www.travelawaits.com/2563413/adams-national-historical-park/), [Landscape Notes Peacefield](https://landscapenotes.com/2015/06/01/peacefield/), [NPS FAQ](https://www.nps.gov/adam/faqs.htm)]
+- <a id="gem-explore-peacefield-gardens-and-grounds"></a>**Explore Peacefield Gardens and Grounds** (30-60 minutes) - Wander through beautifully restored 18th-century formal English-style gardens blooming with thousands of annuals and perennials, visit the historic apple orchard with heirloom varieties, and see historic trees planted by John Adams himself including a yellowwood and black walnut; 135 Adams Street, Quincy, MA 02169; grounds open daily sunrise to sunset year-round (house tours seasonal); free to walk grounds; 617-770-1175 [Source: [TravelAwaits Gardens](https://www.travelawaits.com/2563413/adams-national-historical-park/), [Landscape Notes Peacefield](https://landscapenotes.com/2015/06/01/peacefield/), [NPS FAQ](https://www.nps.gov/adam/faqs.htm)]
 
-- **Complete the Junior Ranger Program** (1-2 hours during tour) - Pick up a free Junior Ranger activity booklet at the Adams National Historical Park Visitor Center and complete activities while participating in the guided tour experience, then return the completed booklet to the Visitor Center to receive an official Junior Ranger badge and certificate; 1250 Hancock Street, Quincy, MA 02169; Wednesday-Sunday 9:00 AM - 5:00 PM; free; 617-770-1175 [Source: [NPS Junior Ranger](https://home.nps.gov/adam/learn/kidsyouth/junior-ranger.htm), [Park Ranger John](https://www.parkrangerjohn.com/national-park-junior-ranger-program/)]
+- <a id="gem-complete-the-junior-ranger-program"></a>**Complete the Junior Ranger Program** (1-2 hours during tour) - Pick up a free Junior Ranger activity booklet at the Adams National Historical Park Visitor Center and complete activities while participating in the guided tour experience, then return the completed booklet to the Visitor Center to receive an official Junior Ranger badge and certificate; 1250 Hancock Street, Quincy, MA 02169; Wednesday-Sunday 9:00 AM - 5:00 PM; free; 617-770-1175 [Source: [NPS Junior Ranger](https://home.nps.gov/adam/learn/kidsyouth/junior-ranger.htm), [Park Ranger John](https://www.parkrangerjohn.com/national-park-junior-ranger-program/)]
 
-- **Visit Abigail Adams Cairn** (15-20 minutes) - Stand at the memorial commemorating where Abigail Adams and eight-year-old John Quincy Adams climbed Penn's Hill to witness the Battle of Bunker Hill on June 17, 1775, with smoke and flames visible across Boston Harbor; 340 Franklin Street, Quincy, MA 02169; self-guided, open dawn to dusk daily; free admission [Source: [NPS Nearby Attractions](https://www.nps.gov/adam/planyourvisit/nearbyattractions.htm), [The History Mom](https://thehistorymom.com/2024/12/11/adams-national-historical-park-massachusetts/)]
+- <a id="gem-visit-abigail-adams-cairn"></a>**Visit Abigail Adams Cairn** (15-20 minutes) - Stand at the memorial commemorating where Abigail Adams and eight-year-old John Quincy Adams climbed Penn's Hill to witness the Battle of Bunker Hill on June 17, 1775, with smoke and flames visible across Boston Harbor; 340 Franklin Street, Quincy, MA 02169; self-guided, open dawn to dusk daily; free admission [Source: [NPS Nearby Attractions](https://www.nps.gov/adam/planyourvisit/nearbyattractions.htm), [The History Mom](https://thehistorymom.com/2024/12/11/adams-national-historical-park-massachusetts/)]
 
 ## Also Nearby
 
-- **Adams Crypt at United First Parish Church (Church of the Presidents)** (30-45 minutes for tour) - Take a guided tour of this beautiful 1828 granite church housing the crypts of Presidents John Adams and John Quincy Adams and First Ladies Abigail and Louisa Catherine Adams; 1306 Hancock Street, Quincy, MA 02169 (across from Adams National Historical Park Visitor Center); tours Monday-Saturday 11:00 AM - 4:00 PM, Sunday 12:00 PM - 4:00 PM, April 21 - November 11; suggested donation $5 adults, $4 seniors/students, children under 12 free; 617-773-1290 [Source: [United First Parish Church](https://ufpc.org/visitors-program-1), [Discover Quincy Adams Crypt](https://discoverquincy.com/museums___attraction/adams-crypt-at-united-first-parish-church/), [NPS Nearby Attractions](https://www.nps.gov/adam/planyourvisit/nearbyattractions.htm)]
+- <a id="nearby-adams-crypt-at-united-first-parish-church"></a>**Adams Crypt at United First Parish Church (Church of the Presidents)** (30-45 minutes for tour) - Take a guided tour of this beautiful 1828 granite church housing the crypts of Presidents John Adams and John Quincy Adams and First Ladies Abigail and Louisa Catherine Adams; 1306 Hancock Street, Quincy, MA 02169 (across from Adams National Historical Park Visitor Center); tours Monday-Saturday 11:00 AM - 4:00 PM, Sunday 12:00 PM - 4:00 PM, April 21 - November 11; suggested donation $5 adults, $4 seniors/students, children under 12 free; 617-773-1290 [Source: [United First Parish Church](https://ufpc.org/visitors-program-1), [Discover Quincy Adams Crypt](https://discoverquincy.com/museums___attraction/adams-crypt-at-united-first-parish-church/), [NPS Nearby Attractions](https://www.nps.gov/adam/planyourvisit/nearbyattractions.htm)]
 
-- **USS Salem & United States Naval Shipbuilding Museum** (1.5-2 hours) - Tour the world's only preserved Heavy Cruiser, a Cold War-era naval vessel berthed at her home port in the former Fore River Shipyard, with both self-guided and guided tours available exploring Quincy's proud shipbuilding history; 549 South Street, Pier 3, Quincy, MA 02169 (approximately 2 miles from Adams NHP); Saturday-Sunday 10:00 AM - 4:00 PM (last admission 3:00 PM), also Fridays in July-August, April 19 - November 23; adults $15, active military/veterans/seniors (65+) $12, children 4-12 $12, children 3 and under free; 617-479-7900 [Source: [USS Salem Visit](https://www.uss-salem.org/visit/), [Discover Quincy USS Salem](https://discoverquincy.com/museum-attraction/united-states-naval-shipbuilding-museum-the-uss-salem/), [TripAdvisor](https://www.tripadvisor.com/Attraction_Review-g60710-d4294139-Reviews-USS_Salem_United_States_Naval_Shipbuilding_Museum-Quincy_Massachusetts.html)]
+- <a id="nearby-uss-salem-united-states-naval-shipbuilding-museum"></a>**USS Salem & United States Naval Shipbuilding Museum** (1.5-2 hours) - Tour the world's only preserved Heavy Cruiser, a Cold War-era naval vessel berthed at her home port in the former Fore River Shipyard, with both self-guided and guided tours available exploring Quincy's proud shipbuilding history; 549 South Street, Pier 3, Quincy, MA 02169 (approximately 2 miles from Adams NHP); Saturday-Sunday 10:00 AM - 4:00 PM (last admission 3:00 PM), also Fridays in July-August, April 19 - November 23; adults $15, active military/veterans/seniors (65+) $12, children 4-12 $12, children 3 and under free; 617-479-7900 [Source: [USS Salem Visit](https://www.uss-salem.org/visit/), [Discover Quincy USS Salem](https://discoverquincy.com/museum-attraction/united-states-naval-shipbuilding-museum-the-uss-salem/), [TripAdvisor](https://www.tripadvisor.com/Attraction_Review-g60710-d4294139-Reviews-USS_Salem_United_States_Naval_Shipbuilding_Museum-Quincy_Massachusetts.html)]
 
-- **Wollaston Beach** (1-2 hours for walk/beach activities) - Enjoy the largest public beach in Boston Harbor with roughly 2.3 miles of shoreline featuring a full-length promenade popular for walking, jogging, dog walking, and cycling, plus fishing at the southern end, yacht clubs, and nearby restaurants and ice cream shops; located parallel to Quincy Shore Drive, North Quincy, MA (approximately 2 miles from Adams NHP); open daily dawn to dusk; free; abundant free parking [Source: [Wollaston Beach TripAdvisor](https://www.tripadvisor.com/Attraction_Review-g60710-d12643834-Reviews-Wollaston_Beach-Quincy_Massachusetts.html), [Discover Quincy Wollaston](https://discoverquincy.com/sports_and_rec/quincy-shores-reservation-wollaston-beach/), [Boston Central](https://www.bostoncentral.com/activities/wollaston_beach/p1951.php)]
+- <a id="nearby-wollaston-beach"></a>**Wollaston Beach** (1-2 hours for walk/beach activities) - Enjoy the largest public beach in Boston Harbor with roughly 2.3 miles of shoreline featuring a full-length promenade popular for walking, jogging, dog walking, and cycling, plus fishing at the southern end, yacht clubs, and nearby restaurants and ice cream shops; located parallel to Quincy Shore Drive, North Quincy, MA (approximately 2 miles from Adams NHP); open daily dawn to dusk; free; abundant free parking [Source: [Wollaston Beach TripAdvisor](https://www.tripadvisor.com/Attraction_Review-g60710-d12643834-Reviews-Wollaston_Beach-Quincy_Massachusetts.html), [Discover Quincy Wollaston](https://discoverquincy.com/sports_and_rec/quincy-shores-reservation-wollaston-beach/), [Boston Central](https://www.bostoncentral.com/activities/wollaston_beach/p1951.php)]
+
+
+---
+
+# User Data
+
+- [ ] Visited
+
+## Cancellation Stamps
+
+- [x] [Adams National Historical Park Visitor Center](#stamp-adams-national-historical-park-visitor-center)(1250 Hancock Street, Quincy, MA 02169)
+
+## Key Activities
+
+- [ ] [Guided Tour of Peacefield](#activity-guided-tour-of-peacefield)(Old House) and Stone Library (30 minutes for tour, plus grounds time)
+- [ ] [Watch "Enduring Legacy" Film and Visit Visitor Center](#activity-watch-enduring-legacy-film-and-visit-visitor-center)(26 minutes for film, plus browsing)
+- [ ] [Self-Guided Tour of Adams Farm at Penn's Hill](#activity-self-guided-tour-of-adams-farm-at-penn-s-hill)(Birthplaces) (30-45 minutes)
+
+## Hidden Gems
+
+- [ ] [Explore Peacefield Gardens and Grounds](#gem-explore-peacefield-gardens-and-grounds)(30-60 minutes)
+- [ ] [Complete the Junior Ranger Program](#gem-complete-the-junior-ranger-program)(1-2 hours during tour)
+- [ ] [Visit Abigail Adams Cairn](#gem-visit-abigail-adams-cairn)(15-20 minutes)
+
+## Also Nearby
+
+- [ ] [Adams Crypt at United First Parish Church](#nearby-adams-crypt-at-united-first-parish-church)(30-45 minutes, across from Visitor Center)
+- [ ] [USS Salem & United States Naval Shipbuilding Museum](#nearby-uss-salem-united-states-naval-shipbuilding-museum)(1.5-2 hours, 2 miles)
+- [ ] [Wollaston Beach](#nearby-wollaston-beach)(1-2 hours, 2 miles)
+
+
+
+
+## Amber's Data (from spreadsheet)
+
+### Visitor Center
+
+**Name:** Adams National Historical Park Visitor Center
+
+**Address:** 1250 Hancock St, Quincy, Massachusetts, 02169 (42.251757, -71.003397)
+
+**Hours:** Sun: 9:00 AM-5:00 PM; Mon-Tue: Closed; Wed-Sat: 9:00 AM-5:00 PM
+
+### Park
+
+**Address:** 141 Franklin Street, Quincy, Massachusetts, 02169 (42.233524, -70.997587)
+
+**Hours:** Sun: 9:00 AM-5:00 PM; Mon-Tue: Closed; Wed-Sat: 9:00 AM-5:00 PM
+
+## Review / Personal Notes
 
 ---
 
 **Total Recommended Time at Adams NHP (National Historical Park):** 2.5-3 hours for a complete tour including Visitor Center film, guided tour of Peacefield and Stone Library, and self-guided tour of the birthplaces (trolley transportation included); plan 3-4 hours if walking between sites or exploring gardens extensively. [Source: [Visit Massachusetts](https://www.visitma.com/business/106/), [Discover Quincy](https://discoverquincy.com/visitors/adams-national-historical-park-visitors-center/), [TripAdvisor Reviews](https://www.tripadvisor.com/Attraction_Review-g60710-d267793-Reviews-Adams_National_Historical_Park-Quincy_Massachusetts.html)]
+
+

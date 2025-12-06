@@ -1,0 +1,89 @@
+---
+geocode:
+  visitor_center: [39.037959, -95.676382]
+---
+
+# Brown v. Board of Education NHS (National Historic Site)
+
+**Note:** This site was redesignated from National Historic Site to National Historical Park on May 13, 2022.
+
+## Cancellation Stamp Locations
+
+- <a id="stamp-monroe-elementary-school-visitor-center"></a>**Monroe Elementary School / Visitor Center** (1515 SE Monroe Street, Topeka, KS 66612 (39.037959, -95.676382); Tuesday-Saturday 9:00 AM - 5:00 PM, closed Sunday-Monday, Thanksgiving, December 25, and January 1; 785-354-4273) [Source: [NPS Operating Hours](https://www.nps.gov/brvb/planyourvisit/hours.htm), [NPS Basic Information](https://www.nps.gov/brvb/planyourvisit/basicinfo.htm), [Yelp](https://www.yelp.com/biz/brown-v-board-of-education-national-historical-park-topeka)]
+
+**Note:** Call 785-354-4273 to confirm current stamp location before visiting. The passport stamp is available at the visitor center inside the historic Monroe Elementary School building.
+
+## Key Activities
+
+- <a id="activity-explore-monroe-elementary-school-galleries"></a>**Explore Monroe Elementary School Galleries** (1-3 hours) - Tour seven different classroom galleries featuring short films and historical installations in "The Road to Brown v Board of Education" and "The Legacy of Brown v. Board of Education" exhibits, walk through the restored Kindergarten Room to its original 1954 appearance, visit the Hall of Courage, and explore temporary exhibits; Monroe Elementary School, 1515 SE Monroe Street, Topeka, KS 66612; Tuesday-Saturday 9:00 AM - 5:00 PM; free admission; 785-354-4273 [Source: [TripAdvisor](https://www.tripadvisor.com/Attraction_Review-g60747-d106182-Reviews-Brown_v_Board_of_Education_National_Historical_Park-Topeka_Kansas.html), [Visit Topeka](https://www.visittopeka.com/things-to-do/the-crossroads-to-freedom/african-american-history/brown-v-board-of-education/), [Park Ranger John](https://www.parkrangerjohn.com/brown-v-board-of-education-national-historic-site/)]
+
+- <a id="activity-watch-race-and-the-american-creed-film"></a>**Watch "Race and the American Creed" Film** (30 minutes) - View the film in the auditorium tracing the history of racism and segregation in America, presented in segments and short stories allowing viewers to watch one segment or all; Monroe Elementary School auditorium, 1515 SE Monroe Street, Topeka, KS 66612; Tuesday-Saturday 9:00 AM - 5:00 PM; free admission; 785-354-4273 [Source: [That Away Dad](https://www.thatawaydad.com/touring-topeka-and-the-brown-v-board-of-education-site/), [Visit Topeka](https://www.visittopeka.com/listing/brown-v-board-of-education-national-historical-park/47/), [Park Ranger John](https://www.parkrangerjohn.com/brown-v-board-of-education-national-historic-site/)]
+
+- <a id="activity-join-a-ranger-led-monroe-school-building-tour"></a>**Join a Ranger-Led Monroe School Building Tour** (30-45 minutes) - Take a guided tour with park rangers who provide historical context and personal perspectives on the case's legacy, offering deeper insights into the Brown v. Board of Education decision and its impact on American society; Monroe Elementary School, 1515 SE Monroe Street, Topeka, KS 66612; Tuesday-Saturday during operating hours (rangers may have meetings Tuesday mornings); free admission; 785-354-4273 [Source: [WNPA](https://wnpa.org/explore-parks/brown-v-board-of-education), [TripAdvisor](https://www.tripadvisor.com/Attraction_Review-g60747-d106182-Reviews-Brown_v_Board_of_Education_National_Historical_Park-Topeka_Kansas.html), [Visit Topeka](https://www.visittopeka.com/listing/brown-v-board-of-education-national-historical-park/47/)]
+
+- <a id="activity-complete-the-junior-ranger-program"></a>**Complete the Junior Ranger Program** (30-60 minutes) - Pick up a free Junior Ranger booklet that guides participants through different areas of the park, complete activities while exploring the exhibits, and return to be sworn in as a Junior Ranger; Monroe Elementary School, 1515 SE Monroe Street, Topeka, KS 66612; Tuesday-Saturday 9:00 AM - 5:00 PM; free; 785-354-4273 [Source: [Park Ranger John](https://www.parkrangerjohn.com/brown-v-board-of-education-national-historic-site/)]
+
+## Hidden Gems
+
+- <a id="gem-explore-the-historic-playground-and-outdoor-spaces"></a>**Explore the Historic Playground and Outdoor Spaces** (15-30 minutes) - Visit the historic playground area and backstop behind Monroe Elementary School, offering a glimpse into the school environment that African American children experienced during segregation; Monroe Elementary School grounds, 1515 SE Monroe Street, Topeka, KS 66612; grounds accessible during daylight hours; free; 785-354-4273 [Source: [RVshare](https://rvshare.com/national-sites/kansas/brown-v-board-of-education-national-historic-site)]
+
+- <a id="gem-discover-the-restored-kindergarten-classroom"></a>**Discover the Restored Kindergarten Classroom** (15 minutes) - Step into the Kindergarten Room meticulously restored to its 1954 appearance, providing an authentic feel for the learning environment at Monroe Elementary during the time of the landmark case; located within Monroe Elementary School, 1515 SE Monroe Street, Topeka, KS 66612; Tuesday-Saturday 9:00 AM - 5:00 PM; free; 785-354-4273 [Source: [Visit Topeka](https://www.visittopeka.com/things-to-do/the-crossroads-to-freedom/african-american-history/brown-v-board-of-education/)]
+
+## Also Nearby
+
+- <a id="nearby-kansas-state-capitol"></a>**Kansas State Capitol** (40 minutes for capitol tour, 4 blocks from Brown v. Board) - Tour one of the most beautiful state capitols featuring the Brown v. Board of Education mural created by artist Michael Young in 2018, take free 40-minute guided capitol tours or dome tours with panoramic city views; 300 W 10th St, Topeka, KS 66612 (39.048611, -95.677778); Capitol open Monday-Friday 8:00 AM - 5:00 PM, Saturday 10:00 AM - 4:00 PM, closed Sunday; Capitol tours hourly Monday-Friday 9:00 AM - 3:00 PM, Saturday 10:00 AM - 3:00 PM; free admission; 785-296-3966 [Source: [Kansas Capitol Plan Visit](https://www.kansashistory.gov/p/kansas-state-capitol-plan-your-visit/18649), [Visit Topeka Capitol](https://www.visittopeka.com/listing/kansas-state-capitol/100/), [Yelp Kansas Capitol](https://www.yelp.com/biz/kansas-state-capitol-topeka), [Kansas Capitol Brown v. Board Mural](https://www.kansashistory.gov/p/kansas-state-capitol-online-tour-brown-v-board-mural/20230)]
+
+- <a id="nearby-kansas-museum-of-history"></a>**Kansas Museum of History** (1-2 hours, approximately 5 miles west) - Journey chronologically through Kansas history from prehistoric times to present day on an 80-acre parcel near the Potawatomi Mission, featuring extensive exhibits on agriculture, prairie life, and Kansas's role in American history; 6425 SW 6th Ave, Topeka, KS 66615 (39.034722, -95.756944); Tuesday-Saturday 9:00 AM - 5:00 PM, Sunday 1:00 PM - 5:00 PM, closed Monday; adults $8, seniors/military $7, students $6, children 5 and under free; 785-272-8681 [Source: [Kansas Museum](https://www.kansashistory.gov/p/kansas-museum-of-history/19578), [Visit Topeka Museum](https://www.visittopeka.com/listing/kansas-museum-of-history/106/), [Yelp Museum](https://www.yelp.com/biz/kansas-museum-of-history-topeka-2), [TripAdvisor Museum](https://www.tripadvisor.com/Attraction_Review-g60747-d286464-Reviews-Kansas_Museum_of_History-Topeka_Kansas.html)]
+
+- <a id="nearby-topeka-zoo-conservation-center"></a>**Topeka Zoo & Conservation Center** (2-3 hours, approximately 2 miles) - Visit nearly 400 animals from all over the world in this community zoo located in Gage Park, featuring a 1908 vintage carousel and mile-long mini-train ride in the surrounding park; 635 SW Gage Blvd, Topeka, KS 66606 (39.023056, -95.702500); 9:00 AM - 5:00 PM daily; adults $5.75, seniors 65+ $4.75, children 3-12 $4.25, children 2 and under free; 785-368-9180 [Source: [Topeka Zoo Visit](https://topekazoo.org/visit-the-topeka-zoo/), [Visit Topeka Zoo](https://www.visittopeka.com/listing/topeka-zoo-and-conservation-center/1/)]
+
+
+---
+
+# User Data
+
+- [ ] Visited
+
+## Cancellation Stamps
+
+- [ ] [Monroe Elementary School / Visitor Center](#stamp-monroe-elementary-school-visitor-center)(1515 SE Monroe Street, Topeka, KS 66612) (39.0379549, -95.6764888)
+
+## Key Activities
+
+- [ ] [Explore Monroe Elementary School Galleries](#activity-explore-monroe-elementary-school-galleries)(1-3 hours)
+- [ ] [Watch "Race and the American Creed" Film](#activity-watch-race-and-the-american-creed-film)(30 minutes)
+- [ ] [Join a Ranger-Led Monroe School Building Tour](#activity-join-a-ranger-led-monroe-school-building-tour)(30-45 minutes)
+- [ ] [Complete the Junior Ranger Program](#activity-complete-the-junior-ranger-program)(30-60 minutes)
+
+## Hidden Gems
+
+- [ ] [Explore the Historic Playground and Outdoor Spaces](#gem-explore-the-historic-playground-and-outdoor-spaces)(15-30 minutes)
+- [ ] [Discover the Restored Kindergarten Classroom](#gem-discover-the-restored-kindergarten-classroom)(15 minutes)
+
+## Also Nearby
+
+- [ ] [Kansas State Capitol](#nearby-kansas-state-capitol)(40 minutes, 4 blocks)
+- [ ] [Kansas Museum of History](#nearby-kansas-museum-of-history)(1-2 hours, 5 miles)
+- [ ] [Topeka Zoo & Conservation Center](#nearby-topeka-zoo-conservation-center)(2-3 hours, 2 miles)
+
+## Amber's Data (from spreadsheet)
+
+### Visitor Center
+
+**Name:** Brown v. Board of Education NHS
+
+**Address:** 1515 SE Monroe Street, Topeka, Kansas, 66612 (39.037955, -95.676489)
+
+**Hours:** Sun-Mon: Closed; Tue-Sat: 9:00 AM-5:00 PM
+
+### Park
+
+**Address:** 1515 SE Monroe Street, Topeka, Kansas, 66612 (39.037955, -95.676489)
+
+**Hours:** Sun-Mon: Closed; Tue-Sat: 9:00 AM-5:00 PM
+
+## Review / Personal Notes
+
+---
+
+**Total Recommended Time at Brown v. Board of Education NHS (National Historic Site):** 1-3 hours minimum to tour all galleries, watch film segments, and explore exhibits; visitors can spend 30 minutes for a quick visit or several hours (half day) watching each video in each classroom and reading all interpretive panels for a comprehensive experience. [Source: [Park Ranger John](https://www.parkrangerjohn.com/brown-v-board-of-education-national-historic-site/), [AAA](https://www.aaa.com/travelinfo/ks/topeka/attractions/Brown-v-Board-of-Education-National-Historic-Site-543304.html), [Visit Topeka](https://www.visittopeka.com/listing/brown-v-board-of-education-national-historical-park/47/)]

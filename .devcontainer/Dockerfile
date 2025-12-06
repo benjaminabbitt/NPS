@@ -14,7 +14,6 @@ ARG ZSH_IN_DOCKER_VERSION=1.2.0
 ENV DEBIAN_FRONTEND=noninteractive
 ENV GOPATH=/go
 ENV GOROOT=/usr/local/go
-ENV PATH=$GOPATH/bin:$GOROOT/bin:$PATH
 ENV DEVCONTAINER=true
 
 # Create developer user and group
@@ -74,11 +73,12 @@ RUN apt-get update && apt-get install -y \
     fzf \
     man-db \
     python3 \
+    python3-pip \
     pipx \
     screen \
     && rm -rf /var/lib/apt/lists/*
 
-# Configure Python
+# Configure Python and UV
 RUN pipx install uv
 
 # Configure Go
@@ -129,9 +129,25 @@ USER developer
 
 RUN pipx ensurepath && pipx completions
 
-# Set additional environment variables
+# Create Python virtual environment and install OR-Tools using uv
+RUN uv venv /home/developer/.venv && \
+    uv pip install --python /home/developer/.venv/bin/python ortools
+
+# ============================================================================
+# PATH Configuration - Consolidate all PATH settings here
+# ============================================================================
+ENV VIRTUAL_ENV="/home/developer/.venv"
 ENV NPM_CONFIG_PREFIX=/usr/local/share/npm-global
-ENV PATH=$PATH:/usr/local/share/npm-global/bin
+
+# Set PATH with proper precedence (first = highest priority):
+# 1. Python venv binaries
+# 2. User local binaries (pipx, uv, etc.)
+# 3. Go binaries
+# 4. NPM global binaries
+# 5. System PATH
+ENV PATH="/home/developer/.venv/bin:/home/developer/.local/bin:$GOPATH/bin:$GOROOT/bin:/usr/local/share/npm-global/bin:$PATH"
+
+# Set additional environment variables
 ENV SHELL=/bin/zsh
 ENV EDITOR=vim
 ENV VISUAL=vim
@@ -159,11 +175,14 @@ RUN sh -c "$(wget -O- https://github.com/deluan/zsh-in-docker/releases/download/
     -a "export PROMPT_COMMAND='history -a' && export HISTFILE=/commandhistory/.bash_history" \
     -a "export GOROOT=/usr/local/go" \
     -a "export GOPATH=/go" \
-    -a "export PATH=\$GOPATH/bin:\$GOROOT/bin:\$PATH" \
+    -a "export VIRTUAL_ENV=/home/developer/.venv" \
+    -a "export NPM_CONFIG_PREFIX=/usr/local/share/npm-global" \
+    -a "export PATH=\$VIRTUAL_ENV/bin:\$HOME/.local/bin:\$GOPATH/bin:\$GOROOT/bin:\$NPM_CONFIG_PREFIX/bin:\$PATH" \
     -x
 
 # Install Claude Code via npm
 RUN npm install -g @anthropic-ai/claude-code@${CLAUDE_CODE_VERSION}
+RUN npm install -g @google/gemini-cli
 ENV IS_SANDBOX=1
 
 # And we need rust.  Claude, unfortunately, has a substantial bug where the terminal goes wild (uncontrolled scrolling) occasionally.  The only workaround documented is https://zellij.dev/.  That isn't supported under debian's package management, so we need other methods to install.  Cargo looks like the easiest, but that requires Rust.
